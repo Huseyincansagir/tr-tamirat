@@ -306,3 +306,13 @@ Kapsam 27.10.2026'da kullanıcının talebiyle belirlendi: stres, konut, malzeme
 | **Faz 4 sentezi ve güncellenmiş çalışma tezi** | `09_RAPORLAR/22_faz4_sentez.md` | ✅ |
 | Toprak yapı standardı önerisi, pilot uygulama yeri, mikro veri başvuruları | — | ⏳ kullanıcı kararı |
 
+## 13. Faz 5 durum kaydı
+
+| Çıktı | Dosya | Durum |
+|---|---|---|
+| Politika paketi v2: arsa değer vergisi (E1–E5), karma kullanım (P6, O4, M5, I5, R1), semt meclisi (B3, B4); sermaye geliri (S1–S3), asgari ve taban gelir (A1–A3), esnaf ve rekabet (C1–C4), gıda zinciri (Y1–Y2); I3, K2, B1 genişletildi; toplam 52 öneri | `08_MEVZUAT_POLITIKA/degisiklik_paketi_v2.md` | ✅ künyeler mevzuat.gov.tr'den doğrulandı (Anayasa md. 73 dahil); Kent Konseyi Yön. kısmen |
+| Mali etki: arsa değer vergisi geçişi 2029–2033, KDV %20 → %16,8 (bütçe-nötr), yerel kaynak, otopark yükü | `08_MEVZUAT_POLITIKA/politika_v2/politika_v2_mali.py`, 5 CSV, 1 grafik | ✅ Rapor 20 çıktıları birebir korunuyor |
+| Rapor: politika paketi v2 | `09_RAPORLAR/23_politika_paketi_v2.md` | ✅ |
+| Araştırma notu: Rapor 20'nin pakete girmeyen seçenekleri (vergi istisnaları, taban gelirler, sade rejim, giriş kotaları, pazar ve hal, tarımsal planlama); 12 aday öneri | `08_MEVZUAT_POLITIKA/arastirma_diger_secenekler.md` | ✅ 15 kanunda madde doğrulandı; 12 aday kullanıcı kararıyla pakete alındı (S, A, C, Y) |
+| Paydaş simülasyonu v2, deprem pilotları, gece ısısı ve gürültü, izleme paneli | — | ⏳ Faz 5 gündemi (Rapor 22 §3) |
+

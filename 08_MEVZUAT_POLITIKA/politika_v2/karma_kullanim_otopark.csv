@@ -1,0 +1,5 @@
+fiyat,fiyat_tl_m2,karsilama,birim_m2,otopark_yer_birim,tl_yer,yuk_tl_birim,birim_degeri_tl,yuk_birim_degerine_pct,model_mahalle_birim,model_mahalle_yer,model_mahalle_yuk_mn_tl,O4_sonrasi_yuk_tl
+fiyat_tr,42488.0,bedel,70.0,1.4,456000.0,638400.0,3717700.0,17.17,213.0,298.2,135.98,0.0
+fiyat_tr,42488.0,bodrum,70.0,1.4,601128.0,841579.2,3717700.0,22.64,213.0,298.2,179.26,0.0
+fiyat_istanbul,63788.0,bedel,70.0,1.4,456000.0,638400.0,5581450.0,11.44,213.0,298.2,135.98,0.0
+fiyat_istanbul,63788.0,bodrum,70.0,1.4,601128.0,841579.2,5581450.0,15.08,213.0,298.2,179.26,0.0

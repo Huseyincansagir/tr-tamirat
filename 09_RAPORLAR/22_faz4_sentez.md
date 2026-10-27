@@ -100,7 +100,7 @@ Bütün paketler bağımsız olarak yeniden çalıştırıldı; sonuç tablolar�
 4. **Yayın:** Proje GitHub'da açık; Zenodo DOI ve TKGM verisinin yeniden dağıtım koşulları.
 
 ### Analiz gündemi (Faz 5)
-1. **Politika paketi v2:** Rapor 20 seçeneklerinin, Rapor 6 mevzuat paketine işlenmesi (arsa değer vergisi, karma kullanım, semt meclisi).
+1. **Politika paketi v2:** Rapor 20 seçeneklerinin, Rapor 6 mevzuat paketine işlenmesi (arsa değer vergisi, karma kullanım, semt meclisi). → Tamamlandı: [Rapor 23](23_politika_paketi_v2.md) (27.10.2026).
 2. **Paydaş simülasyonu v2:** malik, müteahhit, belediye, genç çift ve esnaf; Rapor 15, 16 ve 20'nin maliyet ve vergi sayılarıyla.
 3. **Deprem pilotları (Antakya, Onikişubat):** yeniden yapımın kademe modeli, enerji ve malzeme önerileriyle karşılaştırılması.
 4. **Gece ısısı ve gürültü:** stres endeksinin eksik iki bileşeni.

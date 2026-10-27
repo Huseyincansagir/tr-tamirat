@@ -9,6 +9,7 @@
 | Politika notları (3 adet) | [politika_notlari/](politika_notlari/) |
 | Özet rapor | [09_RAPORLAR/06_politika_paketi_ozet.md](../09_RAPORLAR/06_politika_paketi_ozet.md) |
 | Kanıt tabanı (Faz 2) | [02_il_paneli_mekanin_payi.md](../09_RAPORLAR/02_il_paneli_mekanin_payi.md) · [03_ilce_paneli_il_ici.md](../09_RAPORLAR/03_ilce_paneli_il_ici.md) |
+| **Sürüm 2 (27.10.2026): +24 öneri** (arsa değer vergisi, karma kullanım, semt meclisi; sermaye geliri, taban gelir, esnaf ve rekabet, gıda zinciri); I3, K2, B1 genişletildi | [degisiklik_paketi_v2.md](degisiklik_paketi_v2.md) |
 
 ---
 

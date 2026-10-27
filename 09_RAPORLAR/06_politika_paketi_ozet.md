@@ -9,6 +9,7 @@
 | Grafikler | [grafik1_kirilma_emsali.png](../08_MEVZUAT_POLITIKA/finansman_modeli/grafik1_kirilma_emsali.png) · [grafik2_telafi_koprusu.png](../08_MEVZUAT_POLITIKA/finansman_modeli/grafik2_telafi_koprusu.png) |
 | Politika notları | [(a) aile ve nüfus etki ölçütleri](../08_MEVZUAT_POLITIKA/politika_notlari/a_aile_nufus_etki_imar_olcutleri.md) · [(b) mahalle yönetişimi](../08_MEVZUAT_POLITIKA/politika_notlari/b_mahalle_yonetisim_birimi.md) · [(c) deprem bölgesinde az katlı yeniden inşa](../08_MEVZUAT_POLITIKA/politika_notlari/c_deprem_bolgesi_az_katli_yeniden_insa.md) |
 | Önceki mevzuat analizi | [08_MEVZUAT_POLITIKA/mevzuat_politika_haritasi.md](../08_MEVZUAT_POLITIKA/mevzuat_politika_haritasi.md) |
+| **Sürüm 2** (arsa değer vergisi, karma kullanım, semt meclisi ve Rapor 20'nin diğer seçenekleri; 52 öneri) | [Rapor 23](23_politika_paketi_v2.md) · [degisiklik_paketi_v2.md](../08_MEVZUAT_POLITIKA/degisiklik_paketi_v2.md) |
 
 ---
 
