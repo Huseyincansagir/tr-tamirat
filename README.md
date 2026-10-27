@@ -62,3 +62,13 @@ Depodaki işlenmiş veriler aşağıdaki kaynaklardan türetildi. Yeniden kullan
 | ACAG V6.GL.03 PM2.5 (Washington Üniversitesi, satpm.org) | CC BY 4.0 |
 | Landsat 8/9 (USGS), MODIS (NASA) | Kamu malı |
 | Microsoft Global ML Building Footprints | ODbL 1.0 (depoya konmadı) |
+
+## Lisans
+
+| Ne | Lisans | Dosya |
+|---|---|---|
+| Kod (`*.py`) | MIT | [LICENSE](LICENSE) |
+| Raporlar, metinler, tablolar, haritalar, grafikler ve teknik çizimler | Creative Commons Atıf 4.0 Uluslararası (CC BY 4.0) | [LICENSE-CC-BY-4.0.txt](LICENSE-CC-BY-4.0.txt) |
+| Üçüncü taraf kaynaklardan türetilen veriler | Kaynağın kendi lisansı (bkz. "Veri kaynakları ve atıf"). OpenStreetMap türevleri ODbL 1.0 ile paylaşılır | — |
+
+Atıf için [CITATION.cff](CITATION.cff): Sağır, H. C. (2026). *TR TAMİRAT — Fıtrata Uygun Şehir Araştırma Programı* (Sürüm 0.3). https://github.com/Huseyincansagir/tr-tamirat

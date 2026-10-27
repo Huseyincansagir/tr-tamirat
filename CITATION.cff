@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Bu çalışmayı kullanırsanız lütfen aşağıdaki bilgilerle atıf yapın."
+title: "TR TAMİRAT — Fıtrata Uygun Şehir Araştırma Programı"
+abstract: >-
+  Türkiye'nin sürdürülebilir, insan fıtratına uygun bir şehir yapısına geçişi için veri, analiz, harita,
+  model mahalle ve politika önerileri. 81 il ve 973 ilçe panelleri, mahalle düzeyinde Fıtrat Uyum Endeksi
+  (erişim ve çevre-ölçek eksenleri, uydu göstergeleri), geleneksel doku morfolojisi ve model mahalle tasarımı.
+type: software
+authors:
+  - given-names: "Hüseyin Can"
+    family-names: "Sağır"
+version: "0.3"
+date-released: "2026-10-27"
+repository-code: "https://github.com/Huseyincansagir/tr-tamirat"
+url: "https://github.com/Huseyincansagir/tr-tamirat"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - kentsel planlama
+  - Türkiye
+  - fıtrat
+  - halk sağlığı
+  - mahalle
+  - yürünebilirlik
+  - uzaktan algılama
