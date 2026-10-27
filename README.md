@@ -45,3 +45,20 @@ Depo boyutunu makul tutmak için aşağıdaki büyük dosyalar yüklenmedi (`.gi
 | `03_VERI/islenmis/uydu/*.tif` (pilot ilçe uydu katmanları, 30 m) | `03_VERI/kod/uydu_pilot.py` (WorldCover, Landsat ve PM2.5'i uzaktan okur) |
 
 **Faz 3 mahalle ve uydu zinciri:** `osm_pilot_mahalle.py` → `tkgm_mahalle.py` → `uydu_pilot.py` → `05_ANALIZ/kod/fue_mahalle.py` → `uydu_ulusal.py` → `fue_ilce_gecerlilik.py` → `fue_grafikler.py`, `04_HARITA/kod/fue_haritalari.py`, `uydu_haritalari.py`.
+
+## Veri kaynakları ve atıf
+
+Depodaki işlenmiş veriler aşağıdaki kaynaklardan türetildi. Yeniden kullanırken kaynaklara atıf yapın.
+
+| Kaynak | Lisans / koşul |
+|---|---|
+| OpenStreetMap (Geofabrik Türkiye çıkarımı) | © OpenStreetMap katkıcıları, ODbL 1.0. OSM'den türetilen tablolar (`osm_*`, `pilot_osm`, mahalle sınırları) aynı lisansla paylaşılır |
+| TÜİK (ADNKS, doğum, ölüm, evlenme-boşanma, MEDAS) | TÜİK, kaynak gösterilerek |
+| TCMB EVDS (konut fiyat ve kira) | TCMB, kaynak gösterilerek |
+| GHSL R2023A (JRC) | CC BY 4.0 |
+| geoBoundaries (ADM1, ADM2) | CC BY 4.0 |
+| TKGM MEGSİS mahalle sınırları | Kamuya açık servis; yeniden dağıtım koşulları belirtilmemiş |
+| ESA WorldCover 2021 | CC BY 4.0 |
+| ACAG V6.GL.03 PM2.5 (Washington Üniversitesi, satpm.org) | CC BY 4.0 |
+| Landsat 8/9 (USGS), MODIS (NASA) | Kamu malı |
+| Microsoft Global ML Building Footprints | ODbL 1.0 (depoya konmadı) |
