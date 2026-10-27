@@ -1,0 +1,36 @@
+kisi,persona,ad,yas,hane,yuruyus_hizi,dis_mekan_tipi,amac,hedef_parametresi,kalis_dk,kalis_kategori,karsilasma_alani,gun_isigi_payi,frekans_A,mod_A,konut_kati_A,asansor_A,frekans_B,mod_B,konut_kati_B,asansor_B,frekans_C,mod_C,konut_kati_C,asansor_C
+P1,Genç bekâr,Emre,27,H1,HIZ_YETISKIN,CALISAN,İşe gidiş (merkez),UZ_MERKEZ_KM,0,,,0.6,1,toplu,7,var,1,toplu,3,yok,1,toplu,2,var
+P1,Genç bekâr,Emre,27,H1,HIZ_YETISKIN,CALISAN,Bakkal-fırın,MES_BAKKAL,8,ev_isi_bakim,DUKKAN,0.4,0.4,yuruyus,7,var,0.7,yuruyus,3,yok,0.7,yuruyus,2,var
+P1,Genç bekâr,Emre,27,H1,HIZ_YETISKIN,CALISAN,Spor salonu,MES_SPOR,60,spor,,0.3,0.43,yuruyus,7,var,0.43,yuruyus,3,yok,0.43,yuruyus,2,var
+P2a,Yeni evli çift,"Zeynep (eş, öğretmen)",26,H2,HIZ_YETISKIN,CALISAN,İşe gidiş (semt),UZ_SEMT_KM,0,,,0.8,1,toplu,7,var,1,toplu,3,yok,1,toplu,1,yok
+P2a,Yeni evli çift,"Zeynep (eş, öğretmen)",26,H2,HIZ_YETISKIN,CALISAN,Pazar / market (eşiyle),MES_MARKET,40,ev_isi_bakim,DUKKAN,0.5,0.3,arac,7,var,0.3,yuruyus,3,yok,0.3,yuruyus,1,yok
+P2a,Yeni evli çift,"Zeynep (eş, öğretmen)",26,H2,HIZ_YETISKIN,CALISAN,Bakkal-fırın,MES_BAKKAL,8,ev_isi_bakim,DUKKAN,0.6,0.3,yuruyus,7,var,0.5,yuruyus,3,yok,0.5,yuruyus,1,yok
+P2b,Yeni evli çift,"Mert (eş, satış)",29,H2,HIZ_YETISKIN,CALISAN,İşe gidiş (merkez),UZ_MERKEZ_KM,0,,,0.6,1,arac,7,var,1,toplu,3,yok,1,toplu,1,yok
+P2b,Yeni evli çift,"Mert (eş, satış)",29,H2,HIZ_YETISKIN,CALISAN,Pazar / market (eşiyle),MES_MARKET,40,ev_isi_bakim,DUKKAN,0.5,0.3,arac,7,var,0.3,yuruyus,3,yok,0.3,yuruyus,1,yok
+P3a,İki çocuklu aile,"Ayşe (anne, yarı zamanlı)",36,H3,HIZ_YETISKIN,BAKIMVEREN,"Anaokulu (küçük çocuk, bırak-al)",MES_ANAOKULU,3,ev_isi_bakim,OKUL,0.9,2,arac,7,var,2,yuruyus,3,yok,2,yuruyus,0,yok
+P3a,İki çocuklu aile,"Ayşe (anne, yarı zamanlı)",36,H3,HIZ_YETISKIN,BAKIMVEREN,Okul eşliği (8 yaş),A:MES_SERVIS_NOKTASI; B:MES_ILKOKUL; C:MES_ILKOKUL,5,ev_isi_bakim,OKUL,0.9,2,yuruyus,7,var,2,yuruyus,3,yok,2,yok,0,yok
+P3a,İki çocuklu aile,"Ayşe (anne, yarı zamanlı)",36,H3,HIZ_YETISKIN,BAKIMVEREN,İşe gidiş (semt),UZ_SEMT_KM,0,,,0.9,1,arac,7,var,1,toplu,3,yok,1,toplu,0,yok
+P3a,İki çocuklu aile,"Ayşe (anne, yarı zamanlı)",36,H3,HIZ_YETISKIN,BAKIMVEREN,Bakkal-fırın,MES_BAKKAL,8,ev_isi_bakim,DUKKAN,0.8,1,arac,7,var,1,yuruyus,3,yok,1,yuruyus,0,yok
+P3a,İki çocuklu aile,"Ayşe (anne, yarı zamanlı)",36,H3,HIZ_YETISKIN,BAKIMVEREN,Pazar / market,MES_MARKET,45,ev_isi_bakim,DUKKAN,0.9,0.3,arac,7,var,0.3,yuruyus,3,yok,0.3,yuruyus,0,yok
+P3b,İki çocuklu aile,"Ahmet (baba, teknisyen)",39,H3,HIZ_YETISKIN,CALISAN,İşe gidiş (merkez),UZ_MERKEZ_KM,0,,,0.6,1,arac,7,var,1,arac,3,yok,1,toplu,0,yok
+P3b,İki çocuklu aile,"Ahmet (baba, teknisyen)",39,H3,HIZ_YETISKIN,CALISAN,Akşam / yatsı cemaati,MES_MESCIT,15,ibadet_cemaat,CAMI,0.2,0.3,yuruyus,7,var,0.3,yuruyus,3,yok,0.3,yuruyus,0,yok
+P3b,İki çocuklu aile,"Ahmet (baba, teknisyen)",39,H3,HIZ_YETISKIN,CALISAN,Bakkal-fırın,MES_BAKKAL,6,ev_isi_bakim,DUKKAN,0.3,0.3,arac,7,var,0.3,yuruyus,3,yok,0.3,yuruyus,0,yok
+P3c,İki çocuklu aile,Elif (8 yaş),8,H3,HIZ_COCUK,COCUK,Okul,MES_ILKOKUL,3,,OKUL,0.9,1,servis,7,var,1,yuruyus,3,yok,1,yuruyus,0,yok
+P3c,İki çocuklu aile,Elif (8 yaş),8,H3,HIZ_COCUK,COCUK,Bakkala tek başına,MES_BAKKAL,5,ev_isi_bakim,DUKKAN,0.9,0.3,yok,7,var,0.3,yok,3,yok,0.3,yuruyus,0,yok
+P4,Çok kuşaklı aile,Fatma (büyükanne),68,H4,HIZ_YASLI_SAGLIKLI,BAKIMVEREN,Bakkal-fırın,MES_BAKKAL,10,ev_isi_bakim,DUKKAN,0.9,0.5,yuruyus,8,var,1,yuruyus,1,yok,1,yuruyus,0,yok
+P4,Çok kuşaklı aile,Fatma (büyükanne),68,H4,HIZ_YASLI_SAGLIKLI,BAKIMVEREN,Pazar,MES_MARKET,45,ev_isi_bakim,DUKKAN,1.0,0.3,toplu,8,var,0.3,yuruyus,1,yok,0.3,yuruyus,0,yok
+P4,Çok kuşaklı aile,Fatma (büyükanne),68,H4,HIZ_YASLI_SAGLIKLI,BAKIMVEREN,Mescitte sohbet / Kur'an kursu,MES_MESCIT,60,ibadet_cemaat,CAMI,1.0,0.3,yuruyus,8,var,0.3,yuruyus,1,yok,0.3,yuruyus,0,yok
+P4,Çok kuşaklı aile,Fatma (büyükanne),68,H4,HIZ_YASLI_SAGLIKLI,BAKIMVEREN,Aile sağlık merkezi,MES_ASM,30,kisisel_bakim_yemek,,1.0,0.1,toplu,8,var,0.1,yuruyus,1,yok,0.1,yuruyus,0,yok
+P5,Yalnız yaşlı,"Hüseyin (76, dul, dizinden rahatsız)",76,H5,HIZ_YASLI_KISITLI,YASLI,Bakkal-fırın,MES_BAKKAL,10,ev_isi_bakim,DUKKAN,0.9,0.5,yuruyus,9,var,1,yuruyus,4,yok,1,yuruyus,0,yok
+P5,Yalnız yaşlı,"Hüseyin (76, dul, dizinden rahatsız)",76,H5,HIZ_YASLI_KISITLI,YASLI,Mescitte cemaat,MES_MESCIT,20,ibadet_cemaat,CAMI,0.6,CEMAAT_VAKIT_YASLI,yuruyus,9,var,CEMAAT_VAKIT_YASLI,yuruyus,4,yok,CEMAAT_VAKIT_YASLI,yuruyus,0,yok
+P5,Yalnız yaşlı,"Hüseyin (76, dul, dizinden rahatsız)",76,H5,HIZ_YASLI_KISITLI,YASLI,Kahvehane / çay bahçesi,MES_KAHVE,KAHVE_DK,sosyal_ziyaret,KAHVE,1.0,1,yuruyus,9,var,1,yuruyus,4,yok,1,yuruyus,0,yok
+P5,Yalnız yaşlı,"Hüseyin (76, dul, dizinden rahatsız)",76,H5,HIZ_YASLI_KISITLI,YASLI,Aile sağlık merkezi,MES_ASM,30,kisisel_bakim_yemek,,1.0,0.15,toplu,9,var,0.15,yuruyus,4,yok,0.15,yuruyus,0,yok
+P6,Engelli birey,"Selin (31, tekerlekli sandalye)",31,H6,HIZ_TEKERLEKLI,TEKERLEKLI,"İşe gidiş (semt, ofis günü)",UZ_SEMT_KM,0,,,0.8,1,arac,4,var,1,taksi,0,yok,1,toplu,0,yok
+P6,Engelli birey,"Selin (31, tekerlekli sandalye)",31,H6,HIZ_TEKERLEKLI,TEKERLEKLI,Bakkal / eczane,MES_BAKKAL,10,ev_isi_bakim,DUKKAN,0.6,0.5,arac,4,var,0.5,yok,0,yok,0.5,yuruyus,0,yok
+P7,Esnaf,"Mehmet usta (52, bakkal)",52,H7,HIZ_YETISKIN,CALISAN,Dükkâna gidiş,UZ_DUKKAN_KM,0,,,0.5,1,arac,6,var,1,yuruyus,2,yok,1,yuruyus,0,yok
+P7,Esnaf,"Mehmet usta (52, bakkal)",52,H7,HIZ_YETISKIN,CALISAN,Öğle yemeğine eve,UZ_DUKKAN_KM,0,,,1.0,0,yok,6,var,1,yuruyus,2,yok,1,yuruyus,0,yok
+P7,Esnaf,"Mehmet usta (52, bakkal)",52,H7,HIZ_YETISKIN,CALISAN,Öğle ve ikindi cemaati (dükkândan),MES_DUKKAN_CAMI,15,ibadet_cemaat,CAMI,1.0,2,yuruyus,6,var,2,yuruyus,2,yok,2,yuruyus,0,yok
+P7,Esnaf,"Mehmet usta (52, bakkal)",52,H7,HIZ_YETISKIN,CALISAN,Akşam / yatsı cemaati (evden),MES_MESCIT,15,ibadet_cemaat,CAMI,0.1,ESNAF_AKSAM_CAMI_FREK,yuruyus,6,var,ESNAF_AKSAM_CAMI_FREK,yuruyus,2,yok,ESNAF_AKSAM_CAMI_FREK,yuruyus,0,yok
+P8,Öğrenci,"Deniz (20, üniversite)",20,H8,HIZ_YETISKIN,CALISAN,Üniversite,UZ_UNIVERSITE_KM,0,,,0.7,1,toplu,7,var,1,toplu,3,yok,1,toplu,1,yok
+P8,Öğrenci,"Deniz (20, üniversite)",20,H8,HIZ_YETISKIN,CALISAN,Mahalle kütüphanesi,MES_KUTUPHANE,120,ucretli_is_okul,,0.3,0,yok,7,var,0,yok,3,yok,1,yuruyus,1,yok
+P8,Öğrenci,"Deniz (20, üniversite)",20,H8,HIZ_YETISKIN,CALISAN,Spor salonu,MES_SPOR,60,spor,,0.3,0.3,yuruyus,7,var,0.3,yuruyus,3,yok,0.3,yuruyus,1,yok

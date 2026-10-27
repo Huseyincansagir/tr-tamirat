@@ -1,0 +1,43 @@
+kod,boyut,ad,deger,puan,eksen,pilot_medyan,kaynak,surum
+kavsak_yog,B1,Kavşak yoğunluğu (/km² yapılı alan),118.33,44.14715719063545,E,132.7433628318584,[H] araç ağı kavşakları/km²; yaya yolları hariç (Faz 2 tanımı),v2_0
+temel15,B1,15 dk'da okul + sağlık + market (%),100.0,89.83333333333333,E,56.51485392820349,"[H] ilkokul ≤500 m %100, ASM ≤500 m %96, dükkân ≤300 m %100 → hepsi ≤1.200 m",v2_0
+yesil300,B2,"≥0,5 ha yeşile 300 m (%)",100.0,99.0,Ç,14.935221452627966,"[H] ≥0,5 ha yeşil ≤200 m ağ %95,8 → ≤300 m kuş uçuşu ≈ %100",v2_0
+yukseklik,B2,Yaşanan bina yüksekliği (m),9.9,39.666666666666664,Ç,8.437640100447707,"[H] konut ağırlıklı kat × 3,1 m (GHSL eşdeğeri)",v2_0
+yuksek_pay,B2,Yüksek binalı hücrede yaşayan (%),0.0,66.83333333333334,Ç,0.0,"[H] 5+ katlı bina yalnız %2,5 konut; hiçbir 100 m hücrede ortalama ≥15 m beklenmez",v2_0
+anayol100,B2,Ana yola 100 m içinde yaşayan (%),5.0,60.0,Ç,9.366107817905714,[V] dış kenardaki 24 m toplayıcı yola bakan sıralar; birincil yol yok,v2_0
+zemin_pay,B3,Az katlı hücrede yaşayan (%),70.13,54.333333333333336,Ç,57.83570960434484,[H] ≤3 katlı binalardaki konut payı,v2_0
+oyun400,B3,Oyun alanına 400 m (%),100.0,100.0,E,0.0,[H] kapı önü oyun alanı ya da cep parkı ≤150 m %100,v2_0
+okul500,B3,İlk/ortaokula 500 m (%),100.0,98.83333333333333,E,28.23529406175117,[H] ilkokul ≤500 m ağ,v2_0
+esnaf1000,B4,Dükkân / 1.000 kişi,30.05085529357374,98.66666666666667,E,0.35508225820215433,[H] zemin kat konut dışı birim / 1.000 kişi,v2_0
+karma150,B4,Dükkân ya da kafeye 150 m (%),60.0,83.0,E,12.950191848457262,[V] dükkân ≤300 m ağ %100; 150 m kuş uçuşu için yaklaşık %60,v2_0
+cami500,B5,Camiye 500 m (%),99.45,89.33333333333333,E,63.82457232497936,[H] ibadet kademesi,v2_0
+bulusma400,B5,Buluşma mekânına 400 m (%),85.0,90.66666666666666,E,2.5219962739685,"[V] meydan-çarşı ≤400 m %74, konak ≤500 m %95, 8 komşuluk yeşili",v2_0
+site_pay,B5,Ad/etiketle kapalı site alanı (% yapılı alan),0.0,61.53846153846153,Ç,0.0,[H] kapalı site yok (Fıtrat Kodu),v2_0
+muhtar_nufus,B5,"Mahalle nüfusu (muhtar başına, ln)",8.84240223575874,48.66666666666667,Ç,8.821437254215873,[H] tek mahalle (muhtarlık),v2_0
+ulasim,B6,Durağa 400 m ya da raylıya 800 m (%),98.75,93.33333333333333,E,6.33037089981886,[H] otobüs durağı ≤300 m ağ,v2_0
+yayilma,B6,Yapılı alan / 1.000 kişi (ha),8.668515950069347,68.66666666666666,Ç,16.34280376606965,[H] 60 ha tümüyle yapılı alan sayılır,v2_0
+rayli800,B6,Raylı istasyona 800 m (%),0.0,36.0,E,0.0,[V] raylı sistem varsayılmadı,v2_0
+FUE,,FUE (özet),,74.52312492258145,,,,v2_0
+E,,E (özet),,82.3813823857302,,,,v2_0
+Ç,,Ç (özet),,62.33814102564102,,,,v2_0
+kavsak_yog,B1,Kavşak yoğunluğu (/km² yapılı alan),118.33,44.14715719063545,E,132.7433628318584,[H] araç ağı kavşakları/km²; yaya yolları hariç (Faz 2 tanımı),v2_1
+temel15,B1,15 dk'da okul + sağlık + market (%),100.0,89.83333333333333,E,56.51485392820349,"[H] ilkokul ≤500 m %100, ASM ≤500 m %96, dükkân ≤300 m %100 → hepsi ≤1.200 m",v2_1
+yesil300,B2,"≥0,5 ha yeşile 300 m (%)",100.0,99.0,Ç,14.935221452627966,"[H] ≥0,5 ha yeşil ≤200 m ağ %95,8 → ≤300 m kuş uçuşu ≈ %100",v2_1
+yukseklik,B2,Yaşanan bina yüksekliği (m),9.6,42.666666666666664,Ç,8.437640100447707,"[H] konut ağırlıklı kat × 3,1 m (GHSL eşdeğeri)",v2_1
+yuksek_pay,B2,Yüksek binalı hücrede yaşayan (%),0.0,66.83333333333334,Ç,0.0,"[H] 5+ katlı bina yalnız %2,5 konut; hiçbir 100 m hücrede ortalama ≥15 m beklenmez",v2_1
+anayol100,B2,Ana yola 100 m içinde yaşayan (%),5.0,60.0,Ç,9.366107817905714,[V] dış kenardaki 24 m toplayıcı yola bakan sıralar; birincil yol yok,v2_1
+zemin_pay,B3,Az katlı hücrede yaşayan (%),70.15,54.333333333333336,Ç,57.83570960434484,[H] ≤3 katlı binalardaki konut payı,v2_1
+oyun400,B3,Oyun alanına 400 m (%),100.0,100.0,E,0.0,[H] kapı önü oyun alanı ya da cep parkı ≤150 m %100,v2_1
+okul500,B3,İlk/ortaokula 500 m (%),100.0,98.83333333333333,E,28.23529406175117,[H] ilkokul ≤500 m ağ,v2_1
+esnaf1000,B4,Dükkân / 1.000 kişi,30.759011090573015,98.66666666666667,E,0.35508225820215433,[H] zemin kat konut dışı birim / 1.000 kişi,v2_1
+karma150,B4,Dükkân ya da kafeye 150 m (%),60.0,83.0,E,12.950191848457262,[V] dükkân ≤300 m ağ %100; 150 m kuş uçuşu için yaklaşık %60,v2_1
+cami500,B5,Camiye 500 m (%),99.45,89.33333333333333,E,63.82457232497936,[H] ibadet kademesi,v2_1
+bulusma400,B5,Buluşma mekânına 400 m (%),85.0,90.66666666666666,E,2.5219962739685,"[V] meydan-çarşı ≤400 m %74, konak ≤500 m %95, 8 komşuluk yeşili",v2_1
+site_pay,B5,Ad/etiketle kapalı site alanı (% yapılı alan),0.0,61.53846153846153,Ç,0.0,[H] kapalı site yok (Fıtrat Kodu),v2_1
+muhtar_nufus,B5,"Mahalle nüfusu (muhtar başına, ln)",8.842864449772053,48.66666666666667,Ç,8.821437254215873,[H] tek mahalle (muhtarlık),v2_1
+ulasim,B6,Durağa 400 m ya da raylıya 800 m (%),98.84,93.66666666666667,E,6.33037089981886,[H] otobüs durağı ≤300 m ağ,v2_1
+yayilma,B6,Yapılı alan / 1.000 kişi (ha),8.664510166358594,69.0,Ç,16.34280376606965,[H] 60 ha tümüyle yapılı alan sayılır,v2_1
+rayli800,B6,Raylı istasyona 800 m (%),0.0,36.0,E,0.0,[V] raylı sistem varsayılmadı,v2_1
+FUE,,FUE (özet),,74.68516195961848,,,,v2_1
+E,,E (özet),,82.41471571906354,,,,v2_1
+Ç,,Ç (özet),,62.75480769230769,,,,v2_1

@@ -1,0 +1,15 @@
+senaryo,kisi,ad,gosterge,A,B,C_temel,C_duyarlilik
+"C-çeper (merkeze 22 km, raylı sistem 32 km/sa, kira 360 TL/m²)",P1,Emre,İşe / okula tek yön (dk),92.8,45.8,46.0,60.0
+"C-çeper (merkeze 22 km, raylı sistem 32 km/sa, kira 360 TL/m²)",P2a,"Zeynep (eş, öğretmen)",İşe / okula tek yön (dk),49.1,22.7,22.2,29.2
+"C-çeper (merkeze 22 km, raylı sistem 32 km/sa, kira 360 TL/m²)",P2b,"Mert (eş, satış)",İşe / okula tek yön (dk),64.4,45.8,45.3,59.2
+"C-çeper (merkeze 22 km, raylı sistem 32 km/sa, kira 360 TL/m²)",P3a,"Ayşe (anne, yarı zamanlı)",İşe / okula tek yön (dk),22.7,22.7,22.2,29.3
+"C-çeper (merkeze 22 km, raylı sistem 32 km/sa, kira 360 TL/m²)",P3b,"Ahmet (baba, teknisyen)",İşe / okula tek yön (dk),64.4,38.2,45.3,59.3
+"C-çeper (merkeze 22 km, raylı sistem 32 km/sa, kira 360 TL/m²)",P6,"Selin (31, tekerlekli sandalye)",İşe / okula tek yön (dk),22.7,15.5,23.5,30.6
+"C-çeper (merkeze 22 km, raylı sistem 32 km/sa, kira 360 TL/m²)",P7,"Mehmet usta (52, bakkal)",İşe / okula tek yön (dk),36.5,2.4,4.7,4.7
+"C-çeper (merkeze 22 km, raylı sistem 32 km/sa, kira 360 TL/m²)",P8,"Deniz (20, üniversite)",İşe / okula tek yön (dk),100.9,51.2,50.7,64.9
+"C-çeper (merkeze 22 km, raylı sistem 32 km/sa, kira 360 TL/m²)",H2,Zeynep ve Mert,Konut + ulaşım (TL/ay),62913.0,41996.0,47636.0,42236.0
+"C-çeper (merkeze 22 km, raylı sistem 32 km/sa, kira 360 TL/m²)",H3,"Ayşe, Ahmet, Elif ve 4 yaşındaki Can",Konut + ulaşım (TL/ay),89419.0,70524.0,60596.0,53396.0
+"C-çeper (merkeze 22 km, raylı sistem 32 km/sa, kira 360 TL/m²)",H8,Deniz ve ailesi,Konut + ulaşım (TL/ay),70712.0,67549.0,57621.0,50421.0
+C'de hane bir araç tutarsa (araç işe kullanılmaz),H2,Zeynep ve Mert,Konut + ulaşım (TL/ay),62913.0,41996.0,47636.0,60697.0
+C'de hane bir araç tutarsa (araç işe kullanılmaz),H3,"Ayşe, Ahmet, Elif ve 4 yaşındaki Can",Konut + ulaşım (TL/ay),89419.0,70524.0,60596.0,73657.0
+C'de hane bir araç tutarsa (araç işe kullanılmaz),H8,Deniz ve ailesi,Konut + ulaşım (TL/ay),70712.0,67549.0,57621.0,70682.0

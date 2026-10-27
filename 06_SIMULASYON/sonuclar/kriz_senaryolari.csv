@@ -1,0 +1,79 @@
+kriz,gosterge,aciklama,kisi,kisi_ad,ortam,birim,yon,medyan,p5,p95
+Deprem,deprem_agir_hasarli_yapida_kisi_10bin,Ağır hasarlı / yıkık yapıda kalan kişi (10.000 sakinde),Ortam,Ortam,A,kişi,düşük iyi,262.661,118.469,495.649
+Deprem,deprem_can_kaybi_10bin,"Beklenen can kaybı (10.000 sakinde, senaryo)",Ortam,Ortam,A,kişi,düşük iyi,10.033,3.612,24.077
+Deprem,deprem_tek_yapida_kisi,Tek yapıda yaşayan kişi (bir göçmede etkilenen),Ortam,Ortam,A,kişi,düşük iyi,148.8,148.8,148.8
+Deprem,deprem_tahliye_dk,Konuttan güvenli toplanma alanına tahliye,P1,Emre,A,dk,düşük iyi,4.269,3.361,5.411
+Deprem,deprem_tahliye_dk,Konuttan güvenli toplanma alanına tahliye,P5,"Hüseyin (76, dul, dizinden rahatsız)",A,dk,düşük iyi,19.051,14.044,25.801
+Deprem,deprem_tahliye_dk,Konuttan güvenli toplanma alanına tahliye,P4,Fatma (büyükanne),A,dk,düşük iyi,16.59,12.254,22.666
+Deprem,deprem_tahliye_dk,Konuttan güvenli toplanma alanına tahliye,P6,"Selin (31, tekerlekli sandalye)",A,dk,düşük iyi,32.679,23.976,44.591
+Deprem,deprem_risk_puani,"Risk rubriği puanı (0-9, varsayım)",Ortam,Ortam,A,puan,düşük iyi,4.0,4.0,4.0
+Deprem,deprem_risk_sinifi,Deprem risk sınıfı (1 düşük – 5 çok yüksek),Ortam,Ortam,A,sınıf,düşük iyi,3.0,3.0,3.0
+Salgın,salgin_zemine_acilan_hane_yuzde,Zemine / avluya doğrudan açılan hane,Ortam,Ortam,A,%,yüksek iyi,8.3,8.3,8.3
+Salgın,salgin_ozel_dis_m2_kisi,Kişi başı özel bahçe / avlu,Ortam,Ortam,A,m²/kişi,yüksek iyi,0.0,0.0,0.0
+Salgın,salgin_dikey_dolasim_paylasan_hane,Aynı asansör / merdiveni paylaşan hane,Ortam,Ortam,A,hane,düşük iyi,48.0,48.0,48.0
+Salgın,salgin_bakkal_yurume_dk,Bakkala tek yön yürüme (merdiven/asansör dahil),P3a,"Ayşe (anne, yarı zamanlı)",A,dk,düşük iyi,11.916,7.961,16.695
+Salgın,salgin_bakkal_yurume_dk,Bakkala tek yön yürüme (merdiven/asansör dahil),P5,"Hüseyin (76, dul, dizinden rahatsız)",A,dk,düşük iyi,24.044,16.666,33.423
+Salgın,tanidik_karsilasma_gun,Büyükannenin günlük tanıdık komşu teması (yardımlaşma kapasitesi),P4,Fatma (büyükanne),A,kişi/gün,yüksek iyi,15.348,11.69,19.525
+Sıcak dalgası,sicak_agac_ortusu_yuzde,Ağaç örtüsü (başlangıç; C hedefi %30),Ortam,Ortam,A,%,yüksek iyi,20.111,13.347,26.829
+Sıcak dalgası,sicak_serin_siginak_dk,Yalnız yaşlının en yakın serin kamusal yere (mescit) tek yön,P5,"Hüseyin (76, dul, dizinden rahatsız)",A,dk,düşük iyi,19.538,13.589,27.401
+Sıcak dalgası,sicak_yasliya_24sa_temas_olasiligi,Yalnız yaşlının yokluğunun 24 saat içinde bir yakın tanıdıkça fark edilme olasılığı,P5,"Hüseyin (76, dul, dizinden rahatsız)",A,oran,yüksek iyi,0.347,0.179,0.575
+Ekonomik kriz,ekonomi_havza_nufusu_300m,Esnafın 300 m yürüme havzasındaki nüfus,Ortam,Ortam,A,kişi,yüksek iyi,2916.301,2117.048,3848.132
+Deprem,deprem_agir_hasarli_yapida_kisi_10bin,Ağır hasarlı / yıkık yapıda kalan kişi (10.000 sakinde),Ortam,Ortam,B,kişi,düşük iyi,1656.735,886.62,2608.062
+Deprem,deprem_can_kaybi_10bin,"Beklenen can kaybı (10.000 sakinde, senaryo)",Ortam,Ortam,B,kişi,düşük iyi,63.606,25.239,133.133
+Deprem,deprem_tek_yapida_kisi,Tek yapıda yaşayan kişi (bir göçmede etkilenen),Ortam,Ortam,B,kişi,düşük iyi,34.065,31.881,36.154
+Deprem,deprem_tahliye_dk,Konuttan güvenli toplanma alanına tahliye,P1,Emre,B,dk,düşük iyi,7.119,4.973,9.801
+Deprem,deprem_tahliye_dk,Konuttan güvenli toplanma alanına tahliye,P5,"Hüseyin (76, dul, dizinden rahatsız)",B,dk,düşük iyi,16.196,11.982,21.62
+Deprem,deprem_tahliye_dk,Konuttan güvenli toplanma alanına tahliye,P4,Fatma (büyükanne),B,dk,düşük iyi,8.936,6.137,12.206
+Deprem,deprem_tahliye_dk,Konuttan güvenli toplanma alanına tahliye,P6,"Selin (31, tekerlekli sandalye)",B,dk,düşük iyi,27.046,19.566,35.824
+Deprem,deprem_risk_puani,"Risk rubriği puanı (0-9, varsayım)",Ortam,Ortam,B,puan,düşük iyi,7.0,6.0,7.0
+Deprem,deprem_risk_sinifi,Deprem risk sınıfı (1 düşük – 5 çok yüksek),Ortam,Ortam,B,sınıf,düşük iyi,4.0,4.0,4.0
+Salgın,salgin_zemine_acilan_hane_yuzde,Zemine / avluya doğrudan açılan hane,Ortam,Ortam,B,%,yüksek iyi,17.73,15.888,19.333
+Salgın,salgin_ozel_dis_m2_kisi,Kişi başı özel bahçe / avlu,Ortam,Ortam,B,m²/kişi,yüksek iyi,0.0,0.0,0.0
+Salgın,salgin_dikey_dolasim_paylasan_hane,Aynı asansör / merdiveni paylaşan hane,Ortam,Ortam,B,hane,düşük iyi,10.989,10.284,11.662
+Salgın,salgin_bakkal_yurume_dk,Bakkala tek yön yürüme (merdiven/asansör dahil),P3a,"Ayşe (anne, yarı zamanlı)",B,dk,düşük iyi,1.731,1.035,2.655
+Salgın,salgin_bakkal_yurume_dk,Bakkala tek yön yürüme (merdiven/asansör dahil),P5,"Hüseyin (76, dul, dizinden rahatsız)",B,dk,düşük iyi,7.343,5.702,9.47
+Salgın,tanidik_karsilasma_gun,Büyükannenin günlük tanıdık komşu teması (yardımlaşma kapasitesi),P4,Fatma (büyükanne),B,kişi/gün,yüksek iyi,24.793,19.832,30.344
+Sıcak dalgası,sicak_agac_ortusu_yuzde,Ağaç örtüsü (başlangıç; C hedefi %30),Ortam,Ortam,B,%,yüksek iyi,5.49,3.129,8.583
+Sıcak dalgası,sicak_serin_siginak_dk,Yalnız yaşlının en yakın serin kamusal yere (mescit) tek yön,P5,"Hüseyin (76, dul, dizinden rahatsız)",B,dk,düşük iyi,10.125,8.098,12.755
+Sıcak dalgası,sicak_yasliya_24sa_temas_olasiligi,Yalnız yaşlının yokluğunun 24 saat içinde bir yakın tanıdıkça fark edilme olasılığı,P5,"Hüseyin (76, dul, dizinden rahatsız)",B,oran,yüksek iyi,0.721,0.456,0.903
+Ekonomik kriz,ekonomi_havza_nufusu_300m,Esnafın 300 m yürüme havzasındaki nüfus,Ortam,Ortam,B,kişi,yüksek iyi,7844.042,6370.559,9230.678
+Deprem,deprem_agir_hasarli_yapida_kisi_10bin,Ağır hasarlı / yıkık yapıda kalan kişi (10.000 sakinde),Ortam,Ortam,C,kişi,düşük iyi,163.636,65.043,329.298
+Deprem,deprem_can_kaybi_10bin,"Beklenen can kaybı (10.000 sakinde, senaryo)",Ortam,Ortam,C,kişi,düşük iyi,6.321,2.043,16.142
+Deprem,deprem_tek_yapida_kisi,Tek yapıda yaşayan kişi (bir göçmede etkilenen),Ortam,Ortam,C,kişi,düşük iyi,22.48,17.641,28.45
+Deprem,deprem_tahliye_dk,Konuttan güvenli toplanma alanına tahliye,P1,Emre,C,dk,düşük iyi,2.406,1.965,2.857
+Deprem,deprem_tahliye_dk,Konuttan güvenli toplanma alanına tahliye,P5,"Hüseyin (76, dul, dizinden rahatsız)",C,dk,düşük iyi,3.328,2.482,4.365
+Deprem,deprem_tahliye_dk,Konuttan güvenli toplanma alanına tahliye,P4,Fatma (büyükanne),C,dk,düşük iyi,2.315,1.774,2.9
+Deprem,deprem_tahliye_dk,Konuttan güvenli toplanma alanına tahliye,P6,"Selin (31, tekerlekli sandalye)",C,dk,düşük iyi,2.503,1.906,3.144
+Deprem,deprem_risk_puani,"Risk rubriği puanı (0-9, varsayım)",Ortam,Ortam,C,puan,düşük iyi,0.0,0.0,0.0
+Deprem,deprem_risk_sinifi,Deprem risk sınıfı (1 düşük – 5 çok yüksek),Ortam,Ortam,C,sınıf,düşük iyi,1.0,1.0,1.0
+Salgın,salgin_zemine_acilan_hane_yuzde,Zemine / avluya doğrudan açılan hane,Ortam,Ortam,C,%,yüksek iyi,90.044,83.32,96.895
+Salgın,salgin_ozel_dis_m2_kisi,Kişi başı özel bahçe / avlu,Ortam,Ortam,C,m²/kişi,yüksek iyi,10.9,10.9,10.9
+Salgın,salgin_dikey_dolasim_paylasan_hane,Aynı asansör / merdiveni paylaşan hane,Ortam,Ortam,C,hane,düşük iyi,7.251,5.691,9.177
+Salgın,salgin_bakkal_yurume_dk,Bakkala tek yön yürüme (merdiven/asansör dahil),P3a,"Ayşe (anne, yarı zamanlı)",C,dk,düşük iyi,2.667,2.093,3.453
+Salgın,salgin_bakkal_yurume_dk,Bakkala tek yön yürüme (merdiven/asansör dahil),P5,"Hüseyin (76, dul, dizinden rahatsız)",C,dk,düşük iyi,5.082,3.929,6.666
+Salgın,tanidik_karsilasma_gun,Büyükannenin günlük tanıdık komşu teması (yardımlaşma kapasitesi),P4,Fatma (büyükanne),C,kişi/gün,yüksek iyi,41.386,33.488,50.504
+Sıcak dalgası,sicak_agac_ortusu_yuzde,Ağaç örtüsü (başlangıç; C hedefi %30),Ortam,Ortam,C,%,yüksek iyi,15.148,11.778,18.462
+Sıcak dalgası,sicak_serin_siginak_dk,Yalnız yaşlının en yakın serin kamusal yere (mescit) tek yön,P5,"Hüseyin (76, dul, dizinden rahatsız)",C,dk,düşük iyi,3.641,2.815,4.665
+Sıcak dalgası,sicak_yasliya_24sa_temas_olasiligi,Yalnız yaşlının yokluğunun 24 saat içinde bir yakın tanıdıkça fark edilme olasılığı,P5,"Hüseyin (76, dul, dizinden rahatsız)",C,oran,yüksek iyi,0.857,0.6,0.972
+Ekonomik kriz,ekonomi_havza_nufusu_300m,Esnafın 300 m yürüme havzasındaki nüfus,Ortam,Ortam,C,kişi,yüksek iyi,3464.354,3032.238,3997.481
+Ekonomik kriz,ekonomi_yuk_once_yuzde,"Konut + ulaşım / hane geliri, şok öncesi",H3,"Ayşe, Ahmet, Elif ve 4 yaşındaki Can",A,%,düşük iyi,83.355,73.175,93.929
+Ekonomik kriz,ekonomi_yuk_sonra_yuzde,"Konut + ulaşım / hane geliri, şok sonrası (gelir −%20, yakıt +%50)",H3,"Ayşe, Ahmet, Elif ve 4 yaşındaki Can",A,%,düşük iyi,111.154,95.05,128.091
+Ekonomik kriz,ekonomi_yakit_soku_tl_ay,Yakıt şokunun aylık ek maliyeti,H3,"Ayşe, Ahmet, Elif ve 4 yaşındaki Can",A,TL/ay,düşük iyi,5936.548,4001.838,8388.218
+Ekonomik kriz,ekonomi_yuk_once_yuzde,"Konut + ulaşım / hane geliri, şok öncesi",H3,"Ayşe, Ahmet, Elif ve 4 yaşındaki Can",B,%,düşük iyi,64.632,57.521,72.671
+Ekonomik kriz,ekonomi_yuk_sonra_yuzde,"Konut + ulaşım / hane geliri, şok sonrası (gelir −%20, yakıt +%50)",H3,"Ayşe, Ahmet, Elif ve 4 yaşındaki Can",B,%,düşük iyi,83.314,72.164,96.079
+Ekonomik kriz,ekonomi_yakit_soku_tl_ay,Yakıt şokunun aylık ek maliyeti,H3,"Ayşe, Ahmet, Elif ve 4 yaşındaki Can",B,TL/ay,düşük iyi,2001.539,1291.853,2940.57
+Ekonomik kriz,ekonomi_yuk_once_yuzde,"Konut + ulaşım / hane geliri, şok öncesi",H3,"Ayşe, Ahmet, Elif ve 4 yaşındaki Can",C,%,düşük iyi,55.938,48.975,64.38
+Ekonomik kriz,ekonomi_yuk_sonra_yuzde,"Konut + ulaşım / hane geliri, şok sonrası (gelir −%20, yakıt +%50)",H3,"Ayşe, Ahmet, Elif ve 4 yaşındaki Can",C,%,düşük iyi,70.112,59.897,82.384
+Ekonomik kriz,ekonomi_yakit_soku_tl_ay,Yakıt şokunun aylık ek maliyeti,H3,"Ayşe, Ahmet, Elif ve 4 yaşındaki Can",C,TL/ay,düşük iyi,0.0,0.0,0.0
+Ekonomik kriz,ekonomi_yuk_once_yuzde,"Konut + ulaşım / hane geliri, şok öncesi",H2,Zeynep ve Mert,A,%,düşük iyi,50.793,44.608,57.055
+Ekonomik kriz,ekonomi_yuk_sonra_yuzde,"Konut + ulaşım / hane geliri, şok sonrası (gelir −%20, yakıt +%50)",H2,Zeynep ve Mert,A,%,düşük iyi,68.024,58.448,78.416
+Ekonomik kriz,ekonomi_yakit_soku_tl_ay,Yakıt şokunun aylık ek maliyeti,H2,Zeynep ve Mert,A,TL/ay,düşük iyi,4596.658,3054.456,6487.165
+Ekonomik kriz,ekonomi_yuk_once_yuzde,"Konut + ulaşım / hane geliri, şok öncesi",H2,Zeynep ve Mert,B,%,düşük iyi,32.951,28.911,37.609
+Ekonomik kriz,ekonomi_yuk_sonra_yuzde,"Konut + ulaşım / hane geliri, şok sonrası (gelir −%20, yakıt +%50)",H2,Zeynep ve Mert,B,%,düşük iyi,41.365,35.362,48.062
+Ekonomik kriz,ekonomi_yakit_soku_tl_ay,Yakıt şokunun aylık ek maliyeti,H2,Zeynep ve Mert,B,TL/ay,düşük iyi,0.0,0.0,0.0
+Ekonomik kriz,ekonomi_yuk_once_yuzde,"Konut + ulaşım / hane geliri, şok öncesi",H2,Zeynep ve Mert,C,%,düşük iyi,38.223,33.737,43.718
+Ekonomik kriz,ekonomi_yuk_sonra_yuzde,"Konut + ulaşım / hane geliri, şok sonrası (gelir −%20, yakıt +%50)",H2,Zeynep ve Mert,C,%,düşük iyi,47.908,41.132,55.923
+Ekonomik kriz,ekonomi_yakit_soku_tl_ay,Yakıt şokunun aylık ek maliyeti,H2,Zeynep ve Mert,C,TL/ay,düşük iyi,0.0,0.0,0.0
+Ekonomik kriz,ekonomi_arabasiz_sure_orani,Arabasız yaşanabilirlik: işe toplu taşıma süresi / araç süresi,P3b,"Ahmet (baba, teknisyen)",A,kat,düşük iyi,1.444,1.171,1.755
+Ekonomik kriz,ekonomi_arabasiz_sure_orani,Arabasız yaşanabilirlik: işe toplu taşıma süresi / araç süresi,P3b,"Ahmet (baba, teknisyen)",B,kat,düşük iyi,1.191,0.977,1.461
+Ekonomik kriz,ekonomi_arabasiz_sure_orani,Arabasız yaşanabilirlik: işe toplu taşıma süresi / araç süresi,P3b,"Ahmet (baba, teknisyen)",C,kat,düşük iyi,1.187,0.981,1.433

@@ -1,0 +1,21 @@
+kod,kisa,etiketli_bina,osm_kat_medyan,ghsl_kat_medyan
+G1,Safranbolu Çarşı,0,,
+G2,Safranbolu Bağlar,0,,
+G3,Beypazarı,0,,
+G4,Fatih Zeyrek,4,3.50,4.00
+G5,Fatih Süleymaniye,5,2.00,6.00
+G6,Birgi,0,,
+G7,Antakya,5,2.00,3.00
+C1,Esenyurt,0,,
+C2,Başakşehir,111,15.00,6.00
+C3,Silivri,0,,
+C4,Konya Meram,0,,
+C5,Kayseri Kocasinan,1,3.00,7.00
+C6,Ankara Mamak TOKİ,0,,
+
+# havuz (tüm genişletilmiş kutulardaki etiketli binalar): ghsl_alt_m,ghsl_ust_m,n_etiketli,osm_kat_medyan,ghsl_kat_medyan,oran
+# 0.1,7,14,nan,nan,1.00
+# 7,10,49,3.0,3.0,1.00
+# 10,15,169,6.0,4.0,1.50
+# 15,20,106,15.0,6.0,2.50
+# 20,300,71,15.0,8.0,1.88

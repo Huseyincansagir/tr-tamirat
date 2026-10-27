@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1512pt" height="900pt" viewBox="0 0 1512 900" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-26T22:21:21.315617</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 900 
+L 1512 900 
+L 1512 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 45.36 188.948703 
+L 1489.32 188.948703 
+L 1489.32 154.745026 
+L 45.36 154.745026 
+z
+" clip-path="url(#pcb3e30bda2)" style="fill: #f3f1ec"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 45.36 257.356057 
+L 1489.32 257.356057 
+L 1489.32 223.15238 
+L 45.36 223.15238 
+z
+" clip-path="url(#pcb3e30bda2)" style="fill: #f3f1ec"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 45.36 325.763412 
+L 1489.32 325.763412 
+L 1489.32 291.559734 
+L 45.36 291.559734 
+z
+" clip-path="url(#pcb3e30bda2)" style="fill: #f3f1ec"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 45.36 394.170766 
+L 1489.32 394.170766 
+L 1489.32 359.967089 
+L 45.36 359.967089 
+z
+" clip-path="url(#pcb3e30bda2)" style="fill: #f3f1ec"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 45.36 156.455209 
+L 1489.32 156.455209 
+" clip-path="url(#pcb3e30bda2)" style="fill: none; stroke: #333333; stroke-width: 0.8; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="45.36" y="128.786188" transform="rotate(-0 45.36 128.786188)">Tipoloji (bina)</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="290.8332" y="128.785517" transform="rotate(-0 290.8332 128.785517)">Kat</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="348.5916" y="128.785517" transform="rotate(-0 348.5916 128.785517)">BB</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="399.1302" y="130.226688" transform="rotate(-0 399.1302 130.226688)">PAİY 34/1</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="521.8668" y="128.907126" transform="rotate(-0 521.8668 128.907126)">v2 çözümü</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="839.538" y="128.786188" transform="rotate(-0 839.538 128.786188)">Kuyu / yer alanı</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(983.934 129.647028)">Zorunlu maliyet</text>
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(983.934 140.090317)">(bugünkü)</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(1128.33 129.647028)">Hane başına</text>
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(1128.33 140.090317)">bugün · P4</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(1279.9458 129.646356)">Yapıma oranı</text>
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(1279.9458 140.089645)">bugün · P4</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(1417.122 129.647028)">Plandaki</text>
+    <text style="font-weight: 700; font-size: 8.6px; font-family: 'DejaVu Sans'; fill: #0b0b0b" transform="translate(1417.122 139.96938)">bina</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="45.36" y="173.977263" transform="rotate(-0 45.36 173.977263)">T1 büyüyebilen sıra ev</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="290.8332" y="173.976942" transform="rotate(-0 290.8332 173.976942)">Z+2</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="348.5916" y="173.976942" transform="rotate(-0 348.5916 173.976942)">1</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="399.1302" y="173.977263" transform="rotate(-0 399.1302 173.977263)">yok (tek BB)</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="521.8668" y="173.977263" transform="rotate(-0 521.8668 173.977263)">platform yeri: kiler/dolap dikmesi</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="839.538" y="173.976942" transform="rotate(-0 839.538 173.976942)">6,9 m² (%3,5)</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="983.934" y="173.976942" transform="rotate(-0 983.934 173.976942)">—</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1128.33" y="173.976942" transform="rotate(-0 1128.33 173.976942)">—</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1279.9458" y="173.976942" transform="rotate(-0 1279.9458 173.976942)">—</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1417.122" y="173.976942" transform="rotate(-0 1417.122 173.976942)">493</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="45.36" y="208.18094" transform="rotate(-0 45.36 208.18094)">T2 çok kuşaklı ev</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="290.8332" y="208.180619" transform="rotate(-0 290.8332 208.180619)">Z+2</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="348.5916" y="208.180619" transform="rotate(-0 348.5916 208.180619)">2</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="399.1302" y="208.18094" transform="rotate(-0 399.1302 208.18094)">asansör yeri</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="521.8668" y="208.18094" transform="rotate(-0 521.8668 208.18094)">1,4 × 1,6 m kuyu (depo); zemin 2+1 eşiksiz</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="839.538" y="208.180619" transform="rotate(-0 839.538 208.180619)">6,7 m² (%2,2)</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="983.934" y="208.180619" transform="rotate(-0 983.934 208.180619)">—</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1128.33" y="208.180619" transform="rotate(-0 1128.33 208.180619)">—</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1279.9458" y="208.180619" transform="rotate(-0 1279.9458 208.180619)">—</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1417.122" y="208.180619" transform="rotate(-0 1417.122 208.180619)">194</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="45.36" y="242.384617" transform="rotate(-0 45.36 242.384617)">T3 avlu grubu, Z+2</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="290.8332" y="242.384297" transform="rotate(-0 290.8332 242.384297)">Z+2</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="348.5916" y="242.384297" transform="rotate(-0 348.5916 242.384297)">12</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="399.1302" y="242.384617" transform="rotate(-0 399.1302 242.384617)">asansör yeri</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="521.8668" y="242.384617" transform="rotate(-0 521.8668 242.384617)">2 çekirdekte kuyu; zemin 2 daire eşiksiz</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="839.538" y="242.384297" transform="rotate(-0 839.538 242.384297)">17,3 m² (%1,2)</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="983.934" y="242.384297" transform="rotate(-0 983.934 242.384297)">—</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1128.33" y="242.384297" transform="rotate(-0 1128.33 242.384297)">—</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1279.9458" y="242.384297" transform="rotate(-0 1279.9458 242.384297)">—</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1417.122" y="242.384297" transform="rotate(-0 1417.122 242.384297)">34</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="45.36" y="276.588294" transform="rotate(-0 45.36 276.588294)">T3 avlu grubu, Z+3</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="290.8332" y="276.587974" transform="rotate(-0 290.8332 276.587974)">Z+3</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="348.5916" y="276.587974" transform="rotate(-0 348.5916 276.587974)">15</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="399.1302" y="276.587974" transform="rotate(-0 399.1302 276.587974)">asansör</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="521.8668" y="276.588294" transform="rotate(-0 521.8668 276.588294)">2 asansör (P4: galeri + 1)</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="839.538" y="276.587974" transform="rotate(-0 839.538 276.587974)">23,0 m² (%1,3)</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="983.934" y="276.588294" transform="rotate(-0 983.934 276.588294)">2,6 milyon TL</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1128.33" y="276.588294" transform="rotate(-0 1128.33 276.588294)">173 · 87 bin TL</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1279.9458" y="276.587974" transform="rotate(-0 1279.9458 276.587974)">%7,6 · %3,8</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1417.122" y="276.587974" transform="rotate(-0 1417.122 276.587974)">44</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="45.36" y="310.791971" transform="rotate(-0 45.36 310.791971)">T3 arka kanat (v2.1)</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="290.8332" y="310.791651" transform="rotate(-0 290.8332 310.791651)">Z</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="348.5916" y="310.791651" transform="rotate(-0 348.5916 310.791651)">2</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="399.1302" y="310.791971" transform="rotate(-0 399.1302 310.791971)">yok (1 kat)</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="521.8668" y="310.791971" transform="rotate(-0 521.8668 310.791971)">tek katlı; 2 eşiksiz 2+1 (avluyu kapatır)</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="839.538" y="310.791651" transform="rotate(-0 839.538 310.791651)">0,0 m² (%0,0)</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="983.934" y="310.791651" transform="rotate(-0 983.934 310.791651)">—</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1128.33" y="310.791651" transform="rotate(-0 1128.33 310.791651)">—</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1279.9458" y="310.791651" transform="rotate(-0 1279.9458 310.791651)">—</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1417.122" y="310.791651" transform="rotate(-0 1417.122 310.791651)">38</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="45.36" y="344.995649" transform="rotate(-0 45.36 344.995649)">T4 çubuk, Z+3</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="290.8332" y="344.995328" transform="rotate(-0 290.8332 344.995328)">Z+3</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="348.5916" y="344.995328" transform="rotate(-0 348.5916 344.995328)">9</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="399.1302" y="344.995328" transform="rotate(-0 399.1302 344.995328)">asansör</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="521.8668" y="344.995649" transform="rotate(-0 521.8668 344.995649)">1 asansör (çekirdekte)</text>
+   </g>
+   <g id="text_66">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="839.538" y="344.995328" transform="rotate(-0 839.538 344.995328)">11,5 m² (%1,0)</text>
+   </g>
+   <g id="text_67">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="983.934" y="344.995649" transform="rotate(-0 983.934 344.995649)">1,3 milyon TL</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1128.33" y="344.995649" transform="rotate(-0 1128.33 344.995649)">144 · 144 bin TL</text>
+   </g>
+   <g id="text_69">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1279.9458" y="344.995328" transform="rotate(-0 1279.9458 344.995328)">%5,8 · %5,8</text>
+   </g>
+   <g id="text_70">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1417.122" y="344.995328" transform="rotate(-0 1417.122 344.995328)">18</text>
+   </g>
+   <g id="text_71">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="45.36" y="379.199326" transform="rotate(-0 45.36 379.199326)">T4 köşe, Z+4</text>
+   </g>
+   <g id="text_72">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="290.8332" y="379.199006" transform="rotate(-0 290.8332 379.199006)">Z+4</text>
+   </g>
+   <g id="text_73">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="348.5916" y="379.199006" transform="rotate(-0 348.5916 379.199006)">12</text>
+   </g>
+   <g id="text_74">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="399.1302" y="379.199006" transform="rotate(-0 399.1302 379.199006)">asansör</text>
+   </g>
+   <g id="text_75">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="521.8668" y="379.199326" transform="rotate(-0 521.8668 379.199326)">1 asansör (5 durak)</text>
+   </g>
+   <g id="text_76">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="839.538" y="379.199006" transform="rotate(-0 839.538 379.199006)">14,4 m² (%1,0)</text>
+   </g>
+   <g id="text_77">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="983.934" y="379.199326" transform="rotate(-0 983.934 379.199326)">1,4 milyon TL</text>
+   </g>
+   <g id="text_78">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1128.33" y="379.199326" transform="rotate(-0 1128.33 379.199326)">117 · 117 bin TL</text>
+   </g>
+   <g id="text_79">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1279.9458" y="379.199006" transform="rotate(-0 1279.9458 379.199006)">%5,0 · %5,0</text>
+   </g>
+   <g id="text_80">
+    <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="1417.122" y="379.199006" transform="rotate(-0 1417.122 379.199006)">5</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_6">
+    <path d="M 163.051535 823.5 
+L 780.932093 823.5 
+L 780.932093 458.076098 
+L 163.051535 458.076098 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_2">
+      <path d="M 163.051535 823.5 
+L 163.051535 458.076098 
+" clip-path="url(#pf968c7c855)" style="fill: none; stroke: #e5e3df; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_3">
+      <defs>
+       <path id="m114a9054bd" d="M 0 0 
+L 0 3.5 
+" style="stroke: #52514e; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m114a9054bd" x="163.051535" y="823.5" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_81">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="163.051535" y="836.578125" transform="rotate(-0 163.051535 836.578125)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_4">
+      <path d="M 266.031628 823.5 
+L 266.031628 458.076098 
+" clip-path="url(#pf968c7c855)" style="fill: none; stroke: #e5e3df; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m114a9054bd" x="266.031628" y="823.5" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_82">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="266.031628" y="836.578125" transform="rotate(-0 266.031628 836.578125)">5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_6">
+      <path d="M 369.011721 823.5 
+L 369.011721 458.076098 
+" clip-path="url(#pf968c7c855)" style="fill: none; stroke: #e5e3df; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m114a9054bd" x="369.011721" y="823.5" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_83">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="369.011721" y="836.578125" transform="rotate(-0 369.011721 836.578125)">10</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_8">
+      <path d="M 471.991814 823.5 
+L 471.991814 458.076098 
+" clip-path="url(#pf968c7c855)" style="fill: none; stroke: #e5e3df; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m114a9054bd" x="471.991814" y="823.5" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_84">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="471.991814" y="836.578125" transform="rotate(-0 471.991814 836.578125)">15</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_10">
+      <path d="M 574.971907 823.5 
+L 574.971907 458.076098 
+" clip-path="url(#pf968c7c855)" style="fill: none; stroke: #e5e3df; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m114a9054bd" x="574.971907" y="823.5" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_85">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="574.971907" y="836.578125" transform="rotate(-0 574.971907 836.578125)">20</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_12">
+      <path d="M 677.952 823.5 
+L 677.952 458.076098 
+" clip-path="url(#pf968c7c855)" style="fill: none; stroke: #e5e3df; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m114a9054bd" x="677.952" y="823.5" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_86">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="677.952" y="836.578125" transform="rotate(-0 677.952 836.578125)">25</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_14">
+      <path d="M 780.932093 823.5 
+L 780.932093 458.076098 
+" clip-path="url(#pf968c7c855)" style="fill: none; stroke: #e5e3df; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m114a9054bd" x="780.932093" y="823.5" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_87">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="780.932093" y="836.578125" transform="rotate(-0 780.932093 836.578125)">30</text>
+     </g>
+    </g>
+    <g id="text_88">
+     <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="471.991814" y="849.298672" transform="rotate(-0 471.991814 849.298672)">yapım maliyetine oranı (%; 2026 tebliğ birim maliyeti, kâr hariç)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_16">
+      <defs>
+       <path id="m0d2e87f8f5" d="M 0 0 
+L -3.5 0 
+" style="stroke: #52514e; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m0d2e87f8f5" x="163.051535" y="482.863594" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_89">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="156.051535" y="485.902969" transform="rotate(-0 156.051535 485.902969)">T1 büyüyebilen sıra ev</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m0d2e87f8f5" x="163.051535" y="533.971832" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_90">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="156.051535" y="537.011207" transform="rotate(-0 156.051535 537.011207)">T2 çok kuşaklı ev</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m0d2e87f8f5" x="163.051535" y="585.08007" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_91">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="156.051535" y="588.119445" transform="rotate(-0 156.051535 588.119445)">T3 avlu grubu, Z+2</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m0d2e87f8f5" x="163.051535" y="636.188308" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_92">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="156.051535" y="639.227683" transform="rotate(-0 156.051535 639.227683)">T3 avlu grubu, Z+3</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m0d2e87f8f5" x="163.051535" y="687.296546" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_93">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="156.051535" y="690.335921" transform="rotate(-0 156.051535 690.335921)">T3 arka kanat (v2.1)</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m0d2e87f8f5" x="163.051535" y="738.404784" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_94">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="156.051535" y="741.444159" transform="rotate(-0 156.051535 741.444159)">T4 çubuk, Z+3</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m0d2e87f8f5" x="163.051535" y="789.513022" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_95">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="156.051535" y="792.552397" transform="rotate(-0 156.051535 792.552397)">T4 köşe, Z+4</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_7">
+    <path d="M 163.051535 491.040912 
+L 653.286824 491.040912 
+L 653.286824 474.686275 
+L 163.051535 474.686275 
+z
+" clip-path="url(#pf968c7c855)" style="fill: url(#h0489293a6a); stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 163.051535 542.14915 
+L 498.039331 542.14915 
+L 498.039331 525.794513 
+L 163.051535 525.794513 
+z
+" clip-path="url(#pf968c7c855)" style="fill: url(#h0489293a6a); stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 163.051535 593.257388 
+L 371.689151 593.257388 
+L 371.689151 576.902751 
+L 163.051535 576.902751 
+z
+" clip-path="url(#pf968c7c855)" style="fill: url(#h0489293a6a); stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 163.051535 635.166143 
+L 319.362291 635.166143 
+L 319.362291 618.811507 
+L 163.051535 618.811507 
+z
+" clip-path="url(#pf968c7c855)" style="fill: #2a78d6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 163.051535 653.565109 
+L 241.206913 653.565109 
+L 241.206913 637.210472 
+L 163.051535 637.210472 
+z
+" clip-path="url(#pf968c7c855)" style="fill: #eb6834; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 163.051535 737.382619 
+L 283.066173 737.382619 
+L 283.066173 721.027983 
+L 163.051535 721.027983 
+z
+" clip-path="url(#pf968c7c855)" style="fill: #2a78d6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 163.051535 755.781585 
+L 283.066173 755.781585 
+L 283.066173 739.426948 
+L 163.051535 739.426948 
+z
+" clip-path="url(#pf968c7c855)" style="fill: #eb6834; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 163.051535 788.490857 
+L 266.448762 788.490857 
+L 266.448762 772.136221 
+L 163.051535 772.136221 
+z
+" clip-path="url(#pf968c7c855)" style="fill: #2a78d6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 163.051535 806.889823 
+L 266.448762 806.889823 
+L 266.448762 790.535186 
+L 163.051535 790.535186 
+z
+" clip-path="url(#pf968c7c855)" style="fill: #eb6834; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 163.051535 823.5 
+L 163.051535 458.076098 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 163.051535 823.5 
+L 780.932093 823.5 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_96">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="659.46563" y="485.043281" transform="rotate(-0 659.46563 485.043281)">%23,8 (isteğe bağlı)</text>
+   </g>
+   <g id="text_97">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="504.218137" y="536.151519" transform="rotate(-0 504.218137 536.151519)">%16,3 (isteğe bağlı)</text>
+   </g>
+   <g id="text_98">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="377.867957" y="587.259757" transform="rotate(-0 377.867957 587.259757)">%10,1 (isteğe bağlı)</text>
+   </g>
+   <g id="text_99">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="325.541096" y="629.06695" transform="rotate(-0 325.541096 629.06695)">%7,6</text>
+   </g>
+   <g id="text_100">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="247.385718" y="647.465915" transform="rotate(-0 247.385718 647.465915)">%3,8</text>
+   </g>
+   <g id="text_101">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="169.23034" y="689.374983" transform="rotate(-0 169.23034 689.374983)">gerekmez (tek katlı, zeminden girişli)</text>
+   </g>
+   <g id="text_102">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="289.244979" y="731.283426" transform="rotate(-0 289.244979 731.283426)">%5,8</text>
+   </g>
+   <g id="text_103">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="289.244979" y="749.682392" transform="rotate(-0 289.244979 749.682392)">%5,8</text>
+   </g>
+   <g id="text_104">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="272.627567" y="782.391664" transform="rotate(-0 272.627567 782.391664)">%5,0</text>
+   </g>
+   <g id="text_105">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="272.627567" y="800.79063" transform="rotate(-0 272.627567 800.79063)">%5,0</text>
+   </g>
+   <g id="text_106">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="163.051535" y="452.076098" transform="rotate(-0 163.051535 452.076098)">Dikey dolaşımın maliyet payı (bina başına)</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_18">
+     <path d="M 518.439593 790.174375 
+L 534.439593 790.174375 
+L 534.439593 784.574375 
+L 518.439593 784.574375 
+z
+" style="fill: #2a78d6"/>
+    </g>
+    <g id="text_107">
+     <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start" x="540.839593" y="790.174375" transform="rotate(-0 540.839593 790.174375)">zorunlu asansör, bugünkü uygulama (her merdiven evine)</text>
+    </g>
+    <g id="patch_19">
+     <path d="M 518.439593 802.175 
+L 534.439593 802.175 
+L 534.439593 796.575 
+L 518.439593 796.575 
+z
+" style="fill: #eb6834"/>
+    </g>
+    <g id="text_108">
+     <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start" x="540.839593" y="802.175" transform="rotate(-0 540.839593 802.175)">zorunlu asansör, paket P4 (galeriyle tek asansör)</text>
+    </g>
+    <g id="patch_20">
+     <path d="M 518.439593 814.378125 
+L 534.439593 814.378125 
+L 534.439593 808.778125 
+L 518.439593 808.778125 
+z
+" style="fill: url(#h0489293a6a); stroke: #2a78d6; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_109">
+     <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start" x="540.839593" y="814.378125" transform="rotate(-0 540.839593 814.378125)">yerine sonradan platform ya da asansör (isteğe bağlı)</text>
+    </g>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="text_110">
+    <text style="font-weight: 700; font-size: 9.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="849.692093" y="472.679076" transform="rotate(-0 849.692093 472.679076)">Plan geneli (çizimden)</text>
+   </g>
+   <g id="text_111">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="849.692093" y="494.727483" transform="rotate(-0 849.692093 494.727483)">Asansör (bugünkü uygulama): 111 adet ≈ 144,8 milyon TL; konut başına ortalama 67 bin TL [V]</text>
+   </g>
+   <g id="text_112">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="849.692093" y="517.383765" transform="rotate(-0 849.692093 517.383765)">Paket P4 ile: 67 adet ≈ 87,6 milyon TL (−%40)</text>
+   </g>
+   <g id="text_113">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="849.692093" y="540.040047" transform="rotate(-0 849.692093 540.040047)">Asansör bakımı: yılda ≈ 5,3 milyon TL (bugün) · 3,2 milyon TL (P4) [V]</text>
+   </g>
+   <g id="text_114">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="849.692093" y="562.696329" transform="rotate(-0 849.692093 562.696329)">Asansör yeri: 262 kuyu (T2 ve T3 Z+2) · platform yeri: 493 T1</text>
+   </g>
+   <g id="text_115">
+    <text style="font-weight: 700; font-size: 9.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="849.692093" y="608.616768" transform="rotate(-0 849.692093 608.616768)">Erişilebilirlik</text>
+   </g>
+   <g id="text_116">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="849.692093" y="630.887925" transform="rotate(-0 849.692093 630.887925)">Zemin katta eşiksiz daire: 362 (%16,7; P4 eşiği %15)</text>
+   </g>
+   <g id="text_117">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="849.692093" y="653.321456" transform="rotate(-0 849.692093 653.321456)">Asansörle ulaşılan daire: 605 · basamaksız toplam %45</text>
+   </g>
+   <g id="text_118">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="849.692093" y="675.977738" transform="rotate(-0 849.692093 675.977738)">T1: zeminde büyükler odası + duş, ayrıca %23 (aşama 2)</text>
+   </g>
+   <g id="text_119">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="849.692093" y="698.85677" transform="rotate(-0 849.692093 698.85677)">Binası ölçüt 17'yi sağlayan konut: %100</text>
+   </g>
+   <g id="text_120">
+    <text style="font-weight: 700; font-size: 9.6px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="849.692093" y="744.554459" transform="rotate(-0 849.692093 744.554459)">Okuma</text>
+   </g>
+   <g id="text_121">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="849.692093" y="766.602866" transform="rotate(-0 849.692093 766.602866)">Kural 3 katta yalnız yer, 4 katta asansör istiyor. Z+2 tipolojilerde maliyet etkisi</text>
+   </g>
+   <g id="text_122">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="849.692093" y="789.259148" transform="rotate(-0 849.692093 789.259148)">küçük (kuyu alanının %1–3'ü); asıl yük Z+3 avlu gruplarında. P4'ün galeri</text>
+   </g>
+   <g id="text_123">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="849.692093" y="812.13818" transform="rotate(-0 849.692093 812.13818)">çözümü bu yükü yarıya indirir. Yaşlı ve engelli için ilk çözüm asansör değil, zemin kat</text>
+   </g>
+   <g id="text_124">
+    <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="849.692093" y="834.571712" transform="rotate(-0 849.692093 834.571712)">dairesi ve eşiksiz sokak (persona C: Hüseyin ve Selin zemin katta).</text>
+   </g>
+  </g>
+  <g id="text_125">
+   <text style="font-weight: 700; font-size: 22px; font-family: 'DejaVu Sans'; text-anchor: start" x="45.36" y="40.5" transform="rotate(-0 45.36 40.5)">Model mahalle v2.1 — asansör kuralı ve tipolojiler</text>
+  </g>
+  <g id="text_126">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #444444" x="45.36" y="67.5" transform="rotate(-0 45.36 67.5)">PAİY md. 34/1 (RG 01.07.2026) [D]: bodrum dahil 3 katta asansör yeri, ≥ 4 katta asansör (tek bağımsız bölümlü konut hariç). Kuyu 1,6 × 1,8 m (T2: 1,4 × 1,6; T1 platform: 1,0 × 2,3). Asansör 1,3 milyon TL (4 durak), platform 0,9 milyon TL — piyasa varsayımı [V].</text>
+  </g>
+  <g id="text_127">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #444444" x="45.36" y="889.2" transform="rotate(-0 45.36 889.2)">Yapım maliyeti: 2026 Yapı Yaklaşık Birim Maliyetleri Tebliği (III.A 19.800, III.B 21.050 TL/m²; %10 yüklenici kârı çıkarıldı) — M6 finansman modeliyle aynı varsayım. Kat yüksekliği 3,1 m. Tebliğ birim maliyetinin asansörü kısmen kapsayıp kapsamadığı doğrulanmadı; burada ayrı kalem.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcb3e30bda2">
+   <rect x="45.36" y="108" width="1443.96" height="285.030644"/>
+  </clipPath>
+  <clipPath id="pf968c7c855">
+   <rect x="163.051535" y="458.076098" width="617.880558" height="365.423902"/>
+  </clipPath>
+ </defs>
+ <defs>
+  <pattern id="h0489293a6a" patternUnits="userSpaceOnUse" x="0" y="0" width="72" height="72">
+   <rect x="0" y="0" width="73" height="73" fill="#ffffff"/>
+   <path d="M -36 36 
+L 36 -36 
+M -33 39 
+L 39 -33 
+M -30 42 
+L 42 -30 
+M -27 45 
+L 45 -27 
+M -24 48 
+L 48 -24 
+M -21 51 
+L 51 -21 
+M -18 54 
+L 54 -18 
+M -15 57 
+L 57 -15 
+M -12 60 
+L 60 -12 
+M -9 63 
+L 63 -9 
+M -6 66 
+L 66 -6 
+M -3 69 
+L 69 -3 
+M 0 72 
+L 72 0 
+M 3 75 
+L 75 3 
+M 6 78 
+L 78 6 
+M 9 81 
+L 81 9 
+M 12 84 
+L 84 12 
+M 15 87 
+L 87 15 
+M 18 90 
+L 90 18 
+M 21 93 
+L 93 21 
+M 24 96 
+L 96 24 
+M 27 99 
+L 99 27 
+M 30 102 
+L 102 30 
+M 33 105 
+L 105 33 
+M 36 108 
+L 108 36 
+" style="fill: #2a78d6; stroke: #2a78d6; stroke-width: 1.0; stroke-linecap: butt; stroke-linejoin: miter"/>
+  </pattern>
+ </defs>
+</svg>

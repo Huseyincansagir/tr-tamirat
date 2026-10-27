@@ -1,0 +1,43 @@
+anahtar,deger,birim,kaynak,etiket
+fiyat_tr,42488.0,TL/m²,"Endeksa/Emlakjet Ağustos 2026 Konut Değer Raporu, Türkiye ort. satış m² fiyatı (foreks.com aktarımı, 21.09.2026)",İ
+fiyat_istanbul,63788.0,TL/m²,"Endeksa/Emlakjet Haziran 2026 raporu, İstanbul ort. (basın aktarımı)",İ
+fiyat_dusuk,30000.0,TL/m²,Deprem bölgesi / küçük kent için temsilî değer,V
+kira_m2_ay,268.26,TL/m²·ay,"Mayıs 2026 ort. kiralık konut m² bedeli (basın aktarımı, Endeksa)",İ
+bm_IVA,26450,TL/m²,"2026 Yapı Yaklaşık Birim Maliyetleri Tebliği, RG 03.02.2026/33157: IV.A konut 30,50–51,50 m",D
+bm_IIIC,23400,TL/m²,"Aynı tebliğ: III.C konut 21,50–30,50 m",D
+bm_IIIB,21050,TL/m²,"Aynı tebliğ: III.B konut ≤21,50 m (3 kat üzeri); müstakil/ikiz konut <200 m²",D
+bm_IIIA,19800,TL/m²,Aynı tebliğ: III.A apartman tipi konut ≤3 kat; garaj ve kapalı otoparklar; kreşler,D
+bm_kar_haric,0.92,katsayı,"Tebliğ BM'si KDV hariç, %15 genel gider + %10 yüklenici kârı dahil; kâr payı çıkarıldı",D/H
+satilabilir_oran_A_B_C,"0,82 / 0,86 / 0,92",oran,"Satılabilir brüt / toplam inşaat (çekirdek, merdiven, asansör, lobi payı)",V
+yumusak_oran,0.07,yapımın payı,"Proje, ruhsat, harç, yapı denetim, sigorta",V
+altyapi_hane,60000,TL/hane,Bina dışı bağlantılar (tebliğ BM'sine dahil değil),V
+peyzaj_m2,1200,TL/m²,Açık alan düzenlemesi (tebliğ BM'sine dahil değil),V
+peyzaj_doseme_m2,2500,TL/m²,Bodrum üstü avlu,V
+sure_ay_A_B_C,30 / 20 / 16,ay,Yapım süresi; 6 Şubat sonrası Z+3 deneyimi ve tünel kalıp blok pratiği,V
+otopark_Ek1_mesken,<80 m²: 3 daireye 1; 80–120: 2 daireye 1; 120–180: daireye 1; ≥180: daireye 2,yer,Otopark Yönetmeliği Ek-1 (RG 22.02.2018/30340; değişik RG 25.03.2021/31434); hesap bağımsız bölüm brüt alanı üzerinden (md. 8/3),D
+otopark_Ek1_dukkan,50 m² için 1,yer,Otopark Yönetmeliği Ek-1,D
+otopark_bedeli_formulu,(A + B) × 20 × Y,TL/yer,Otopark Yönetmeliği md. 12(11); B = tebliğdeki otopark birim fiyatı (III.A 19.800),D
+emlak_degeri_m2,3000,TL/m²,Bedel formülündeki A terimi (emlak vergisi değeri / katlar alanı),V
+bodrum_m2_yer,30,m²/araç,Rampa ve manevra dahil,V
+bodrum_ek,1.1,katsayı,"Kazı, iksa, su yalıtımı",V
+yuzey_park_tl,50000,TL/yer,Açık otopark kaplaması,V
+tapu_harci,binde 20 + binde 20,oran,492 sayılı Harçlar Kanunu (4) sayılı tarife 20/a; alıcı ve satıcı ayrı ayrı (mevzuat.gov.tr),D
+iskonto_reel,0.15,yıllık,Müteahhidin istediği reel getiri (risk ve kâr dahil),V
+on_satis,0.35,pay,İnşaat sürerken satılan konut payı,V
+satis_suresi_ay,12,ay,Tamamlanma sonrası satış süresi,V
+satis_gider,0.02,gelirin payı,Pazarlama ve komisyon,V
+ticari_carpan,1.25,katsayı,B'deki zemin kat dükkânı m² fiyatı / konut m² fiyatı,V
+plan_emsali_ref,2.0,emsal,Telafi köprüsünde mevcut plan hakkı,V
+tdr_fiyat_orani,0.6,oran,"TDR m² fiyatı = alıcı bölgede emsal m² başına arsa değeri × 0,60",V
+politika_faizi,0.37,yıllık,TCMB PPK 10.09.2026 (basın aktarımı),İ
+konut_kredisi_aylik,0.028,aylık,"Mayıs 2026 banka aralığı %2,49–3,10 (basın aktarımı); orta değer",İ
+konut_kredisi_ltv,0.8,oran,Kredi / değer oranı,V
+asgari_ucret_net_2026,28075.5,TL/ay,"Asgari Ücret Tespit Komisyonu 2025/1 kararı (RG 26.12.2025), ikincil aktarım",İ
+medyan_esdeger_fert_geliri_2025,241151,TL/yıl,"TÜİK Gelir ve Yaşam Koşulları 2025 (2024 gelirleri), ikincil aktarım",İ
+esdegerlik_olcegi,2.1,katsayı,OECD modifiye ölçek: 2 yetişkin + 2 çocuk (<14),D
+gelir_artisi_2024_2026,1.6,katsayı,Nominal hane geliri artışı 2024→2026,V
+toki_80m2_fiyat,2650000,TL,"Yüzyılın Konut Projesi 80 m² 2+1 (Anadolu); %10 peşin, 240 ay sabit taksit (basın aktarımı)",İ
+yarisi_bizden,875 bin hibe + 875 bin kredi + 125 bin taşınma,TL/konut,ÇŞİDB haberi 20.10.2026 (mevzuat haritası 1.4); RG künyesi doğrulanmadı,İ
+aile_kredisi_reel_faiz,0.02,yıllık reel,"Öneri: TÜFE endeksli, 240 ay, %10 peşin",V
+kamu_iskonto_reel,0.05,yıllık reel,Kamu borçlanmasının reel maliyeti,V
+enflasyon_varsayimi,0.25,yıllık,Sabit nominal taksitlerin reel değer kaybı için ortalama TÜFE,V

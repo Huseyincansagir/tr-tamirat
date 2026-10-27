@@ -1,0 +1,13 @@
+tip,konut_brut_m2,teslim_modeli,konut_bedeli_tl,piyasa_fiyatina_orani,piyasa_kredisi_aylik_tl,piyasa_kredisi_gelir_payi,aile_konut_kredisi_aylik_tl,aile_konut_kredisi_gelir_payi,aile_konut_kredisi_2asgari_payi,aile_kredisi_kamu_maliyeti_tl,toki_tipi_sabit_taksit_tl,toki_tipi_gelir_payi,toki_tipi_kamu_maliyeti_tl,aciklama
+A,90.4,Kat karşılığı (piyasa satışı),3841128,1.0,89289,1.322,17459,0.259,0.311,786800,14404,0.213,2831285,Müteahhit getirisi ve arsa sahibi payı fiyatın içinde
+A,90.4,"Arsa payı / yapı grubu (malik + aileler, anahtar teslim yüklenici)",3345660,0.871,77772,1.152,15207,0.225,0.271,685310,12546,0.186,2466077,Arsa piyasa değerinden; yükleniciye tebliğdeki %10 kâr; satış gideri yok
+A,90.4,"Kooperatif (1163), arsa piyasa değerinden",3112371,0.81,72349,1.071,14146,0.21,0.252,637524,11671,0.173,2294120,Maliyetine; üyeler inşaat süresince öder
+A,90.4,Kooperatif + kamu arsası yarı değerle,3097188,0.806,71996,1.066,14077,0.208,0.251,634414,11614,0.172,2282929,"TOKİ / belediye arsası, 10 yıl taksit"
+A,90.4,Vakıf / üst hakkı (arsa vakıfta kalır),3082005,0.802,71643,1.061,14008,0.207,0.249,631305,11558,0.171,2271738,Arsa bedeli yok; yeniden satışta fiyat formülü
+A,90.4,Maliyet kirası (vakıf / belediye kiralık konutu),3082005,0.802,,,10273,0.152,0.183,,24252,0.359,,"Aylık kira = maliyet × (%3 reel finansman + %1 bakım) / 12 (aile kredisi sütunlarında); TOKİ sütunlarında karşılaştırma için piyasa kirası (268,26 TL/m²·ay)"
+C,124.2,Kat karşılığı (piyasa satışı),5277010,1.0,122667,1.817,23985,0.355,0.427,1080920,19789,0.293,3889670,Müteahhit getirisi ve arsa sahibi payı fiyatın içinde
+C,124.2,"Arsa payı / yapı grubu (malik + aileler, anahtar teslim yüklenici)",4623731,0.876,107481,1.592,21016,0.311,0.374,947105,17339,0.257,3408140,Arsa piyasa değerinden; yükleniciye tebliğdeki %10 kâr; satış gideri yok
+C,124.2,"Kooperatif (1163), arsa piyasa değerinden",4396391,0.833,102197,1.514,19983,0.296,0.356,900538,16486,0.244,3240568,Maliyetine; üyeler inşaat süresince öder
+C,124.2,Kooperatif + kamu arsası yarı değerle,3870655,0.733,89976,1.333,17593,0.261,0.313,792848,14515,0.215,2853050,"TOKİ / belediye arsası, 10 yıl taksit"
+C,124.2,Vakıf / üst hakkı (arsa vakıfta kalır),3344919,0.634,77755,1.152,15203,0.225,0.271,685159,12543,0.186,2465531,Arsa bedeli yok; yeniden satışta fiyat formülü
+C,124.2,Maliyet kirası (vakıf / belediye kiralık konutu),3344919,0.634,,,11150,0.165,0.199,,33318,0.493,,"Aylık kira = maliyet × (%3 reel finansman + %1 bakım) / 12 (aile kredisi sütunlarında); TOKİ sütunlarında karşılaştırma için piyasa kirası (268,26 TL/m²·ay)"

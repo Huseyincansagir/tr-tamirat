@@ -1,0 +1,307 @@
+sonuc,sonuc_ad,endeks,model,beta,sh,p,n,yildiz
+smr,Standartlaştırılmış ölüm oranı,FUE_lite,il SE + eğitim + göç,0.3642885053292621,0.035262613167366015,5.117012899520757e-25,973,***
+smr,Standartlaştırılmış ölüm oranı,FUE_lite,+ ln yoğunluk,0.32534868644290194,0.05734781942224273,1.4011109608167705e-08,973,***
+smr,Standartlaştırılmış ölüm oranı,FUE_lite,+ kentsellik ve yaş yapısı,0.24685946152164084,0.05105600722899919,1.3309757586415347e-06,973,***
+smr,Standartlaştırılmış ölüm oranı,FUE_lite_yuksekliksiz,il SE + eğitim + göç,0.42309547454120927,0.03430428782440262,5.971547587346919e-35,973,***
+smr,Standartlaştırılmış ölüm oranı,FUE_lite_yuksekliksiz,+ ln yoğunluk,0.42161201179365326,0.05603878018259107,5.329806701966987e-14,973,***
+smr,Standartlaştırılmış ölüm oranı,FUE_lite_yuksekliksiz,+ kentsellik ve yaş yapısı,0.312523538175056,0.055140385956253986,1.4466012775454948e-08,973,***
+smr,Standartlaştırılmış ölüm oranı,E_lite,il SE + eğitim + göç,0.4358260017792448,0.0325806814645618,8.260355830039543e-41,973,***
+smr,Standartlaştırılmış ölüm oranı,E_lite,+ ln yoğunluk,0.41108399745536983,0.05547375614413101,1.2589721908123384e-13,973,***
+smr,Standartlaştırılmış ölüm oranı,E_lite,+ kentsellik ve yaş yapısı,0.3134899960124518,0.055077059346272474,1.256751032228491e-08,973,***
+smr,Standartlaştırılmış ölüm oranı,C_lite,il SE + eğitim + göç,-0.2658250798524695,0.05379579423779991,7.757437853426989e-07,973,***
+smr,Standartlaştırılmış ölüm oranı,C_lite,+ ln yoğunluk,-0.25145237807792903,0.05551336242882594,5.910023769919257e-06,973,***
+smr,Standartlaştırılmış ölüm oranı,C_lite,+ kentsellik ve yaş yapısı,-0.17305187375186776,0.05026406307311264,0.0005756081464788807,973,***
+smr,Standartlaştırılmış ölüm oranı,C_lite_v2,il SE + eğitim + göç,-0.40927992212221365,0.04523058903127043,1.4462509679512538e-19,973,***
+smr,Standartlaştırılmış ölüm oranı,C_lite_v2,+ ln yoğunluk,-0.3626473640769574,0.06221289434077033,5.571539519114928e-09,973,***
+smr,Standartlaştırılmış ölüm oranı,C_lite_v2,+ kentsellik ve yaş yapısı,-0.24281870996979896,0.06320617212733125,0.00012218859665920424,973,***
+smr,Standartlaştırılmış ölüm oranı,FUE_lite_v2,il SE + eğitim + göç,0.3092233171865162,0.05145330412266432,1.8576903480445067e-09,973,***
+smr,Standartlaştırılmış ölüm oranı,FUE_lite_v2,+ ln yoğunluk,0.23430758608075164,0.06388395619079082,0.0002447361078662396,973,***
+smr,Standartlaştırılmış ölüm oranı,FUE_lite_v2,+ kentsellik ve yaş yapısı,0.2052039475657997,0.05206050977616192,8.092534126117301e-05,973,***
+smr,Standartlaştırılmış ölüm oranı,B1,il SE + eğitim + göç,0.3223675029012447,0.038261937687147196,3.5989143098956855e-17,973,***
+smr,Standartlaştırılmış ölüm oranı,B1,+ ln yoğunluk,0.2655525101138757,0.06996807705583503,0.00014744237394140306,973,***
+smr,Standartlaştırılmış ölüm oranı,B1,+ kentsellik ve yaş yapısı,0.16352129028713167,0.0669237896688937,0.014549780337675587,973,*
+smr,Standartlaştırılmış ölüm oranı,B2,il SE + eğitim + göç,-0.28738733467787153,0.04223046192616115,1.0089907223985014e-11,973,***
+smr,Standartlaştırılmış ölüm oranı,B2,+ ln yoğunluk,-0.23312119318382574,0.051362891985867895,5.659982078995309e-06,973,***
+smr,Standartlaştırılmış ölüm oranı,B2,+ kentsellik ve yaş yapısı,-0.15748862913505643,0.04741664638727615,0.000895739775868115,973,***
+smr,Standartlaştırılmış ölüm oranı,B3,il SE + eğitim + göç,0.14960699644991504,0.046408185433784846,0.0012653705055209036,973,**
+smr,Standartlaştırılmış ölüm oranı,B3,+ ln yoğunluk,0.11347582498374352,0.0417718391732313,0.006596367672057495,973,**
+smr,Standartlaştırılmış ölüm oranı,B3,+ kentsellik ve yaş yapısı,0.06632822262401233,0.033378189377291395,0.046903275595655505,973,*
+smr,Standartlaştırılmış ölüm oranı,B4,il SE + eğitim + göç,0.23632227774885503,0.0656555603074143,0.00031892136116652193,973,***
+smr,Standartlaştırılmış ölüm oranı,B4,+ ln yoğunluk,0.18482277957661852,0.06677500059562244,0.005642847223316783,973,**
+smr,Standartlaştırılmış ölüm oranı,B4,+ kentsellik ve yaş yapısı,0.15146679417884396,0.06000073853861937,0.011589086352438702,973,*
+smr,Standartlaştırılmış ölüm oranı,B5,il SE + eğitim + göç,0.32376088522768254,0.028843387863251083,3.081280074023956e-29,973,***
+smr,Standartlaştırılmış ölüm oranı,B5,+ ln yoğunluk,0.29101730089179767,0.04795887503441258,1.2946505245023618e-09,973,***
+smr,Standartlaştırılmış ölüm oranı,B5,+ kentsellik ve yaş yapısı,0.24444111824916723,0.03944522038355518,5.755795643496678e-10,973,***
+smr,Standartlaştırılmış ölüm oranı,B6,il SE + eğitim + göç,0.34851437846348243,0.03824168053774042,7.978886322731323e-20,973,***
+smr,Standartlaştırılmış ölüm oranı,B6,+ ln yoğunluk,0.33176116329298677,0.0603448690665675,3.846619885615837e-08,973,***
+smr,Standartlaştırılmış ölüm oranı,B6,+ kentsellik ve yaş yapısı,0.24590664618306435,0.060631973166280675,4.9978904829644046e-05,973,***
+smr,Standartlaştırılmış ölüm oranı,pm25,il SE + eğitim + göç,0.36710200460346515,0.05152574231317343,1.0435836861409178e-12,973,***
+smr,Standartlaştırılmış ölüm oranı,pm25,+ ln yoğunluk,0.3078422266793609,0.06325463999304524,1.1346918642785411e-06,973,***
+smr,Standartlaştırılmış ölüm oranı,pm25,+ kentsellik ve yaş yapısı,0.22686745944542872,0.0597079863942479,0.00014492008466945338,973,***
+smr,Standartlaştırılmış ölüm oranı,agac300,il SE + eğitim + göç,-0.3426436181699945,0.07517446124080282,5.164819190493234e-06,973,***
+smr,Standartlaştırılmış ölüm oranı,agac300,+ ln yoğunluk,-0.2853909847158843,0.08918985856094495,0.0013751615958695258,973,**
+smr,Standartlaştırılmış ölüm oranı,agac300,+ kentsellik ve yaş yapısı,-0.1390194649792116,0.07504450109308558,0.06395496237582683,973,†
+smr,Standartlaştırılmış ölüm oranı,lst,il SE + eğitim + göç,0.21470288903548382,0.14327206622680297,0.13398582047971636,973,
+smr,Standartlaştırılmış ölüm oranı,lst,+ ln yoğunluk,0.13545968721657156,0.15400633674096106,0.3790911227035836,973,
+smr,Standartlaştırılmış ölüm oranı,lst,+ kentsellik ve yaş yapısı,-0.07240777411577257,0.16079409983976412,0.6524843153791712,973,
+smr,Standartlaştırılmış ölüm oranı,lst_fark,il SE + eğitim + göç,0.08546518526018138,0.03498365982020982,0.014565616930703086,973,*
+smr,Standartlaştırılmış ölüm oranı,lst_fark,+ ln yoğunluk,0.06848566925233515,0.03451963340810705,0.04725998483811903,973,*
+smr,Standartlaştırılmış ölüm oranı,lst_fark,+ kentsellik ve yaş yapısı,0.041901631385717994,0.035780676701826525,0.24157115447926825,973,
+smr,Standartlaştırılmış ölüm oranı,yapili300,il SE + eğitim + göç,0.42948554764801045,0.06477072885564923,3.337397147885779e-11,973,***
+smr,Standartlaştırılmış ölüm oranı,yapili300,+ ln yoğunluk,0.39695716883904697,0.08208435787290089,1.325005294740631e-06,973,***
+smr,Standartlaştırılmış ölüm oranı,yapili300,+ kentsellik ve yaş yapısı,0.26975188152049023,0.0719095167686275,0.00017594238980236538,973,***
+tdh_ilce,Toplam doğurganlık hızı,FUE_lite,il SE + eğitim + göç,-0.02927333164837942,0.037452120854056394,0.4344378518482781,973,
+tdh_ilce,Toplam doğurganlık hızı,FUE_lite,+ ln yoğunluk,-0.02327422184544244,0.04478400180904343,0.6032730588464807,973,
+tdh_ilce,Toplam doğurganlık hızı,FUE_lite,+ kentsellik ve yaş yapısı,-0.09922547768770479,0.03654582944351597,0.006625632923135933,973,**
+tdh_ilce,Toplam doğurganlık hızı,FUE_lite_yuksekliksiz,il SE + eğitim + göç,-0.011665258337248083,0.03690150225267737,0.751912343163406,973,
+tdh_ilce,Toplam doğurganlık hızı,FUE_lite_yuksekliksiz,+ ln yoğunluk,0.005148701727934513,0.04603621468505458,0.9109500733649258,973,
+tdh_ilce,Toplam doğurganlık hızı,FUE_lite_yuksekliksiz,+ kentsellik ve yaş yapısı,-0.12398834991647663,0.03609940308229511,0.0005933477948239132,973,***
+tdh_ilce,Toplam doğurganlık hızı,E_lite,il SE + eğitim + göç,-0.018096136219510044,0.038856712705475534,0.6414198408664313,973,
+tdh_ilce,Toplam doğurganlık hızı,E_lite,+ ln yoğunluk,-0.00650035650813986,0.04389895674455024,0.8822832466674241,973,
+tdh_ilce,Toplam doğurganlık hızı,E_lite,+ kentsellik ve yaş yapısı,-0.11636884506561507,0.03927746826181469,0.0030491605156565734,973,**
+tdh_ilce,Toplam doğurganlık hızı,C_lite,il SE + eğitim + göç,-0.017700577283082122,0.03834157493742111,0.6443287929150032,973,
+tdh_ilce,Toplam doğurganlık hızı,C_lite,+ ln yoğunluk,-0.01920612104843066,0.037850964393858794,0.6118641458695881,973,
+tdh_ilce,Toplam doğurganlık hızı,C_lite,+ kentsellik ve yaş yapısı,0.056038069994535304,0.040779870006506375,0.16939198660545307,973,
+tdh_ilce,Toplam doğurganlık hızı,C_lite_v2,il SE + eğitim + göç,-0.10349393590880628,0.04068953336452035,0.010974722473446712,973,*
+tdh_ilce,Toplam doğurganlık hızı,C_lite_v2,+ ln yoğunluk,-0.12121068540547972,0.03553153091090886,0.0006464073969526924,973,***
+tdh_ilce,Toplam doğurganlık hızı,C_lite_v2,+ kentsellik ve yaş yapısı,0.05287772553415186,0.04961339225584972,0.28651613814940324,973,
+tdh_ilce,Toplam doğurganlık hızı,FUE_lite_v2,il SE + eğitim + göç,-0.08404845313873717,0.03825676364450959,0.028023538915227825,973,*
+tdh_ilce,Toplam doğurganlık hızı,FUE_lite_v2,+ ln yoğunluk,-0.09134496419911282,0.044165041240653034,0.03861520640809163,973,*
+tdh_ilce,Toplam doğurganlık hızı,FUE_lite_v2,+ kentsellik ve yaş yapısı,-0.1004849255385049,0.04131740485107199,0.01501470703966511,973,*
+tdh_ilce,Toplam doğurganlık hızı,B1,il SE + eğitim + göç,-0.0013646676217450755,0.03328265546286126,0.9672940096306917,973,
+tdh_ilce,Toplam doğurganlık hızı,B1,+ ln yoğunluk,0.015723706250460046,0.03697970397364803,0.6706921433373202,973,
+tdh_ilce,Toplam doğurganlık hızı,B1,+ kentsellik ve yaş yapısı,-0.09435389413066508,0.04448335805788071,0.033912927682342164,973,*
+tdh_ilce,Toplam doğurganlık hızı,B2,il SE + eğitim + göç,-0.019612051660881438,0.035312542289219796,0.5786314401189384,973,
+tdh_ilce,Toplam doğurganlık hızı,B2,+ ln yoğunluk,-0.028939295766606782,0.034906713237435355,0.4070779765017175,973,
+tdh_ilce,Toplam doğurganlık hızı,B2,+ kentsellik ve yaş yapısı,0.050044267275812716,0.03943837686039493,0.20446849390767186,973,
+tdh_ilce,Toplam doğurganlık hızı,B3,il SE + eğitim + göç,-0.006019983287016283,0.030177939666279966,0.8418850088754325,973,
+tdh_ilce,Toplam doğurganlık hızı,B3,+ ln yoğunluk,-0.0023892459758723286,0.029929380577644493,0.9363729017359268,973,
+tdh_ilce,Toplam doğurganlık hızı,B3,+ kentsellik ve yaş yapısı,-0.04337000304898395,0.023429563264296578,0.06415800141684036,973,†
+tdh_ilce,Toplam doğurganlık hızı,B4,il SE + eğitim + göç,-0.03730770951091746,0.05528069511018018,0.4997534564346765,973,
+tdh_ilce,Toplam doğurganlık hızı,B4,+ ln yoğunluk,-0.03311029139772229,0.0581064591458897,0.5687989854054943,973,
+tdh_ilce,Toplam doğurganlık hızı,B4,+ kentsellik ve yaş yapısı,-0.046432617033818464,0.05577762341812815,0.4051495834375507,973,
+tdh_ilce,Toplam doğurganlık hızı,B5,il SE + eğitim + göç,-0.0682523421951159,0.030961576246680413,0.027494765299189164,973,*
+tdh_ilce,Toplam doğurganlık hızı,B5,+ ln yoğunluk,-0.07932544816435222,0.032539925917804545,0.014777428519715502,973,*
+tdh_ilce,Toplam doğurganlık hızı,B5,+ kentsellik ve yaş yapısı,-0.11284850484865719,0.030676610928708527,0.00023447207342273965,973,***
+tdh_ilce,Toplam doğurganlık hızı,B6,il SE + eğitim + göç,0.039278028760529875,0.03698624257822897,0.2882523888977052,973,
+tdh_ilce,Toplam doğurganlık hızı,B6,+ ln yoğunluk,0.09141215536359705,0.045866375788266404,0.046260328791450846,973,*
+tdh_ilce,Toplam doğurganlık hızı,B6,+ kentsellik ve yaş yapısı,-0.0325862514076451,0.03719231633797521,0.38094552069043286,973,
+tdh_ilce,Toplam doğurganlık hızı,pm25,il SE + eğitim + göç,0.010358228076702234,0.06691248391062425,0.8769769226270077,973,
+tdh_ilce,Toplam doğurganlık hızı,pm25,+ ln yoğunluk,0.020972988240376238,0.06621733044055407,0.7514487906376207,973,
+tdh_ilce,Toplam doğurganlık hızı,pm25,+ kentsellik ve yaş yapısı,-0.07248447235024033,0.0629990528896074,0.2499114540864552,973,
+tdh_ilce,Toplam doğurganlık hızı,agac300,il SE + eğitim + göç,-0.21564479037380424,0.05114383222296509,2.481916393793796e-05,973,***
+tdh_ilce,Toplam doğurganlık hızı,agac300,+ ln yoğunluk,-0.23184680644624162,0.04836545214974528,1.637780086568871e-06,973,***
+tdh_ilce,Toplam doğurganlık hızı,agac300,+ kentsellik ve yaş yapısı,-0.07138397861092836,0.04349954937634125,0.10079160258752853,973,
+tdh_ilce,Toplam doğurganlık hızı,lst,il SE + eğitim + göç,0.12324582225229382,0.1706904973982263,0.4702682445957087,973,
+tdh_ilce,Toplam doğurganlık hızı,lst,+ ln yoğunluk,0.13563234128122334,0.17204256555474343,0.4304832232999303,973,
+tdh_ilce,Toplam doğurganlık hızı,lst,+ kentsellik ve yaş yapısı,-0.09600374569064969,0.21112827568989964,0.6493124075284853,973,
+tdh_ilce,Toplam doğurganlık hızı,lst_fark,il SE + eğitim + göç,0.03277540538718267,0.020623255345525882,0.11200509115936375,973,
+tdh_ilce,Toplam doğurganlık hızı,lst_fark,+ ln yoğunluk,0.034755860472297645,0.02109457232054616,0.0994304670857504,973,†
+tdh_ilce,Toplam doğurganlık hızı,lst_fark,+ kentsellik ve yaş yapısı,-0.002207422800339978,0.021415670003332755,0.9179033495287193,973,
+tdh_ilce,Toplam doğurganlık hızı,yapili300,il SE + eğitim + göç,0.07111915874944931,0.0404813392413547,0.07894541046335683,973,†
+tdh_ilce,Toplam doğurganlık hızı,yapili300,+ ln yoğunluk,0.10671596679242419,0.03859601124076764,0.0056931858334997336,973,**
+tdh_ilce,Toplam doğurganlık hızı,yapili300,+ kentsellik ve yaş yapısı,-0.09440217751809662,0.03675794713045991,0.010222480444802933,973,*
+tek_kisi_pay,Tek kişilik hane (%),FUE_lite,il SE + eğitim + göç,-0.2784486237136364,0.08015016498517294,0.0005125953385274359,973,***
+tek_kisi_pay,Tek kişilik hane (%),FUE_lite,+ ln yoğunluk,-0.12092353543265412,0.07602637090658455,0.11171150317328901,973,
+tek_kisi_pay,Tek kişilik hane (%),FUE_lite,+ kentsellik ve yaş yapısı,0.025984227036540776,0.03324969344458516,0.4345156979111925,973,
+tek_kisi_pay,Tek kişilik hane (%),FUE_lite_yuksekliksiz,il SE + eğitim + göç,-0.3688037029635983,0.07901702387977334,3.0504178173071987e-06,973,***
+tek_kisi_pay,Tek kişilik hane (%),FUE_lite_yuksekliksiz,+ ln yoğunluk,-0.23458482090860136,0.0854457373575348,0.006043267071340255,973,**
+tek_kisi_pay,Tek kişilik hane (%),FUE_lite_yuksekliksiz,+ kentsellik ve yaş yapısı,0.006157570176233129,0.03993460290472427,0.8774588654360826,973,
+tek_kisi_pay,Tek kişilik hane (%),E_lite,il SE + eğitim + göç,-0.3371396153029276,0.07989176032277913,2.443513340355341e-05,973,***
+tek_kisi_pay,Tek kişilik hane (%),E_lite,+ ln yoğunluk,-0.1927933146107188,0.0758060796232171,0.010982868060261728,973,*
+tek_kisi_pay,Tek kişilik hane (%),E_lite,+ kentsellik ve yaş yapısı,0.014082346824242652,0.03818321230079526,0.7122694227362574,973,
+tek_kisi_pay,Tek kişilik hane (%),C_lite,il SE + eğitim + göç,0.18264623627275056,0.05924751982161043,0.0020508638992363434,973,**
+tek_kisi_pay,Tek kişilik hane (%),C_lite,+ ln yoğunluk,0.16182868093677827,0.04792341488993586,0.0007332938126549186,973,***
+tek_kisi_pay,Tek kişilik hane (%),C_lite,+ kentsellik ve yaş yapısı,0.015472235709331839,0.02811018026278001,0.5820354740088497,973,
+tek_kisi_pay,Tek kişilik hane (%),C_lite_v2,il SE + eğitim + göç,0.4516390962551519,0.060855121885828416,1.1576089234311152e-13,973,***
+tek_kisi_pay,Tek kişilik hane (%),C_lite_v2,+ ln yoğunluk,0.37468145352240984,0.04967078438559957,4.582377068269522e-14,973,***
+tek_kisi_pay,Tek kişilik hane (%),C_lite_v2,+ kentsellik ve yaş yapısı,0.0505786804081899,0.04066049694900506,0.21352651790724164,973,
+tek_kisi_pay,Tek kişilik hane (%),FUE_lite_v2,il SE + eğitim + göç,-0.14367129352060296,0.08735195796152771,0.10002335943310582,973,
+tek_kisi_pay,Tek kişilik hane (%),FUE_lite_v2,+ ln yoğunluk,0.03783796409574197,0.06723445594715745,0.573587162411467,973,
+tek_kisi_pay,Tek kişilik hane (%),FUE_lite_v2,+ kentsellik ve yaş yapısı,0.052114483032104614,0.02910584421721947,0.07337097939419089,973,†
+tek_kisi_pay,Tek kişilik hane (%),B1,il SE + eğitim + göç,-0.3479891687030153,0.07992035270971898,1.3355397321911795e-05,973,***
+tek_kisi_pay,Tek kişilik hane (%),B1,+ ln yoğunluk,-0.22626469488879553,0.07986334414247201,0.004609200205544665,973,**
+tek_kisi_pay,Tek kişilik hane (%),B1,+ kentsellik ve yaş yapısı,-0.017362309809762066,0.03856752416676293,0.6525809967309335,973,
+tek_kisi_pay,Tek kişilik hane (%),B2,il SE + eğitim + göç,0.2598342031644977,0.06172140283382143,2.556070835531536e-05,973,***
+tek_kisi_pay,Tek kişilik hane (%),B2,+ ln yoğunluk,0.1708131455435823,0.0497477403576594,0.0005956531803057688,973,***
+tek_kisi_pay,Tek kişilik hane (%),B2,+ kentsellik ve yaş yapısı,0.014197253389180646,0.031048808740666966,0.6474870677253867,973,
+tek_kisi_pay,Tek kişilik hane (%),B3,il SE + eğitim + göç,-0.13619488875984437,0.06605270990155461,0.03921609527476193,973,*
+tek_kisi_pay,Tek kişilik hane (%),B3,+ ln yoğunluk,-0.08358539688391277,0.04701612771809412,0.07543627160068318,973,†
+tek_kisi_pay,Tek kişilik hane (%),B3,+ kentsellik ve yaş yapısı,-0.0012208657728901358,0.025825548661411794,0.962295195990053,973,
+tek_kisi_pay,Tek kişilik hane (%),B4,il SE + eğitim + göç,-0.04420474442471491,0.07041364611989302,0.530143736776004,973,
+tek_kisi_pay,Tek kişilik hane (%),B4,+ ln yoğunluk,0.04121144675196007,0.05847546459515089,0.4809566426246039,973,
+tek_kisi_pay,Tek kişilik hane (%),B4,+ kentsellik ve yaş yapısı,0.06593932492546582,0.03123578523384168,0.03477070955534819,973,*
+tek_kisi_pay,Tek kişilik hane (%),B5,il SE + eğitim + göç,-0.17963892407056775,0.056836279983323246,0.0015742384398777026,973,**
+tek_kisi_pay,Tek kişilik hane (%),B5,+ ln yoğunluk,-0.03000586910441511,0.05079147517853559,0.5546773181921502,973,
+tek_kisi_pay,Tek kişilik hane (%),B5,+ kentsellik ve yaş yapısı,0.030699267318225445,0.030875219463872297,0.32007625868333067,973,
+tek_kisi_pay,Tek kişilik hane (%),B6,il SE + eğitim + göç,-0.3845680149229553,0.06227979963437143,6.622904749642741e-10,973,***
+tek_kisi_pay,Tek kişilik hane (%),B6,+ ln yoğunluk,-0.2878432631959216,0.06103400508353646,2.40392988498101e-06,973,***
+tek_kisi_pay,Tek kişilik hane (%),B6,+ kentsellik ve yaş yapısı,-0.03853419262897363,0.034472313733552765,0.26363952965110027,973,
+tek_kisi_pay,Tek kişilik hane (%),pm25,il SE + eğitim + göç,-0.3636901708244678,0.05140592211521825,1.4958987872600942e-12,973,***
+tek_kisi_pay,Tek kişilik hane (%),pm25,+ ln yoğunluk,-0.2636900740312946,0.047608252212186855,3.046430002334583e-08,973,***
+tek_kisi_pay,Tek kişilik hane (%),pm25,+ kentsellik ve yaş yapısı,-0.0834271995993415,0.03990291727189152,0.036550086281199524,973,*
+tek_kisi_pay,Tek kişilik hane (%),agac300,il SE + eğitim + göç,0.42607125056879924,0.07019984374330544,1.2838537383096268e-09,973,***
+tek_kisi_pay,Tek kişilik hane (%),agac300,+ ln yoğunluk,0.3433095285154178,0.0560144659675557,8.846422000980732e-10,973,***
+tek_kisi_pay,Tek kişilik hane (%),agac300,+ kentsellik ve yaş yapısı,-0.014896490275549961,0.034847274933729085,0.6690302260688591,973,
+tek_kisi_pay,Tek kişilik hane (%),lst,il SE + eğitim + göç,-0.6598222980918169,0.09896750414230622,2.6097824294316067e-11,973,***
+tek_kisi_pay,Tek kişilik hane (%),lst,+ ln yoğunluk,-0.5607586905509604,0.07215654795607222,7.761235888984698e-15,973,***
+tek_kisi_pay,Tek kişilik hane (%),lst,+ kentsellik ve yaş yapısı,-0.11911440346270138,0.03792965265615548,0.0016871544016138695,973,**
+tek_kisi_pay,Tek kişilik hane (%),lst_fark,il SE + eğitim + göç,-0.13208086632597302,0.027273509019593748,1.2800519416652185e-06,973,***
+tek_kisi_pay,Tek kişilik hane (%),lst_fark,+ ln yoğunluk,-0.10835426086476926,0.02342867076347385,3.7485624155450205e-06,973,***
+tek_kisi_pay,Tek kişilik hane (%),lst_fark,+ kentsellik ve yaş yapısı,-0.03148138790964638,0.017610195915957586,0.07382771557974041,973,†
+tek_kisi_pay,Tek kişilik hane (%),yapili300,il SE + eğitim + göç,-0.4823301800605109,0.055440369163037705,3.3193860046084843e-18,973,***
+tek_kisi_pay,Tek kişilik hane (%),yapili300,+ ln yoğunluk,-0.4015890216173365,0.05595536203819268,7.128200923019143e-13,973,***
+tek_kisi_pay,Tek kişilik hane (%),yapili300,+ kentsellik ve yaş yapısı,-0.046085797208057125,0.05346170013033855,0.38866887009040096,973,
+genis_aile_pay,Geniş aile hanesi (%),FUE_lite,il SE + eğitim + göç,-0.02699731118996347,0.040985682260109964,0.5100877703486133,973,
+genis_aile_pay,Geniş aile hanesi (%),FUE_lite,+ ln yoğunluk,-0.033365921959627995,0.04913885575006999,0.4971296236824856,973,
+genis_aile_pay,Geniş aile hanesi (%),FUE_lite,+ kentsellik ve yaş yapısı,-0.07179511336678258,0.05215461036780315,0.16864142710731178,973,
+genis_aile_pay,Geniş aile hanesi (%),FUE_lite_yuksekliksiz,il SE + eğitim + göç,-0.015858361753443514,0.043744996913453925,0.7169647535527772,973,
+genis_aile_pay,Geniş aile hanesi (%),FUE_lite_yuksekliksiz,+ ln yoğunluk,-0.018224100853482583,0.05479716701451273,0.7394560398332701,973,
+genis_aile_pay,Geniş aile hanesi (%),FUE_lite_yuksekliksiz,+ kentsellik ve yaş yapısı,-0.09070918884270561,0.06001517658336559,0.13067701949146276,973,
+genis_aile_pay,Geniş aile hanesi (%),E_lite,il SE + eğitim + göç,-0.03104190339267603,0.04541357929431764,0.49426699924382234,973,
+genis_aile_pay,Geniş aile hanesi (%),E_lite,+ ln yoğunluk,-0.03790851182804056,0.05397642109975681,0.4824820287418069,973,
+genis_aile_pay,Geniş aile hanesi (%),E_lite,+ kentsellik ve yaş yapısı,-0.09815603426901244,0.05903061539504936,0.09635272430779955,973,†
+genis_aile_pay,Geniş aile hanesi (%),C_lite,il SE + eğitim + göç,0.023654044394534997,0.05022336053327217,0.6376572062563635,973,
+genis_aile_pay,Geniş aile hanesi (%),C_lite,+ ln yoğunluk,0.023309332410010746,0.05022692832816771,0.6425901519588685,973,
+genis_aile_pay,Geniş aile hanesi (%),C_lite,+ kentsellik ve yaş yapısı,0.06420982967250502,0.04506579642079939,0.15421449023268183,973,
+genis_aile_pay,Geniş aile hanesi (%),C_lite_v2,il SE + eğitim + göç,-0.0596182512100477,0.04186423915385066,0.15442175604450528,973,
+genis_aile_pay,Geniş aile hanesi (%),C_lite_v2,+ ln yoğunluk,-0.06755078135948737,0.04279001381485778,0.11441461058136382,973,
+genis_aile_pay,Geniş aile hanesi (%),C_lite_v2,+ kentsellik ve yaş yapısı,0.04503335856075103,0.0485717705133592,0.3538482150352046,973,
+genis_aile_pay,Geniş aile hanesi (%),FUE_lite_v2,il SE + eğitim + göç,-0.0760438041192613,0.04325629411753575,0.07875050254990176,973,†
+genis_aile_pay,Geniş aile hanesi (%),FUE_lite_v2,+ ln yoğunluk,-0.09169115732370665,0.047877048631199154,0.05547490104147574,973,†
+genis_aile_pay,Geniş aile hanesi (%),FUE_lite_v2,+ kentsellik ve yaş yapısı,-0.08086225752152715,0.04662545788878029,0.08286591001486171,973,†
+genis_aile_pay,Geniş aile hanesi (%),B1,il SE + eğitim + göç,0.015522812328621122,0.05398179399996941,0.773686295398831,973,
+genis_aile_pay,Geniş aile hanesi (%),B1,+ ln yoğunluk,0.026926003821811588,0.06283573608754746,0.6682768132079044,973,
+genis_aile_pay,Geniş aile hanesi (%),B1,+ kentsellik ve yaş yapısı,-0.036160288788304476,0.06711597451954689,0.5900433535971372,973,
+genis_aile_pay,Geniş aile hanesi (%),B2,il SE + eğitim + göç,0.002011602221041223,0.046306585262693434,0.9653500322585222,973,
+genis_aile_pay,Geniş aile hanesi (%),B2,+ ln yoğunluk,-3.043446667004106e-05,0.04831846408514195,0.999497434574414,973,
+genis_aile_pay,Geniş aile hanesi (%),B2,+ kentsellik ve yaş yapısı,0.04915011862774038,0.043078613701664804,0.2538948429168413,973,
+genis_aile_pay,Geniş aile hanesi (%),B3,il SE + eğitim + göç,-0.029527329387920395,0.03864342459197926,0.4448093692132443,973,
+genis_aile_pay,Geniş aile hanesi (%),B3,+ ln yoğunluk,-0.029171593678066828,0.04016179529203775,0.46762311053795436,973,
+genis_aile_pay,Geniş aile hanesi (%),B3,+ kentsellik ve yaş yapısı,-0.05172803274912702,0.04530769509634016,0.2535765634181255,973,
+genis_aile_pay,Geniş aile hanesi (%),B4,il SE + eğitim + göç,-0.08605444103683635,0.05190070254438004,0.09730550357589632,973,†
+genis_aile_pay,Geniş aile hanesi (%),B4,+ ln yoğunluk,-0.08824961232691628,0.051666391723601705,0.0876240778101733,973,†
+genis_aile_pay,Geniş aile hanesi (%),B4,+ kentsellik ve yaş yapısı,-0.08166612306940041,0.04812728557667236,0.08971976358617406,973,†
+genis_aile_pay,Geniş aile hanesi (%),B5,il SE + eğitim + göç,-0.03123643960153566,0.02688151245429444,0.24523361947299038,973,
+genis_aile_pay,Geniş aile hanesi (%),B5,+ ln yoğunluk,-0.038714079935041605,0.03677045385021024,0.2924059103655665,973,
+genis_aile_pay,Geniş aile hanesi (%),B5,+ kentsellik ve yaş yapısı,-0.04336583978010314,0.041660830026739995,0.29790990909439585,973,
+genis_aile_pay,Geniş aile hanesi (%),B6,il SE + eğitim + göç,0.026084565058870763,0.042362856131799465,0.5380651975592002,973,
+genis_aile_pay,Geniş aile hanesi (%),B6,+ ln yoğunluk,0.05156068237065713,0.06029636089778871,0.39248418389051765,973,
+genis_aile_pay,Geniş aile hanesi (%),B6,+ kentsellik ve yaş yapısı,-0.044815909912578326,0.06292177265808643,0.476311186918843,973,
+genis_aile_pay,Geniş aile hanesi (%),pm25,il SE + eğitim + göç,0.04197493123650839,0.0702429084302096,0.5501280606052767,973,
+genis_aile_pay,Geniş aile hanesi (%),pm25,+ ln yoğunluk,0.04940382451969683,0.07474566421311454,0.5086385640771731,973,
+genis_aile_pay,Geniş aile hanesi (%),pm25,+ kentsellik ve yaş yapısı,-0.009124144082748923,0.07009525323028934,0.8964336789351419,973,
+genis_aile_pay,Geniş aile hanesi (%),agac300,il SE + eğitim + göç,-0.14381590500308877,0.07889841877999194,0.0683339426679625,973,†
+genis_aile_pay,Geniş aile hanesi (%),agac300,+ ln yoğunluk,-0.15206864324240754,0.08045073830873566,0.05873012376818038,973,†
+genis_aile_pay,Geniş aile hanesi (%),agac300,+ kentsellik ve yaş yapısı,-0.03730827079921375,0.08511794463667816,0.6611596662753084,973,
+genis_aile_pay,Geniş aile hanesi (%),lst,il SE + eğitim + göç,0.10350434402673546,0.07426252289864672,0.16338923622607082,973,
+genis_aile_pay,Geniş aile hanesi (%),lst,+ ln yoğunluk,0.10942722063839602,0.07535106589388682,0.14643713910408773,973,
+genis_aile_pay,Geniş aile hanesi (%),lst,+ kentsellik ve yaş yapısı,-0.06423659597266941,0.08388836630239424,0.4438316005638012,973,
+genis_aile_pay,Geniş aile hanesi (%),lst_fark,il SE + eğitim + göç,0.025334331038705214,0.02716148732249785,0.35095944893501063,973,
+genis_aile_pay,Geniş aile hanesi (%),lst_fark,+ ln yoğunluk,0.02605842975677381,0.027959279563262416,0.3513294793244347,973,
+genis_aile_pay,Geniş aile hanesi (%),lst_fark,+ kentsellik ve yaş yapısı,-0.006084063446304438,0.023185733583015466,0.7930088516901973,973,
+genis_aile_pay,Geniş aile hanesi (%),yapili300,il SE + eğitim + göç,0.06660383346712814,0.04585438525833089,0.14636057577194198,973,
+genis_aile_pay,Geniş aile hanesi (%),yapili300,+ ln yoğunluk,0.09034933032067527,0.05262706839843342,0.08601857135418894,973,†
+genis_aile_pay,Geniş aile hanesi (%),yapili300,+ kentsellik ve yaş yapısı,-0.025851090043451538,0.06651269168515464,0.6975247026027882,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),FUE_lite,il SE + eğitim + göç,-0.0821654972242333,0.06738551034308599,0.22271714855773805,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),FUE_lite,+ ln yoğunluk,-0.03936506783473903,0.08153127870124051,0.629222365525741,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),FUE_lite,+ kentsellik ve yaş yapısı,0.11929452806281912,0.04510737118295186,0.008176838805131138,973,**
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),FUE_lite_yuksekliksiz,il SE + eğitim + göç,-0.14354877520209305,0.06738163644529406,0.03313990525568364,973,*
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),FUE_lite_yuksekliksiz,+ ln yoğunluk,-0.12892325951596176,0.09345380769441324,0.1677283431493416,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),FUE_lite_yuksekliksiz,+ kentsellik ve yaş yapısı,0.13364459149815366,0.055471216530361474,0.01598489908895561,973,*
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),E_lite,il SE + eğitim + göç,-0.14329404606543655,0.06627843776251341,0.03061810220088327,973,*
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),E_lite,+ ln yoğunluk,-0.12184294201050322,0.08202263845268729,0.13741686908893605,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),E_lite,+ kentsellik ve yaş yapısı,0.10112392222241727,0.05887980571858163,0.08589450242232285,973,†
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),C_lite,il SE + eğitim + göç,0.2159770074179713,0.0508200733771553,2.139265223363502e-05,973,***
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),C_lite,+ ln yoğunluk,0.21066023909352252,0.05236893476934716,5.75547120455385e-05,973,***
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),C_lite,+ kentsellik ve yaş yapısı,0.060516012772933184,0.06024460247352696,0.31513519552535274,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),C_lite_v2,il SE + eğitim + göç,0.33793243371184806,0.056973681100566456,3.0040289053425487e-09,973,***
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),C_lite_v2,+ ln yoğunluk,0.33592141276866405,0.05947869169113811,1.6255129913588945e-08,973,***
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),C_lite_v2,+ kentsellik ve yaş yapısı,-0.007723488016822661,0.07263953436516929,0.9153235190646929,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),FUE_lite_v2,il SE + eğitim + göç,0.0006895716184519577,0.0663238672128145,0.9917045151523924,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),FUE_lite_v2,+ ln yoğunluk,0.0626953339622995,0.06898540916153582,0.363445037388329,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),FUE_lite_v2,+ kentsellik ve yaş yapısı,0.08515974736924795,0.04291137122912784,0.04719459732182487,973,*
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B1,il SE + eğitim + göç,-0.1501558285404031,0.06717871530830558,0.025406210290582234,973,*
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B1,+ ln yoğunluk,-0.13671925398845508,0.09529663122709654,0.15138104901329272,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B1,+ kentsellik ve yaş yapısı,0.087094566024025,0.0635012034019736,0.17020606745125588,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B2,il SE + eğitim + göç,0.19416753725486682,0.048619316318936755,6.506950607219513e-05,973,***
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B2,+ ln yoğunluk,0.1798768420812521,0.06500738809702315,0.005657102000121958,973,**
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B2,+ kentsellik ve yaş yapısı,0.019822049069439858,0.06612921364644103,0.764369964456932,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B3,il SE + eğitim + göç,-0.07612218196021409,0.06572308715106198,0.24677186027277465,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B3,+ ln yoğunluk,-0.062252654199463874,0.06313529791187053,0.3241233938229837,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B3,+ kentsellik ve yaş yapısı,0.023890533412933977,0.0330945666154833,0.4703640287559794,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B4,il SE + eğitim + göç,-0.013478952560136979,0.05483538899495521,0.8058312131720121,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B4,+ ln yoğunluk,0.01055809177315037,0.05562680992065043,0.8494641196107908,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B4,+ kentsellik ve yaş yapısı,0.04240908343195736,0.04683875646708339,0.3652391190533878,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B5,il SE + eğitim + göç,-0.045611273358430564,0.05443779135992211,0.40210907320072786,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B5,+ ln yoğunluk,-0.0015215577356461792,0.05604564910830536,0.9783412569999116,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B5,+ kentsellik ve yaş yapısı,0.06845785651041666,0.04395215457106332,0.11933899762486708,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B6,il SE + eğitim + göç,-0.12049530500530334,0.044465632572948305,0.00673131381306798,973,**
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B6,+ ln yoğunluk,-0.10165971393785808,0.06409223689930135,0.11270595078749947,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),B6,+ kentsellik ve yaş yapısı,0.16382825765489759,0.05631558554519767,0.0036245879731290863,973,**
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),pm25,il SE + eğitim + göç,-0.17412883318546654,0.05640535200469892,0.002021211446922024,973,**
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),pm25,+ ln yoğunluk,-0.15386665783975037,0.057261861682970844,0.00720817425710391,973,**
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),pm25,+ kentsellik ve yaş yapısı,0.03604131829441712,0.07001560255656075,0.6067198745221136,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),agac300,il SE + eğitim + göç,0.37071675804360515,0.07451176955154175,6.515411003469313e-07,973,***
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),agac300,+ ln yoğunluk,0.35826860988661574,0.07414516387836177,1.351757839029042e-06,973,***
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),agac300,+ kentsellik ve yaş yapısı,0.0011179259820026824,0.0571300931505748,0.9843879309328828,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),lst,il SE + eğitim + göç,-0.47632319349340924,0.09288792805272442,2.929386089912531e-07,973,***
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),lst,+ ln yoğunluk,-0.4582586125637222,0.09568662379049574,1.6748037067670838e-06,973,***
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),lst,+ kentsellik ve yaş yapısı,-0.004869139278401238,0.08028310310617573,0.9516382593236117,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),lst_fark,il SE + eğitim + göç,-0.16174165726162887,0.05263492550228889,0.002119922841220121,973,**
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),lst_fark,+ ln yoğunluk,-0.15618537216708364,0.05846797316968409,0.007555856377516265,973,**
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),lst_fark,+ kentsellik ve yaş yapısı,-0.08300438831102384,0.0509669671765425,0.10339944678081475,973,
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),yapili300,il SE + eğitim + göç,-0.27298809982214767,0.06468200751736497,2.437997281814789e-05,973,***
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),yapili300,+ ln yoğunluk,-0.2900652743889417,0.06721265034875047,1.5914466869358413e-05,973,***
+k2534_bekar_pay,25–34 yaş kadın hiç evlenmemiş (%),yapili300,+ kentsellik ve yaş yapısı,0.11325852882755612,0.07710617970984768,0.14186954964332804,973,
+bosanma_hiz,Boşanma hızı (‰),FUE_lite,il SE + eğitim + göç,0.09807949103709933,0.045784324360155525,0.03217684445867456,971,*
+bosanma_hiz,Boşanma hızı (‰),FUE_lite,+ ln yoğunluk,0.1078075491717026,0.03505302440907138,0.0021011027459303068,971,**
+bosanma_hiz,Boşanma hızı (‰),FUE_lite,+ kentsellik ve yaş yapısı,0.10666606657709007,0.03588281699916719,0.0029526742781680066,971,**
+bosanma_hiz,Boşanma hızı (‰),FUE_lite_yuksekliksiz,il SE + eğitim + göç,0.10935688067397606,0.05005376472294057,0.02890437063923698,971,*
+bosanma_hiz,Boşanma hızı (‰),FUE_lite_yuksekliksiz,+ ln yoğunluk,0.13156313392804836,0.04014376447329951,0.0010480518428125937,971,**
+bosanma_hiz,Boşanma hızı (‰),FUE_lite_yuksekliksiz,+ kentsellik ve yaş yapısı,0.13615912585845952,0.04101177937799223,0.0009001730405411102,971,***
+bosanma_hiz,Boşanma hızı (‰),E_lite,il SE + eğitim + göç,0.11985982640860063,0.051854676014281974,0.020807654863824746,971,*
+bosanma_hiz,Boşanma hızı (‰),E_lite,+ ln yoğunluk,0.13430445954833986,0.040514559442948996,0.0009165368512784889,971,***
+bosanma_hiz,Boşanma hızı (‰),E_lite,+ kentsellik ve yaş yapısı,0.13744417567431794,0.04245741331721489,0.0012069844754138866,971,**
+bosanma_hiz,Boşanma hızı (‰),C_lite,il SE + eğitim + göç,-0.10103115686771634,0.026189876858054705,0.0001144863844035605,971,***
+bosanma_hiz,Boşanma hızı (‰),C_lite,+ ln yoğunluk,-0.09880288808984371,0.026374570973050744,0.0001795749664927488,971,***
+bosanma_hiz,Boşanma hızı (‰),C_lite,+ kentsellik ve yaş yapısı,-0.09886387026199898,0.028441500890036244,0.0005088713432206262,971,***
+bosanma_hiz,Boşanma hızı (‰),C_lite_v2,il SE + eğitim + göç,-0.12572303467013873,0.03836128460600269,0.0010478950026079595,971,**
+bosanma_hiz,Boşanma hızı (‰),C_lite_v2,+ ln yoğunluk,-0.12320619890857033,0.03538432860775952,0.0004977905020417224,971,***
+bosanma_hiz,Boşanma hızı (‰),C_lite_v2,+ kentsellik ve yaş yapısı,-0.14743795976246044,0.03560706107683176,3.462559584189208e-05,971,***
+bosanma_hiz,Boşanma hızı (‰),FUE_lite_v2,il SE + eğitim + göç,0.08486357566571487,0.04375956498839334,0.0524630077045063,971,†
+bosanma_hiz,Boşanma hızı (‰),FUE_lite_v2,+ ln yoğunluk,0.08090596049481119,0.033127590266307676,0.014595909113534476,971,*
+bosanma_hiz,Boşanma hızı (‰),FUE_lite_v2,+ kentsellik ve yaş yapısı,0.07749096191495582,0.03383159210056054,0.02199286167678698,971,*
+bosanma_hiz,Boşanma hızı (‰),B1,il SE + eğitim + göç,0.1471305812440714,0.04390106511268302,0.0008040042357317817,971,***
+bosanma_hiz,Boşanma hızı (‰),B1,+ ln yoğunluk,0.17487288748681926,0.04037207367793795,1.4807611383076904e-05,971,***
+bosanma_hiz,Boşanma hızı (‰),B1,+ kentsellik ve yaş yapısı,0.18388673614650244,0.042349071105200004,1.4108426957812388e-05,971,***
+bosanma_hiz,Boşanma hızı (‰),B2,il SE + eğitim + göç,-0.10589857231994398,0.031493287948904596,0.0007721888394289704,971,***
+bosanma_hiz,Boşanma hızı (‰),B2,+ ln yoğunluk,-0.10192879593075276,0.02745083846194243,0.00020470387964286057,971,***
+bosanma_hiz,Boşanma hızı (‰),B2,+ kentsellik ve yaş yapısı,-0.10301958429693005,0.030093117745040768,0.0006185203726664405,971,***
+bosanma_hiz,Boşanma hızı (‰),B3,il SE + eğitim + göç,0.03764442831790646,0.020731457651711103,0.06939922523275349,971,†
+bosanma_hiz,Boşanma hızı (‰),B3,+ ln yoğunluk,0.03188196614224271,0.018780328212639225,0.08957844602427767,971,†
+bosanma_hiz,Boşanma hızı (‰),B3,+ kentsellik ve yaş yapısı,0.029330076333420184,0.017911215746101872,0.10152067082471067,971,
+bosanma_hiz,Boşanma hızı (‰),B4,il SE + eğitim + göç,0.10208592917711884,0.04117675549221176,0.01316728131706859,971,*
+bosanma_hiz,Boşanma hızı (‰),B4,+ ln yoğunluk,0.09628473819786938,0.04158497067611538,0.02059250167610545,971,*
+bosanma_hiz,Boşanma hızı (‰),B4,+ kentsellik ve yaş yapısı,0.09318434945749854,0.04198678782678457,0.02646134892969168,971,*
+bosanma_hiz,Boşanma hızı (‰),B5,il SE + eğitim + göç,0.04760276171749286,0.035829132518517486,0.18397834824878012,971,
+bosanma_hiz,Boşanma hızı (‰),B5,+ ln yoğunluk,0.039517168993517655,0.0270876741366785,0.14460319014585174,971,
+bosanma_hiz,Boşanma hızı (‰),B5,+ kentsellik ve yaş yapısı,0.03521041018221761,0.0278174071189215,0.20559581486919565,971,
+bosanma_hiz,Boşanma hızı (‰),B6,il SE + eğitim + göç,0.06754558770769688,0.057965069890381755,0.24390531556110662,971,
+bosanma_hiz,Boşanma hızı (‰),B6,+ ln yoğunluk,0.07102570165934632,0.061545286265397875,0.24848390671391685,971,
+bosanma_hiz,Boşanma hızı (‰),B6,+ kentsellik ve yaş yapısı,0.07490018062087035,0.06447176140547589,0.24533632466456146,971,
+bosanma_hiz,Boşanma hızı (‰),pm25,il SE + eğitim + göç,0.034222841280487755,0.0527409924693083,0.51641268168514,971,
+bosanma_hiz,Boşanma hızı (‰),pm25,+ ln yoğunluk,0.021202918970907838,0.05847742453747841,0.7169164247503945,971,
+bosanma_hiz,Boşanma hızı (‰),pm25,+ kentsellik ve yaş yapısı,0.017624681972732436,0.055271918976458556,0.7498233769305528,971,
+bosanma_hiz,Boşanma hızı (‰),agac300,il SE + eğitim + göç,-0.14929153820368105,0.0482525387991919,0.001975025502688295,971,**
+bosanma_hiz,Boşanma hızı (‰),agac300,+ ln yoğunluk,-0.14364347242227288,0.04383978375193175,0.0010508176108781676,971,**
+bosanma_hiz,Boşanma hızı (‰),agac300,+ kentsellik ve yaş yapısı,-0.16120698777728606,0.04511996773925956,0.00035311373137825413,971,***
+bosanma_hiz,Boşanma hızı (‰),lst,il SE + eğitim + göç,0.031215067001262708,0.08745591162324923,0.7211491026887824,971,
+bosanma_hiz,Boşanma hızı (‰),lst,+ ln yoğunluk,0.01772944070050865,0.0885245301323061,0.8412638312785277,971,
+bosanma_hiz,Boşanma hızı (‰),lst,+ kentsellik ve yaş yapısı,0.013793380675037034,0.08916984966887583,0.877068396187764,971,
+bosanma_hiz,Boşanma hızı (‰),lst_fark,il SE + eğitim + göç,-0.0010676665602405676,0.030385785496052153,0.9719704659925533,971,
+bosanma_hiz,Boşanma hızı (‰),lst_fark,+ ln yoğunluk,-0.00406678407610154,0.03420449049124649,0.9053575892701118,971,
+bosanma_hiz,Boşanma hızı (‰),lst_fark,+ kentsellik ve yaş yapısı,-0.00416008646626851,0.034171171619076394,0.9031028930368247,971,
+bosanma_hiz,Boşanma hızı (‰),yapili300,il SE + eğitim + göç,0.11785446477839889,0.044694039791111945,0.008366334667812399,971,**
+bosanma_hiz,Boşanma hızı (‰),yapili300,+ ln yoğunluk,0.12566900747496826,0.03728381210703346,0.0007500328789087179,971,***
+bosanma_hiz,Boşanma hızı (‰),yapili300,+ kentsellik ve yaş yapısı,0.1535526134627271,0.041782583660133814,0.00023781333016908987,971,***

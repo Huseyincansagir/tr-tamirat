@@ -1,0 +1,106 @@
+gosterge,aciklama,birim,yol,yol_ad,temel,medyan,p5,p95,gecerli_pay
+kum_konut,"30 yılda konut gideri (kira, taksit, aidat, bakım)",milyon TL,A,A · Kapalı site,18.134,17.145,8.961,23.795,1.0
+kum_konut,"30 yılda konut gideri (kira, taksit, aidat, bakım)",milyon TL,B,B · Yap-sat apartman,10.698,10.257,7.853,23.158,1.0
+kum_konut,"30 yılda konut gideri (kira, taksit, aidat, bakım)",milyon TL,C,C · Model mahalle (piyasa),10.886,12.722,8.843,27.282,1.0
+kum_konut,"30 yılda konut gideri (kira, taksit, aidat, bakım)",milyon TL,C-koop,C · Model mahalle (kooperatif),9.195,9.843,7.883,24.071,1.0
+kum_konut,"30 yılda konut gideri (kira, taksit, aidat, bakım)",milyon TL,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",18.134,17.292,8.933,23.809,1.0
+kum_ulasim,30 yılda ulaşım gideri,milyon TL,A,A · Kapalı site,15.304,15.984,13.216,18.973,1.0
+kum_ulasim,30 yılda ulaşım gideri,milyon TL,B,B · Yap-sat apartman,7.097,7.252,6.075,8.55,1.0
+kum_ulasim,30 yılda ulaşım gideri,milyon TL,C,C · Model mahalle (piyasa),2.998,3.068,2.857,3.354,1.0
+kum_ulasim,30 yılda ulaşım gideri,milyon TL,C-koop,C · Model mahalle (kooperatif),2.998,3.068,2.857,3.354,1.0
+kum_ulasim,30 yılda ulaşım gideri,milyon TL,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",10.271,10.813,9.067,12.596,1.0
+kum_konut_ulasim,30 yılda konut + ulaşım,milyon TL,A,A · Kapalı site,33.438,33.14,23.647,40.393,1.0
+kum_konut_ulasim,30 yılda konut + ulaşım,milyon TL,B,B · Yap-sat apartman,17.795,17.668,14.788,30.511,1.0
+kum_konut_ulasim,30 yılda konut + ulaşım,milyon TL,C,C · Model mahalle (piyasa),13.884,15.83,11.878,30.354,1.0
+kum_konut_ulasim,30 yılda konut + ulaşım,milyon TL,C-koop,C · Model mahalle (kooperatif),12.193,12.927,10.954,27.213,1.0
+kum_konut_ulasim,30 yılda konut + ulaşım,milyon TL,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",28.405,28.218,19.056,34.861,1.0
+alim_yili,Ev alım yılı (t; evlilik = 0),yıl,A,A · Kapalı site,,2.0,1.0,24.0,0.283
+alim_yili,Ev alım yılı (t; evlilik = 0),yıl,B,B · Yap-sat apartman,3.0,2.0,1.0,20.0,0.836
+alim_yili,Ev alım yılı (t; evlilik = 0),yıl,C,C · Model mahalle (piyasa),4.0,3.0,1.0,21.0,0.771
+alim_yili,Ev alım yılı (t; evlilik = 0),yıl,C-koop,C · Model mahalle (kooperatif),2.0,2.0,1.0,9.45,0.924
+alim_yili,Ev alım yılı (t; evlilik = 0),yıl,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",,6.0,1.0,25.0,0.484
+tasinma_yili,Kendi evine taşınma yılı,yıl,A,A · Kapalı site,,2.0,1.0,24.0,0.283
+tasinma_yili,Kendi evine taşınma yılı,yıl,B,B · Yap-sat apartman,3.0,2.0,1.0,20.0,0.836
+tasinma_yili,Kendi evine taşınma yılı,yıl,C,C · Model mahalle (piyasa),4.0,3.0,1.0,21.0,0.771
+tasinma_yili,Kendi evine taşınma yılı,yıl,C-koop,C · Model mahalle (kooperatif),5.0,5.0,4.0,12.45,0.924
+tasinma_yili,Kendi evine taşınma yılı,yıl,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",,6.0,1.0,25.0,0.484
+ev_sahibi_yil,30 yılın kaçında kendi evinde,yıl,A,A · Kapalı site,0.0,0.0,0.0,29.0,1.0
+ev_sahibi_yil,30 yılın kaçında kendi evinde,yıl,B,B · Yap-sat apartman,27.0,27.0,0.0,29.0,1.0
+ev_sahibi_yil,30 yılın kaçında kendi evinde,yıl,C,C · Model mahalle (piyasa),26.0,24.0,0.0,28.0,1.0
+ev_sahibi_yil,30 yılın kaçında kendi evinde,yıl,C-koop,C · Model mahalle (kooperatif),25.0,25.0,0.0,26.0,1.0
+ev_sahibi_yil,30 yılın kaçında kendi evinde,yıl,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",0.0,0.0,0.0,29.0,1.0
+net_konut_30,30. yılda net konut serveti (değer − kalan kredi),milyon TL,A,A · Kapalı site,0.0,0.0,0.0,9.395,1.0
+net_konut_30,30. yılda net konut serveti (değer − kalan kredi),milyon TL,B,B · Yap-sat apartman,11.565,8.026,0.0,14.398,1.0
+net_konut_30,30. yılda net konut serveti (değer − kalan kredi),milyon TL,C,C · Model mahalle (piyasa),9.705,7.291,0.0,13.006,1.0
+net_konut_30,30. yılda net konut serveti (değer − kalan kredi),milyon TL,C-koop,C · Model mahalle (kooperatif),9.705,8.638,0.0,14.372,1.0
+net_konut_30,30. yılda net konut serveti (değer − kalan kredi),milyon TL,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",0.0,0.0,0.0,9.802,1.0
+net_varlik_30,30. yılda net varlık (konut serveti + birikim),milyon TL,A,A · Kapalı site,-0.527,-0.5,-10.445,19.525,1.0
+net_varlik_30,30. yılda net varlık (konut serveti + birikim),milyon TL,B,B · Yap-sat apartman,24.789,21.661,-0.785,32.252,1.0
+net_varlik_30,30. yılda net varlık (konut serveti + birikim),milyon TL,C,C · Model mahalle (piyasa),26.484,21.615,-0.858,34.159,1.0
+net_varlik_30,30. yılda net varlık (konut serveti + birikim),milyon TL,C-koop,C · Model mahalle (kooperatif),28.881,27.072,1.874,36.15,1.0
+net_varlik_30,30. yılda net varlık (konut serveti + birikim),milyon TL,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",4.507,5.002,-4.932,24.722,1.0
+isegidis_saat_30,30 yılda iki eşin işe gidiş süresi,bin saat,A,A · Kapalı site,24.431,25.784,22.149,29.972,1.0
+isegidis_saat_30,30 yılda iki eşin işe gidiş süresi,bin saat,B,B · Yap-sat apartman,14.995,15.927,13.327,18.965,1.0
+isegidis_saat_30,30 yılda iki eşin işe gidiş süresi,bin saat,C,C · Model mahalle (piyasa),14.795,15.63,13.202,18.668,1.0
+isegidis_saat_30,30 yılda iki eşin işe gidiş süresi,bin saat,C-koop,C · Model mahalle (kooperatif),14.795,15.63,13.202,18.668,1.0
+isegidis_saat_30,30 yılda iki eşin işe gidiş süresi,bin saat,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",24.431,25.784,22.149,29.972,1.0
+bakim_yolu_saat_30,Ebeveyn bakımı için yolda geçen süre,bin saat,A,A · Kapalı site,2.757,2.947,1.716,4.938,1.0
+bakim_yolu_saat_30,Ebeveyn bakımı için yolda geçen süre,bin saat,B,B · Yap-sat apartman,0.835,0.884,0.499,1.507,1.0
+bakim_yolu_saat_30,Ebeveyn bakımı için yolda geçen süre,bin saat,C,C · Model mahalle (piyasa),0.0,0.0,0.0,0.0,1.0
+bakim_yolu_saat_30,Ebeveyn bakımı için yolda geçen süre,bin saat,C-koop,C · Model mahalle (kooperatif),0.0,0.0,0.0,0.0,1.0
+bakim_yolu_saat_30,Ebeveyn bakımı için yolda geçen süre,bin saat,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",2.757,2.947,1.716,4.938,1.0
+yolda_toplam_saat_30,30 yılda yolda toplam (işe gidiş + bakım yolu),bin saat,A,A · Kapalı site,27.188,28.885,24.937,33.423,1.0
+yolda_toplam_saat_30,30 yılda yolda toplam (işe gidiş + bakım yolu),bin saat,B,B · Yap-sat apartman,15.83,16.87,14.213,20.001,1.0
+yolda_toplam_saat_30,30 yılda yolda toplam (işe gidiş + bakım yolu),bin saat,C,C · Model mahalle (piyasa),14.795,15.63,13.202,18.668,1.0
+yolda_toplam_saat_30,30 yılda yolda toplam (işe gidiş + bakım yolu),bin saat,C-koop,C · Model mahalle (kooperatif),14.795,15.63,13.202,18.668,1.0
+yolda_toplam_saat_30,30 yılda yolda toplam (işe gidiş + bakım yolu),bin saat,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",27.188,28.885,24.937,33.423,1.0
+buyukanne_bakim_saat,Büyükanne-büyükbabadan alınan çocuk bakımı (t=2-11),bin saat,A,A · Kapalı site,0.0,0.0,0.0,2.493,1.0
+buyukanne_bakim_saat,Büyükanne-büyükbabadan alınan çocuk bakımı (t=2-11),bin saat,B,B · Yap-sat apartman,6.775,6.477,4.558,8.564,1.0
+buyukanne_bakim_saat,Büyükanne-büyükbabadan alınan çocuk bakımı (t=2-11),bin saat,C,C · Model mahalle (piyasa),7.8,7.559,5.735,9.414,1.0
+buyukanne_bakim_saat,Büyükanne-büyükbabadan alınan çocuk bakımı (t=2-11),bin saat,C-koop,C · Model mahalle (kooperatif),7.8,7.559,5.735,9.414,1.0
+buyukanne_bakim_saat,Büyükanne-büyükbabadan alınan çocuk bakımı (t=2-11),bin saat,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",0.0,0.0,0.0,2.493,1.0
+anne_istihdam_olasiligi,Küçük çocuklu dönemde annenin çalışmayı sürdürme olasılığı,oran,A,A · Kapalı site,0.7,0.704,0.602,0.805,1.0
+anne_istihdam_olasiligi,Küçük çocuklu dönemde annenin çalışmayı sürdürme olasılığı,oran,B,B · Yap-sat apartman,0.761,0.759,0.656,0.86,1.0
+anne_istihdam_olasiligi,Küçük çocuklu dönemde annenin çalışmayı sürdürme olasılığı,oran,C,C · Model mahalle (piyasa),0.77,0.768,0.666,0.869,1.0
+anne_istihdam_olasiligi,Küçük çocuklu dönemde annenin çalışmayı sürdürme olasılığı,oran,C-koop,C · Model mahalle (kooperatif),0.77,0.768,0.666,0.869,1.0
+anne_istihdam_olasiligi,Küçük çocuklu dönemde annenin çalışmayı sürdürme olasılığı,oran,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",0.7,0.704,0.602,0.805,1.0
+destek_uygulanabilirligi,Günlük büyükanne desteğinin uygulanabilirliği (0-1),oran,A,A · Kapalı site,0.0,0.0,0.0,0.321,1.0
+destek_uygulanabilirligi,Günlük büyükanne desteğinin uygulanabilirliği (0-1),oran,B,B · Yap-sat apartman,0.869,0.847,0.649,0.995,1.0
+destek_uygulanabilirligi,Günlük büyükanne desteğinin uygulanabilirliği (0-1),oran,C,C · Model mahalle (piyasa),1.0,1.0,0.854,1.0,1.0
+destek_uygulanabilirligi,Günlük büyükanne desteğinin uygulanabilirliği (0-1),oran,C-koop,C · Model mahalle (kooperatif),1.0,1.0,0.854,1.0,1.0
+destek_uygulanabilirligi,Günlük büyükanne desteğinin uygulanabilirliği (0-1),oran,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",0.0,0.0,0.0,0.321,1.0
+ebeveyn_mesafe_km,Kuşaklar arası mesafe (ebeveyne),km,A,A · Kapalı site,18.0,18.937,12.825,26.326,1.0
+ebeveyn_mesafe_km,Kuşaklar arası mesafe (ebeveyne),km,B,B · Yap-sat apartman,4.0,4.26,2.015,6.81,1.0
+ebeveyn_mesafe_km,Kuşaklar arası mesafe (ebeveyne),km,C,C · Model mahalle (piyasa),0.5,0.666,0.275,1.221,1.0
+ebeveyn_mesafe_km,Kuşaklar arası mesafe (ebeveyne),km,C-koop,C · Model mahalle (kooperatif),0.5,0.666,0.275,1.221,1.0
+ebeveyn_mesafe_km,Kuşaklar arası mesafe (ebeveyne),km,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",18.0,18.937,12.825,26.326,1.0
+ebeveyn_sure_dk,Ebeveyne tek yön yolculuk,dk,A,A · Kapalı site,48.2,51.979,35.842,72.61,1.0
+ebeveyn_sure_dk,Ebeveyne tek yön yolculuk,dk,B,B · Yap-sat apartman,14.6,15.661,10.183,22.274,1.0
+ebeveyn_sure_dk,Ebeveyne tek yön yolculuk,dk,C,C · Model mahalle (piyasa),6.25,8.364,3.416,15.337,1.0
+ebeveyn_sure_dk,Ebeveyne tek yön yolculuk,dk,C-koop,C · Model mahalle (kooperatif),6.25,8.364,3.416,15.337,1.0
+ebeveyn_sure_dk,Ebeveyne tek yön yolculuk,dk,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",48.2,51.979,35.842,72.61,1.0
+cocuk_farki,"A'ya göre beklenen ek çocuk (toplam, tavanlı)",çocuk,A,A · Kapalı site,0.0,0.0,0.0,0.0,1.0
+cocuk_farki,"A'ya göre beklenen ek çocuk (toplam, tavanlı)",çocuk,B,B · Yap-sat apartman,0.043,0.039,0.012,0.073,1.0
+cocuk_farki,"A'ya göre beklenen ek çocuk (toplam, tavanlı)",çocuk,C,C · Model mahalle (piyasa),0.108,0.149,0.066,0.287,1.0
+cocuk_farki,"A'ya göre beklenen ek çocuk (toplam, tavanlı)",çocuk,C-koop,C · Model mahalle (kooperatif),0.108,0.149,0.066,0.287,1.0
+cocuk_farki,"A'ya göre beklenen ek çocuk (toplam, tavanlı)",çocuk,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",0.0,0.0,0.0,0.0,1.0
+cocuk_farki_yukseklik,  bunun yükseklik kanalı (Faz 2),çocuk,A,A · Kapalı site,0.0,0.0,0.0,0.0,1.0
+cocuk_farki_yukseklik,  bunun yükseklik kanalı (Faz 2),çocuk,B,B · Yap-sat apartman,0.0,0.0,0.0,0.012,1.0
+cocuk_farki_yukseklik,  bunun yükseklik kanalı (Faz 2),çocuk,C,C · Model mahalle (piyasa),0.058,0.101,0.027,0.237,1.0
+cocuk_farki_yukseklik,  bunun yükseklik kanalı (Faz 2),çocuk,C-koop,C · Model mahalle (kooperatif),0.058,0.101,0.027,0.237,1.0
+cocuk_farki_yukseklik,  bunun yükseklik kanalı (Faz 2),çocuk,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",0.0,0.0,0.0,0.0,1.0
+cocuk_farki_akraba,  bunun akraba yakınlığı kanalı (varsayım),çocuk,A,A · Kapalı site,0.0,0.0,0.0,0.0,1.0
+cocuk_farki_akraba,  bunun akraba yakınlığı kanalı (varsayım),çocuk,B,B · Yap-sat apartman,0.043,0.038,0.012,0.07,1.0
+cocuk_farki_akraba,  bunun akraba yakınlığı kanalı (varsayım),çocuk,C,C · Model mahalle (piyasa),0.05,0.045,0.014,0.08,1.0
+cocuk_farki_akraba,  bunun akraba yakınlığı kanalı (varsayım),çocuk,C-koop,C · Model mahalle (kooperatif),0.05,0.045,0.014,0.08,1.0
+cocuk_farki_akraba,  bunun akraba yakınlığı kanalı (varsayım),çocuk,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",0.0,0.0,0.0,0.0,1.0
+donusum,B'de 30 yılda dönüşüm yaşanma payı,oran,A,A · Kapalı site,0.0,0.0,0.0,0.0,1.0
+donusum,B'de 30 yılda dönüşüm yaşanma payı,oran,B,B · Yap-sat apartman,1.0,1.0,0.0,1.0,1.0
+donusum,B'de 30 yılda dönüşüm yaşanma payı,oran,C,C · Model mahalle (piyasa),0.0,0.0,0.0,0.0,1.0
+donusum,B'de 30 yılda dönüşüm yaşanma payı,oran,C-koop,C · Model mahalle (kooperatif),0.0,0.0,0.0,0.0,1.0
+donusum,B'de 30 yılda dönüşüm yaşanma payı,oran,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",0.0,0.0,0.0,0.0,1.0
+ilk_yil_yuk_orani,İlk yıl konut + ulaşım / gelir,oran,A,A · Kapalı site,0.473,0.493,0.417,0.577,1.0
+ilk_yil_yuk_orani,İlk yıl konut + ulaşım / gelir,oran,B,B · Yap-sat apartman,0.325,0.331,0.278,0.393,1.0
+ilk_yil_yuk_orani,İlk yıl konut + ulaşım / gelir,oran,C,C · Model mahalle (piyasa),0.357,0.367,0.31,0.439,1.0
+ilk_yil_yuk_orani,İlk yıl konut + ulaşım / gelir,oran,C-koop,C · Model mahalle (kooperatif),0.357,0.367,0.31,0.439,1.0
+ilk_yil_yuk_orani,İlk yıl konut + ulaşım / gelir,oran,A-tek-araç,"A · Kapalı site, tek araçla (duyarlılık)",0.473,0.493,0.417,0.577,1.0

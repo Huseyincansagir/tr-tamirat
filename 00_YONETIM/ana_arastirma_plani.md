@@ -1,0 +1,290 @@
+# TR TAMİRAT — Ana Araştırma ve Dönüşüm Planı
+
+*Sürüm 0.1 — 25 Ekim 2026*
+
+---
+
+## 0. Özet
+
+Bu program, Türkiye'nin son yarım yüzyılda kurduğu şehir yapısının (kat karşılığı apartmanlaşma, yüksek bloklu toplu konut, kapalı siteler, otomobile bağımlı yayılma, mahalle kurumlarının çözülmesi) insan, aile ve toplum üzerindeki etkilerini kanıta dayalı olarak incelemeyi amaçlıyor. Ardından insan fıtratına uygun, sürdürülebilir bir şehir modelini tanımlayıp sınamayı ve bu modele geçişin hukuki, mali ve kurumsal yol haritasını çıkarmayı hedefliyor.
+
+Program on iş paketinden ve beş fazdan oluşuyor. Somut çıktılar şunlar:
+
+- Türkiye durum tespiti raporu ve il/ilçe veri paneli
+- Fıtrat Uyum Endeksi (FUE) ve haritaları
+- Literatür ve kanıt haritası
+- Geleneksel doku ve örnek vaka analizleri
+- Model mahalle tasarımı ve teknik çizimler
+- Zihinsel ve hesaplamalı simülasyonlar
+- Mevzuat değişiklik önerileri
+- Pilot uygulama planı
+
+**Temel ilke:** Büyük iddialar ancak büyük kanıtla kurulur. Program, "apartman aileyi bitirdi" gibi sezgileri peşinen doğru kabul etmez. Bunları **sınanabilir hipotezlere** çevirir, etki büyüklüklerini ölçer ve yapılı çevrenin gelir, eğitim, kültür ve ekonomi gibi diğer etkenler yanındaki payını dürüstçe ortaya koyar.
+
+---
+
+## 1. Problem tanımı
+
+### 1.1 Gözlenen eğilimler (durum tespitiyle sayısallaştırılacak)
+
+- **Aile ve nüfus:** Doğurganlığın nüfusun kendini yenileme düzeyinin (2,1) belirgin biçimde altına düşmesi, ilk evlenme yaşının yükselmesi, boşanmanın ve tek kişilik hanelerin artması, hızlı yaşlanma.
+- **Beden:** Obezite, fiziksel hareketsizlik ve diyabetin yüksek düzeyleri.
+- **Ruh:** Antidepresan kullanımında artış, yalnızlık, düşük yaşam memnuniyeti.
+- **Toplum:** Düşük genelleştirilmiş güven, zayıf sivil katılım, komşuluk ilişkilerinin zayıflaması.
+- **Mekân:** Çok katlı konutun baskın hâle gelmesi, kişi başı yeşil alanın standartların altında kalması, otomobil sayısında hızlı artış, deprem riski taşıyan büyük bina stoku, megakentte (İstanbul) aşırı yığılma.
+- **Ekonomi:** Konut fiyatı/gelir ve kira yükündeki sert artış, gençlerin ev sahibi olmasının zorlaşması, uzun çalışma ve ulaşım süreleri.
+
+### 1.2 Ana soru
+
+> Türkiye'nin şehir yapısı aile kurma, sağlıklı yaşama ve hür yurttaşlık üzerinde ne ölçüde belirleyicidir? Hangi mekânsal değişiklikler, hangi araçlarla, hangi maliyetle ve hangi sürede bu sonuçları iyileştirir?
+
+### 1.3 Alt araştırma soruları
+
+| Kod | Soru | İlgili iş paketi |
+|---|---|---|
+| AS1 | Türkiye'de il/ilçe/mahalle düzeyinde yapılı çevre özellikleri (kat, yoğunluk, yeşil, yürünebilirlik, araç bağımlılığı) ile aile, sağlık ve sosyal sermaye göstergeleri arasındaki ilişki nedir? | İP3, İP4 |
+| AS2 | Uluslararası kanıt hangi mekanizmaları, hangi etki büyüklükleriyle destekliyor? | İP2 |
+| AS3 | Türkiye'nin geleneksel yerleşim dokularının ölçüleri ve işleyişi nedir? Bunların hangi unsurları bugüne aktarılabilir? | İP5 |
+| AS4 | Fıtrata uygun mahalle hangi sayısal parametrelerle tanımlanır? Aynı nüfusu deprem güvenliği, arazi ve maliyet kısıtları içinde barındırabilir mi? | İP6 |
+| AS5 | Mevcut mevzuat ve teşvik yapısı hangi şehir biçimini üretiyor? Hangi değişiklikler gerekiyor? | İP8 |
+| AS6 | Geçiş senaryolarının (yeni yerleşim, dönüşüm, mevcut dokunun onarımı) maliyeti, süresi ve beklenen etkileri nedir? | İP7, İP9 |
+| AS7 | Ülke ölçeğinde nüfus şehirler arasında nasıl dağılmalı (megakent dengesi, orta ölçekli şehirler, kasaba-köy canlanması)? | İP4, İP7 |
+
+---
+
+## 2. Kavramsal çerçeve (özet)
+
+Ayrıntısı: [01_KAVRAMSAL_CERCEVE/kavramsal_cerceve.md](../01_KAVRAMSAL_CERCEVE/kavramsal_cerceve.md)
+
+Çerçeve **altı boyuttan** oluşuyor ve her boyut iki dilde ifade ediliyor:
+
+| Boyut | Değer dili | Bilim dili |
+|---|---|---|
+| B1 Beden ve Can | Hıfz-ı nefs | Fiziksel sağlık, afet güvenliği |
+| B2 Akıl ve Ruh | Hıfz-ı akl | Ruh sağlığı, çevre psikolojisi |
+| B3 Nesil ve Aile | Hıfz-ı nesl | Demografi, çocuk gelişimi |
+| B4 Mülk ve Geçim | Hıfz-ı mal | Konut ekonomisi, zaman bütçesi |
+| B5 Topluluk, İnanç ve Hürriyet | Hıfz-ı din, hürriyet | Sosyal sermaye, yerindelik |
+| B6 Mizan | Denge, israfsızlık | Ekoloji, iklim, kaynak verimliliği |
+
+Bu boyutlar altı ölçekte (ev → sokak → mahalle → semt → şehir → ülke) ele alınıyor ve **Fıtrat Uyum Endeksi (FUE)** ile ölçülüyor. FUE yalnızca mekân göstergelerinden oluşuyor. İnsan sonuç göstergeleri endeksin geçerliliğini sınamak için ayrıca kullanılıyor.
+
+---
+
+## 3. İş paketleri
+
+### İP0 — Yönetim ve yöntem
+- **Amaç:** Planı, karar kayıtlarını, kalite ve kanıt standartlarını yönetmek.
+- **Çıktılar:** Bu plan; `00_YONETIM/karar_kaydi.md`; kanıt derecelendirme kılavuzu (GRADE benzeri: güçlü / orta / zayıf / yalnızca kuram).
+
+### İP1 — Kavramsal çerçeve ve gösterge seti
+- **Amaç:** "Fıtrata uygun şehir"i ölçülebilir kılmak.
+- **Yöntem:** Literatür + uzman görüşü; gösterge kartları (tanım, formül, veri, yön, ölçek); hipotez kümesi.
+- **Çıktılar:** `kavramsal_cerceve.md` (v0.1 hazır), gösterge kartları, FUE yöntem notu.
+
+### İP2 — Literatür ve kanıt tabanı
+- **Amaç:** Yapılı çevre ile aile, sağlık, sosyal sermaye ve hürriyet arasındaki mekanizmaları ve etki büyüklüklerini çıkarmak; yerli düşünce geleneğini (İbn Haldun, Cansever, Osmanlı mahallesi) sistemli biçimde derlemek.
+- **Yöntem:** Tematik derleme. Sonraki aşamada öncelikli sorular için PRISMA uyumlu sistematik derleme protokolü.
+- **Çıktılar:** `literatur_haritasi.md`, `kaynakca.csv`, tema bazlı kanıt özetleri, okuma listesi.
+
+### İP3 — Durum tespiti: veri ve istatistik
+- **Amaç:** Türkiye'nin aile, sağlık, kentleşme, konut, ulaşım ve sosyal sermaye göstergelerini zaman serisi ve coğrafi kırılımla ortaya koymak.
+- **Yöntem:** TÜİK, bakanlıklar, OECD, Eurostat, WVS verilerinin derlenmesi. 81 il (ve mümkünse 973 ilçe) için **panel veri seti**.
+- **Çıktılar:** `turkiye_temel_gostergeler.csv/.md`, il paneli (`03_VERI/islenmis/il_paneli.csv`), grafik seti, durum tespiti raporu.
+
+### İP4 — Mekânsal analiz ve haritalar
+- **Amaç:** Türkiye ve pilot şehirlerde şehir biçimini ölçmek ve FUE'yi haritalamak.
+- **Yöntem:** OSM + GHSL (yapılaşma ve bina yüksekliği) + WorldPop + Sentinel-2 + idari sınırlar. Python (OSMnx, GeoPandas, r5py), QGIS. Yürüme erişilebilirliği (15 dk izokronlar), yeşil alan erişimi, kavşak yoğunluğu, bina yüksekliği dağılımı, morfolojik tipoloji sınıflaması.
+- **Çıktılar (haritalar):**
+  1. Türkiye il düzeyi: doğurganlık, evlenme ve boşanma, obezite, kentleşme, konut tipi (koroplet)
+  2. Türkiye yapılaşma ve bina yüksekliği ızgarası (GHSL)
+  3. Pilot şehirlerde mahalle düzeyi FUE ve boyut haritaları
+  4. 15 dakikalık erişim izokronları (okul, cami, sağlık, pazar, park)
+  5. Yeşil alan erişim açığı haritası (WHO 300 m ölçütü)
+  6. Deprem tehlikesi × bina stoku × nüfus yoğunluğu çakıştırması
+  7. Ülke ölçeği şehir sistemi ve nüfus dağılımı (rank-size)
+
+### İP5 — Geleneksel doku ve örnek vaka incelemeleri
+- **Amaç:** İyi işleyen dokuların ölçülerini çıkarmak: yerli dokular (Safranbolu, Beypazarı, Cumalıkızık, Mardin, Birgi vb. ve tarihî İstanbul mahalleleri) ile uluslararası örnekler (Pontevedra, Barselona süper blokları, Vauban, Tokyo, Singapur HDB vb.).
+- **Yöntem:** Uydu/OSM üzerinden morfolojik ölçüm (parsel, ada, sokak genişliği, kat, avlu); arşiv ve literatür.
+- **Çıktılar:** `ornek_uygulamalar.md`; her doku için ölçülü plan ve kesit çizimi; karşılaştırma tablosu.
+
+### İP6 — Model mahalle ve tasarım
+- **Amaç:** Fıtrata uygun mahallenin sayısal programını, konut tipolojilerini ve tasarım kodunu üretmek.
+- **Yöntem:** Parametrik tasarım. İlk aşamada Python ile SVG/DXF üretimi; ileride CAD/Rhino-Grasshopper.
+- **Çıktılar:**
+  - `tasarim_parametreleri.md`
+  - **"Aynı yoğunluk, üç biçim"** çizimi (yüksek blok – kapalı site / bitişik nizam ada / az katlı avlulu doku)
+  - Konut tipolojileri: büyüyebilen ev, çok kuşaklı ev, avlulu sıra ev, zemin + 3 karma bina
+  - Model mahalle vaziyet planı, sokak kesitleri, donatı yerleşimi
+  - **Fıtrat Kodu:** biçim temelli imar kodu taslağı (form-based code)
+  - Deprem bölgesi için hızlı uygulanabilir sürüm
+
+### İP7 — Simülasyonlar
+Ayrıntı: Bölüm 4.
+- **Çıktılar:** `06_SIMULASYON/` altında persona senaryoları, yaşam döngüsü modeli, erişilebilirlik ve karşılaşma modelleri, demografik senaryolar, kriz senaryoları; hepsi kodlu ve tekrarlanabilir.
+
+### İP8 — Mevzuat, politika ve finansman
+- **Amaç:** Bugünkü biçimi üreten hukuki ve mali teşvikleri çözümlemek ve değişiklik paketleri hazırlamak.
+- **Kapsam:** İmar Kanunu ve yönetmelikleri (emsal, kat, çekme, otopark), Kat Mülkiyeti, kentsel dönüşüm (6306), belediye ve muhtarlık yetkileri, TOKİ ve Emlak Konut modeli, kat karşılığı inşaat ekonomisi, vergi ve tapu harçları, aile ve konut teşvikleri.
+- **Çıktılar:** `mevzuat_politika_haritasi.md`; madde bazlı değişiklik önerileri; finansman modelleri (arsa payı, kooperatif, vakıf, aile konut kredisi); paydaş haritası; etki analizi.
+
+### İP9 — Pilot ve uygulama yol haritası
+- **Amaç:** Modeli üç farklı bağlamda uygulanabilir planlara dönüştürmek.
+- **Önerilen pilot seti (karar bekliyor):**
+  1. **Megakent dönüşümü:** İstanbul'da karşıtlık oluşturan iki ilçe (ör. yeni yoğun site bölgesi ile tarihî doku)
+  2. **Orta ölçekli Anadolu şehri:** ör. Konya veya Kayseri (düz arazi, büyüme alanı, güçlü esnaf geleneği)
+  3. **Deprem sonrası yeniden inşa:** ör. Antakya veya Kahramanmaraş (yeniden kurma fırsatı)
+  4. **Referans geleneksel doku:** ör. Safranbolu veya Beypazarı
+- **Çıktılar:** Pilot başına durum analizi, müdahale planı, maliyet tahmini, aşamalandırma, izleme göstergeleri.
+
+### İP10 — Raporlama ve iletişim
+- **Çıktılar:** Ara raporlar, nihai rapor (MD → PDF/DOCX), yönetici özeti, etkileşimli gösterge paneli, sunum, politika notları (karar vericiler için 2–4 sayfa).
+
+---
+
+## 4. Simülasyon tasarımı
+
+Simülasyonlar **kehanet değil, düşünme aracıdır**. Her modelin varsayımları açık yazılır, parametreler literatürden alınır ve belirsizlik aralıklarıyla verilir.
+
+### 4.1 Zihinsel simülasyonlar (nitel + yarı nicel)
+
+**a) Persona "bir gün" simülasyonu.** Sekiz persona (genç bekâr, yeni evli çift, iki çocuklu aile, çok kuşaklı aile, yalnız yaşlı, engelli birey, esnaf, öğrenci) üç ortamda yaşatılır:
+
+- (A) megakent sitesi (yüksek blok, kapalı site)
+- (B) eski apartman mahallesi (1970–2000 yap-sat dokusu)
+- (C) model mahalle
+
+Ölçülenler: 24 saatlik zaman bütçesi, yürüme dakikası, araç kilometresi, dış mekân ve gün ışığı süresi, komşuyla karşılaşma sayısı, çocuğun bağımsız hareket alanı, cemaate ve ibadete erişim, aylık konut ve ulaşım maliyeti, deprem riski.
+
+**b) Yaşam döngüsü simülasyonu (30 yıl).** Genç bir çiftin evlenme, ev edinme, çocuk sahibi olma, ebeveyn bakımı ve emeklilik yolu A/B/C ortamlarında izlenir. Maliyet, zaman, kuşaklar arası yakınlık ve mülkiyet karşılaştırılır.
+
+**c) Kriz simülasyonları.** Deprem, salgın, ekonomik kriz ve sıcak dalgası karşısında mahallenin dayanıklılığı: tahliye, karşılıklı yardım, gıda ve su, yaşlılara erişim.
+
+**d) Paydaş oyunu (politika simülasyonu).** "Konutta 4 kat sınırı + emsalin yeniden dağıtımı" gibi bir düzenleme uygulanırsa malik, müteahhit, belediye, banka, kiracı, genç çift ve muhtar nasıl tepki verir? Kim kazanır, kim kaybeder, hangi telafi mekanizması gerekir?
+
+### 4.2 Hesaplamalı modeller
+
+| Model | Soru | Araç | Girdi |
+|---|---|---|---|
+| M1 Erişilebilirlik | Nüfusun yüzde kaçı temel ihtiyaçlarına 15 dakikada yürüyerek ulaşıyor? | OSMnx, r5py, pandana | OSM, WorldPop |
+| M2 Morfoloji ve yoğunluk | Aynı nüfusu hangi biçim kaç katla, ne kadar araziyle, ne kadar yeşille barındırır? | Python parametrik model | Tipoloji parametreleri |
+| M3 Karşılaşma (ajan tabanlı) | Sokak ağı, yoğunluk ve zemin kat kullanımı komşular arası karşılaşmayı ve zayıf bağları nasıl etkiler? | Mesa / NetLogo | Morfoloji + zaman bütçesi |
+| M4 Demografik senaryo | Konut maliyeti, konut tipi ve kuşaklar arası yakınlık değişirse doğurganlık ve evlilik nasıl değişir? | Mikro simülasyon / kohort-bileşen | TÜİK, literatür esneklikleri |
+| M5 Deprem kaybı | Farklı yapılaşma biçimlerinde beklenen can ve mal kaybı ile toparlanma süresi | Senaryo modeli | AFAD tehlike, 2023 hasar verisi |
+| M6 Konut ekonomisi | Kat karşılığı modelin alternatifleri (kooperatif, arsa payı, vakıf, aile kredisi) finansal olarak ayakta kalır mı? | Nakit akışı modeli | Maliyet ve fiyat verisi |
+| M7 Ülke sistemi | Nüfusun megakentten orta ölçekli şehirlere dağılımı senaryoları | Sistem dinamiği | ADNKS göç verisi |
+
+---
+
+## 5. Yöntem ilkeleri ve kalite standartları
+
+1. **Kaynak hiyerarşisi:** Birincil resmî veri ve hakemli meta-analiz → hakemli tekil çalışma → kurum raporu → basın. Her sayının yılı ve URL'si olur.
+2. **Kanıt derecelendirmesi:** Her önerme *güçlü / orta / zayıf / kuramsal* olarak işaretlenir; nedensel kanıt ile korelasyonel kanıt ayrılır.
+3. **Karıştırıcı etkenler:** Gelir, eğitim (özellikle kadın eğitimi), yaş yapısı, göç, kültürel/dinî eğilim ve bölgesel farklar analizlerde kontrol edilir. Türkiye'de doğurganlığın doğu-batı farkı, mekân etkisini kültürel etkiden ayırmayı zorunlu kılar.
+4. **Karşı kanıta açıklık:** Yoğunluğun ve yüksek yapılaşmanın faydalarını savunan literatür (verimlilik, toplu taşıma, arazi tasarrufu) ciddiyetle ele alınır.
+5. **Tekrarlanabilirlik:** Tüm analiz kodları `05_ANALIZ/` ve `06_SIMULASYON/` altında, ham veri `03_VERI/ham/` altında saklanır.
+6. **Etik ve hürriyet:** Mahalle düzeyi verilerde kişisel veri gizliliği korunur. Önerilen dönüşümler zorlayıcı, mülksüzleştirici veya soylulaştırıcı olamaz; gönüllülük, hakkaniyet ve katılım esastır. Kadınların, çocukların, yaşlıların ve engellilerin erişimi her tasarım kararında ayrıca sınanır.
+
+---
+
+## 6. Fazlar ve yol haritası
+
+| Faz | İçerik | Ana çıktılar |
+|---|---|---|
+| **Faz 1 — Temel** | Çerçeve, literatür haritası, durum tespiti, veri kataloğu, mevzuat haritası | Bu plan, kavramsal çerçeve, 4 temel derleme, durum tespiti özeti |
+| **Faz 2 — Ölçüm** | İl paneli, Türkiye haritaları, pilot seçimi, pilot şehirlerin mekânsal analizi, FUE v1 | Veri paneli, harita seti, FUE haritaları, ilk istatistiksel analizler |
+| **Faz 3 — Model** | Geleneksel doku ölçümleri, tasarım parametreleri, tipolojiler, model mahalle, teknik çizimler | "Aynı yoğunluk, üç biçim", model mahalle planı, Fıtrat Kodu taslağı |
+| **Faz 4 — Simülasyon** | Persona ve yaşam döngüsü senaryoları, M1–M7 modelleri | Simülasyon raporları, senaryo karşılaştırmaları |
+| **Faz 5 — Politika ve pilot** | Mevzuat değişiklik paketi, finansman, pilot planları, izleme sistemi | Politika notları, pilot planları, nihai rapor, gösterge paneli |
+
+---
+
+## 7. Riskler
+
+| Risk | Etki | Önlem |
+|---|---|---|
+| İdeolojik algılanma (çalışmanın tek bir dünya görüşünün savunusu sanılması) | Teknik ve akademik kamuoyunun ilgisini kaybetmek | İki dilli çerçeve; her önermenin bilimsel kanıtla desteklenmesi |
+| Nedensellik hatası | Yanlış politika | Karıştırıcı kontrolü, doğal deney arayışı, kanıt derecelendirmesi |
+| İlçe/mahalle düzeyi veri eksikliği | Analizin il düzeyinde kalması | Açık mekânsal veri (OSM, GHSL), vekil göstergeler, gerekirse saha anketi |
+| Ekonomik uygulanabilirlik (az katlı = daha az inşaat alanı = müteahhit ve malik direnci) | Önerilerin uygulanamaması | M6 konut ekonomisi modeli, telafi mekanizmaları, kademeli geçiş |
+| Deprem güvenliği önceliğiyle çatışma | Hızlı ve yüksek yapılaşma baskısı | Az katlı ve hızlı uygulanabilir tipolojiler, deprem bölgesi sürümü |
+| Kapsam şişmesi | Çıktı üretilememesi | Faz bazlı ilerleme, pilotlara odaklanma |
+
+---
+
+## 8. Karar bekleyen konular
+
+1. **Pilot şehirler:** Bölüm 3, İP9'daki öneri seti onaylanacak mı?
+2. **Hedef kitle önceliği:** Merkezî yönetim, belediyeler, akademi ve kamuoyu arasında öncelik sırası (dil ve format buna göre ayarlanacak).
+3. **Çerçeve dili:** İki dilli yaklaşım uygun mu, yoksa ağırlık değer diline mi bilim diline mi verilmeli?
+4. **Çıktı formatı:** Yerel dosyalar (MD/CSV/PNG/SVG) + gerektiğinde PDF/DOCX + çevrim içi gösterge paneli.
+
+---
+
+## 9. Faz 1 durum kaydı
+
+| Çıktı | Dosya | Durum |
+|---|---|---|
+| Klasör yapısı ve README | `README.md` | ✅ |
+| Kavramsal çerçeve v0.1 | `01_KAVRAMSAL_CERCEVE/kavramsal_cerceve.md` | ✅ |
+| Ana plan v0.1 | `00_YONETIM/ana_arastirma_plani.md` | ✅ |
+| Türkiye temel göstergeler (449 satır) | `03_VERI/turkiye_temel_gostergeler.md`, `03_VERI/islenmis/turkiye_temel_gostergeler.csv` | ✅ |
+| Literatür haritası ve kaynakça (131 kaynak) | `02_LITERATUR/literatur_haritasi.md`, `02_LITERATUR/kaynakca.csv` | ✅ |
+| Örnek uygulamalar | `02_LITERATUR/ornek_uygulamalar.md` | ✅ |
+| Tasarım parametreleri ve taslak mahalle programı | `07_TASARIM_CIZIM/tasarim_parametreleri.md` | ✅ |
+| "Aynı yoğunluk, üç biçim" çizimi | `07_TASARIM_CIZIM/ayni_yogunluk_uc_bicim.png` (kod: `kod/`) | ✅ |
+| Mevzuat ve politika haritası | `08_MEVZUAT_POLITIKA/mevzuat_politika_haritasi.md` | ✅ |
+| Veri kaynakları kataloğu | `03_VERI/veri_kaynaklari_katalogu.md` | ✅ |
+| Durum tespiti grafik seti | `05_ANALIZ/grafikler/durum_tespiti_grafik_seti.png` (kod: `05_ANALIZ/kod/`) | ✅ |
+| Durum tespiti sentez raporu | `09_RAPORLAR/01_durum_tespiti_ozet.md` | ✅ |
+| Açık doğrulamalar | TAYA 2021, SBB deprem raporu, TCMB konut fiyat endeksi, MPYY EK-2 ve Otopark Ek-1 tabloları, RG künyeleri | ⏳ |
+
+## 10. Faz 2 durum kaydı
+
+| Çıktı | Dosya | Durum |
+|---|---|---|
+| 81 il paneli (TÜİK, 75 değişken, doğrulanmış) | `03_VERI/ham/tuik/il_paneli_ham_2025.csv`, `03_VERI/islenmis/il_paneli_2025.csv` / `.gpkg` | ✅ |
+| İl analizi: mekânın payı (Shapley, eğitim-içi, il-içi, sağlamlık, Moran's I) | `05_ANALIZ/kod/il_paneli_analiz.py`, `05_ANALIZ/sonuclar/` | ✅ |
+| Türkiye il haritaları (9 harita) | `04_HARITA/il_haritalari_2025.png` | ✅ |
+| Rapor: 81 il paneli, mekânın payı | `09_RAPORLAR/02_il_paneli_mekanin_payi.md` | ✅ |
+| İlçe paneli (973 ilçe; doğum, yaş-cinsiyet, kadın eğitimi, GHSL yükseklik; doğrulanmış) | `03_VERI/islenmis/ilce_paneli_analiz.csv` / `ilce_paneli.gpkg`, `03_VERI/kod/` | ✅ |
+| İlçe analizi: il sabit etkisi, Shapley, sınıflar, sağlamlık, SLX, Moran's I | `05_ANALIZ/kod/ilce_paneli_analiz.py`, `05_ANALIZ/sonuclar/ilce_*.csv` | ✅ |
+| İlçe haritaları ve İstanbul haritası | `04_HARITA/ilce_haritalari_2025.png`, `04_HARITA/istanbul_ilce_2025.png` | ✅ |
+| Rapor: 973 ilçe, il içi mekân etkisi | `09_RAPORLAR/03_ilce_paneli_il_ici.md` | ✅ |
+| İlçe sonuçları: ölüm oranı (SMR), hane tipi, medeni durum, evlenme ve boşanma (MEDAS + SDMX; doğrulanmış) | `03_VERI/islenmis/ilce_olum_nufus.csv`, `ilce_hane_medeni.csv`, `ilce_evlenme_bosanma.csv` | ✅ |
+| OSM: park erişimi (300 m), kavşak yoğunluğu, cami ve okul noktaları | `03_VERI/kod/osm_ilce.py`, `03_VERI/islenmis/ilce_osm.csv` | ✅ |
+| Rapor: mekânın doğurganlık dışındaki sonuçları | `09_RAPORLAR/07_ilce_diger_sonuclar.md` | ✅ |
+| Pilot seçimi (10 ilçe, veriye dayalı) | `09_RAPORLAR/08_pilot_secimi.md`, `04_HARITA/pilot_ilceler.png` | ✅ kullanıcı onayladı (26.10.2026) |
+| H2 konut maliyeti (TCMB EVDS3 il fiyat ve kira + TÜİK SDMX; 81 il × 2005–2025) | `09_RAPORLAR/04_konut_maliyeti_h2.md`, `05_ANALIZ/kod/konut_h2_*.py` | ✅ il ölçeğinde desteklenmedi |
+| İP7 zihinsel simülasyonlar v1 (8 persona × 3 ortam, 30 yıllık yaşam döngüsü, kriz senaryoları) | `09_RAPORLAR/05_zihinsel_simulasyonlar.md`, `06_SIMULASYON/` | ✅ (paydaş oyunu v2'ye) |
+| İP6 model mahalle v1 (vaziyet planı + DXF, erişim analizi, kesitler, 4 tipoloji, deprem şeması) ve Fıtrat Kodu taslağı | `07_TASARIM_CIZIM/model_mahalle_v1.md`, `07_TASARIM_CIZIM/model_mahalle/`, `07_TASARIM_CIZIM/fitrat_kodu_taslak.md` | ✅ v2 düzeltmeleri listelendi |
+| İP8 mevzuat değişiklik paketi (28 öneri), M6 finansman modeli, 3 politika notu | `09_RAPORLAR/06_politika_paketi_ozet.md`, `08_MEVZUAT_POLITIKA/` | ✅ bazı künyeler doğrulama bekliyor |
+| **Faz 2 sentezi ve güncellenmiş çalışma tezi** | `09_RAPORLAR/09_faz2_sentez.md` | ✅ |
+| Mikro veri başvuruları (TÜİK Gelir ve Yaşam Koşulları, Hacettepe Türkiye Nüfus ve Sağlık Araştırması) | — | ⏳ kullanıcı kararı |
+| Pilot şehir seçimi ve mahalle düzeyi Fıtrat Uyum Endeksi | → Faz 3 (§11) | ✅ |
+
+## 11. Faz 3 durum kaydı
+
+| Çıktı | Dosya | Durum |
+|---|---|---|
+| Mahalle nüfusu 2025, 10 pilot ilçe, 658 mahalle (MEDAS; ilçe toplamlarıyla doğrulanmış) | `03_VERI/islenmis/pilot_mahalle_nufus_2025.csv`, `03_VERI/ham/tuik/mahalle_kaynaklar.md` | ✅ |
+| OSM tek geçiş: Türkiye geneli mahalle/köy sınırları, 302 bin donatı noktası, ana yollar; pilotlarda yaya ağı ve binalar | `03_VERI/kod/osm_pilot_mahalle.py`, `03_VERI/islenmis/pilot_osm/` | ✅ |
+| TKGM kadastro mahalle sınırları (10 ilçe, 810 mahalle) | `03_VERI/kod/tkgm_mahalle.py`, `03_VERI/islenmis/pilot_mahalle_tkgm.gpkg` | ✅ |
+| Mahalle düzeyi FUE: 654 mahallede sınır, 300 kentsel mahalle, 18 gösterge, yaya ağı mesafeleri, E ve Ç alt endeksleri | `05_ANALIZ/kod/fue_mahalle.py`, `03_VERI/islenmis/pilot_mahalleler.gpkg`, `05_ANALIZ/sonuclar/fue_*.csv` | ✅ |
+| FUE geçerlilik sınaması: 973 ilçede FUE-lite, il içi; Faz 2 yükseklik–ölümlülük bulgusunun yeniden sınanması | `05_ANALIZ/kod/fue_ilce_gecerlilik.py`, `03_VERI/islenmis/ilce_fue_lite.csv` | ✅ Ç doğrulandı, E ters yönde; yükseklik etkisi yarıya indi |
+| FUE haritaları ve grafikleri | `04_HARITA/fue_*.png`, `05_ANALIZ/grafikler/fue_*.png` | ✅ |
+| Rapor: mahalle düzeyinde FUE | `09_RAPORLAR/10_fue_mahalle.md` | ✅ |
+
+| Geleneksel doku morfolojisi: 7 geleneksel + 6 çağdaş alan + model v1, 600 × 600 m, ≈50 ölçüt; OSM + Microsoft ayak izleri + GHSL | `03_VERI/kod/morfoloji_olcum.py`, `05_ANALIZ/sonuclar/morfoloji_karsilastirma.csv`, `04_HARITA/morfoloji/` | ✅ yeniden üretim birebir |
+| Rapor: geleneksel doku morfolojisi ve kalibrasyon önerileri | `09_RAPORLAR/11_geleneksel_doku_morfolojisi.md` | ✅ |
+| Model mahalle v2: iki ilkokul (%100 ≤ 500 m), asansör kuralı, EK-2 dengesi, S2 H/W 0,72, ağaç örtüsü %31 | `07_TASARIM_CIZIM/model_mahalle_v2.md`, `07_TASARIM_CIZIM/model_mahalle_v2/`, `07_TASARIM_CIZIM/fitrat_kodu_taslak_v2.md` | ✅ yeniden üretim birebir |
+| Model mahallenin FUE v0.2 konumu (E 82, Ç 63) | `05_ANALIZ/kod/fue_model_mahalle.py`, `05_ANALIZ/sonuclar/fue_model_mahalle.csv` | ✅ |
+| Model mahalle v2.1: morfoloji kalibrasyonu (ada ortası geçit, kapalı T3 avlusu, S2 H/W 0,78, kavşak 303/km²) | `07_TASARIM_CIZIM/model_mahalle_v2.md` §3.5, `model_mahalle_v2/figur_zemin_v2_1.png`, `fitrat_kodu_taslak_v2.md` (0.2.1) | ✅ yeniden üretim birebir; FUE E 82, Ç 63 |
+| **Faz 3 sentezi ve güncellenmiş çalışma tezi** | `09_RAPORLAR/12_faz3_sentez.md` | ✅ |
+| Kurum verisi talepleri (MEB, Diyanet, Sağlık, GTFS), saha anketi ortaklığı | — | ⏳ kullanıcı kararı |
+| Uydu çevre katmanları: WorldCover 10 m, ACAG PM2.5 0,01°, Landsat 8/9 yüzey sıcaklığı (pilot, 30 m), MODIS (ulusal, 1 km) | `03_VERI/kod/uydu_pilot.py`, `uydu_ulusal.py`, `03_VERI/ham/uydu_kaynaklar.md`, `03_VERI/islenmis/ilce_uydu.csv` | ✅ kullanıcı onayıyla (CAMS hesap gerektirdiği için ACAG) |
+| FUE v0.2: Ç eksenine 4 uydu göstergesi; ulusal sınama, aracılık testi, yükseklik bulgusunun üçüncü sınaması | `05_ANALIZ/kod/fue_mahalle.py`, `fue_ilce_gecerlilik.py`, `05_ANALIZ/sonuclar/fue_ilce_cevre_kontrol.csv` | ✅ Ç v0.2 ölümlülükte −0,41; yükseklik etkisi anlamsızlaştı |
+| Rapor: uydu verisiyle çevre-ölçek ekseni | `09_RAPORLAR/13_fue_uydu_cevre.md`, `04_HARITA/uydu_ciftler.png`, `05_ANALIZ/grafikler/fue_v02_*.png` | ✅ |
+| GitHub deposu (özel) | `github.com/Huseyincansagir/tr-tamirat` | ✅ |
+

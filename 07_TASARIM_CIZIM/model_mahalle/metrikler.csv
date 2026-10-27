@@ -1,0 +1,85 @@
+kategori,gosterge,birim,plan_degeri,hedef,hedef_kaynagi,durum,not
+Ölçek,Brüt alan,ha,60.0,60,§9.2,uyumlu,Toplayıcı yolun iç yarısı dahil (800 × 750 m)
+Ölçek,Konut sayısı,konut,2222.0,2.250,§9.2,uyumlu,"hedeften fark %-1,2"
+Ölçek,Nüfus,kişi,7110.4,7.200 (6.000–8.000),§9.2,uyumlu,3.2 kişi/hane varsayımı
+Yoğunluk,Brüt nüfus yoğunluğu,kişi/ha,118.51,120 (100–150),§2,uyumlu,
+Yoğunluk,Brüt konut yoğunluğu,konut/ha,37.03,"37,5",§9.2,uyumlu,
+Yoğunluk,Net konut alanı (parsel + ada içi ortak bahçe),ha,27.3,"32,0",§9.3,yakın (±%25),hedeften fark %-15; bkz. arazi bütçesi
+Yoğunluk,Net konut yoğunluğu,konut/ha,81.4,≈70 (50–90),§2,uyumlu,
+Yoğunluk,Net nüfus yoğunluğu,kişi/ha,260.47,≈225,§9.2,—,
+Konut tipleri,T1 büyüyebilen sıra ev,konut,447.0,650 (%29),§9.4,—,"plan payı %20; parsel 447; net emsal 1,14; yapı oturumu %33"
+Konut tipleri,T2 avlulu çok kuşaklı ev,konut,470.0,400 (%18),§9.4,—,"plan payı %21; parsel 235; net emsal 1,18; yapı oturumu %39"
+Konut tipleri,T3 avlu grubu,konut,1093.0,1.050 (%47),§9.4,—,"plan payı %49; parsel 86; net emsal 1,41; yapı oturumu %48"
+Konut tipleri,T4 çevre adası (zeminde dükkân),konut,212.0,150 (%7),§9.4,—,"plan payı %10; parsel 23; net emsal 1,85; yapı oturumu %44"
+Kat profili,≤ 3 katlı binalardaki konut payı,%,70.12,≈70,§9.4,uyumlu,T1 son durumuna (Z+2) göre
+Kat profili,≤ 4 katlı binalardaki konut payı,%,97.52,≈93,§9.4,uyumlu,
+Kat profili,5 katlı binalardaki konut payı,%,2.48,≤ 7,§9.4,uyumlu,
+Kat profili,5 katın üzerinde konut,konut,0,0,§3,uyumlu,
+Kat profili,≤ 3 katlı bina payı (bina sayısı),%,92.83,çoğunluk,§3 (Alexander 21),uyumlu,
+Konut karması,3+1 ve üstü,%,58.91,≥ 55–60,§9.4,uyumlu,tipoloji varsayımlarından [H]
+Konut karması,2+1,%,35.16,≈20,§9.4,—,
+Konut karması,1+1,%,5.93,5–10,§9.4,uyumlu,
+Konut karması,Çok kuşaklı kullanıma uygun (T2 + ek odalı T1),%,31.21,≥ 15,§9.4,uyumlu,T1'lerin yarısında genişleme payı büyükler odası olarak kullanılır varsayımı
+Konut karması,Konut dışı kat alanı payı,%,14.42,15–25,§2,yakın (±%5),zemin kat dükkân + donatı binaları
+Arazi bütçesi,"Sokak, yaya yolu ve meydan",ha,16.59,"15,00",§9.3,yakın (±%25),"brüt alanın %27,6'i; hedeften fark %11; 4 yeşil diyagonal (≈1,5 ha) ve ada içi S3 geçitleri eklendi"
+Arazi bütçesi,Kamusal yeşil (park + cep + bostan),ha,9.41,"7,20",§9.3,sapma,"brüt alanın %15,7'i; hedeften fark %31; fazlalık diyagonal kırpıntılarından doğan cep parklarıdır"
+Arazi bütçesi,Merkez parkı,ha,1.96,"2,00",§9.5,uyumlu,"brüt alanın %3,3'i; hedeften fark %-2"
+Arazi bütçesi,Komşuluk yeşilleri (8 adet),ha,4.52,"4,00",§9.5,yakın (±%25),"brüt alanın %7,5'i; hedeften fark %13; 8 × 0,50 ha + kuzeybatıdaki kenar parkı"
+Arazi bütçesi,Cep parkı ve kapı önü oyun alanı,ha,1.92,"0,40",§9.3,sapma,"brüt alanın %3,2'i; hedeften fark %380; diyagonalin adaları kestiği üçgenler; kapı önü oyun ve mescit yeri"
+Arazi bütçesi,Bostan ve hobi bahçesi,ha,1.01,"0,80",§9.3,sapma,"brüt alanın %1,7'i; hedeften fark %26"
+Arazi bütçesi,"Eğitim (ilkokul, ortaokul, 2 anaokulu)",ha,2.55,"2,52",§9.3,uyumlu,"brüt alanın %4,3'i; hedeften fark %1"
+Arazi bütçesi,İbadet (semt camii + 4 küçük cami),ha,0.88,"0,76",§9.3,yakın (±%25),"brüt alanın %1,5'i; hedeften fark %16"
+Arazi bütçesi,Aile sağlık merkezi,ha,0.17,"0,15",§9.3,yakın (±%25),"brüt alanın %0,3'i; hedeften fark %15"
+Arazi bütçesi,Mahalle konağı,ha,0.52,"0,36",§9.3,sapma,"brüt alanın %0,9'i; hedeften fark %45; hamam ve spor salonu dahil"
+Arazi bütçesi,Çarşı,ha,0.48,"0,50",§9.3,uyumlu,"brüt alanın %0,8'i; hedeften fark %-3"
+Arazi bütçesi,Açık semt spor alanı,ha,0.5,"0,50",§9.3,uyumlu,"brüt alanın %0,8'i; hedeften fark %-1"
+Arazi bütçesi,Teknik altyapı,ha,0.35,"0,36",§9.3,uyumlu,"brüt alanın %0,6'i; hedeften fark %-2"
+Arazi bütçesi,Bölgesel otopark (4 yapı),ha,1.26,"0,65",§9.3,sapma,"brüt alanın %2,1'i; hedeften fark %93; 2 yerine 4 mobilite noktası: her konuta ≤ 400 m ve 0,6 yer/hane"
+Arazi bütçesi,Net konut alanı,ha,27.3,"32,00",§9.3,yakın (±%25),"brüt alanın %45,5'i; hedeften fark %-15; sokak, diyagonal ve otopark payı arttı; net yoğunluk 50–90 bandında kaldı"
+Arazi bütçesi,Sınıflanamayan kırpıntı,ha,-0.01,0,—,—,< 40 m² artıklar ve köşe payları
+Yeşil,Kamusal yeşil / kişi,m²/kişi,13.23,≥ 10,§5 / MPYY EK-2,uyumlu,
+Yeşil,"Her komşuluk yeşili ≥ 0,5 ha",ha (en küçük),0.5,"≥ 0,5",§5,uyumlu,
+Yeşil,Tahmini ağaç örtüsü (20 yıl),%,25.39,≥ 30 (15–20 yıl),§5 (3-30-300),sapma,≈2.164 sokak ağacı; kaba varsayım [H]
+Donatı,Eğitim alanı / kişi,m²/kişi,3.59,"3,5 (EK-2: 0,5+1,5+1,5)",MPYY EK-2 [İ],uyumlu,
+Donatı,İlkokul arsası,m²,11312.32,"≥ 1,5 m²/kişi ≈ 10.800; okul başına 4.000–7.000",MPYY EK-2 [İ],uyumlu,
+Donatı,Orta ibadet (semt camii) arsası,m²,4825.14,"≥ 2.500 ve ≥ 0,5 m²/kişi",MPYY EK-2 [İ],uyumlu,
+Donatı,Küçük cami arsası (en küçük),m²,1003.47,≥ 1.000,MPYY EK-2 [İ],uyumlu,
+Donatı,Mescit (zemin katta),adet,16,8 (birim başına 1),§9.5,uyumlu,konumlar ağ üzerinde açgözlü kapsama ile seçildi (her birimde ≥ 1); 150 m için 8 yetmiyor
+Donatı,Kreş (zemin katta),adet,5,2–3 (+ 2 anaokulu),§9.5,uyumlu,anaokulu ya da kreşe ≤ 400 m kapsaması için açgözlü seçimle bulunan sayı
+Donatı,Otobüs durağı (S1 hattı + toplayıcı),adet,11,4–6 (S1),§9.5,—,"S1 üzerinde 3, toplayıcı yolda 8"
+Donatı,Bölgesel otopark kapasitesi,araç,1243.07,"0,5–0,7 / hane",§7,uyumlu,"hane başına 0,56; 4 mobilite noktası (Z+3); S2 cepleri yalnız engelli, yaşlı, yükleme"
+Donatı,Avlu grubu (T3) + bahçe grubu (T1/T2),adet,192,"190–280, her biri 8–12 hane",§9.2,uyumlu,"86 avlu grubu (9–15 hane, ort. 12,7); 106 bahçe grubu (ortak şeridin 30 m'lik kesimi, ort. 8,7 hane)"
+Sokak ağı,Sokak ağı uzunluğu,km/km²,25.72,≥ 18 (BM-Habitat); ≈25,§4,uyumlu,"toplam 15,4 km; toplayıcının yarısı sayıldı"
+Sokak ağı,Kavşak yoğunluğu (araç ağı),/km²,116.67,≥ 80–120,§4,uyumlu,
+Sokak ağı,Kavşak yoğunluğu (yaya dahil),/km²,203.33,≥ 80–120,§4,uyumlu,
+Sokak ağı,Sokak payı,%,27.65,25 (BM-Habitat ≥ 30),§4 / §9.3,uyumlu,
+Sokak ağı,Ada ölçüsü,m,,60–90 × 90–130; çevre ≤ 450,§4,uyumlu,"119,7 × 62,8 m; çevre 365 m"
+Erişim (ağ mesafesi),İlkokul ≤ 500 m,% konut,96.85,100,§6.1 / MPYY md. 12,yakın (±%5),"medyan 323 m; %95'lik 484 m; en uzak 553 m; ≤ 500 m: %96,8"
+Erişim (ağ mesafesi),Ortaokul ≤ 1.000 m,% konut,100.0,100,§6.1 / MPYY md. 12,uyumlu,"medyan 623 m; %95'lik 856 m; en uzak 958 m; ≤ 1.000 m: %100,0"
+Erişim (ağ mesafesi),Anaokulu ≤ 400 m,% konut,81.68,100,§6.1 (Perry) / MPYY md. 12,sapma,"medyan 309 m; %95'lik 456 m; en uzak 518 m; ≤ 500 m: %98,8"
+Erişim (ağ mesafesi),Anaokulu ya da kreş ≤ 400 m,% konut,100.0,100,§9.5,uyumlu,"medyan 194 m; %95'lik 333 m; en uzak 398 m; ≤ 500 m: %100,0"
+Erişim (ağ mesafesi),Mescit ≤ 150 m,% konut,75.38,100,§6.1 / MPYY md. 12,sapma,"medyan 124 m; %95'lik 209 m; en uzak 230 m; ≤ 150 m: %75,4"
+Erişim (ağ mesafesi),Küçük cami ≤ 250 m,% konut,61.79,100,§6.1 / MPYY md. 12,sapma,"medyan 223 m; %95'lik 383 m; en uzak 472 m; ≤ 250 m: %61,8"
+Erişim (ağ mesafesi),Semt camii ≤ 400 m,% konut,69.22,100,§6.1 / MPYY md. 12,sapma,"medyan 341 m; %95'lik 494 m; en uzak 561 m; ≤ 400 m: %69,2"
+Erişim (ağ mesafesi),Aile sağlık merkezi ≤ 500 m,% konut,96.53,100,§6.1 / MPYY md. 12,yakın (±%5),"medyan 350 m; %95'lik 491 m; en uzak 558 m; ≤ 500 m: %96,5"
+Erişim (ağ mesafesi),"≥ 0,5 ha kamusal yeşil ≤ 200 m",% konut,96.13,100,§5 (hedef 200 m; DSÖ 300 m),yakın (±%5),"medyan 85 m; %95'lik 198 m; en uzak 245 m; ≤ 300 m: %100,0"
+Erişim (ağ mesafesi),Merkez parkı (2 ha) ≤ 500 m,% konut,98.38,100,§5 (≤ 500–800 m'de ≥ 2 ha),yakın (±%5),"medyan 274 m; %95'lik 468 m; en uzak 552 m; ≤ 800 m: %100,0"
+Erişim (ağ mesafesi),Oyun alanı / cep parkı ≤ 150 m,% konut,85.01,100,§9.5 (150 m) / MPYY 500 m,sapma,"medyan 80 m; %95'lik 167 m; en uzak 245 m; ≤ 500 m: %100,0"
+Erişim (ağ mesafesi),"Açık semt spor alanı (0,5 ha) ≤ 500 m",% konut,75.16,100,§6.1 / MPYY md. 12,sapma,"medyan 386 m; %95'lik 615 m; en uzak 703 m; ≤ 500 m: %75,2"
+Erişim (ağ mesafesi),Herhangi bir açık spor sahası ≤ 500 m,% konut,100.0,100,§6.1 / MPYY md. 12,uyumlu,"medyan 168 m; %95'lik 293 m; en uzak 349 m; ≤ 500 m: %100,0"
+Erişim (ağ mesafesi),Otobüs durağı ≤ 300 m,% konut,99.05,100,§6.1 (300–400 m),yakın (±%5),"medyan 158 m; %95'lik 275 m; en uzak 311 m; ≤ 400 m: %100,0"
+Erişim (ağ mesafesi),"Bakkal, fırın ya da dükkân ≤ 300 m",% konut,100.0,100,§6.1 (200–300 m),uyumlu,"medyan 89 m; %95'lik 234 m; en uzak 298 m; ≤ 300 m: %100,0"
+Erişim (ağ mesafesi),Meydan ve çarşı ≤ 400 m,% konut,73.94,100,§9.5,sapma,"medyan 331 m; %95'lik 465 m; en uzak 516 m; ≤ 500 m: %98,8"
+Erişim (ağ mesafesi),Mahalle konağı ≤ 500 m,% konut,95.14,100,§6.1,yakın (±%5),"medyan 339 m; %95'lik 499 m; en uzak 568 m; ≤ 500 m: %95,1"
+Erişim (ağ mesafesi),Bölgesel otopark ≤ 400 m,% konut,100.0,100,§9.5 (300–400 m),uyumlu,"medyan 188 m; %95'lik 311 m; en uzak 350 m; ≤ 400 m: %100,0"
+Erişim (ağ mesafesi),Su ve oturma noktası ≤ 250 m,% konut,100.0,100,§9.5,uyumlu,"medyan 140 m; %95'lik 222 m; en uzak 245 m; ≤ 250 m: %100,0"
+Erişim (ağ mesafesi),İbadet yeri (mescit ≤150 / küçük cami ≤250 / semt camii ≤400 m),% konut,99.28,100,MPYY md. 12; PAİY md. 53,yakın (±%5),
+Erişim (ağ mesafesi),Kapı önü oyun alanı (avlu ya da ada içi ortak bahçe) ya da cep parkı ≤ 150 m,% konut,100.0,100,§6.1 (kapı önü 100 m) / §9.5,uyumlu,T3 avlusu ve T1/T2 ortak şeridi kendi haneleri için ≤ 30 m
+Komşuluk birimi,KB-1,konut / kişi / ha,224,"150–300 hane, 500–1.000 kişi",§1,uyumlu,"717 kişi; 6,72 ha brüt; 1 mescit; en uzun kenar-köşe 519 m"
+Komşuluk birimi,KB-2,konut / kişi / ha,288,"150–300 hane, 500–1.000 kişi",§1,uyumlu,"922 kişi; 6,70 ha brüt; 3 mescit; en uzun kenar-köşe 518 m"
+Komşuluk birimi,KB-3,konut / kişi / ha,328,"150–300 hane, 500–1.000 kişi",§1,sapma,"1.050 kişi; 6,70 ha brüt; 1 mescit; en uzun kenar-köşe 518 m"
+Komşuluk birimi,KB-4,konut / kişi / ha,279,"150–300 hane, 500–1.000 kişi",§1,uyumlu,"893 kişi; 6,72 ha brüt; 2 mescit; en uzun kenar-köşe 519 m"
+Komşuluk birimi,KB-5,konut / kişi / ha,298,"150–300 hane, 500–1.000 kişi",§1,uyumlu,"954 kişi; 6,72 ha brüt; 1 mescit; en uzun kenar-köşe 519 m"
+Komşuluk birimi,KB-6,konut / kişi / ha,283,"150–300 hane, 500–1.000 kişi",§1,uyumlu,"906 kişi; 6,70 ha brüt; 3 mescit; en uzun kenar-köşe 518 m"
+Komşuluk birimi,KB-7,konut / kişi / ha,308,"150–300 hane, 500–1.000 kişi",§1,yakın (±%5),"986 kişi; 6,70 ha brüt; 4 mescit; en uzun kenar-köşe 518 m"
+Komşuluk birimi,KB-8,konut / kişi / ha,214,"150–300 hane, 500–1.000 kişi",§1,uyumlu,"685 kişi; 6,72 ha brüt; 1 mescit; en uzun kenar-köşe 519 m"

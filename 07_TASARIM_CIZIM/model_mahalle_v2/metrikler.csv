@@ -1,0 +1,147 @@
+kategori,gosterge,birim,v1_degeri,v2_0,v2_1,v2_degeri,hedef,hedef_kaynagi,durum,not
+Ölçek,Brüt alan,ha,60.0,60.0,60.0,60.0,60,§9.2,uyumlu,Toplayıcı yolun iç yarısı dahil (800 × 750 m)
+Ölçek,Konut sayısı,konut,2222.0,2163.0,2164.0,2164.0,2.250,§9.2,yakın (±%5),"hedeften fark %-3,8; iki okul, büyük ortaokul ve ≤ 3 kat payı için kabul edildi"
+Ölçek,Nüfus,kişi,7110.4,6921.6,6924.8,6924.8,7.200 (6.000–8.000),§9.2,uyumlu,3.2 kişi/hane varsayımı
+Yoğunluk,Brüt nüfus yoğunluğu,kişi/ha,118.51,115.36,115.41,115.41,120 (100–150),§2,uyumlu,
+Yoğunluk,Brüt konut yoğunluğu,konut/ha,37.03,36.05,36.07,36.07,"37,5",§9.2,uyumlu,
+Yoğunluk,Net konut alanı (parsel + ada içi ortak bahçe),ha,27.3,27.15,26.51,26.51,"32,0 (güncel EK-2 ile tutarlı: 26,8)",§9.3 / [H],yakın (±%25),32 ha'dan fark %-17; tutarlı hedeften fark %-1
+Yoğunluk,Net konut yoğunluğu,konut/ha,81.4,79.66,81.63,81.63,≈70 (50–90),§2,uyumlu,
+Yoğunluk,Net nüfus yoğunluğu,kişi/ha,260.47,254.9,261.22,261.22,≈225,§9.2,—,
+Konut tipleri,T1 büyüyebilen sıra ev,konut,447.0,534.0,493.0,493.0,650 (%29),§9.4,sapma,"plan payı %22,8; parsel 493; net emsal 1,15; yapı oturumu %33"
+Konut tipleri,T2 avlulu çok kuşaklı ev,konut,470.0,422.0,388.0,388.0,400 (%18),§9.4,—,"plan payı %17,9; parsel 194; net emsal 1,21; yapı oturumu %40"
+Konut tipleri,T3 avlu grubu,konut,1093.0,995.0,1071.0,1071.0,1.050 (%47),§9.4,—,"plan payı %49,5; parsel 78; net emsal 1,52; yapı oturumu %57"
+Konut tipleri,T4 çevre adası (zeminde dükkân),konut,212.0,212.0,212.0,212.0,150 (%7),§9.4,—,"plan payı %9,8; parsel 23; net emsal 1,85; yapı oturumu %44"
+Konut tipleri,T1 payı,%,20.12,24.69,22.78,22.78,29,§9.4,sapma,bkz. model_mahalle_v2.md §3 (neden 29'a ulaşmadı)
+Konut tipleri,Diyagonal köşe evi (kırpılmış T1/T2 parseli),parsel,0,19,17,17,—,v2,—,"19 konut; v1'de bu parseller düşürülüyordu (v2'de düşen parsel 84, v1'de 98)"
+Kat profili,≤ 3 katlı binalardaki konut payı,%,70.12,70.13,70.15,70.15,≈70,§9.4,uyumlu,T1 son durumuna (Z+2) göre
+Kat profili,≤ 4 katlı binalardaki konut payı,%,97.52,97.46,97.46,97.46,≈93,§9.4,uyumlu,
+Kat profili,5 katlı binalardaki konut payı,%,2.48,2.54,2.54,2.54,≤ 7,§9.4,uyumlu,
+Kat profili,5 katın üzerinde konut,konut,0.0,0,0,0,0,§3,uyumlu,
+Kat profili,≤ 3 katlı bina payı (bina sayısı),%,92.83,93.31,93.18,93.18,çoğunluk,§3 (Alexander 21),uyumlu,
+Konut karması,3+1 ve üstü,%,58.91,62.04,59.33,59.33,≥ 55–60,§9.4,uyumlu,tipoloji varsayımlarından [H]
+Konut karması,2+1,%,35.16,32.38,35.09,35.09,≈20,§9.4,—,
+Konut karması,1+1,%,5.93,5.58,5.58,5.58,5–10,§9.4,uyumlu,
+Konut karması,Çok kuşaklı kullanıma uygun (T2 + ek odalı T1),%,31.21,31.85,29.32,29.32,≥ 15,§9.4,uyumlu,T1'lerin yarısında genişleme payı büyükler odası olarak kullanılır varsayımı
+Konut karması,Konut dışı kat alanı payı,%,14.42,17.45,17.46,17.46,15–25,§2,uyumlu,zemin kat dükkân + donatı binaları
+Konut karması,"Zemin kat konut dışı birim (dükkân, atölye, ofis; ≈ 70 m²)",adet,202.0,208.0,213.0,213.0,80–120 dükkân,§9.5; persona C,—,"≈ 33 kişiye 1 birim; dükkân olarak hepsinin yaşaması zor (B ortamında ≈ 72 kişi/dükkân): T3 dükkânlı kanatlar 'esnek zemin kat' (atölye, ofis, kreş, konuta dönüşebilir) olarak tescil edilmeli"
+Arazi bütçesi,"Sokak, yaya yolu ve meydan",ha,16.59,16.56,17.2,17.2,"15,00",§9.3,yakın (±%25),"brüt alanın %28,7'i; hedeften fark %15; 4 yeşil diyagonal ve ada içi S3 geçitleri; v2'de ilkokul A güneyindeki S2 yeniden açıldı"
+Arazi bütçesi,Kamusal yeşil (park + cep + bostan),ha,9.41,8.52,8.53,8.53,"7,20",§9.3,yakın (±%25),"brüt alanın %14,2'i; hedeften fark %18; cep parkları köşe evleri, teknik altyapı ve okullar için azaldı; ≥ 10 m²/kişi korunur"
+Arazi bütçesi,Merkez parkı,ha,1.96,1.96,1.96,1.96,"2,00",§9.5,uyumlu,"brüt alanın %3,3'i; hedeften fark %-2"
+Arazi bütçesi,Komşuluk yeşilleri (8 adet),ha,4.52,4.52,4.52,4.52,"4,00",§9.5,yakın (±%25),"brüt alanın %7,5'i; hedeften fark %13; 8 × 0,50 ha + kuzeybatıdaki kenar parkı"
+Arazi bütçesi,Cep parkı ve kapı önü oyun alanı,ha,1.92,1.2,1.21,1.21,"0,40",§9.3,sapma,"brüt alanın %2,0'i; hedeften fark %202; diyagonal kırpıntıları; v2'de bir kısmı köşe evi parseli oldu"
+Arazi bütçesi,Bostan ve hobi bahçesi,ha,1.01,0.84,0.84,0.84,"0,80",§9.3,uyumlu,"brüt alanın %1,4'i; hedeften fark %5"
+Arazi bütçesi,"Eğitim (2 ilkokul, ortaokul, 2 anaokulu)",ha,2.55,3.38,3.38,3.38,"3,12",güncel EK-2,uyumlu,"brüt alanın %5,6'i; hedeften fark %8; güncel EK-2: 0,5 + 2,0 + 2,0 = 4,5 m²/kişi"
+Arazi bütçesi,İbadet (semt camii + 4 küçük cami),ha,0.88,0.88,0.88,0.88,"0,76",§9.3,yakın (±%25),"brüt alanın %1,5'i; hedeften fark %16"
+Arazi bütçesi,Aile sağlık merkezi,ha,0.17,0.17,0.17,0.17,"0,15",§9.3,yakın (±%25),"brüt alanın %0,3'i; hedeften fark %15"
+Arazi bütçesi,Mahalle konağı,ha,0.52,0.58,0.58,0.58,"0,52","güncel EK-2 (0,75 m²/kişi)",uyumlu,"brüt alanın %1,0'i; hedeften fark %12; sosyal-kültürel ≥ 0,75 m²/kişi (güncel EK-2) için (3,3) üçgenine uzatıldı"
+Arazi bütçesi,Çarşı,ha,0.48,0.48,0.48,0.48,"0,50",§9.3,uyumlu,"brüt alanın %0,8'i; hedeften fark %-3"
+Arazi bütçesi,Açık semt spor alanı,ha,0.5,0.5,0.5,0.5,"0,50",§9.3,uyumlu,"brüt alanın %0,8'i; hedeften fark %-1"
+Arazi bütçesi,Teknik altyapı,ha,0.35,0.75,0.75,0.75,"0,69","güncel EK-2 (1,0 m²/kişi)",uyumlu,"brüt alanın %1,3'i; hedeften fark %9; üç köşe üçgeni + mobilite noktalarında 4 × 9 m servis şeridi (güncel EK-2 ≥ 1,0 m²/kişi)"
+Arazi bütçesi,Bölgesel otopark (4 yapı),ha,1.26,1.03,1.03,1.03,"0,65",§9.3,sapma,"brüt alanın %1,7'i; hedeften fark %58; v2: 4 × 41 m Z+4 (v1: 4 × 50 m Z+3); kalan 9 m teknik altyapı şeridi"
+Arazi bütçesi,Net konut alanı,ha,27.3,27.15,26.51,26.51,"32,00",§9.3,yakın (±%25),"brüt alanın %44,2'i; hedeften fark %-17; güncel EK-2 donatısı (+1,1 ha) diyagonal ve köşe kazanımlarını karşıladı; bkz. tutarlı hedef"
+Arazi bütçesi,Sınıflanamayan kırpıntı,ha,-0.01,-0.01,-0.01,-0.01,0,—,—,< 40 m² artıklar ve köşe payları
+Arazi bütçesi,Net konut alanı için tutarlı hedef,ha,,27.48,26.83,26.83,"32,0 (§9.3, eski EK-2)",[H],—,"§9.3 bütçesi güncel EK-2 ile 30,7 ha; diyagonaller ve S3 ile 28,5; 4 mobilite noktasıyla 28,2; yeşil 10 m²/kişinin üstünde tutulunca 26,8 ha"
+Güncel EK-2 dengesi,Anaokulu,m²/kişi,0.5,0.51,0.51,0.51,"≥ 0,50 m²/kişi; asgari 1.500 m²",MPYY EK-2 (17.05.2017) [D],uyumlu,3.526 m²; 
+Güncel EK-2 dengesi,İlkokul,m²/kişi,1.59,2.11,2.11,2.11,"≥ 2,00 m²/kişi; asgari 5.000 m²",MPYY EK-2 (17.05.2017) [D],uyumlu,14.591 m²; her okul ≥ 5.000 m²
+Güncel EK-2 dengesi,Ortaokul,m²/kişi,1.5,2.26,2.26,2.26,"≥ 2,00 m²/kişi; asgari 6.000 m²",MPYY EK-2 (17.05.2017) [D],uyumlu,15.658 m²; komşu mahalleyle ortak; komşu payı ayrıca
+Güncel EK-2 dengesi,Aile sağlık merkezi,m²,1725.91,1725.91,1725.91,1725.91,750–2.000 m² parsel,MPYY EK-2 [D],uyumlu,"EK-2'deki 1,5 m²/kişi sağlık tesisleri için yorumlandı (hastane semtte; doğrulanmalı)"
+Güncel EK-2 dengesi,Sosyal-kültürel tesis,m²/kişi,0.74,0.84,0.84,0.84,"≥ 0,75 m²/kişi",MPYY EK-2 (17.05.2017) [D],uyumlu,5.818 m²; mahalle konağı
+Güncel EK-2 dengesi,İbadet (küçük ve orta),m²/kişi,1.24,1.28,1.28,1.28,"≥ 0,50 m²/kişi; asgari 1.000 m²",MPYY EK-2 (17.05.2017) [D],uyumlu,8.839 m²; küçük ibadet yeri ≥ 1.000 m²
+Güncel EK-2 dengesi,Teknik altyapı,m²/kişi,0.49,1.09,1.09,1.09,"≥ 1,00 m²/kişi",MPYY EK-2 (17.05.2017) [D],uyumlu,7.529 m²; yol ve otopark hariç
+Güncel EK-2 dengesi,"Açık ve yeşil alan (park, oyun, bostan)",m²/kişi,13.23,12.31,12.32,12.32,"≥ 10,00 m²/kişi",MPYY EK-2 (17.05.2017) [D],uyumlu,85.284 m²; ilçe ölçeği; spor alanı ayrı satırda
+Güncel EK-2 dengesi,İlkokul A arsası,m²,11312.32,7076.12,7076.12,7076.12,≥ 5.000,MPYY EK-2 [D],uyumlu,"kayıt alanı 1.390 hane ≈ 267 öğrenci (6–9 yaş %6 [V]) → 10 derslik; 26,5 m²/öğrenci"
+Güncel EK-2 dengesi,İlkokul B arsası,m²,,7515.07,7515.07,7515.07,≥ 5.000,MPYY EK-2 [D],uyumlu,"kayıt alanı 774 hane ≈ 149 öğrenci (6–9 yaş %6 [V]) → 6 derslik; 50,6 m²/öğrenci"
+Güncel EK-2 dengesi,Ortaokul arsası,m²,10691.65,15658.13,15658.13,15658.13,"≥ 2,0 × nüfus = 13.850",MPYY EK-2 [D],uyumlu,GD köşe adalarının tamamı; okul sahası mesai dışı mahalleye açık
+Yeşil,Kamusal yeşil / kişi,m²/kişi,13.23,12.31,12.32,12.32,≥ 10,§5 / MPYY EK-2,uyumlu,
+Yeşil,"Her komşuluk yeşili ≥ 0,5 ha",ha (en küçük),0.5,0.5,0.5,0.5,"≥ 0,5",§5,uyumlu,
+Yeşil,Tahmini ağaç örtüsü (20 yıl),%,25.39,31.14,31.08,31.08,≥ 30 (15–20 yıl),§5 (3-30-300),uyumlu,"v2: çizimdeki 5.558 ağacın 20 yıllık taç birleşimi (yarıçaplar [V]); aynı v2 geometrisi v1 formülüyle %24,7; v1 değeri v1 formülüyle"
+Yeşil,Özel bahçe ve avlu (konut başına),m²/konut,59.06,59.72,54.57,54.57,≥ 10,Genelge 2026/4 ölçüt 14 (paket G1),uyumlu,"ada içi ortak şerit dahil 65,4 m²/konut; kişi başı 17,1 m² (simülasyon C: 10,9)"
+Yeşil,Bahçesi evin kuzeyinde kalan T1/T2 konut payı (kışın gölgede),%,46.67,43.83,43.59,43.59,düşük,v1 açık soru 4,—,güney sıra; ada yönü değişmeden çözülemez (bkz. kalan sorunlar)
+Donatı,Eğitim alanı / kişi,m²/kişi,3.59,4.88,4.88,4.88,"4,5 (güncel EK-2: 0,5+2,0+2,0)",MPYY EK-2 [D],uyumlu,
+Donatı,İlkokul arsası,m²,11312.32,14591.18,14591.18,14591.18,"≥ 2,0 m²/kişi = 13.850; okul başına ≥ 5.000",MPYY EK-2 (17.05.2017) [D],uyumlu,"2 okul: A 7.076 + B 7.515 m²; 2,11 m²/kişi"
+Donatı,Orta ibadet (semt camii) arsası,m²,4825.14,4825.14,4825.14,4825.14,"≥ 2.500 ve ≥ 0,5 m²/kişi",MPYY EK-2 [İ],uyumlu,
+Donatı,Küçük cami arsası (en küçük),m²,1003.47,1003.47,1003.47,1003.47,≥ 1.000,MPYY EK-2 [İ],uyumlu,
+Donatı,Mescit (zemin katta),adet,16.0,16,16,16,8 (birim başına 1),§9.5,uyumlu,ağ üzerinde açgözlü kapsama ile seçildi (her birimde ≥ 1)
+Donatı,Kreş (zemin katta),adet,5.0,5,6,6,2–3 (+ 2 anaokulu),§9.5,uyumlu,anaokulu ya da kreşe ≤ 400 m kapsaması için
+Donatı,Otobüs durağı (S1 hattı + toplayıcı),adet,11.0,11,11,11,4–6 (S1),§9.5,—,"S1 üzerinde 3, toplayıcı yolda 8"
+Donatı,Bölgesel otopark kapasitesi,araç,1243.07,1235.01,1235.01,1235.01,"0,5–0,7 / hane",§7,uyumlu,"hane başına 0,57; 4 mobilite noktası (Z+4); S2 cepleri yalnız engelli, yaşlı, yükleme"
+Donatı,Avlu grubu (T3) + bahçe grubu (T1/T2),adet,192.0,186,186,186,"190–280, her biri 8–12 hane",§9.2,yakın (±%5),"78 avlu grubu (11–17 hane, ort. 13,7); 108 bahçe grubu (ort. 8,2 hane)"
+Otopark Yönetmeliği,"Ek-1'e göre gereken otopark (mevcut kural, konut)",yer,2121.67,2186.67,2100.17,2100.17,—,Otopark Yön. Ek-1 (RG 25.03.2021) [D],—,"hane başına 0,97; T1 son durum (195 m²) ve T2 dubleksi (219 m²) ≥ 180 m² olduğu için 2 yer"
+Otopark Yönetmeliği,"Ek-1'e göre gereken otopark (dükkân, 50 m²'ye 1)",yer,373.1,373.1,381.1,381.1,—,Otopark Yön. Ek-1 [D],—,zemin kat dükkânları ve zemin donatıları
+Otopark Yönetmeliği,"Ek-1 gereği (paket O1 reformuyla, konut)",yer,1452.0,1454.0,1425.5,1425.5,—,paket O1 (öneri),—,"her BB 0,5; ≥ 180 m² 1; hane başına 0,66"
+Otopark Yönetmeliği,Planın sağladığı / Ek-1 mevcut gereği,%,,48.25,49.77,49.77,≥ 100 (mevcut kural),Otopark Yön. md. 4 [D],sapma,fark ancak O2 (bölgesel otopark alanında azami otopark) ve belediye meclisi kararıyla kapanır; md. 8/2 indirimi parselde yarısının karşılanmasını şart koştuğu için uygulanamaz
+Asansör ve erişilebilirlik,Asansör tesisi (bugünkü uygulama: her merdiven evine),adet,115.0,111.0,111.0,111.0,PAİY md. 34/1,PAİY md. 34/1 (RG 01.07.2026) [D],uyumlu,"maliyet ≈ 144,8 milyon TL [V]; T3 Z+3 sokak kanadında 2, T4'te 1"
+Asansör ve erişilebilirlik,Asansör tesisi (paket P4: galeriyle tek asansör),adet,69.0,67.0,67.0,67.0,—,paket P4 (öneri),—,"maliyet ≈ 87,6 milyon TL [V]"
+Asansör ve erişilebilirlik,"Asansör yeri (3 katlı, birden çok BB)",adet,,279.0,262.0,262.0,PAİY md. 34/1,[D],uyumlu,"T2'de platform yeri (1,4 × 1,6 m), T3 Z+2 sokak kanadında 2 çekirdekte kuyu"
+Asansör ve erişilebilirlik,"Kaldırma platformu yeri (T1, tek BB; zorunlu değil)",adet,0,534.0,493.0,493.0,—,v2 tasarım kararı,—,"kiler/dolap dikmesi (1,0 × 2,3 m); yaşlanınca platform takılabilir"
+Asansör ve erişilebilirlik,Zemin katta erişilebilir (eşiksiz) daire payı,%,16.07,14.79,16.73,16.73,≥ 15,paket P4; Genelge ölçüt 17,uyumlu,362 daire: T2 zemin büyükler dairesi + T3 zemin 2+1 ve 1+1 + gereken gruplarda yan kanat zemin dairesi
+Asansör ve erişilebilirlik,Basamaksız ulaşılan konut payı (zemin + asansörlü),%,43.7,42.76,44.69,44.69,—,[H],—,T1'lerin zemininde büyükler odası ve duş (aşama 2) ayrıca %23
+Asansör ve erişilebilirlik,Binası ölçüt 17'yi sağlayan konut (zemin ≥ %15 erişilebilir BB ya da asansör),%,,100.0,100.0,100.0,100,Genelge 2026/4 ölçüt 17 (paket G1),uyumlu,"T1: tek BB, zeminde büyükler odası; T2: 2 BB'den 1'i zeminde; T3 Z+2: grupta ≥ %15 zemin (gerekirse yan kanatta); T3 Z+3 ve T4: asansör"
+Asansör ve erişilebilirlik,Kendi kapısından bahçeye ya da avluya çıkan hane,%,62.24,62.6,62.62,62.62,≈90 (simülasyon C varsayımı),05_zihinsel_simulasyonlar §1.1,sapma,"T1, T2, T3 zemin daireleri ve yan kanat dubleksleri; T3 üst katları ortak avluya merdivenle iner"
+Asansör ve erişilebilirlik,Bir yapıyı paylaşan hane (konut ağırlıklı ortalama),hane,4.85,4.69,4.71,4.71,≈7 (simülasyon C),05_zihinsel_simulasyonlar §1.1,—,
+Sokak ağı,Sokak ağı uzunluğu,km/km²,25.72,25.54,28.08,28.08,≥ 18 (BM-Habitat); ≈25,§4,uyumlu,"toplam 16,9 km; toplayıcının yarısı sayıldı"
+Sokak ağı,Kavşak yoğunluğu (araç ağı),/km²,116.67,118.33,118.33,118.33,≥ 80–120,§4,uyumlu,
+Sokak ağı,Kavşak yoğunluğu (yaya dahil),/km²,203.33,205.0,265.0,265.0,≥ 80–120,§4,uyumlu,
+Sokak ağı,Sokak payı,%,27.65,27.6,28.66,28.66,25 (BM-Habitat ≥ 30),§4 / §9.3,uyumlu,
+Sokak kesiti,"S2 yaşam sokağı H/W (son durum, K2)",oran,0.64,0.72,0.78,0.78,"0,7–1,0",§9.6,uyumlu,"W = 12,0 m (10 + 2 × 1,0 ön eşik), H = 9,3 m (3 × 3,1); T1 çekirdek döneminde 0,65; K1'de (ön eşik 2,0) 0,66; 21 Aralık öğlesi karşı cephede 3,6 m'ye kadar gölge (v1: 2,3 m)"
+Sokak kesiti,S1 mahalle caddesi H/W,oran,0.69,0.71,0.71,0.71,"0,7–0,8",§9.6,uyumlu,"W = 19,5 m, H = 13,8 m (4,5 + 3 × 3,1)"
+Erişim (ağ mesafesi),İlkokul ≤ 500 m,% konut,96.85,100.0,100.0,100.0,100,§6.1 / MPYY md. 12,uyumlu,"medyan 239 m; %95'lik 424 m; en uzak 493 m; ≤ 500 m: %100,0"
+Erişim (ağ mesafesi),Ortaokul ≤ 1.000 m,% konut,100.0,100.0,100.0,100.0,100,§6.1 / MPYY md. 12,uyumlu,"medyan 559 m; %95'lik 803 m; en uzak 913 m; ≤ 1.000 m: %100,0"
+Erişim (ağ mesafesi),Anaokulu ≤ 400 m,% konut,81.68,84.05,84.61,84.61,100,§6.1 (Perry) / MPYY md. 12,sapma,"medyan 293 m; %95'lik 437 m; en uzak 514 m; ≤ 500 m: %99,6"
+Erişim (ağ mesafesi),Anaokulu ya da kreş ≤ 400 m,% konut,100.0,100.0,100.0,100.0,100,§9.5,uyumlu,"medyan 167 m; %95'lik 321 m; en uzak 397 m; ≤ 500 m: %100,0"
+Erişim (ağ mesafesi),Mescit ≤ 150 m,% konut,75.38,73.56,74.12,74.12,100,§6.1 / MPYY md. 12,sapma,"medyan 125 m; %95'lik 209 m; en uzak 244 m; ≤ 150 m: %74,1"
+Erişim (ağ mesafesi),Küçük cami ≤ 250 m,% konut,61.79,62.69,64.83,64.83,100,§6.1 / MPYY md. 12,sapma,"medyan 219 m; %95'lik 383 m; en uzak 472 m; ≤ 250 m: %64,8"
+Erişim (ağ mesafesi),Semt camii ≤ 400 m,% konut,69.22,70.55,71.77,71.77,100,§6.1 / MPYY md. 12,sapma,"medyan 332 m; %95'lik 489 m; en uzak 561 m; ≤ 400 m: %71,8"
+Erişim (ağ mesafesi),Aile sağlık merkezi ≤ 500 m,% konut,96.53,96.44,96.67,96.67,100,§6.1 / MPYY md. 12,yakın (±%5),"medyan 349 m; %95'lik 489 m; en uzak 558 m; ≤ 500 m: %96,7"
+Erişim (ağ mesafesi),"≥ 0,5 ha kamusal yeşil ≤ 200 m",% konut,96.13,95.75,95.61,95.61,100,§5 (hedef 200 m; DSÖ 300 m),yakın (±%5),"medyan 87 m; %95'lik 196 m; en uzak 244 m; ≤ 300 m: %100,0"
+Erişim (ağ mesafesi),Merkez parkı (2 ha) ≤ 500 m,% konut,98.38,98.38,98.48,98.48,100,§5 (≤ 500–800 m'de ≥ 2 ha),yakın (±%5),"medyan 259 m; %95'lik 462 m; en uzak 551 m; ≤ 800 m: %100,0"
+Erişim (ağ mesafesi),Oyun alanı / cep parkı ≤ 150 m,% konut,85.01,86.41,86.74,86.74,100,§9.5 (150 m) / MPYY 500 m,sapma,"medyan 80 m; %95'lik 167 m; en uzak 244 m; ≤ 500 m: %100,0"
+Erişim (ağ mesafesi),"Açık semt spor alanı (0,5 ha) ≤ 500 m",% konut,75.16,77.25,78.65,78.65,100,§6.1 / MPYY md. 12,sapma,"medyan 368 m; %95'lik 610 m; en uzak 702 m; ≤ 500 m: %78,7"
+Erişim (ağ mesafesi),Herhangi bir açık spor sahası ≤ 500 m,% konut,100.0,100.0,100.0,100.0,100,§6.1 / MPYY md. 12,uyumlu,"medyan 160 m; %95'lik 295 m; en uzak 348 m; ≤ 500 m: %100,0"
+Erişim (ağ mesafesi),Otobüs durağı ≤ 300 m,% konut,99.05,98.75,98.84,98.84,100,§6.1 (300–400 m),yakın (±%5),"medyan 154 m; %95'lik 275 m; en uzak 329 m; ≤ 400 m: %100,0"
+Erişim (ağ mesafesi),"Bakkal, fırın ya da dükkân ≤ 300 m",% konut,100.0,100.0,100.0,100.0,100,§6.1 (200–300 m),uyumlu,"medyan 88 m; %95'lik 229 m; en uzak 295 m; ≤ 300 m: %100,0"
+Erişim (ağ mesafesi),Meydan ve çarşı ≤ 400 m,% konut,73.94,73.83,75.42,75.42,100,§9.5,sapma,"medyan 322 m; %95'lik 462 m; en uzak 516 m; ≤ 500 m: %98,8"
+Erişim (ağ mesafesi),Mahalle konağı ≤ 500 m,% konut,95.14,95.15,95.75,95.75,100,§6.1,yakın (±%5),"medyan 312 m; %95'lik 495 m; en uzak 567 m; ≤ 500 m: %95,7"
+Erişim (ağ mesafesi),Bölgesel otopark ≤ 400 m,% konut,100.0,100.0,100.0,100.0,100,§9.5 (300–400 m),uyumlu,"medyan 198 m; %95'lik 313 m; en uzak 350 m; ≤ 400 m: %100,0"
+Erişim (ağ mesafesi),Su ve oturma noktası ≤ 250 m,% konut,100.0,100.0,100.0,100.0,100,§9.5,uyumlu,"medyan 129 m; %95'lik 209 m; en uzak 248 m; ≤ 250 m: %100,0"
+Erişim (ağ mesafesi),İlkokul ≤ 400 m (tercih),% konut,74.53,90.66,91.04,91.04,tercihen 100,§6.1 (tercihen 400 m),—,iki okul; medyan ve kayıt alanları için bkz. EK-2 satırları
+Erişim (ağ mesafesi),İbadet yeri (mescit ≤150 / küçük cami ≤250 / semt camii ≤400 m),% konut,99.28,99.45,99.45,99.45,100,MPYY md. 12; PAİY md. 53,yakın (±%5),
+Erişim (ağ mesafesi),Kapı önü oyun alanı (avlu ya da ada içi ortak bahçe) ya da cep parkı ≤ 150 m,% konut,100.0,100.0,100.0,100.0,100,§6.1 (kapı önü 100 m) / §9.5,uyumlu,T3 avlusu ve T1/T2 ortak şeridi kendi haneleri için ≤ 30 m
+Komşuluk birimi,KB-1,konut,224.0,241,244,244,"150–300 hane, 500–1.000 kişi",§1,uyumlu,"781 kişi; 6,72 ha brüt; 2 mescit; tahsis K %29 · S %19 · P %52"
+Komşuluk birimi,KB-2,konut,288.0,284,277,277,"150–300 hane, 500–1.000 kişi",§1,uyumlu,"886 kişi; 6,70 ha brüt; 2 mescit; tahsis K %32 · S %20 · P %48"
+Komşuluk birimi,KB-3,konut,328.0,299,301,301,"150–300 hane, 500–1.000 kişi",§1,yakın (±%5),"963 kişi; 6,70 ha brüt; 1 mescit; tahsis K %30 · S %20 · P %50"
+Komşuluk birimi,KB-4,konut,279.0,299,306,306,"150–300 hane, 500–1.000 kişi",§1,yakın (±%5),"979 kişi; 6,72 ha brüt; 3 mescit; tahsis K %30 · S %20 · P %50"
+Komşuluk birimi,KB-5,konut,298.0,248,245,245,"150–300 hane, 500–1.000 kişi",§1,uyumlu,"784 kişi; 6,72 ha brüt; 1 mescit; tahsis K %31 · S %18 · P %51"
+Komşuluk birimi,KB-6,konut,283.0,277,274,274,"150–300 hane, 500–1.000 kişi",§1,uyumlu,"877 kişi; 6,70 ha brüt; 2 mescit; tahsis K %29 · S %19 · P %52"
+Komşuluk birimi,KB-7,konut,308.0,311,309,309,"150–300 hane, 500–1.000 kişi",§1,yakın (±%5),"989 kişi; 6,70 ha brüt; 4 mescit; tahsis K %31 · S %19 · P %49"
+Komşuluk birimi,KB-8,konut,214.0,204,208,208,"150–300 hane, 500–1.000 kişi",§1,uyumlu,"666 kişi; 6,72 ha brüt; 1 mescit; tahsis K %30 · S %23 · P %48"
+Morfoloji (600 m pencere),Bina,/ha,21.25,23.25,23.11,23.11,—,09_RAPORLAR/11 §3.1,—,"geleneksel medyan 13,7 · çağdaş medyan 5,8 · tam 60 ha: v1 23,9, v2.0 26,1, v2.1 25,1"
+Morfoloji (600 m pencere),Bina tabanı (medyan),m²,56.68,56.68,57.33,57.33,T1 tabanı 75–90,09_RAPORLAR/11 §3.1,uygulanmadı,"geleneksel medyan 118 · çağdaş medyan 347 · tam 60 ha: v1 57, v2.0 57, v2.1 57"
+Morfoloji (600 m pencere),Yapı oturumu (brüt),%,21.35,22.19,23.58,23.58,%25–30,09_RAPORLAR/11 §3.1,kısmen,"geleneksel medyan 30 · çağdaş medyan 25 · tam 60 ha: v1 23, v2.0 23, v2.1 24"
+Morfoloji (600 m pencere),Net yapı oturumu (ada içi),%,29.8,31.11,33.64,33.64,K3 %45–55 · K2 %35–40,09_RAPORLAR/11 §3.1,kısmen,"geleneksel medyan 34 · çağdaş medyan 29 · tam 60 ha: v1 30, v2.0 31, v2.1 33"
+Morfoloji (600 m pencere),Emsal (brüt),,0.61,0.63,0.64,0.64,"0,75–0,9",09_RAPORLAR/11 §3.1,uygulanmadı,"geleneksel medyan 1,03 · çağdaş medyan 1,63 · tam 60 ha: v1 0,66, v2.0 0,67, v2.1 0,68"
+Morfoloji (600 m pencere),Ortalama kat,,2.84,2.86,2.73,2.73,"2–4 kat (ort. 2,8–3,2)",09_RAPORLAR/11 §3.1,korundu,"geleneksel medyan 3,4 · çağdaş medyan 5,1 · tam 60 ha: v1 2,9, v2.0 2,9, v2.1 2,8"
+Morfoloji (600 m pencere),Nüfus,kişi/ha,121.08,119.58,122.58,122.58,120–150,09_RAPORLAR/11 §3.1,—,"geleneksel medyan 76 · çağdaş medyan 210 · tam 60 ha: v1 119, v2.0 115, v2.1 115"
+Morfoloji (600 m pencere),Kavşak (yaya dahil),/km²,238.89,241.67,302.78,302.78,≥ 300,09_RAPORLAR/11 §3.1,uygulandı,"geleneksel medyan 315 · çağdaş medyan 221 · tam 60 ha: v1 212, v2.0 208, v2.1 268"
+Morfoloji (600 m pencere),Kavşak (araç),/km²,119.44,122.22,122.22,122.22,110–130,09_RAPORLAR/11 §3.1,korundu,"geleneksel medyan 221 · çağdaş medyan 204 · tam 60 ha: v1 117, v2.0 118, v2.1 118"
+Morfoloji (600 m pencere),Yaya adası (medyan),ha,0.35,0.35,0.35,0.35,"≤ 0,35–0,45 ha",09_RAPORLAR/11 §3.1,uygulandı,"geleneksel medyan 0,36 · çağdaş medyan 0,68 · tam 60 ha: v1 0,79, v2.0 0,79, v2.1 0,45"
+Morfoloji (600 m pencere),Yaya adası çevresi (medyan),m,241.38,241.38,247.22,247.22,≤ 280,09_RAPORLAR/11 §3.1,uygulandı,"geleneksel medyan 263 · çağdaş medyan 360 · tam 60 ha: v1 368, v2.0 368, v2.1 268"
+Morfoloji (600 m pencere),Araç adası (medyan),ha,0.97,0.97,0.97,0.97,"≈ 0,95 ha (korunsun)",09_RAPORLAR/11 §3.1,korundu,"geleneksel medyan 0,40 · çağdaş medyan 0,69 · tam 60 ha: v1 0,94, v2.0 0,94, v2.1 0,94"
+Morfoloji (600 m pencere),Cephe arası (medyan),m,13.5,13.0,12.5,12.5,S2 11–12,09_RAPORLAR/11 §3.1,uygulandı,"geleneksel medyan 13,5 · çağdaş medyan 18,7 · tam 60 ha: v1 13,5, v2.0 13,0, v2.1 12,5"
+Morfoloji (600 m pencere),H/W (medyan),,0.67,0.69,0.75,0.75,"S2 ≈ 0,75–0,8",09_RAPORLAR/11 §3.1,uygulandı,"geleneksel medyan 0,99 · çağdaş medyan 0,82 · tam 60 ha: v1 0,67, v2.0 0,69, v2.1 0,75"
+Morfoloji (600 m pencere),Cephe adımı,m,19.32,17.95,17.14,17.14,≤ 15–20,09_RAPORLAR/11 §3.1,kısmen,"geleneksel medyan 19 · çağdaş medyan 41 · tam 60 ha: v1 21, v2.0 19, v2.1 19"
+Morfoloji (600 m pencere),Bina cephesi (medyan),m,6.0,6.0,6.0,6.0,"T1 6,5–7,5; modül 9–12",09_RAPORLAR/11 §3.1,kısmen,"geleneksel medyan 9 · çağdaş medyan 18 · tam 60 ha: v1 6, v2.0 6, v2.1 6"
+Morfoloji (600 m pencere),Kapalı avlu,/ha,0.0,0.0,0.83,0.83,"≈ 0,5",09_RAPORLAR/11 §3.1,uygulandı,"geleneksel medyan 0,11 · çağdaş medyan 0,00 · tam 60 ha: v1 0,00, v2.0 0,00, v2.1 0,63"
+Morfoloji (600 m pencere),Kapalı avlu (medyan),m²,,,326.14,326.14,300–450,09_RAPORLAR/11 §3.1,uygulandı,"geleneksel medyan 144 · çağdaş medyan 195 · tam 60 ha: v1 0, v2.0 0, v2.1 326"
+Morfoloji (600 m pencere),Ada içi yapısız (net),%,70.2,68.89,66.36,66.36,K3 %45–55 · K2 %60–65,09_RAPORLAR/11 §3.1,kısmen,"geleneksel medyan 66 · çağdaş medyan 71 · tam 60 ha: v1 70, v2.0 69, v2.1 67"
+Morfoloji (600 m pencere),Kamusal yeşil,m²/kişi,14.21,13.63,13.32,13.32,≥ 10,09_RAPORLAR/11 §3.1,korundu,"geleneksel medyan 1,1 · çağdaş medyan 1,2 · tam 60 ha: v1 13,2, v2.0 12,3, v2.1 12,3"
+Morfoloji (600 m pencere),400 m'de ulaşılan bina,,483.0,527.0,521.5,521.5,—,09_RAPORLAR/11 §3.1,—,"geleneksel medyan 335 · çağdaş medyan 157 · tam 60 ha: v1 436, v2.0 481, v2.1 466"
+Morfoloji (600 m pencere),Ağ verimi (400 m),,0.67,0.67,0.67,0.67,—,09_RAPORLAR/11 §3.1,—,"geleneksel medyan 0,52 · çağdaş medyan 0,47 · tam 60 ha: v1 0,68, v2.0 0,68, v2.1 0,68"
+FUE konumu,FUE erişim ekseni (E),puan,,82.38,82.41,82.41,"Ç ≥ 55, E ≥ 60",09_RAPORLAR/10 §7,uyumlu,05_ANALIZ/kod/fue_model_mahalle.py kuralı
+FUE konumu,FUE çevre-ölçek ekseni (Ç),puan,,62.34,62.75,62.75,"Ç ≥ 55, E ≥ 60",09_RAPORLAR/10 §7,uyumlu,"yaşanan yükseklik 9,6 m (konut ağırlıklı kat × 3,1; pilot medyanı 8,4); tek muhtarlık 6.925 kişi. İki muhtarlıkla (≈ 3.462 kişi) Ç = 65,6"
+FUE konumu,FUE (altı boyut),puan,,74.52,74.69,74.69,—,09_RAPORLAR/10 §7,—,05_ANALIZ/kod/fue_model_mahalle.py kuralı
+Tahsis karması,Kooperatif / yapı grubu,% konut,,29.54,30.31,30.31,30,§9.4,uyumlu,"bahçe grubu, avlu grubu ve T4 parseli düzeyinde; sosyal kiralık T2'ye verilmez"
+Tahsis karması,Kiralık sosyal konut,% konut,,19.6,19.82,19.82,20,§9.4,uyumlu,"bahçe grubu, avlu grubu ve T4 parseli düzeyinde; sosyal kiralık T2'ye verilmez"
+Tahsis karması,Piyasa,% konut,,50.86,49.86,49.86,50,§9.4,uyumlu,"bahçe grubu, avlu grubu ve T4 parseli düzeyinde; sosyal kiralık T2'ye verilmez"
+Tahsis karması,Komşuluk biriminde hedef paydan en büyük sapma,puan,,2.94,2.6,2.6,≤ 5,v2 (dağıtılmış sosyal konut),uyumlu,
+Tahsis karması,Piyasa payının yapımcılara bölünmesi (ada başına ≤ 40 konut),yapımcı (asgari),,50,53,53,—,Rieselfeld kuralı (§9.7),—,en kalabalık adada piyasa konutu 49

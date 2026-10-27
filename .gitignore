@@ -1,0 +1,19 @@
+# Büyük ham veri — kaynaklarından yeniden indirilir (bkz. README "Yeniden üretim")
+03_VERI/ham/osm/*.pbf
+03_VERI/ham/ghsl/
+03_VERI/ham/bina/
+03_VERI/ham/pm25/*.nc
+
+# Büyük ara ürünler — betiklerle yeniden üretilir
+03_VERI/islenmis/uydu/*.tif
+03_VERI/islenmis/pilot_osm/
+03_VERI/islenmis/osm_kavsaklar.parquet
+
+# Python
+__pycache__/
+*.pyc
+
+# İşletim sistemi ve OneDrive
+desktop.ini
+Thumbs.db
+~$*

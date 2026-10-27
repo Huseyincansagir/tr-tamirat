@@ -1,0 +1,23 @@
+kod,boyut,ad,yon,tanim,surum,boyut_ad
+kavsak_yog,B1,Kavşak yoğunluğu (/km² yapılı alan),1,derece ≥3 sokak düğümü,v0.1,Beden ve Can
+temel15,B1,15 dk'da okul + sağlık + market (%),1,üçüne de ≤1.200 m yaya ağı,v0.1,Beden ve Can
+yesil300,B2,"≥0,5 ha yeşile 300 m (%)",1,kuş uçuşu,v0.1,Akıl ve Ruh
+yukseklik,B2,Yaşanan bina yüksekliği (m),-1,"GHSL 2018, nüfus ağırlıklı",v0.1,Akıl ve Ruh
+yuksek_pay,B2,Yüksek binalı hücrede yaşayan (%),-1,hücre ortalaması ≥15 m (~5+ kat),v0.1,Akıl ve Ruh
+anayol100,B2,Ana yola 100 m içinde yaşayan (%),-1,otoyol/devlet yolu/birincil yol,v0.1,Akıl ve Ruh
+zemin_pay,B3,Az katlı hücrede yaşayan (%),1,hücre ortalaması ≤9 m (~3 kat),v0.1,Nesil ve Aile
+oyun400,B3,Oyun alanına 400 m (%),1,yaya ağı,v0.1,Nesil ve Aile
+okul500,B3,İlk/ortaokula 500 m (%),1,yaya ağı; lise ve yükseköğretim hariç,v0.1,Nesil ve Aile
+esnaf1000,B4,Dükkân / 1.000 kişi,1,OSM shop=*,v0.1,Mülk ve Geçim
+karma150,B4,Dükkân ya da kafeye 150 m (%),1,kuş uçuşu; karma kullanım vekili,v0.1,Mülk ve Geçim
+cami500,B5,Camiye 500 m (%),1,yaya ağı,v0.1,Topluluk ve İnanç
+bulusma400,B5,Buluşma mekânına 400 m (%),1,"kahve, kütüphane, kültür ve toplum merkezi, pazar, meydan",v0.1,Topluluk ve İnanç
+site_pay,B5,Ad/etiketle kapalı site alanı (% yapılı alan),-1,deneysel; OSM etiketi eksik,v0.1,Topluluk ve İnanç
+muhtar_nufus,B5,"Mahalle nüfusu (muhtar başına, ln)",-1,yerindelik,v0.1,Topluluk ve İnanç
+ulasim,B6,Durağa 400 m ya da raylıya 800 m (%),1,yaya ağı,v0.1,Mizan
+yayilma,B6,Yapılı alan / 1.000 kişi (ha),-1,kişi başı arazi tüketimi,v0.1,Mizan
+rayli800,B6,Raylı istasyona 800 m (%),1,yaya ağı,v0.1,Mizan
+pm25,B1,Yıllık PM2.5 (µg/m³),-1,"ACAG V6.GL.03, 2022–2024 ortalaması, 1 km",v0.2 eki,Beden ve Can
+agac300,B2,"Ağaç örtüsü, 300 m içinde (%)",1,"ESA WorldCover 2021, 10 m",v0.2 eki,Akıl ve Ruh
+lst_goreli,B6,"Yaz yüzey sıcaklığı, kent içi fark (°C)",-1,"Landsat 8/9, 2022–2025 yazları, 30 m; ilçenin kentsel mahalle ortalamasına göre",v0.2 eki,Mizan
+yapili300,B6,"Yapılı (geçirimsiz) alan, 300 m içinde (%)",-1,ESA WorldCover sınıf 50,v0.2 eki,Mizan
