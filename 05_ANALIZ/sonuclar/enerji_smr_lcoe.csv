@@ -1,0 +1,9 @@
+durum,yatirim_usd_kw,lcoe_usd_mwh,kaynak
+DOE Liftoff NOAK (10–20 üniteden sonra),3600.0,61.550635692550735,DOE 2023 Liftoff: n'inci örnek ≈3.600 $/kW [İ]
+"DOE Liftoff, iyi yürütülmüş ilk örnek",6200.0,85.04074049976163,DOE 2023 Liftoff ≈6.200 $/kW [İ]
+Darlington 4 ünite ortalaması,12700.0,143.76600251778885,"OPG 20,9 milyar CAD / 1.200 MWe [H]"
+Darlington ilk ünite (ortak altyapı dahil),18800.0,198.87740225778356,"OPG 7,7 milyar CAD / 300 MWe ≈ 25.700 CAD/kW [H]"
+"Lazard LCOE+ 2026, SMR örneği",,214.0,Lazard v19 (Temmuz 2026) [D]
+IEA 2025: 2040'a kadar inmesi gereken düzey,,70.0,"IEA, The Path to a New Era for Nuclear Energy, 60–80 $/MWh [İ]"
+"NuScale UAMPS (sübvansiyon sonrası, iptal)",20129.87012987013,89.0,"IEEFA Ocak 2023: 9,3 milyar $, 462 MWe; >4 milyar $ sübvansiyon sonrası 89 $/MWh [İ]"
+Akkuyu alım garantisi (büyük reaktör),,123.5,"2010 HGA: 12,35 ¢/kWh, 15 yıl [D: WNA]"

@@ -1,0 +1,31 @@
+kod,malzeme,olcut,onceki_uzman_puani,hesaplanan,ham_deger
+REF,Referans: betonarme çerçeve + tuğla dolgu + EPS,maliyet,4,3,1.0
+REF,Referans: betonarme çerçeve + tuğla dolgu + EPS,gomulu_karbon,2,3,1.0
+REF,Referans: betonarme çerçeve + tuğla dolgu + EPS,isi_yalitimi,4,2,1.489
+DKB,Düşük karbonlu betonarme + bims + taş yünü,maliyet,4,3,1.097
+DKB,Düşük karbonlu betonarme + bims + taş yünü,gomulu_karbon,3,4,0.66
+DKB,Düşük karbonlu betonarme + bims + taş yünü,isi_yalitimi,4,2,1.173
+RE0,Sıkıştırılmış toprak (stabilizesiz),gomulu_karbon,4,3,0.959
+RE6,Sıkıştırılmış toprak (%6 çimento) + donatı,gomulu_karbon,2,1,2.189
+CEB,Sıkıştırılmış toprak blok (CEB; %7 çimento),maliyet,3,2,1.272
+KER,Kerpiç,maliyet,3,2,1.316
+KER,Kerpiç,gomulu_karbon,5,4,0.557
+KER,Kerpiç,akustik,4,5,59.8
+HTS,Hafif toprak-saman,akustik,3,4,51.8
+SAM,Saman balya,maliyet,3,2,1.297
+AHK,Ahşap karkas (çaprazlı veya levha kaplamalı),gomulu_karbon,4,5,0.367
+CLT,CLT ve glulam (kütle ahşap),gomulu_karbon,4,3,0.852
+CLT,CLT ve glulam (kütle ahşap),isi_yalitimi,4,3,0.987
+TAS,Doğal taş (kesme taş + kireç harç),maliyet,2,1,2.031
+TAS,Doğal taş (kesme taş + kireç harç),gomulu_karbon,3,1,1.761
+BIM,Bims ve pomza blok,maliyet,4,3,1.097
+BIM,Bims ve pomza blok,isi_yalitimi,3,2,1.173
+SUP,Khalili superadobe (toprak torba kubbe),isi_yalitimi,2,1,1.74
+SUP,Khalili superadobe (toprak torba kubbe),akustik,4,5,60.7
+NUB,Nubian tonozu (kerpiç),maliyet,4,5,0.267
+NUB,Nubian tonozu (kerpiç),isi_yalitimi,3,1,1.88
+KAG,Kâgir kubbe (tuğla veya taş; Mimar Sinan tekniği),maliyet,1,2,1.446
+KAG,Kâgir kubbe (tuğla veya taş; Mimar Sinan tekniği),gomulu_karbon,2,1,2.452
+KAG,Kâgir kubbe (tuğla veya taş; Mimar Sinan tekniği),isi_yalitimi,2,1,1.82
+INK,İnce kabuk betonarme kubbe,maliyet,2,3,1.0
+INK,İnce kabuk betonarme kubbe,isi_yalitimi,2,1,5.45

@@ -1,0 +1,27 @@
+grup,teknoloji,alt,ust,birim,yil,kaynak,isaret
+"Lazard LCOE+ 2026 (ABD, sübvansiyonsuz)",Kamu ölçekli güneş,40.0,98.0,$/MWh,2026,Lazard v19,D
+"Lazard LCOE+ 2026 (ABD, sübvansiyonsuz)",Güneş + depolama,61.0,156.0,$/MWh,2026,Lazard v19,D
+"Lazard LCOE+ 2026 (ABD, sübvansiyonsuz)",Kara rüzgârı,37.0,99.0,$/MWh,2026,Lazard v19,D
+"Lazard LCOE+ 2026 (ABD, sübvansiyonsuz)",Rüzgâr + depolama,49.0,140.0,$/MWh,2026,Lazard v19,D
+"Lazard LCOE+ 2026 (ABD, sübvansiyonsuz)",Deniz üstü rüzgâr,105.0,167.0,$/MWh,2026,Lazard v19,D
+"Lazard LCOE+ 2026 (ABD, sübvansiyonsuz)","Çatı GES (ticari, topluluk)",88.0,197.0,$/MWh,2026,Lazard v19,D
+"Lazard LCOE+ 2026 (ABD, sübvansiyonsuz)",Jeotermal,67.0,111.0,$/MWh,2026,Lazard v19,D
+"Lazard LCOE+ 2026 (ABD, sübvansiyonsuz)",Doğal gaz kombine çevrim,51.0,129.0,$/MWh,2026,Lazard v19,D
+"Lazard LCOE+ 2026 (ABD, sübvansiyonsuz)",Kömür,72.0,177.0,$/MWh,2026,Lazard v19,D
+"Lazard LCOE+ 2026 (ABD, sübvansiyonsuz)",Yeni nükleer (Vogtle verisi),175.0,255.0,$/MWh,2026,Lazard v19,D
+"Lazard LCOE+ 2026 (ABD, sübvansiyonsuz)","SMR (Clinch River, Darlington, Natrium örnekleri)",214.0,214.0,$/MWh,2026,"Lazard v19 (13.07.2026), 'örnek niteliğinde, 2030 sonrası işletme'",D
+"IRENA 2025, küresel ağırlıklı ortalama",Güneş,44.0,44.0,$/MWh,2025,IRENA RPGC 2025,D
+"IRENA 2025, küresel ağırlıklı ortalama",Kara rüzgârı,33.0,33.0,$/MWh,2025,IRENA RPGC 2025,D
+"IRENA 2025, küresel ağırlıklı ortalama",Deniz üstü rüzgâr,78.0,78.0,$/MWh,2025,IRENA RPGC 2025,D
+"IRENA 2025, küresel ağırlıklı ortalama",Hidro,62.0,62.0,$/MWh,2025,IRENA RPGC 2025,D
+"IRENA 2025, küresel ağırlıklı ortalama",Jeotermal,89.0,89.0,$/MWh,2025,IRENA RPGC 2025,D
+"IRENA 2025, küresel ağırlıklı ortalama",Biyokütle,86.0,86.0,$/MWh,2025,IRENA RPGC 2025,D
+"IRENA, Türkiye","Güneş (kamu ölçekli, 2025)",86.0,86.0,$/MWh,2025,"IRENA RPGC 2025, Şekil 3.7",D
+"IRENA, Türkiye",Kara rüzgârı (2025),61.0,61.0,$/MWh,2025,"IRENA RPGC 2025, Şekil 2.11",D
+"IRENA, Türkiye",Jeotermal (2024),33.0,33.0,$/MWh,2024,IRENA RPGC 2024,D
+Türkiye sözleşme fiyatları,"YEKA GES-2024 (20 yıl, önce 5 yıl piyasa)",32.5,32.5,$/MWh,2025,"BGEN, Şubat 2025",İ
+Türkiye sözleşme fiyatları,"YEKA RES-2024 (20 yıl, önce 6 yıl piyasa)",35.0,35.0,$/MWh,2025,"BGEN, Ocak 2025",İ
+Türkiye sözleşme fiyatları,"YEKA GES-2025 (taban 3,25 €¢/kWh + katkı payı)",36.7,36.7,$/MWh,2025,"ETKB ilanı; basın (QNB, Bloomberg HT); 1,13 $/€ [V]",İ
+Türkiye sözleşme fiyatları,"YEKA RES-2025 (3,50 €¢/kWh + 212–312 bin €/MW katkı payı)",39.6,39.6,$/MWh,2025,"AA/Forbes, 09.12.2025; 1,13 $/€ [V]",İ
+Türkiye sözleşme fiyatları,"Akkuyu alım garantisi (12,35 ¢/kWh, 15 yıl)",123.5,123.5,$/MWh,2010,Hükümetlerarası anlaşma; WNA,D
+Türkiye sözleşme fiyatları,PTF ortalaması 2025 (piyasa),67.2,67.2,$/MWh,2025,EPDK; TCMB kuru,H

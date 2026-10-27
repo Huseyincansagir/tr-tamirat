@@ -1,0 +1,6 @@
+kod,deger,birim,aciklama,kaynak,isaret
+brut_yogunluk,115,kişi/ha,Model mahalle v2.1 brüt nüfus yoğunluğu (konut ağırlıklı doku),07_TASARIM_CIZIM/model_mahalle_v2/metrikler.csv,H
+su_kayip_hedef,0.15,oran,"İçme suyu kayıp-kaçak hedefi (yönetmelik üst sınırı %25; iyi uygulama %10–15)",Su Kayıpları Yönetmeliği 2014; Rapor 19,V
+atik_kg_kisi_gun,1.09,kg/kişi/gün,Üretilen belediye atığı kişi başı,TÜİK 2024 (Rapor 19),D
+geri_kazanim_hedef,0.55,oran,"Belediye atığında malzeme geri dönüşümü hedefi (bugün %13; AB 2030 hedefi %60)",Rapor 19; AB Atık Çerçeve Direktifi [İ],V
+gida_israf_kg_kisi_yil,131,kg/kişi/yıl,Hane (102) + gıda hizmeti (29) gıda israfı,UNEP Gıda İsrafı Endeksi 2024 (2022 verisi),D

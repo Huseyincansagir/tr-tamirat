@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="828pt" height="460.8pt" viewBox="0 0 828 460.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-27T16:38:12.252609</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 460.8 
+L 828 460.8 
+L 828 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 198.72 405.504 
+L 811.44 405.504 
+L 811.44 64.512 
+L 198.72 64.512 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 198.72 405.504 
+L 198.72 64.512 
+" clip-path="url(#pf0dea8c6fe)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m2ba4a30c68" d="M 0 0 
+L 0 3.5 
+" style="stroke: #52514e; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m2ba4a30c68" x="198.72" y="405.504" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="198.72" y="419.341891" transform="rotate(-0 198.72 419.341891)">0,0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 297.545806 405.504 
+L 297.545806 64.512 
+" clip-path="url(#pf0dea8c6fe)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m2ba4a30c68" x="297.545806" y="405.504" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="297.545806" y="419.341891" transform="rotate(-0 297.545806 419.341891)">0,5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 396.371613 405.504 
+L 396.371613 64.512 
+" clip-path="url(#pf0dea8c6fe)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m2ba4a30c68" x="396.371613" y="405.504" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="396.371613" y="419.341891" transform="rotate(-0 396.371613 419.341891)">1,0</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 495.197419 405.504 
+L 495.197419 64.512 
+" clip-path="url(#pf0dea8c6fe)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m2ba4a30c68" x="495.197419" y="405.504" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="495.197419" y="419.341891" transform="rotate(-0 495.197419 419.341891)">1,5</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 594.023226 405.504 
+L 594.023226 64.512 
+" clip-path="url(#pf0dea8c6fe)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m2ba4a30c68" x="594.023226" y="405.504" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="594.023226" y="419.341891" transform="rotate(-0 594.023226 419.341891)">2,0</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 692.849032 405.504 
+L 692.849032 64.512 
+" clip-path="url(#pf0dea8c6fe)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m2ba4a30c68" x="692.849032" y="405.504" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="692.849032" y="419.341891" transform="rotate(-0 692.849032 419.341891)">2,5</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 791.674839 405.504 
+L 791.674839 64.512 
+" clip-path="url(#pf0dea8c6fe)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m2ba4a30c68" x="791.674839" y="405.504" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="791.674839" y="419.341891" transform="rotate(-0 791.674839 419.341891)">3,0</text>
+     </g>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="505.08" y="432.342594" transform="rotate(-0 505.08 432.342594)">Isıl geçirgenlik U (W/m²K), sıvalar dahil, ek yalıtım yokken</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_15">
+      <defs>
+       <path id="m6598f6ae56" d="M 0 0 
+L -3.5 0 
+" style="stroke: #52514e; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m6598f6ae56" x="198.72" y="387.477991" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="191.72" y="390.707327" transform="rotate(-0 191.72 390.707327)">Saman balya 46 cm</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m6598f6ae56" x="198.72" y="357.434643" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="191.72" y="360.663979" transform="rotate(-0 191.72 360.663979)">Hafif toprak-saman 45 cm</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m6598f6ae56" x="198.72" y="327.391295" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="191.72" y="330.620299" transform="rotate(-0 191.72 330.620299)">CLT 10 cm</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m6598f6ae56" x="198.72" y="297.347947" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="191.72" y="300.576951" transform="rotate(-0 191.72 300.576951)">CEB 14 cm</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m6598f6ae56" x="198.72" y="267.304599" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="191.72" y="270.533935" transform="rotate(-0 191.72 270.533935)">Bims blok 19 cm</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m6598f6ae56" x="198.72" y="237.261251" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="191.72" y="240.490587" transform="rotate(-0 191.72 240.490587)">Kerpiç 40 cm</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m6598f6ae56" x="198.72" y="207.217903" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="191.72" y="210.554817" transform="rotate(-0 191.72 210.554817)">Yatay delikli tuğla 19 cm</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m6598f6ae56" x="198.72" y="177.174555" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="191.72" y="180.403891" transform="rotate(-0 191.72 180.403891)">Sıkıştırılmış toprak 50 cm, stabilizesiz</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m6598f6ae56" x="198.72" y="147.131207" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="191.72" y="150.360543" transform="rotate(-0 191.72 150.360543)">Sıkıştırılmış toprak 50 cm, %6 çimento</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m6598f6ae56" x="198.72" y="117.087859" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="191.72" y="120.317195" transform="rotate(-0 191.72 120.317195)">Yerel taş 50 cm</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 198.72 405.504 
+L 198.72 64.512 
+" style="fill: none; stroke: #8a8984; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 198.72 405.504 
+L 811.44 405.504 
+" style="fill: none; stroke: #8a8984; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 198.72 396.791429 
+L 223.821755 396.791429 
+L 223.821755 378.164553 
+L 198.72 378.164553 
+z
+" clip-path="url(#pf0dea8c6fe)" style="fill: #1baf7a; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 198.72 366.748081 
+L 270.862839 366.748081 
+L 270.862839 348.121205 
+L 198.72 348.121205 
+z
+" clip-path="url(#pf0dea8c6fe)" style="fill: #1baf7a; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 198.72 336.704733 
+L 393.802142 336.704733 
+L 393.802142 318.077857 
+L 198.72 318.077857 
+z
+" clip-path="url(#pf0dea8c6fe)" style="fill: #1baf7a; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 198.72 306.661385 
+L 761.434142 306.661385 
+L 761.434142 288.034509 
+L 198.72 288.034509 
+z
+" clip-path="url(#pf0dea8c6fe)" style="fill: #eb6834; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 198.72 276.618037 
+L 430.565342 276.618037 
+L 430.565342 257.991161 
+L 198.72 257.991161 
+z
+" clip-path="url(#pf0dea8c6fe)" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 198.72 246.574689 
+L 443.215045 246.574689 
+L 443.215045 227.947813 
+L 198.72 227.947813 
+z
+" clip-path="url(#pf0dea8c6fe)" style="fill: #eb6834; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 198.72 216.531341 
+L 493.023252 216.531341 
+L 493.023252 197.904465 
+L 198.72 197.904465 
+z
+" clip-path="url(#pf0dea8c6fe)" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 198.72 186.487993 
+L 510.218942 186.487993 
+L 510.218942 167.861117 
+L 198.72 167.861117 
+z
+" clip-path="url(#pf0dea8c6fe)" style="fill: #eb6834; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 198.72 156.444645 
+L 516.346142 156.444645 
+L 516.346142 137.817769 
+L 198.72 137.817769 
+z
+" clip-path="url(#pf0dea8c6fe)" style="fill: #eb6834; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 198.72 126.401297 
+L 549.946916 126.401297 
+L 549.946916 107.774421 
+L 198.72 107.774421 
+z
+" clip-path="url(#pf0dea8c6fe)" style="fill: #eda100; stroke: #fcfcfb; stroke-width: 2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="297.545806" y="389.556429" transform="rotate(-0 297.545806 389.556429)">U 0,13  (yalıtımsız)</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="297.545806" y="359.513081" transform="rotate(-0 297.545806 359.513081)">U 0,36  (yalıtımsız)</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="399.73169" y="329.469733" transform="rotate(-0 399.73169 329.469733)">U 0,99  →  3. bölge için +6 cm taş yünü</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #ffffff" x="753.528077" y="299.482635" transform="rotate(-0 753.528077 299.482635)">U 2,85  →  3. bölge için +8 cm taş yünü</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="436.49489" y="269.383037" transform="rotate(-0 436.49489 269.383037)">U 1,17  →  3. bölge için +6 cm taş yünü</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="449.144594" y="239.339689" transform="rotate(-0 449.144594 239.339689)">U 1,24  →  3. bölge için +7 cm taş yünü</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="498.9528" y="209.296341" transform="rotate(-0 498.9528 209.296341)">U 1,49  →  3. bölge için +7 cm EPS</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="516.14849" y="179.252993" transform="rotate(-0 516.14849 179.252993)">U 1,58  →  3. bölge için +7 cm taş yünü</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="522.27569" y="149.209645" transform="rotate(-0 522.27569 149.209645)">U 1,61  →  3. bölge için +7 cm taş yünü</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="555.876465" y="119.166297" transform="rotate(-0 555.876465 119.166297)">U 1,78  →  3. bölge için +8 cm iç ahşap lifi</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 259.928092 81.729089 
+Q 254.030497 89.644386 248.132903 97.559683 
+" style="fill: none; stroke: #8a8984; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="204.649548" y="77.053648" transform="rotate(-0 204.649548 77.053648)">5–6. bölge 0,25</text>
+   </g>
+   <g id="patch_16">
+    <path d="M 318.342287 76.260796 
+Q 293.120176 86.91024 267.898065 97.559683 
+" style="fill: none; stroke: #8a8984; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="321.264" y="77.053648" transform="rotate(-0 321.264 77.053648)">4. bölge 0,35</text>
+   </g>
+   <g id="patch_17">
+    <path d="M 397.341671 75.57566 
+Q 337.561158 86.567671 277.780645 97.559683 
+" style="fill: none; stroke: #8a8984; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="400.324645" y="77.053648" transform="rotate(-0 400.324645 77.053648)">2–3. bölge 0,40</text>
+   </g>
+   <g id="patch_18">
+    <path d="M 482.321138 75.368457 
+Q 384.992182 86.46407 287.663226 97.559683 
+" style="fill: none; stroke: #8a8984; stroke-width: 0.7; stroke-linecap: round"/>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="485.314839" y="77.053648" transform="rotate(-0 485.314839 77.053648)">1. bölge 0,45</text>
+   </g>
+   <g id="line2d_25">
+    <path d="M 248.132903 405.504 
+L 248.132903 97.559683 
+" clip-path="url(#pf0dea8c6fe)" style="fill: none; stroke-dasharray: 2.7,1.8; stroke-dashoffset: 0; stroke: #0b0b0b; stroke-width: 0.9"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 267.898065 405.504 
+L 267.898065 97.559683 
+" clip-path="url(#pf0dea8c6fe)" style="fill: none; stroke-dasharray: 2.7,1.8; stroke-dashoffset: 0; stroke: #0b0b0b; stroke-width: 0.9"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 277.780645 405.504 
+L 277.780645 97.559683 
+" clip-path="url(#pf0dea8c6fe)" style="fill: none; stroke-dasharray: 2.7,1.8; stroke-dashoffset: 0; stroke: #0b0b0b; stroke-width: 0.9"/>
+   </g>
+   <g id="line2d_28">
+    <path d="M 287.663226 405.504 
+L 287.663226 97.559683 
+" clip-path="url(#pf0dea8c6fe)" style="fill: none; stroke-dasharray: 2.7,1.8; stroke-dashoffset: 0; stroke: #0b0b0b; stroke-width: 0.9"/>
+   </g>
+   <g id="legend_1">
+    <g id="line2d_29">
+     <defs>
+      <path id="mfe8965aac7" d="M 0 3.5 
+C 0.928211 3.5 1.81853 3.131218 2.474874 2.474874 
+C 3.131218 1.81853 3.5 0.928211 3.5 0 
+C 3.5 -0.928211 3.131218 -1.81853 2.474874 -2.474874 
+C 1.81853 -3.131218 0.928211 -3.5 0 -3.5 
+C -0.928211 -3.5 -1.81853 -3.131218 -2.474874 -2.474874 
+C -3.131218 -1.81853 -3.5 -0.928211 -3.5 0 
+C -3.5 0.928211 -3.131218 1.81853 -2.474874 2.474874 
+C -1.81853 3.131218 -0.928211 3.5 0 3.5 
+z
+" style="stroke: #fcfcfb"/>
+     </defs>
+     <g>
+      <use xlink:href="#mfe8965aac7" x="663.455" y="357.58025" style="fill: #2a78d6; stroke: #fcfcfb"/>
+     </g>
+    </g>
+    <g id="text_33">
+     <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start" x="677.855" y="360.38025" transform="rotate(-0 677.855 360.38025)">Betonarme ve endüstriyel kâgir</text>
+    </g>
+    <g id="line2d_30">
+     <defs>
+      <path id="m27fc4b0cde" d="M 0 3.5 
+C 0.928211 3.5 1.81853 3.131218 2.474874 2.474874 
+C 3.131218 1.81853 3.5 0.928211 3.5 0 
+C 3.5 -0.928211 3.131218 -1.81853 2.474874 -2.474874 
+C 1.81853 -3.131218 0.928211 -3.5 0 -3.5 
+C -0.928211 -3.5 -1.81853 -3.131218 -2.474874 -2.474874 
+C -3.131218 -1.81853 -3.5 -0.928211 -3.5 0 
+C -3.5 0.928211 -3.131218 1.81853 -2.474874 2.474874 
+C -1.81853 3.131218 -0.928211 3.5 0 3.5 
+z
+" style="stroke: #fcfcfb"/>
+     </defs>
+     <g>
+      <use xlink:href="#m27fc4b0cde" x="663.455" y="369.580875" style="fill: #eb6834; stroke: #fcfcfb"/>
+     </g>
+    </g>
+    <g id="text_34">
+     <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start" x="677.855" y="372.380875" transform="rotate(-0 677.855 372.380875)">Toprak</text>
+    </g>
+    <g id="line2d_31">
+     <defs>
+      <path id="m5e9d7d9f34" d="M 0 3.5 
+C 0.928211 3.5 1.81853 3.131218 2.474874 2.474874 
+C 3.131218 1.81853 3.5 0.928211 3.5 0 
+C 3.5 -0.928211 3.131218 -1.81853 2.474874 -2.474874 
+C 1.81853 -3.131218 0.928211 -3.5 0 -3.5 
+C -0.928211 -3.5 -1.81853 -3.131218 -2.474874 -2.474874 
+C -3.131218 -1.81853 -3.5 -0.928211 -3.5 0 
+C -3.5 0.928211 -3.131218 1.81853 -2.474874 2.474874 
+C -1.81853 3.131218 -0.928211 3.5 0 3.5 
+z
+" style="stroke: #fcfcfb"/>
+     </defs>
+     <g>
+      <use xlink:href="#m5e9d7d9f34" x="663.455" y="381.5815" style="fill: #1baf7a; stroke: #fcfcfb"/>
+     </g>
+    </g>
+    <g id="text_35">
+     <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start" x="677.855" y="384.3815" transform="rotate(-0 677.855 384.3815)">Ahşap ve saman</text>
+    </g>
+    <g id="line2d_32">
+     <defs>
+      <path id="md216ff9e55" d="M 0 3.5 
+C 0.928211 3.5 1.81853 3.131218 2.474874 2.474874 
+C 3.131218 1.81853 3.5 0.928211 3.5 0 
+C 3.5 -0.928211 3.131218 -1.81853 2.474874 -2.474874 
+C 1.81853 -3.131218 0.928211 -3.5 0 -3.5 
+C -0.928211 -3.5 -1.81853 -3.131218 -2.474874 -2.474874 
+C -3.131218 -1.81853 -3.5 -0.928211 -3.5 0 
+C -3.5 0.928211 -3.131218 1.81853 -2.474874 2.474874 
+C -1.81853 3.131218 -0.928211 3.5 0 3.5 
+z
+" style="stroke: #fcfcfb"/>
+     </defs>
+     <g>
+      <use xlink:href="#md216ff9e55" x="663.455" y="393.582125" style="fill: #eda100; stroke: #fcfcfb"/>
+     </g>
+    </g>
+    <g id="text_36">
+     <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start" x="677.855" y="396.382125" transform="rotate(-0 677.855 396.382125)">Taş</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_37">
+   <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="16.56" y="18.889828" transform="rotate(-0 16.56 18.889828)">50 cm sıkıştırılmış toprak duvar tek başına TS 825:2024'ü hiçbir bölgede karşılamıyor</text>
+  </g>
+  <g id="text_38">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="16.56" y="43.776" transform="rotate(-0 16.56 43.776)">U ≈1,5–1,6 W/m²K; sınır 0,25–0,45. Yalnız toprakla 2,2–4,5 m duvar gerekir. Yalıtımsız geçen yalnız saman balya (her bölge) ve 45 cm hafif toprak-saman (1.–3. bölge).</text>
+  </g>
+  <g id="text_39">
+   <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #8a8984" x="16.56" y="451.584" transform="rotate(-0 16.56 451.584)">Kaynak: TR TAMİRAT malzeme_modeli.py; U sınırları TS 825:2024 (01.04.2025'ten zorunlu; İZODER yazarları aktarımı, İ); λ değerleri malzeme_parametreleri.csv.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf0dea8c6fe">
+   <rect x="198.72" y="64.512" width="612.72" height="340.992"/>
+  </clipPath>
+ </defs>
+</svg>

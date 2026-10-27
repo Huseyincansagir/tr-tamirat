@@ -1,0 +1,9 @@
+malzeme_kod,malzeme,lambda_W_mK,b1_gereken_kalinlik_cm,b2_gereken_kalinlik_cm,b3_gereken_kalinlik_cm,b4_gereken_kalinlik_cm,b5_gereken_kalinlik_cm,b6_gereken_kalinlik_cm,U_50cm
+RE_YALIN,"Sıkıştırılmış toprak, stabilizesiz",1.1,218,249,249,288,414,414,1.446
+RE_STAB,"Sıkıştırılmış toprak, %6 çimento",1.2,238,272,272,314,452,452,1.53
+KERPIC,Kerpiç,0.7,139,158,158,183,263,263,1.051
+TAS,Yerel taş,1.4,278,317,317,367,527,527,1.683
+HTS,Hafif toprak-saman,0.18,36,41,41,47,68,68,0.332
+SAMAN,Saman balya,0.06,12,14,14,16,23,23,0.117
+TUGLA19,Yatay delikli tuğla,0.42,83,95,95,110,158,158,0.701
+BIMS19,Bims blok,0.3,60,68,68,79,113,113,0.525

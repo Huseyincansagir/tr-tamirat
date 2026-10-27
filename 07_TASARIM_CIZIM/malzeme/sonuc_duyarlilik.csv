@@ -1,0 +1,141 @@
+durum,senaryo,sistem,TL_m2_bina,maliyet_fark_yuzde_R0,kgCO2e_m2_degisen,karbon_fark_yuzde_R0,iscilik_payi
+Taban,EV120,R0,21050,0.0,175.4,0.0,0.412
+Taban,EV120,R1,21344,1.4,121.6,-30.7,0.384
+Taban,EV120,H1,22113,5.0,142.1,-19.0,0.459
+Taban,EV120,T1,23202,10.2,234.0,33.4,0.453
+Taban,EV120,T2,22763,8.1,152.5,-13.1,0.475
+Taban,EV120,A1,22058,4.8,64.4,-63.3,0.394
+Taban,OKUL1000,R0,21050,0.0,182.1,0.0,0.367
+Taban,OKUL1000,R1,21160,0.5,130.3,-28.4,0.355
+Taban,OKUL1000,H1,21357,1.5,136.0,-25.3,0.382
+Taban,OKUL1000,A2,30725,46.0,112.2,-38.4,0.07
+Toprak duvar işçiliği 6 sa/m³ (makineli ekip),EV120,R0,21050,0.0,175.4,0.0,0.412
+Toprak duvar işçiliği 6 sa/m³ (makineli ekip),EV120,R1,21344,1.4,121.6,-30.7,0.384
+Toprak duvar işçiliği 6 sa/m³ (makineli ekip),EV120,H1,22113,5.0,142.1,-19.0,0.459
+Toprak duvar işçiliği 6 sa/m³ (makineli ekip),EV120,T1,22265,5.8,234.0,33.4,0.392
+Toprak duvar işçiliği 6 sa/m³ (makineli ekip),EV120,T2,21826,3.7,152.5,-13.1,0.413
+Toprak duvar işçiliği 6 sa/m³ (makineli ekip),EV120,A1,22058,4.8,64.4,-63.3,0.394
+Toprak duvar işçiliği 6 sa/m³ (makineli ekip),OKUL1000,R0,21050,0.0,182.1,0.0,0.367
+Toprak duvar işçiliği 6 sa/m³ (makineli ekip),OKUL1000,R1,21160,0.5,130.3,-28.4,0.355
+Toprak duvar işçiliği 6 sa/m³ (makineli ekip),OKUL1000,H1,21357,1.5,136.0,-25.3,0.382
+Toprak duvar işçiliği 6 sa/m³ (makineli ekip),OKUL1000,A2,30725,46.0,112.2,-38.4,0.07
+Toprak duvar işçiliği 16 sa/m³ (el tokmağı),EV120,R0,21050,0.0,175.4,0.0,0.412
+Toprak duvar işçiliği 16 sa/m³ (el tokmağı),EV120,R1,21344,1.4,121.6,-30.7,0.384
+Toprak duvar işçiliği 16 sa/m³ (el tokmağı),EV120,H1,22113,5.0,142.1,-19.0,0.459
+Toprak duvar işçiliği 16 sa/m³ (el tokmağı),EV120,T1,24609,16.9,234.0,33.4,0.524
+Toprak duvar işçiliği 16 sa/m³ (el tokmağı),EV120,T2,24170,14.8,152.5,-13.1,0.546
+Toprak duvar işçiliği 16 sa/m³ (el tokmağı),EV120,A1,22058,4.8,64.4,-63.3,0.394
+Toprak duvar işçiliği 16 sa/m³ (el tokmağı),OKUL1000,R0,21050,0.0,182.1,0.0,0.367
+Toprak duvar işçiliği 16 sa/m³ (el tokmağı),OKUL1000,R1,21160,0.5,130.3,-28.4,0.355
+Toprak duvar işçiliği 16 sa/m³ (el tokmağı),OKUL1000,H1,21357,1.5,136.0,-25.3,0.382
+Toprak duvar işçiliği 16 sa/m³ (el tokmağı),OKUL1000,A2,30725,46.0,112.2,-38.4,0.07
+Öz-yapım: toprak ve saman işlerinde işçiliğin yarısı hanece,EV120,R0,21050,0.0,175.4,0.0,0.412
+Öz-yapım: toprak ve saman işlerinde işçiliğin yarısı hanece,EV120,R1,21344,1.4,121.6,-30.7,0.384
+Öz-yapım: toprak ve saman işlerinde işçiliğin yarısı hanece,EV120,H1,21143,0.4,142.1,-19.0,0.388
+Öz-yapım: toprak ve saman işlerinde işçiliğin yarısı hanece,EV120,T1,22030,4.7,234.0,33.4,0.375
+Öz-yapım: toprak ve saman işlerinde işçiliğin yarısı hanece,EV120,T2,21592,2.6,152.5,-13.1,0.396
+Öz-yapım: toprak ve saman işlerinde işçiliğin yarısı hanece,EV120,A1,21189,0.7,64.4,-63.3,0.323
+Öz-yapım: toprak ve saman işlerinde işçiliğin yarısı hanece,OKUL1000,R0,21050,0.0,182.1,0.0,0.367
+Öz-yapım: toprak ve saman işlerinde işçiliğin yarısı hanece,OKUL1000,R1,21160,0.5,130.3,-28.4,0.355
+Öz-yapım: toprak ve saman işlerinde işçiliğin yarısı hanece,OKUL1000,H1,21106,0.3,136.0,-25.3,0.356
+Öz-yapım: toprak ve saman işlerinde işçiliğin yarısı hanece,OKUL1000,A2,30725,46.0,112.2,-38.4,0.07
+Bütün ücretler +%30,EV120,R0,21050,0.0,175.4,0.0,0.477
+Bütün ücretler +%30,EV120,R1,21315,1.3,121.6,-30.7,0.447
+Bütün ücretler +%30,EV120,H1,22361,6.2,142.1,-19.0,0.524
+Bütün ücretler +%30,EV120,T1,23582,12.0,234.0,33.4,0.518
+Bütün ücretler +%30,EV120,T2,23143,9.9,152.5,-13.1,0.54
+Bütün ücretler +%30,EV120,A1,22137,5.2,64.4,-63.3,0.458
+Bütün ücretler +%30,OKUL1000,R0,21050,0.0,182.1,0.0,0.43
+Bütün ücretler +%30,OKUL1000,R1,21151,0.5,130.3,-28.4,0.418
+Bütün ücretler +%30,OKUL1000,H1,21419,1.8,136.0,-25.3,0.445
+Bütün ücretler +%30,OKUL1000,A2,30397,44.4,112.2,-38.4,0.089
+Stabilizasyon %4 çimento (CEB %5),EV120,R0,21050,0.0,175.4,0.0,0.412
+Stabilizasyon %4 çimento (CEB %5),EV120,R1,21344,1.4,121.6,-30.7,0.384
+Stabilizasyon %4 çimento (CEB %5),EV120,H1,22073,4.9,134.9,-23.1,0.461
+Stabilizasyon %4 çimento (CEB %5),EV120,T1,23056,9.5,207.2,18.1,0.46
+Stabilizasyon %4 çimento (CEB %5),EV120,T2,22763,8.1,152.5,-13.1,0.475
+Stabilizasyon %4 çimento (CEB %5),EV120,A1,22058,4.8,64.4,-63.3,0.394
+Stabilizasyon %4 çimento (CEB %5),OKUL1000,R0,21050,0.0,182.1,0.0,0.367
+Stabilizasyon %4 çimento (CEB %5),OKUL1000,R1,21160,0.5,130.3,-28.4,0.355
+Stabilizasyon %4 çimento (CEB %5),OKUL1000,H1,21346,1.4,134.0,-26.4,0.383
+Stabilizasyon %4 çimento (CEB %5),OKUL1000,A2,30725,46.0,112.2,-38.4,0.07
+Stabilizasyon %8 çimento (CEB %9),EV120,R0,21050,0.0,175.4,0.0,0.412
+Stabilizasyon %8 çimento (CEB %9),EV120,R1,21344,1.4,121.6,-30.7,0.384
+Stabilizasyon %8 çimento (CEB %9),EV120,H1,22152,5.2,149.4,-14.8,0.457
+Stabilizasyon %8 çimento (CEB %9),EV120,T1,23349,10.9,260.9,48.7,0.446
+Stabilizasyon %8 çimento (CEB %9),EV120,T2,22763,8.1,152.5,-13.1,0.475
+Stabilizasyon %8 çimento (CEB %9),EV120,A1,22058,4.8,64.4,-63.3,0.394
+Stabilizasyon %8 çimento (CEB %9),OKUL1000,R0,21050,0.0,182.1,0.0,0.367
+Stabilizasyon %8 çimento (CEB %9),OKUL1000,R1,21160,0.5,130.3,-28.4,0.355
+Stabilizasyon %8 çimento (CEB %9),OKUL1000,H1,21368,1.5,137.9,-24.3,0.381
+Stabilizasyon %8 çimento (CEB %9),OKUL1000,A2,30725,46.0,112.2,-38.4,0.07
+"Donatı karbonu 0,45 (hurdadan ark ocağı)",EV120,R0,21050,0.0,168.3,0.0,0.412
+"Donatı karbonu 0,45 (hurdadan ark ocağı)",EV120,R1,21344,1.4,114.6,-31.9,0.384
+"Donatı karbonu 0,45 (hurdadan ark ocağı)",EV120,H1,22113,5.0,135.1,-19.7,0.459
+"Donatı karbonu 0,45 (hurdadan ark ocağı)",EV120,T1,23202,10.2,226.7,34.7,0.453
+"Donatı karbonu 0,45 (hurdadan ark ocağı)",EV120,T2,22763,8.1,145.2,-13.7,0.475
+"Donatı karbonu 0,45 (hurdadan ark ocağı)",EV120,A1,22058,4.8,62.5,-62.9,0.394
+"Donatı karbonu 0,45 (hurdadan ark ocağı)",OKUL1000,R0,21050,0.0,171.2,0.0,0.367
+"Donatı karbonu 0,45 (hurdadan ark ocağı)",OKUL1000,R1,21160,0.5,119.4,-30.3,0.355
+"Donatı karbonu 0,45 (hurdadan ark ocağı)",OKUL1000,H1,21357,1.5,125.1,-26.9,0.382
+"Donatı karbonu 0,45 (hurdadan ark ocağı)",OKUL1000,A2,30725,46.0,109.9,-35.8,0.07
+"Donatı karbonu 1,99 (ICE v3 dünya ortalaması)",EV120,R0,21050,0.0,211.9,0.0,0.412
+"Donatı karbonu 1,99 (ICE v3 dünya ortalaması)",EV120,R1,21344,1.4,158.1,-25.4,0.384
+"Donatı karbonu 1,99 (ICE v3 dünya ortalaması)",EV120,H1,22113,5.0,178.7,-15.7,0.459
+"Donatı karbonu 1,99 (ICE v3 dünya ortalaması)",EV120,T1,23202,10.2,271.7,28.2,0.453
+"Donatı karbonu 1,99 (ICE v3 dünya ortalaması)",EV120,T2,22763,8.1,190.2,-10.2,0.475
+"Donatı karbonu 1,99 (ICE v3 dünya ortalaması)",EV120,A1,22058,4.8,74.1,-65.0,0.394
+"Donatı karbonu 1,99 (ICE v3 dünya ortalaması)",OKUL1000,R0,21050,0.0,238.2,0.0,0.367
+"Donatı karbonu 1,99 (ICE v3 dünya ortalaması)",OKUL1000,R1,21160,0.5,186.4,-21.7,0.355
+"Donatı karbonu 1,99 (ICE v3 dünya ortalaması)",OKUL1000,H1,21357,1.5,192.1,-19.4,0.382
+"Donatı karbonu 1,99 (ICE v3 dünya ortalaması)",OKUL1000,A2,30725,46.0,124.5,-47.7,0.07
+"Beton karbonu C25/30 0,11 (ICE v3 alt)",EV120,R0,21050,0.0,161.2,0.0,0.412
+"Beton karbonu C25/30 0,11 (ICE v3 alt)",EV120,R1,21344,1.4,121.6,-24.6,0.384
+"Beton karbonu C25/30 0,11 (ICE v3 alt)",EV120,H1,22113,5.0,142.1,-11.8,0.459
+"Beton karbonu C25/30 0,11 (ICE v3 alt)",EV120,T1,23202,10.2,234.0,45.2,0.453
+"Beton karbonu C25/30 0,11 (ICE v3 alt)",EV120,T2,22763,8.1,152.5,-5.4,0.475
+"Beton karbonu C25/30 0,11 (ICE v3 alt)",EV120,A1,22058,4.8,64.4,-60.0,0.394
+"Beton karbonu C25/30 0,11 (ICE v3 alt)",OKUL1000,R0,21050,0.0,161.9,0.0,0.367
+"Beton karbonu C25/30 0,11 (ICE v3 alt)",OKUL1000,R1,21160,0.5,130.3,-19.5,0.355
+"Beton karbonu C25/30 0,11 (ICE v3 alt)",OKUL1000,H1,21357,1.5,136.0,-16.0,0.382
+"Beton karbonu C25/30 0,11 (ICE v3 alt)",OKUL1000,A2,30725,46.0,112.2,-30.7,0.07
+CLT ve glulam fiyatı −%30,EV120,R0,21050,0.0,175.4,0.0,0.412
+CLT ve glulam fiyatı −%30,EV120,R1,21344,1.4,121.6,-30.7,0.384
+CLT ve glulam fiyatı −%30,EV120,H1,22113,5.0,142.1,-19.0,0.459
+CLT ve glulam fiyatı −%30,EV120,T1,23202,10.2,234.0,33.4,0.453
+CLT ve glulam fiyatı −%30,EV120,T2,22763,8.1,152.5,-13.1,0.475
+CLT ve glulam fiyatı −%30,EV120,A1,22058,4.8,64.4,-63.3,0.394
+CLT ve glulam fiyatı −%30,OKUL1000,R0,21050,0.0,182.1,0.0,0.367
+CLT ve glulam fiyatı −%30,OKUL1000,R1,21160,0.5,130.3,-28.4,0.355
+CLT ve glulam fiyatı −%30,OKUL1000,H1,21357,1.5,136.0,-25.3,0.382
+CLT ve glulam fiyatı −%30,OKUL1000,A2,26843,27.5,112.2,-38.4,0.093
+CLT ve glulam fiyatı +%30,EV120,R0,21050,0.0,175.4,0.0,0.412
+CLT ve glulam fiyatı +%30,EV120,R1,21344,1.4,121.6,-30.7,0.384
+CLT ve glulam fiyatı +%30,EV120,H1,22113,5.0,142.1,-19.0,0.459
+CLT ve glulam fiyatı +%30,EV120,T1,23202,10.2,234.0,33.4,0.453
+CLT ve glulam fiyatı +%30,EV120,T2,22763,8.1,152.5,-13.1,0.475
+CLT ve glulam fiyatı +%30,EV120,A1,22058,4.8,64.4,-63.3,0.394
+CLT ve glulam fiyatı +%30,OKUL1000,R0,21050,0.0,182.1,0.0,0.367
+CLT ve glulam fiyatı +%30,OKUL1000,R1,21160,0.5,130.3,-28.4,0.355
+CLT ve glulam fiyatı +%30,OKUL1000,H1,21357,1.5,136.0,-25.3,0.382
+CLT ve glulam fiyatı +%30,OKUL1000,A2,34607,64.4,112.2,-38.4,0.056
+"Tasarım bölgesi 4 (U ≤ 0,35)",EV120,R0,21050,0.0,176.2,0.0,0.409
+"Tasarım bölgesi 4 (U ≤ 0,35)",EV120,R1,21574,2.5,125.4,-28.8,0.37
+"Tasarım bölgesi 4 (U ≤ 0,35)",EV120,H1,22343,6.1,145.9,-17.2,0.444
+"Tasarım bölgesi 4 (U ≤ 0,35)",EV120,T1,23432,11.3,237.8,35.0,0.439
+"Tasarım bölgesi 4 (U ≤ 0,35)",EV120,T2,22993,9.2,156.3,-11.3,0.46
+"Tasarım bölgesi 4 (U ≤ 0,35)",EV120,A1,22009,4.6,64.4,-63.5,0.394
+"Tasarım bölgesi 4 (U ≤ 0,35)",OKUL1000,R0,21050,0.0,182.3,0.0,0.366
+"Tasarım bölgesi 4 (U ≤ 0,35)",OKUL1000,R1,21239,0.9,131.6,-27.8,0.35
+"Tasarım bölgesi 4 (U ≤ 0,35)",OKUL1000,H1,21436,1.8,137.3,-24.7,0.376
+"Tasarım bölgesi 4 (U ≤ 0,35)",OKUL1000,A2,30756,46.1,112.9,-38.1,0.069
+"Tasarım bölgesi 5 (U ≤ 0,25)",EV120,R0,21050,0.0,179.3,0.0,0.399
+"Tasarım bölgesi 5 (U ≤ 0,25)",EV120,R1,21935,4.2,133.0,-25.8,0.345
+"Tasarım bölgesi 5 (U ≤ 0,25)",EV120,H1,22704,7.9,153.5,-14.4,0.417
+"Tasarım bölgesi 5 (U ≤ 0,25)",EV120,T1,23793,13.0,245.4,36.9,0.416
+"Tasarım bölgesi 5 (U ≤ 0,25)",EV120,T2,23354,10.9,163.9,-8.6,0.434
+"Tasarım bölgesi 5 (U ≤ 0,25)",EV120,A1,21812,3.6,64.4,-64.1,0.394
+"Tasarım bölgesi 5 (U ≤ 0,25)",OKUL1000,R0,21050,0.0,183.4,0.0,0.362
+"Tasarım bölgesi 5 (U ≤ 0,25)",OKUL1000,R1,21364,1.5,134.2,-26.8,0.339
+"Tasarım bölgesi 5 (U ≤ 0,25)",OKUL1000,H1,21561,2.4,139.9,-23.7,0.365
+"Tasarım bölgesi 5 (U ≤ 0,25)",OKUL1000,A2,30881,46.7,115.5,-37.0,0.069

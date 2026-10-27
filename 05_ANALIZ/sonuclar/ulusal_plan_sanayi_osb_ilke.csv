@@ -1,0 +1,203 @@
+ad,il,ha,egim_ort,halka_tarim_pay,halka_ova_pay,nufus_2km,pm25,demiryolu_km,liman_km,x,y,p_demiryolu_5km,p_ova_disi,p_fay_1km_disi,p_fay_5km_disi,p_kentten_3km,p_ruzgar_alti,p_hepsi,ruzgar_kente_pay
+Konya Organize Sanayi Bölgesi,Konya,2307.27,0.24,17.05,14.45,83087.43,22.96,2.69,217.22,-209086.0,-109677.0,True,True,True,True,False,False,False,14.9
+Kayseri Organize Sanayi Bölgesi,Kayseri,2259.66,3.27,29.88,27.01,35465.21,27.24,5.37,220.78,31237.0,-31565.0,False,False,True,False,False,False,False,11.0
+Eskişehir Organize Sanayi Bölgesi (OSB),Eskişehir,1807.64,2.65,42.0,36.43,131859.64,18.02,7.25,132.54,-373368.0,89902.0,False,False,True,False,False,True,False,9.2
+Hacı Ömer Sabancı Organize Sanayi Bölgesi,Adana,1501.04,3.16,57.21,56.68,87805.63,21.27,12.17,60.2,54397.0,-223941.0,False,False,True,True,False,True,False,1.9
+Başpınar OSB,Gaziantep,1370.91,3.02,21.31,9.7,109671.68,26.93,0.0,113.67,205927.0,-200212.0,True,True,True,True,False,False,False,26.0
+Şanlıurfa Organize Sanayi Bölgesi,Şanlıurfa,1369.42,3.47,24.57,12.46,57757.49,24.43,28.74,224.09,324641.0,-204824.0,False,True,True,True,False,True,False,5.7
+Velimeşe Organize Sanayi Bölgesi,Tekirdağ,1334.32,2.51,82.95,84.24,18660.58,16.98,1.25,48.52,-597637.0,269318.0,True,False,True,True,False,False,False,49.1
+Kemalpaşa Organize Sanayi Bölgesi,İzmir,1323.7,3.07,13.67,6.74,72572.71,24.31,1.0,21.75,-661567.0,-32413.0,True,True,True,False,False,False,False,35.8
+Aksaray Organize Sanayi Bölgesi,Aksaray,1265.25,0.37,31.49,30.7,29276.61,23.13,64.61,172.35,-86511.0,-80218.0,False,False,True,True,True,True,False,9.7
+Uşak Tekstil Organize Sanayi Bölgesi,Uşak,1148.82,2.71,57.27,52.15,18581.8,22.71,14.88,181.95,-501907.0,-19617.0,False,False,True,True,True,False,False,10.3
+Manisa Organize Sanayi Bölgesi,Manisa,1114.85,2.7,13.47,13.56,120306.29,25.9,3.02,25.29,-666117.0,-13861.0,True,True,False,False,False,True,False,4.5
+Çerkezköy Organize Sanayi Bölgesi,Tekirdağ,993.56,2.26,52.18,50.39,256267.32,17.45,1.77,61.27,-588051.0,277892.0,True,False,True,True,False,True,False,4.9
+Karaman Organize Sanayi Bölgesi,Karaman,985.78,2.76,45.75,44.61,23798.11,24.52,3.13,111.36,-149887.0,-197897.0,True,False,True,True,False,True,False,1.6
+Başkent Organize Sanayi Bölgesi,Ankara,957.34,2.64,65.85,52.43,12621.78,18.31,1.35,181.1,-224210.0,92391.0,True,False,True,False,True,False,False,18.0
+Aliağa Organize Sanayi Bölgesi,İzmir,915.46,7.31,22.78,18.23,4047.31,18.71,7.76,10.87,-688941.0,9625.0,False,True,True,False,True,True,False,6.3
+Antalya Organize Sanayi Bölgesi,Antalya,911.8,0.32,24.55,18.99,36775.89,20.09,77.26,26.82,-389216.0,-204106.0,False,True,True,True,False,False,False,17.2
+Balıkesir Organize Sanayi Bölgesi,Balıkesir,897.63,4.8,48.32,22.32,14913.89,20.59,1.5,86.25,-613735.0,88576.0,True,True,True,False,True,True,True,6.9
+Şanlıurfa Tarıma Dayalı İhtisas Organize Sanayi Bölgesi,Şanlıurfa,857.77,4.24,6.15,1.26,2532.5,24.89,30.46,228.05,328678.0,-204525.0,False,True,True,True,False,True,False,7.4
+İncesu OSB,Kayseri,825.64,4.14,28.6,25.0,2407.35,21.71,1.0,200.04,15292.0,-48832.0,True,False,True,False,True,True,False,7.0
+İstanbul Deri Organize Sanayi Bölgesi,İstanbul,766.23,4.28,12.75,7.53,50594.01,20.88,6.02,18.92,-474981.0,223203.0,False,True,True,True,False,True,False,3.1
+Ergene 2 Organize Sanayi Bölgesi,Tekirdağ,759.83,1.68,80.27,80.35,21007.71,16.45,5.46,42.09,-610926.0,272329.0,False,False,True,True,False,True,False,4.1
+Bursa Organize Sanayi Bölgesi,Bursa,702.86,1.89,6.11,1.58,199483.09,27.72,4.19,22.05,-513553.0,154690.0,True,True,True,True,False,True,False,8.3
+Çorum Organize Sanayi Bölgesi,Çorum,693.18,5.62,58.19,46.67,16548.82,19.08,74.95,155.65,-11866.0,164458.0,False,False,True,True,False,False,False,20.4
+Niğde Bor Karma ve Deri İhtisas Organize Sanayi Bölgesi,Niğde,669.93,0.3,15.25,12.84,3303.69,25.13,7.6,118.7,-46457.0,-125659.0,False,True,True,True,True,True,False,9.7
+Atatürk Organize Sanayi Bölgesi,İzmir,662.72,0.36,3.72,1.64,168344.37,25.49,1.6,11.66,-693322.0,-26254.0,True,True,True,False,False,True,False,6.9
+Demirağ Organize Sanayi Bölgesi,Sivas,654.11,2.37,80.25,66.03,1114.21,19.69,6.64,167.27,181004.0,69559.0,False,False,True,True,True,False,False,11.8
+Ankara II. Organize Sanayi Bölgesi,Ankara,620.45,6.09,49.07,29.41,4968.36,17.34,3.91,183.92,-218131.0,92067.0,True,False,True,False,True,False,False,13.7
+Niğde OSB,Niğde,608.0,5.1,5.47,1.95,16223.02,27.09,3.69,127.29,-34258.0,-116109.0,True,True,True,True,False,False,False,10.5
+Mimarsinan Organize Sanayi Bölgesi,Kayseri,556.42,2.64,58.55,50.39,55751.67,22.61,10.29,227.06,54385.0,-33033.0,False,False,True,False,False,False,False,28.3
+Makine İhtisas Organize Sanayi Bölgesi,Kocaeli,518.14,7.28,3.37,0.0,15822.71,18.21,7.27,8.31,-458010.0,217767.0,False,True,True,True,True,True,False,22.8
+Hasanoğlan Organize Sanayi Bölgesi,Ankara,504.77,4.57,43.42,20.24,7170.52,16.33,1.12,203.2,-156489.0,107474.0,True,True,True,True,True,True,True,7.5
+Bozüyük Organize Sanayi Bölgesi,Bilecik,498.52,6.66,62.8,28.54,5512.39,17.05,3.48,101.51,-412602.0,107840.0,True,False,False,False,True,True,False,8.3
+Eskişehir Organize Sanayi Bölgesi (OSB) İmişehir,Eskişehir,498.0,2.96,68.83,64.6,1199.66,16.52,11.96,139.57,-366028.0,85822.0,False,False,True,False,True,True,False,9.2
+Büyükkarıştıran Organize Sanayi Bölgesi,Kırklareli,497.1,1.37,88.43,87.23,17417.48,16.47,1.77,43.48,-620236.0,278467.0,True,False,True,True,False,True,False,4.1
+Osmaniye Organize Sanayi Bolgesi,Osmaniye,496.46,3.73,16.31,6.68,17779.67,24.7,2.93,35.66,98142.0,-219890.0,True,True,True,True,True,False,False,16.8
+Tire Organize Sanayi Bölgesi,İzmir,467.61,4.15,63.47,65.69,11492.8,25.28,1.46,59.15,-639103.0,-71740.0,True,False,True,True,False,True,False,6.9
+Afyonkarahisar Organize Sanayi Bölgesi,Afyonkarahisar,467.54,0.33,51.1,50.27,76928.24,23.22,2.14,217.82,-385563.0,-13139.0,True,False,True,True,False,False,False,22.4
+İvedik Organize Sanayi Bölgesi,Ankara,450.85,3.41,18.16,10.92,140308.22,18.87,6.75,180.05,-192142.0,112580.0,False,True,True,True,False,True,False,6.7
+Veliköy Organize Sanayi Bölgesi,Tekirdağ,447.11,1.7,73.77,68.68,10776.87,16.24,2.5,53.07,-593073.0,271103.0,True,False,True,True,False,False,False,12.7
+Ankara Uzay ve Havacılık İhtisas Organize Sanayi Bölgesi,Ankara,436.77,1.07,48.45,44.05,25655.06,19.58,9.4,165.88,-205614.0,120312.0,False,False,True,False,True,True,False,6.7
+Çankırı Yakınkent Organize Sanayi Bölgesi,Çankırı,423.13,6.26,44.56,23.63,2494.05,16.21,2.76,179.84,-126501.0,154197.0,True,True,True,True,True,True,True,7.5
+Ankara Sanayi Odası 1. Organize Sanayi Bölgesi,Ankara,420.52,2.53,11.85,2.8,183839.79,19.84,0.5,171.4,-208965.0,111667.0,True,True,False,False,False,False,False,13.7
+İnegöl Organize Sanayi Bölgesi,Bursa,415.21,7.66,40.57,18.59,7106.73,22.18,13.55,48.3,-464267.0,142366.0,False,True,True,False,True,False,False,22.8
+Diyarbakır Organize Sanayi Bölgesi,Diyarbakır,409.84,2.49,75.29,73.03,65211.11,28.18,1.27,326.59,441386.0,-90860.0,True,False,True,True,False,True,False,9.2
+Mersin-Tarsus Organize Sanayi Bölgesi,Mersin,378.96,6.93,3.57,0.22,12054.41,20.16,15.27,16.52,-18527.0,-232847.0,False,True,True,True,False,True,False,3.0
+Ergene 1 Organize Sanayi Bölgesi,Tekirdağ,372.49,1.06,89.73,88.66,3179.32,16.2,1.58,43.45,-618248.0,277641.0,True,False,True,True,False,True,False,4.1
+Kırklareli Organize Sanayi Bölgesi,Kırklareli,372.34,2.02,76.68,81.68,4427.83,16.3,34.73,87.59,-637901.0,324526.0,False,False,True,True,True,True,False,5.2
+Sungurlu OSB,Çorum,368.36,3.75,79.54,70.99,282.75,18.52,31.86,221.56,-65364.0,125846.0,False,False,True,True,True,True,False,6.6
+Kütahya 30 Ağustos Organize Sanayi Bölgesi,Kütahya,362.4,4.31,48.19,42.74,12375.0,19.58,0.0,131.19,-428631.0,64209.0,True,False,True,True,False,False,False,31.7
+Malatya OSB,Malatya,358.85,2.03,35.11,30.18,36717.41,33.99,0.75,253.69,278417.0,-68488.0,True,False,True,True,False,True,False,9.4
+Çorlu 1. Organize Sanayi Bölgesi,Tekirdağ,357.93,2.44,69.62,64.7,63781.05,16.41,8.05,40.29,-600177.0,259009.0,False,False,True,True,False,True,False,2.3
+Erzincan Organize Sanayi Bolgesi,Erzincan,355.42,1.56,61.62,63.77,4706.41,21.65,5.59,141.68,376595.0,92816.0,False,False,True,True,True,True,False,6.2
+Batman Organize Sanayi Bölgesi,Batman,345.63,8.88,71.68,54.89,6989.34,30.79,7.76,354.47,548557.0,-103765.0,False,False,True,True,True,False,False,21.8
+Tokat Organize Sanayi Bölgesi,Tokat,326.63,14.42,31.45,22.15,5556.48,22.75,25.77,109.71,127576.0,148326.0,False,True,True,True,False,True,False,4.6
+Oymataş Gıda İhtisas-Karma Organize Sanayi Bölgesi,Batman,316.56,6.76,45.13,35.34,569.06,29.13,2.37,361.33,529195.0,-115015.0,True,False,True,True,True,True,False,6.5
+Mardin Organize Sanayi Bölgesi,Mardin,314.55,3.15,44.43,44.3,26381.24,28.98,18.39,403.75,502231.0,-175838.0,False,False,True,True,True,False,False,16.9
+Sivas OSB 2. Kısım,Sivas,307.19,3.96,62.5,21.83,10468.26,20.0,8.49,149.41,178731.0,90083.0,False,True,True,False,True,True,False,7.3
+Sakarya 2. Organize Sanayi Bölgesi,Sakarya,303.12,0.47,28.97,27.51,13654.98,20.29,22.53,40.18,-367205.0,204011.0,False,False,True,True,False,True,False,4.6
+Büsan Özel Organize Sanayi Sitesi,Konya,301.73,0.43,9.75,6.83,43344.05,28.55,1.77,209.14,-215615.0,-117207.0,True,True,True,True,False,False,False,14.9
+Muradiye Organize Sanayi Bölgesi,Manisa,295.53,1.42,40.03,33.85,14130.89,25.56,1.12,27.41,-664711.0,-12474.0,True,False,True,False,False,True,False,5.3
+Anadolu Organize Sanayi Bölgesi,Ankara,295.28,2.94,87.89,88.75,1416.23,18.19,1.03,182.5,-221253.0,92031.0,True,False,False,False,True,False,False,13.7
+Çardak Organize Sanayi Bölgesi,Denizli,294.28,0.44,54.26,52.83,3713.8,24.99,0.75,136.88,-468352.0,-117826.0,True,False,True,False,True,True,False,6.3
+Ankara Sanayi Odası 1. Organize Sanayi Bölgesi,Ankara,282.23,4.23,35.47,20.19,90518.27,20.21,0.56,172.32,-210460.0,109591.0,True,True,False,False,False,False,False,13.7
+Denizli Organize Sanayi Bölgesi,Denizli,274.49,2.22,51.59,54.14,10855.79,27.64,1.25,161.93,-505940.0,-116673.0,True,False,True,True,True,True,False,6.3
+Mustafakemalpaşa Organize Sanayi Bölgesi,Bursa,272.94,7.15,43.62,27.74,3739.01,19.37,11.82,49.02,-570469.0,132733.0,False,False,True,False,True,True,False,4.7
+İTOB Organize Sanayi Bölgesi,İzmir,272.9,4.7,53.08,49.77,12402.9,21.71,1.25,28.04,-681789.0,-60264.0,True,False,True,False,False,True,False,3.9
+Kahramanmaraş OSB,Kahramanmaraş,269.5,5.26,50.46,19.95,10160.09,22.55,14.98,112.47,156150.0,-153829.0,False,True,True,False,True,False,False,34.8
+Uşak Deri (Karma) Organize Sanayi Bölgesi,Uşak,250.76,2.62,83.95,79.23,12388.88,21.08,6.05,201.62,-480270.0,-27390.0,False,False,True,True,False,True,False,7.2
+Kapaklı Organize Sanayi Bölgesi,Tekirdağ,249.38,2.05,70.5,66.85,10351.01,16.92,0.75,57.74,-590745.0,275333.0,True,False,True,True,False,False,False,12.7
+Süleyman Demirel Organize Sanayi Bölgesi,Isparta,249.07,3.23,53.51,47.87,2039.05,25.02,0.75,118.14,-403368.0,-113387.0,True,False,True,False,True,False,False,13.1
+Kocaeli Gebze V Kimya İhtisas Organize Sanayi Bölgesi,Kocaeli,243.18,5.94,2.89,0.0,10904.42,21.61,5.0,5.62,-459070.0,215260.0,True,True,True,True,False,True,False,22.8
+Kütahya OSB,Kütahya,237.12,3.44,47.45,46.34,12554.14,16.98,1.25,143.96,-419854.0,54710.0,True,False,True,False,True,True,False,6.8
+Van OSB,Van,227.27,5.22,31.45,20.0,8714.29,26.17,7.43,352.03,722727.0,-12684.0,False,True,False,False,False,False,False,11.2
+Organize Sanayi Bölgesi,Adıyaman,225.94,4.8,51.2,34.61,14446.46,29.94,43.02,215.91,282885.0,-130710.0,False,False,True,True,False,True,False,3.7
+Nilüfer Organize Sanayi Bölgesi,Bursa,223.69,2.7,52.41,44.38,54149.16,27.02,4.28,23.4,-515623.0,154486.0,True,False,True,True,False,True,False,8.3
+Marmara Yüksek Teknoloji ve Makine İhtisas Organize Sanayi Bölgesi,Balıkesir,223.29,3.97,92.67,71.08,1370.38,15.58,15.82,15.95,-611106.0,164910.0,False,False,True,True,True,True,False,6.9
+BOSAB-Barakfakih Organize Sanayi Bölgesi,Bursa,209.56,8.61,14.13,3.42,17305.77,20.34,2.85,28.84,-485629.0,149193.0,True,True,False,False,False,True,False,8.6
+Gümüşova Organize Sanayi Bölgesi,Düzce,205.67,7.03,11.3,4.43,9643.66,18.87,50.74,39.8,-339319.0,212394.0,False,True,True,True,True,True,False,5.5
+Salihli OSB,Manisa,204.91,3.29,61.89,58.38,3678.57,23.41,5.22,101.75,-581510.0,-33426.0,False,False,True,True,True,True,False,3.0
+Bağyurdu Organize Sanayi Bölgesi,İzmir,204.45,3.18,60.1,61.99,14043.1,25.91,3.58,41.08,-642292.0,-29751.0,True,False,True,False,False,True,False,4.5
+Sakarya 3. Organize Sanayi Bölgesi,Sakarya,200.11,4.19,19.7,16.34,5088.73,18.52,19.14,27.88,-377130.0,219954.0,False,True,True,True,True,False,False,21.8
+Kilis Organize Sanayi Bölgesi,Kilis,197.88,4.46,63.9,52.13,3060.11,23.53,40.88,91.87,197806.0,-249829.0,False,False,True,True,True,True,False,7.4
+Karaman 2. Organize Sanayi Bölgesi,Karaman,194.03,2.5,32.43,31.59,1.18,23.96,4.3,113.41,-132925.0,-188755.0,True,False,True,True,True,True,False,4.9
+Bucak Organize Sanayi Sitesi,Burdur,193.49,8.19,22.49,17.35,5856.6,21.92,39.1,65.04,-393332.0,-165851.0,False,True,True,True,True,False,False,13.4
+Ereğli Organize Sanayi Bölgesi,Konya,190.96,0.29,25.9,28.98,5055.1,25.52,9.28,103.47,-90295.0,-158348.0,False,False,True,True,True,False,False,21.1
+Erzurum II. OSB,Erzurum,187.24,4.91,39.25,33.78,9837.78,24.72,1.8,132.06,520257.0,121067.0,True,False,True,True,False,False,False,13.6
+Arslanbey Organize Sanayi Bölgesi,Kocaeli,186.89,2.01,7.33,1.28,35441.3,19.92,1.8,18.68,-418079.0,201731.0,True,True,False,False,False,True,False,4.1
+Çaybaşı OSB,Gaziantep,184.92,5.94,31.26,18.75,2576.4,22.39,1.35,125.15,224637.0,-214484.0,True,True,True,True,True,True,True,7.5
+Bergama Organize Sanayi Bölgesi,İzmir,183.73,5.61,32.37,31.02,2704.79,17.62,32.97,14.0,-686732.0,39079.0,False,False,True,True,True,True,False,3.9
+Bilecik Organize Sanayi Bölgesi,Bilecik,182.42,5.95,12.93,4.79,33690.72,20.17,1.75,65.41,-426759.0,141879.0,True,True,True,True,False,True,False,8.1
+Kırşehir Organize Sanayi Bölgesi,Kırşehir,178.94,4.21,80.69,75.3,3760.04,19.76,58.92,255.17,-69972.0,8967.0,False,False,True,True,True,False,False,10.8
+Söke OSB,Aydın,175.45,0.5,49.89,50.44,24522.15,29.52,0.71,79.68,-664761.0,-109782.0,True,False,True,False,False,False,False,15.3
+Muratlı Organize Sanayi Bölgesi,Tekirdağ,173.86,1.44,77.99,82.83,18744.5,16.17,2.47,33.73,-626905.0,270016.0,True,False,True,True,True,True,False,4.9
+Bursa Tekstil Boyahaneleri Organize Sanayi Bölgesi,Bursa,171.78,5.01,55.35,29.23,3798.19,19.11,20.33,37.46,-535493.0,156830.0,False,False,True,True,False,True,False,6.1
+Gediz OSB,Kütahya,168.01,5.53,53.76,43.8,5874.36,22.55,32.85,162.29,-488298.0,11309.0,False,False,True,False,True,True,False,9.9
+Kayapa Organize Sanayi Bölgesi,Bursa,166.61,6.03,23.44,15.46,19069.56,19.75,14.15,33.94,-525341.0,148938.0,False,True,False,False,False,True,False,4.7
+Kandıra Gıda İhtisas Organize Sanayi Bölgesi (GİOSB),Kocaeli,164.94,5.48,11.55,1.56,3598.73,16.06,20.72,29.1,-413843.0,225315.0,False,True,True,True,True,True,False,7.0
+Düzce Organize Sanayi Bölgesi,Düzce,163.2,1.13,17.96,6.98,10494.16,21.26,57.47,54.45,-325476.0,205149.0,False,True,True,False,True,False,False,10.2
+Sivrihisar Organize Sanayi Bölgesi,Eskişehir,162.57,5.97,56.44,48.49,76.52,16.26,24.96,194.89,-307647.0,57291.0,False,False,False,False,True,True,False,13.7
+Uludağ Organize Sanayi Bölgesi,Bursa,162.29,1.98,12.92,3.48,86834.83,25.24,5.62,24.98,-493817.0,149438.0,False,True,True,False,False,True,False,8.6
+Bandırma Organize Sanayi Bölgesi,Balıkesir,158.17,3.84,41.23,41.05,3287.8,16.66,24.56,24.7,-617512.0,158802.0,False,False,True,False,True,True,False,6.9
+Sakarya 1. Organize Sanayi Bölgesi,Sakarya,157.36,0.45,28.67,24.49,43108.88,23.93,1.9,47.88,-388722.0,200551.0,True,True,False,False,False,False,False,28.8
+Sivas OSB 1.Kısım,Sivas,154.47,3.43,63.53,57.89,21825.68,20.56,6.66,151.66,178164.0,87835.0,False,False,True,False,False,True,False,7.3
+Denizli Organize Sanayi Bölgesi,Denizli,153.87,3.52,36.68,25.37,9339.2,27.85,0.71,162.63,-506118.0,-115793.0,True,False,True,True,True,True,False,6.3
+Erbaa Organize Sanayi Bölgesi,Tokat,153.05,0.42,60.99,50.75,26842.5,21.6,48.11,69.95,132418.0,189804.0,False,False,True,False,False,False,False,27.0
+Gönen Organize Sanayi Bölgesi,Balıkesir,151.4,6.44,2.19,0.41,1326.19,16.86,25.66,25.81,-618719.0,158429.0,False,True,True,False,True,True,False,6.9
+Ferizli OSB,Sakarya,147.06,4.32,18.09,15.54,12149.81,17.93,24.44,22.45,-377042.0,226486.0,False,True,True,True,True,True,False,4.6
+sanayi alanı osb,Denizli,146.63,4.15,83.52,77.31,702.54,22.13,10.5,158.07,-483899.0,-102872.0,False,False,True,True,True,True,False,16.8
+Ereğli OSB,Zonguldak,146.07,9.63,0.04,0.0,8282.43,18.24,6.41,6.93,-296842.0,250631.0,False,True,True,True,True,False,False,13.7
+Seydişehir Organize Sanayi Bölgesi,Konya,143.42,3.11,31.08,28.45,116.4,22.31,70.49,128.87,-282114.0,-162243.0,False,False,True,False,True,True,False,14.1
+Merzifon OSB,Amasya,142.46,2.81,63.83,64.77,23859.68,20.49,14.0,90.24,39420.0,205221.0,False,False,True,True,False,False,False,18.3
+Ostim Organize Sanayi Bölgesi,Ankara,142.41,2.4,0.57,0.0,23971.56,19.29,4.53,181.56,-192712.0,110488.0,True,True,True,False,False,True,False,6.7
+Ostim Organize Sanayi Bölgesi,Ankara,141.51,2.98,1.2,0.0,106484.06,19.6,3.75,182.46,-192120.0,109715.0,True,True,True,False,False,True,False,6.7
+Bayburt Organize Sanayi Bölgesi,Bayburt,140.98,6.68,43.5,19.1,875.98,21.28,39.49,87.77,438109.0,154620.0,False,True,True,False,True,True,False,16.8
+Dudullu OSB,İstanbul,139.62,1.78,0.59,0.27,329781.83,19.75,7.78,12.77,-490095.0,237713.0,False,True,True,True,False,True,False,5.8
+Çarşamba Organize Sanayi Bölgesi,Samsun,139.28,1.32,8.25,1.56,26396.29,18.16,23.88,32.54,142304.0,242875.0,False,True,True,True,False,False,False,23.3
+Yozgat Organize Sanayi Bölgesi,Yozgat,136.18,6.07,73.68,40.92,2961.5,19.02,1.0,231.19,-32975.0,77857.0,True,False,True,True,True,False,False,11.0
+Çerkeş Organize Sanayi Bölgesi,Çankırı,135.99,2.91,79.26,73.52,4894.91,16.73,0.79,111.61,-175128.0,202550.0,True,False,True,False,True,True,False,27.7
+Beylikova Besi Organize Sanayi Bölgesi,Eskişehir,134.89,3.58,54.43,52.66,1729.43,17.31,3.58,167.54,-324564.0,81107.0,True,False,True,False,True,True,False,4.0
+Konya 1. Organize Sanayi Bölgesi,Konya,134.01,0.72,0.62,0.0,156097.97,26.73,0.56,207.11,-218280.0,-116638.0,True,True,True,True,False,False,False,14.9
+Edirne Organize Sanayi Bölgesi,Edirne,133.49,3.25,76.66,80.11,772.49,15.95,28.53,116.16,-677948.0,344517.0,False,False,True,True,True,False,False,21.9
+Diyarbakır Tekstil İhtisas OSB,Diyarbakır,132.31,1.14,85.32,92.39,7115.53,26.21,1.41,333.1,448764.0,-96466.0,True,False,True,True,False,True,False,7.6
+Şereflikoçhisar Organize Sanayi Bölgesi,Ankara,131.28,8.87,42.76,34.96,155.81,20.09,93.78,251.32,-121195.0,-8545.0,False,False,True,False,True,True,False,14.2
+Demirciler OSB,Bolu,130.57,1.82,78.89,79.41,1984.46,16.68,30.44,84.4,-234750.0,199806.0,False,False,True,False,True,True,False,2.7
+Burdur Organize Sanayii,Burdur,127.59,5.05,42.3,46.58,22830.69,28.92,0.35,104.92,-412362.0,-128004.0,True,False,False,False,False,False,False,13.6
+Kastamonu Organize Sanayi Bölgesi,Kastamonu,127.45,6.82,33.66,22.34,4043.59,15.48,81.75,128.56,-104016.0,280059.0,False,True,True,True,True,False,False,13.6
+Asım Kibar OSB,Kocaeli,125.23,1.2,30.53,27.0,52027.86,21.8,3.02,17.81,-418318.0,208190.0,True,False,True,True,False,True,False,4.1
+Hacıbalı Organize Sanayi Bölgesi,Kırıkkale,124.5,9.96,15.83,5.33,9096.28,18.2,1.12,218.65,-133673.0,101777.0,True,True,True,False,False,True,False,7.9
+Pancar Organize Sanayi Bölgesi,İzmir,122.01,3.85,59.79,59.72,17085.1,22.94,1.5,26.38,-677531.0,-58053.0,True,False,True,False,False,True,False,6.9
+Bolu Organize Sanayi Bölgesi,Bolu,121.87,6.11,77.6,61.56,8799.17,18.16,62.73,63.23,-277232.0,197907.0,False,False,True,False,False,True,False,2.7
+Çaycuma Organize Sanayi Bölgesi,Zonguldak,118.42,4.12,3.12,1.13,10087.69,20.54,2.75,20.22,-240009.0,271144.0,True,True,True,True,False,True,False,7.5
+Erzurum OSB,Erzurum,116.22,0.6,63.55,66.67,37822.83,25.97,0.25,134.88,526580.0,121137.0,True,False,True,True,False,True,False,6.4
+Çerkezköy Organize Sanayi Bölgesi,Tekirdağ,112.61,1.6,41.19,34.07,43242.09,17.44,0.35,59.41,-588503.0,275696.0,True,False,True,True,False,False,False,12.7
+Birecik OSB,Şanlıurfa,111.05,2.96,82.8,75.61,41.29,22.08,15.28,180.75,281682.0,-211436.0,False,False,True,True,True,True,False,7.4
+Seydiler Organize Sanayi Bölgesi,Kastamonu,110.95,3.2,56.16,56.69,865.96,14.05,94.33,124.46,-106649.0,294445.0,False,False,True,True,True,False,False,13.6
+Milas Organize Sanayi Bölgesi Sınırları,Muğla,109.78,10.15,32.4,30.42,5027.35,30.13,53.94,132.5,-641514.0,-158208.0,False,False,False,False,False,True,False,0.9
+Çanakkale Organize Sanayi Bölgesi,Çanakkale,108.12,4.01,44.62,28.4,11781.48,16.31,101.41,9.43,-725524.0,162384.0,False,False,True,True,False,False,False,17.7
+Malkara Organize Sanayi Bölgesi,Tekirdağ,107.72,5.38,92.97,65.19,1618.14,16.27,39.33,38.78,-672628.0,238531.0,False,False,True,True,True,True,False,4.9
+Hasanağa Organize Sanayi Bölgesi,Bursa,107.5,5.36,36.14,29.1,20106.86,19.49,17.0,36.64,-528829.0,148586.0,False,False,False,False,False,True,False,4.7
+Aydın Organize Sanayi Bölgesi,Aydın,107.43,3.94,33.72,33.72,11980.43,32.0,1.0,96.54,-616748.0,-102205.0,True,False,False,False,True,False,False,15.3
+Muradiye Organize Sanayi Bölgesi,Manisa,102.86,1.16,42.49,40.26,14735.94,25.14,1.58,26.41,-666144.0,-12351.0,True,False,True,False,False,True,False,4.5
+Bursa Deri İhtisas ve Karma Organize Sanayi Bölgesi,Bursa,102.38,3.88,47.93,26.62,5737.32,19.28,22.55,39.4,-537716.0,157025.0,False,False,True,True,False,True,False,6.1
+Deri OSB,Bolu,101.63,4.45,38.17,26.72,2325.45,16.39,27.81,83.64,-232975.0,201691.0,False,False,True,False,True,True,False,2.7
+Samsun Havza Organize Sanayi Bölgesi,Samsun,101.36,6.02,44.51,30.51,764.77,17.12,0.56,56.1,68129.0,223553.0,True,False,True,False,True,False,False,26.2
+Cizre Organize Sanayi Bölgesi,Şırnak,98.76,1.44,89.37,96.08,436.15,29.13,75.66,441.73,625743.0,-170506.0,False,False,True,True,True,False,False,13.0
+Sinop Organize Sanayi Bölgesi,Sinop,98.22,5.74,16.53,5.93,1952.5,13.96,116.87,12.01,6139.0,325407.0,False,True,True,True,True,True,False,6.4
+Pınarbaşı Organize Sanayi Bölgesi,Adıyaman,98.06,5.58,11.76,3.61,13854.29,23.91,19.56,182.19,249609.0,-142257.0,False,True,True,True,True,True,False,3.7
+Ödemiş Organize Sanayi Bölgesi,İzmir,97.33,8.42,27.82,13.37,284.77,24.95,16.48,92.08,-598652.0,-68446.0,False,True,True,True,True,True,False,9.5
+Şuhut Organize Sanayi Bölgesi,Afyonkarahisar,95.19,5.25,44.26,31.99,339.29,19.52,11.96,196.62,-384288.0,-34493.0,False,False,True,True,True,False,False,16.5
+Arsin Organize Sanayi Bölgesi,Trabzon,94.67,8.18,0.04,0.0,19899.35,18.16,116.28,19.71,417704.0,228539.0,False,True,True,True,False,False,False,10.3
+Elmadağ Mobilyacılar İhtisas Organize Sanayi Bölgesi,Ankara,94.42,8.46,11.87,1.25,108.59,17.09,0.75,210.11,-145999.0,104905.0,True,True,True,False,True,True,True,7.9
+Global Karma OSB,Kocaeli,92.09,8.14,0.8,0.0,11813.74,23.75,2.85,4.24,-458216.0,213067.0,True,True,True,True,False,True,False,22.8
+Gümüşova Organize Sanayi Bölgesi,Düzce,91.41,9.45,0.31,0.0,4562.38,18.5,47.85,39.25,-342016.0,211194.0,False,True,True,True,True,True,False,2.5
+Dursunbey Organize Sanayi Bölgesi,Balıkesir,90.37,7.0,18.27,8.91,434.44,17.85,1.77,97.26,-561274.0,83135.0,True,True,True,True,True,True,True,0.4
+Korkuteli Organize Sanayi Bölgesi,Antalya,87.87,5.59,16.44,11.61,773.08,20.58,72.04,42.15,-422660.0,-202969.0,False,True,True,True,True,True,False,0.8
+Düzce 2. Organize Sanayi Bölgesi,Düzce,87.44,4.85,5.88,2.59,6387.14,20.36,56.41,56.64,-321208.0,204458.0,False,True,False,False,False,False,False,10.2
+Burdur 2. Organize Sanayi Bölgesi,Burdur,87.34,8.14,26.72,28.95,1825.06,26.16,1.25,109.53,-406104.0,-122360.0,True,False,False,False,False,False,False,13.6
+Çumra Organize Sanayi Bölgesi,Konya,87.1,0.12,66.51,69.54,567.01,23.75,0.35,180.58,-202662.0,-148803.0,True,False,True,True,True,True,False,3.1
+Demirciler OSB Mahallesi,Bolu,87.0,0.0,0.0,0.0,0.0,0.0,30.72,84.86,-234763.0,199370.0,False,True,True,False,True,True,False,2.7
+Atatürk Plastik Organize Sanayi Bölgesi,İzmir,85.15,4.07,54.68,55.76,66787.03,23.02,1.46,19.14,-691051.0,-14888.0,True,False,True,True,False,False,False,21.8
+Kütahya Seramik Organize Sanayi Bölgesi,Kütahya,85.02,3.64,13.1,7.02,9696.39,18.56,1.03,131.27,-427279.0,64853.0,True,True,True,True,False,False,False,13.9
+Acıgöl Organize Sanayi Bölgesi,Nevşehir,83.39,6.21,90.89,91.85,445.75,19.39,55.85,191.78,-48734.0,-52337.0,False,False,True,True,True,True,False,8.7
+Bingöl Organize Sanayi Bölgesi,Bingöl,82.72,4.71,36.23,22.89,1247.85,25.46,6.19,247.55,479620.0,-6752.0,False,True,True,False,True,True,False,9.4
+Siverek OSB,Şanlıurfa,79.69,2.81,26.26,17.81,207.85,24.01,53.69,313.77,391160.0,-123323.0,False,True,True,True,True,False,False,10.3
+Kestel Organize Sanayi Bölgesi,Bursa,78.46,3.93,1.73,0.0,28662.94,25.31,6.41,26.09,-493394.0,148363.0,False,True,True,False,False,True,False,8.6
+Nevşehir Islah Organize Sanayi Bölgesi,Nevşehir,77.05,2.52,53.86,50.66,3704.68,20.62,43.2,194.25,-32716.0,-49091.0,False,False,True,True,True,True,False,8.7
+Alaplı Organize Sanayi Bölgesi,Zonguldak,75.47,7.93,0.0,0.0,1685.87,18.13,6.75,7.04,-299046.0,249892.0,False,True,True,True,False,False,False,13.7
+Suluova Organize Sanayi Bölgesi,Amasya,75.25,5.1,51.23,29.77,2253.25,19.47,2.0,79.61,51431.0,206817.0,True,False,True,True,True,True,False,3.2
+Fatsa Organize Sanayi Bölgesi,Ordu,75.04,8.13,0.41,0.0,33908.79,16.71,95.69,30.0,212038.0,225542.0,False,True,True,True,False,False,False,10.4
+Torbalı Organize Sanayi Bölgesi,İzmir,74.93,10.97,28.97,27.88,1125.05,22.76,4.74,41.76,-671383.0,-72435.0,True,False,True,True,True,False,False,11.2
+Silifke Organize Sanayi Bölgesi,Mersin,74.72,5.7,1.47,0.28,16526.82,20.24,83.67,6.13,-98734.0,-291330.0,False,True,True,True,False,True,False,3.0
+Kahta Organize Sanayi Bölgesi,Adıyaman,73.81,3.59,63.08,52.8,2263.93,25.9,64.44,244.02,313996.0,-126743.0,False,False,True,True,True,True,False,3.7
+Biga Organize Sanayi Bölgesi,Çanakkale,73.8,2.72,74.16,73.67,4595.8,16.0,74.82,64.13,-672331.0,176372.0,False,False,True,True,True,True,False,17.7
+Kimyacılar OSB,İstanbul,72.83,4.34,16.52,6.72,12147.1,21.08,8.66,17.26,-471982.0,223557.0,False,True,True,True,False,True,False,3.1
+Çorlu Deri Organize Sanayi Bölgesi (OSB),Tekirdağ,72.83,1.65,42.09,39.66,48401.06,17.63,0.5,40.84,-605292.0,266285.0,True,False,True,True,False,True,False,4.1
+Kaynarca Organize Sanayi Bölgesi,Sakarya,72.05,5.15,53.46,32.82,8423.76,16.75,30.64,33.9,-396102.0,235453.0,False,False,True,True,True,False,False,27.0
+Siirt OSB,Siirt,71.26,6.43,30.5,14.74,1445.3,34.09,20.64,361.82,608237.0,-91259.0,False,True,True,True,False,True,False,2.9
+Suluova Besi Organize Sanayi Bölgesi,Amasya,70.64,1.42,83.29,87.7,3660.59,20.37,2.12,81.85,55611.0,198861.0,True,False,True,True,True,False,False,10.5
+Karabük Organize Sanayi Bölgesi,Karabük,68.84,8.61,10.87,1.87,3288.61,20.28,2.66,68.23,-198362.0,239693.0,True,True,True,True,True,True,True,6.7
+Kınık Organize Sanayi Bölgesi,İzmir,68.42,0.8,59.91,59.5,4191.31,18.99,19.07,45.76,-654876.0,38253.0,False,False,False,False,True,True,False,5.8
+Payas Organize Sanayi Bölgesi,Hatay,67.24,3.25,1.83,0.94,29584.81,23.03,0.56,6.26,109064.0,-249043.0,True,True,True,True,False,True,False,0.8
+Samsun Kavak Organize Sanayi Sitesi,Samsun,67.13,6.43,33.87,11.86,6225.25,16.38,2.92,34.83,88269.0,232532.0,True,True,True,True,True,False,False,23.3
+Korgun Organize Sanayi Bölgesi,Çankırı,65.95,5.07,15.39,7.38,2205.0,16.58,1.25,151.35,-125903.0,192732.0,True,True,True,True,True,False,False,30.8
+İpekçi Organize Sanayi Bölgesi,Konya,62.44,0.47,0.45,0.0,3913.08,24.98,35.74,138.22,-124286.0,-141239.0,False,True,True,True,True,True,False,21.1
+Dazkırı Organize Sanayi Bölgesi,Afyonkarahisar,56.23,2.86,61.06,54.37,4321.03,24.39,0.56,138.77,-450839.0,-105507.0,True,False,True,False,True,True,False,19.2
+Bitlis Organize Sanayi Bölgesi,Bitlis,56.16,1.3,41.02,35.81,7367.04,26.08,1.25,316.46,624920.0,-31778.0,True,False,True,True,True,True,False,3.4
+Buca Organize Sanayi Bölgesi,İzmir,54.8,6.77,0.33,0.0,241816.08,25.77,4.16,6.6,-680040.0,-38203.0,True,True,True,True,False,True,False,9.5
+Söke OSB,Aydın,54.61,1.58,29.53,28.97,61180.55,27.08,1.52,81.19,-668229.0,-112152.0,True,False,False,False,False,True,False,4.6
+Şinik Organize Sanayi Bölgesi,Trabzon,54.03,26.07,0.1,0.0,2266.53,15.16,129.01,22.85,376859.0,225160.0,False,True,True,True,True,False,False,10.3
+Evrensekiz Organize Sanayi Bölgesi,Kırklareli,52.2,0.64,92.41,93.23,1850.77,16.18,0.9,49.61,-630588.0,286705.0,True,False,True,True,True,True,False,5.2
+Tokat Organize Sanayi Bölgesi,Tokat,51.69,7.01,16.3,12.09,35981.1,23.54,26.55,110.17,129008.0,148205.0,False,True,True,True,False,True,False,4.6
+Birlik OSB,İstanbul,51.57,4.49,6.8,1.9,30147.32,21.2,8.31,16.87,-471814.0,223230.0,False,True,True,True,False,True,False,3.1
+İstanbul Deri Organize Sanayi Bölgesi - Yan Sanayi,İstanbul,47.17,5.52,4.38,0.64,41543.41,21.02,4.24,20.11,-476791.0,222698.0,True,True,True,True,False,True,False,3.1
+Beyşehir Organize Sanayi Merkezi,Konya,46.96,4.99,42.62,33.33,36793.75,24.28,67.67,136.86,-287271.0,-141741.0,False,False,True,False,True,True,False,17.9
+Osmancık Organize Sanayi Bölgesi,Çorum,46.22,10.73,19.43,16.79,652.3,20.64,73.58,117.79,-19243.0,222081.0,False,True,True,True,True,True,False,9.2
+Ostim Organize Sanayi Bölgesi,Ankara,43.53,3.43,0.89,0.0,34115.81,19.35,4.78,181.95,-191749.0,110668.0,True,True,True,False,False,True,False,6.7
+Tosya Organize Sanayi Bölgesi,Kastamonu,39.04,4.74,22.6,16.72,1249.1,17.57,59.27,140.72,-74179.0,224691.0,False,True,True,False,True,True,False,5.7
+Şarköy Organize Sanayi Bölgesi,Balıkesir,38.76,1.39,13.38,7.47,31140.08,17.92,56.48,47.06,-688577.0,84582.0,False,True,True,True,False,True,False,0.4
+Yalıboyu Organize Sanayi Bölgesi,Tekirdağ,37.89,4.36,63.01,62.5,5524.2,15.87,0.0,53.6,-594591.0,273568.0,True,False,True,True,False,False,False,12.7
+Amasya OSB,Amasya,34.7,8.03,70.21,63.19,2210.65,18.75,9.58,100.41,54173.0,175949.0,False,False,True,True,True,True,False,7.0
+Mustafakemalpaşa Mermerciler OSB,Bursa,32.08,2.35,32.04,7.79,2064.45,19.62,30.44,71.69,-549606.0,119799.0,False,True,True,True,True,False,False,13.9
+Vatan Organize Sanayi Bölgesi,Isparta,29.96,2.21,16.0,13.85,24373.73,25.39,3.4,102.06,-387645.0,-128945.0,True,True,True,True,False,False,False,19.5

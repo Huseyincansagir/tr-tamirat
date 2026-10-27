@@ -4,7 +4,7 @@
 
 Ana belge: [00_YONETIM/ana_arastirma_plani.md](00_YONETIM/ana_arastirma_plani.md)
 
-Güncel durum (26.10.2026): [Faz 2 sentezi](09_RAPORLAR/09_faz2_sentez.md) · [Faz 3 sentezi](09_RAPORLAR/12_faz3_sentez.md)
+Güncel durum (27.10.2026): [Faz 2 sentezi](09_RAPORLAR/09_faz2_sentez.md) · [Faz 3 sentezi](09_RAPORLAR/12_faz3_sentez.md) · [Faz 4 sentezi](09_RAPORLAR/22_faz4_sentez.md) · [Toplum hedefleri](01_KAVRAMSAL_CERCEVE/toplum_hedefleri.md)
 
 ## Klasör yapısı
 
@@ -42,9 +42,25 @@ Depo boyutunu makul tutmak için aşağıdaki büyük dosyalar yüklenmedi (`.gi
 | `03_VERI/ham/bina/` (Microsoft Global ML Building Footprints, 4 karo) | Microsoft'un dizin dosyasından (`dataset-links.csv`, Türkiye) quadkey 120323222, 120323332, 122100313, 122101103 karoları; `ms_<quadkey>/<quadkey>.csv.gz` olarak konur (ayrıntı: Rapor 11 §1.2) |
 | `03_VERI/ham/pm25/*.nc` (ACAG V6.GL.03 PM2.5, Avrupa, 2022–2024) | `https://satpmdata.s3.amazonaws.com/V6GL03/CNNPM25/Annual/EU/` |
 | `03_VERI/islenmis/pilot_osm/`, `osm_kavsaklar.parquet` | `03_VERI/kod/osm_pilot_mahalle.py`, `03_VERI/kod/osm_ilce.py` (PBF'ten) |
+| `03_VERI/islenmis/ulusal_altyapi/*.tif`, `yollar.gpkg` (ulusal ızgaralar ve yol ağı) | `03_VERI/kod/ulusal_altyapi_osm.py` → `05_ANALIZ/kod/ulusal_plan_izgara.py` → `ulusal_plan_nufus.py` |
 | `03_VERI/islenmis/uydu/*.tif` (pilot ilçe uydu katmanları, 30 m) | `03_VERI/kod/uydu_pilot.py` (WorldCover, Landsat ve PM2.5'i uzaktan okur) |
+| `03_VERI/ham/ekonomi/**/*.pdf`, `03_VERI/ham/enerji/**/*.pdf` (resmî raporlar, mevzuat metinleri, bültenler; telif kurumlarında) | Her klasörün `kaynaklar.md` dosyasında adıyla ve kurumuyla listeli; kurumun sitesinden indirilip aynı ada konur. `ekonomi_veri.py` TÜRK-İŞ Eylül 2026 bültenini (`turkis/turkis_aclik_yoksulluk_2026.09.pdf`) okur |
+| `03_VERI/ham/stres/literatur/` (makale künye ve özet önbelleği) | `05_ANALIZ/kod/stres_literatur_dogrula.py` (Crossref, PubMed, Europe PMC'den yeniden çeker) |
 
 **Faz 3 mahalle ve uydu zinciri:** `osm_pilot_mahalle.py` → `tkgm_mahalle.py` → `uydu_pilot.py` → `05_ANALIZ/kod/fue_mahalle.py` → `uydu_ulusal.py` → `fue_ilce_gecerlilik.py` → `fue_grafikler.py`, `04_HARITA/kod/fue_haritalari.py`, `uydu_haritalari.py`.
+
+**Faz 4 zincirleri** (her paket kendi başına çalışır; `05_ANALIZ/kod/` altında):
+
+| Paket | Sıra |
+|---|---|
+| Stres (Rapor 14) | `stres_veri.py`, `stres_literatur_dogrula.py` → `stres_endeks.py` → `stres_grafikler.py`, `stres_harita.py` |
+| Konut (Rapor 15) | `07_TASARIM_CIZIM/konut_rehberi/kod/uret.py` |
+| Malzeme (Rapor 16) | `07_TASARIM_CIZIM/malzeme/kod/hepsini_calistir.py` |
+| Ulusal çerçeve (Rapor 17) | `03_VERI/kod/ulusal_altyapi_osm.py` → `ulusal_plan_izgara.py` → `ulusal_plan_nufus.py` → kalan `ulusal_plan_*.py` |
+| Enerji (Rapor 18) | `enerji_veri.py` → `enerji_mahalle.py` → `enerji_senaryo.py` → `enerji_kademe.py` → `enerji_grafikler.py` |
+| İsraf (Rapor 19) | `israf_veri_indir.py`, `israf_ghsl_arazi.py` → `israf_hesap.py` → `israf_grafikler.py` |
+| Ekonomi (Rapor 20) | `ekonomi_veri.py` → `ekonomi_dagilim.py` → `ekonomi_ticaret_yeterlilik.py` → `ekonomi_kademe.py` → `ekonomi_grafikler.py` |
+| Ölçeklenebilir şehir (Rapor 21) | Enerji, israf ve ekonomi paketlerinden sonra `07_TASARIM_CIZIM/olceklenebilir_sehir/kod/kademe_modeli.py`, `kademe_semasi.py` |
 
 ## Veri kaynakları ve atıf
 
@@ -62,6 +78,12 @@ Depodaki işlenmiş veriler aşağıdaki kaynaklardan türetildi. Yeniden kullan
 | ACAG V6.GL.03 PM2.5 (Washington Üniversitesi, satpm.org) | CC BY 4.0 |
 | Landsat 8/9 (USGS), MODIS (NASA) | Kamu malı |
 | Microsoft Global ML Building Footprints | ODbL 1.0 (depoya konmadı) |
+| GEM Global Active Faults | CC BY-SA 4.0 |
+| Copernicus DEM GLO-90 | Copernicus DEM lisansı, kaynak gösterilerek |
+| Ember (elektrik verisi), Open-Meteo (iklim arşivi) | CC BY 4.0 |
+| Dünya Bankası (WDI, B-READY), OECD (Revenue Statistics, PMR) | CC BY 4.0 |
+| Eurostat, JRC PVGIS ve GHSL 1 km | Avrupa Komisyonu yeniden kullanım politikası, kaynak gösterilerek |
+| TEİAŞ, ETKB, EPDK, GİB, HMB, SBB, Muhasebat, TESK, TOBB, TÜRK-İŞ | Kurum, kaynak gösterilerek. Sayısal tablolar depoda; PDF belgeler konmadı |
 
 ## Lisans
 

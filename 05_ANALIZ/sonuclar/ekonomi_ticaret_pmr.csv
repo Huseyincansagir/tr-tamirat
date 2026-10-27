@@ -1,0 +1,21 @@
+MEASURE,TIME_PERIOD,turkiye,oecd_ortalama,oecd_ulke_sayisi,turkiye_sira_kisitlayicidan,olcu
+ADBURDEN,2018,3.65,2.111,38,2.0,LŞ ve şahıs işletmesi kurmanın idari şartları
+ADBURDEN,2023,2.562,1.857,38,6.0,LŞ ve şahıs işletmesi kurmanın idari şartları
+ADREG_BURDEN,2018,3.625,1.999,38,1.0,İdari ve düzenleyici yük
+ADREG_BURDEN,2023,2.931,1.735,38,1.0,İdari ve düzenleyici yük
+BARRIER_DOM,2018,2.311,1.712,38,6.0,Hizmet ve şebeke sektörlerinde engeller
+BARRIER_DOM,2023,2.387,1.641,38,2.0,Hizmet ve şebeke sektörlerinde engeller
+BARRIER_ENTRY,2018,2.342,1.458,38,1.0,Yerli ve yabancı girişe engeller
+BARRIER_ENTRY,2023,2.192,1.301,38,1.0,Yerli ve yabancı girişe engeller
+INVOL_BUSINESS,2018,2.371,1.211,38,2.0,Devletin iş faaliyetine katılımı
+INVOL_BUSINESS,2023,2.338,1.117,38,1.0,Devletin iş faaliyetine katılımı
+PMR,2018,2.652,1.496,38,1.0,Genel PMR
+PMR,2023,2.524,1.346,38,1.0,Genel PMR
+PRICE,2018,3.333,1.132,38,1.0,Perakende fiyat kontrolleri
+PRICE,2023,3.889,1.107,38,1.0,Perakende fiyat kontrolleri
+PUBLIC_PROCUREMENT,2018,1.2,0.964,38,12.0,Kamu alımları
+PUBLIC_PROCUREMENT,2023,0.8,0.819,38,14.0,Kamu alımları
+RETAIL_TRADE,2018,1.077,1.045,38,16.0,Perakende dağıtım
+RETAIL_TRADE,2023,1.0,1.041,38,19.0,Perakende dağıtım
+STATE_INVOL,2018,2.962,1.535,38,1.0,Devlet müdahalesinden kaynaklı bozulma
+STATE_INVOL,2023,2.855,1.391,38,1.0,Devlet müdahalesinden kaynaklı bozulma

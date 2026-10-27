@@ -1,0 +1,13 @@
+teknoloji,yatirim,sabit,degisken,omur,dayanak
+gunes,550.0,12,0,30,"IRENA 2025: küresel 667 $/kW, Türkiye 1.095 $/kW (2025); arazi %65 + çatı %35 karması, 2040'lara düşüş [V]"
+ruzgar_kara,1100.0,35,0,25,"IRENA 2025: küresel 976, Türkiye 1.345 $/kW [D]; 2050 [V]"
+ruzgar_deniz,2500.0,80,0,25,IRENA 2025 küresel 2.931 $/kW [D]; 2050 [V]
+hidro,0.0,25,0,60,Mevcut ve tamamlanan barajlar; yatırım batık [V]
+pompaj,1200.0,15,0,60,"IEA/NEA 2020 pompaj 897 $/kW (2018 $) [D]; 10 saatlik, 2025 $ [V]"
+batarya_kwh,110.0,0,0,15,"IRENA 2025: anahtar teslim 117 $/kWh (4 saat 111) [D]; 2040'lar [V]; sabit gider yatırımın %2,5'i"
+jeotermal,3000.0,100,0,30,"IRENA 2024 Türkiye 1.217 $/kW, küresel 4.015–5.997 [D]; orta değer [V]"
+biyokutle,3000.0,100,30,25,IRENA 2025 küresel 3.606 $/kW [D]; yakıt 30 $/MWh [V]
+nukleer_buyuk,9450.0,120,10,60,"Gece maliyeti 7.000 $/kW [V] (Barakah ≈4.400, Akkuyu 2010–12 ≈4.200–5.200; Vogtle ≈15.900, Flamanville ≈14.400) × 1,35 inşaat dönemi faizi (≈9,5 yıl)"
+smr,12700.0,150,10,60,"Darlington BWRX-300: 4 ünite 20,9 milyar CAD / 1.200 MWe ≈ 17.400 CAD/kW ≈ 12.700 $/kW (0,73 $/CAD) [H]; faiz dahil sayıldı [V]"
+komur,0.0,50,35,40,Mevcut santral; yakıt ithal kömür/linyit karması ≈ 35 $/MWh [V]
+gaz,1000.0,25,70,30,"Kombine çevrim + gaz türbini karması; 10 $/MMBtu × 7,0 MMBtu/MWh [V]"

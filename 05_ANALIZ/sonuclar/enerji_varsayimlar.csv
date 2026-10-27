@@ -1,0 +1,54 @@
+ad,deger,birim,isaret,kaynak
+hane_elektrik,2500.0,kWh/hane·yıl,V,"Ev aletleri, aydınlatma ve indüksiyon pişirme; ısıtma, soğutma ve sıcak su hariç. Karşılaştırma: Türkiye 2025 mesken tüketimi 78.197 GWh / 26,98 milyon hane ≈ 2.899 kWh/hane (EPDK 2025, TÜİK) [D-h]"
+net_brut_oran,0.85,—,V,Isıtılan net alan / brüt kat alanı
+H_yeni,1.0,W/m²K,V,"Yeni yapı (TS 825 + BEP 2022 NSEB, EKB en az B) için ısı kaybı katsayısı (havalandırma dahil, net alan başına)"
+H_iyi,0.6,W/m²K,V,Yüksek yalıtım ve ısı geri kazanımlı havalandırma (pasif eve yakın)
+H_stok,2.0,W/m²K,V,Mevcut yalıtımsız stok (karşılaştırma)
+H_ts825,1.5,W/m²K,V,TS 825'in asgarisiyle yapılmış yeni bina; uygulamadaki tipik durum (duyarlılık)
+T_denge,15.0,°C,V,Isıtma denge sıcaklığı (iç kazanç ve güneş kazancı sonrası)
+sicak_su,40.0,L/kişi·gün,V,45 °C kullanım; dağıtım ve depo kaybı %15
+sogutma_pay,0.5,—,V,Soğutulan net alan payı
+H_sogutma,2.5,W/m²K,V,"Soğutma yükü katsayısı (güneş kazancı dahil), 24 °C üstü saatlik derece-saat"
+EER,3.5,—,V,Split klima mevsimlik verim
+konut_disi_elektrik,70.0,kWh/m²·yıl,V,"Dükkân, okul, konak, sağlık, cami karışımı (ısıtma hariç)"
+otopark_elektrik,8.0,kWh/m²·yıl,V,Kapalı otopark aydınlatma ve havalandırma
+kamusal,40.0,kWh/kişi·yıl,V,"Sokak aydınlatması, su ve atık su pompası payı"
+arac_km,12000.0,km/araç·yıl,V,Otomobil yıllık yol
+ev_tuketim,0.18,kWh/km,V,"Elektrikli otomobil, prizden"
+icten_yanmali,0.065,L/km,V,"Benzinli/dizel otomobil, ortalama"
+isi_pompasi_eta,0.45,—,V,Carnot verimine oran (hava kaynaklı)
+T_gidis_isitma,40.0,°C,V,Düşük sıcaklıklı ısıtma (yerden ya da büyük radyatör)
+T_gidis_sicaksu,55.0,°C,V,Sıcak su
+T_kaynak_toprak,8.0,°C,V,Toprak kaynaklı / 5. nesil şebekede ısı pompası kaynak sıcaklığı
+toprak_eta,0.42,—,V,Carnot verimine oran (toprak kaynaklı)
+sebeke_kaybi_5g,0.08,—,V,5. nesil şebekede pompa ve ısı kaybı payı
+sondaj_ozgul,40.0,W/m,V,Sondaj başına ısı çekme gücü (VDI 4640 orta değer aralığı 30–55 W/m) [İ]
+sondaj_derinlik,150.0,m,V,Sondaj derinliği
+sondaj_aralik,7.0,m,V,Sondajlar arası mesafe (kare ızgara)
+kombi_verim,0.92,—,V,Yoğuşmalı kombi mevsimlik verimi
+kwp_m2,0.2,kWp/m²,V,"Kullanılabilir çatı alanı başına güç (2026 modülleri ≈ 0,21–0,23 kWp/m² modül alanı)"
+egimli_guney_pay,0.4,—,V,Mahyası D–B uzanan eğimli çatıda yalnız güney yüzü; yüzün %80'i kullanılır
+egimli_dogu_bati_pay,0.8,—,V,Mahyası K–G uzanan çatıda doğu ve batı yüzlerinin %80'i
+duz_pay,0.65,—,V,"Düz çatıda doğu–batı 10° dizi; servis yolu, kule ve gölge payı düşülür"
+cati_egim,20.0,°,V,Türkiye'de kiremit çatı eğimi ≈ %30–35 (17–19°)
+pv_kayip,14.0,%,D,PVGIS varsayılan sistem kaybı
+batarya_saat,2.0,h,V,Güç/kapasite oranı (2 saatlik)
+batarya_verim,0.9,—,V,"Gidiş-dönüş verimi (her yönde 0,949)"
+ef_sebeke_2023,0.43,tCO2/MWh,D,ETKB-EVÇED Türkiye ulusal elektrik şebekesi emisyon faktörü 2023 (yayım 26.12.2025)
+ef_gaz,0.202,tCO2/MWh yakıt,D,"IPCC 2006: doğal gaz 56,1 tCO2/TJ"
+ef_benzin,2.31,kgCO2/L,D,"IPCC 2006 (benzin 69,3 tCO2/TJ, 33,4 MJ/L)"
+gaz_kwh_sm3,10.64,kWh/Sm³,V,Üst ısıl değer 9.155 kcal/Sm³ (BOTAŞ faturalama esası)
+tarife_dusuk,3.68,TL/kWh,DY,"EPDK mesken AG tek zamanlı düşük kademe 291,90 kr/kWh (4.4.2026) [D]; %5 ETV + %20 KDV ile [DY: vergi oranı belgeden doğrulanmadı]"
+tarife_yuksek,5.44,TL/kWh,DY,"EPDK mesken yüksek kademe 432,07 kr/kWh (günlük ort. > 8 kWh) [D]; vergiler aynı varsayımla"
+gaz_konut,13.19,TL/Sm³,D,"EPDK 2025 Doğal Gaz Piyasası Gelişim Raporu Tablo 9.1, konut 2025 II. yarıyıl ortalaması (vergiler dahil); sanayi 19,29"
+jeotermal_tarife,1.3335,TL/kWh,D,"İzmir Jeotermal (Balçova) 2025–26 sezonu kalorimetreli tarife, KDV dahil"
+usd_try,39.48,TL/$,D,TCMB 2025 yıllık ortalama döviz alış kuru (2026 için güncellenmedi)
+semt_mahalle,5.0,mahalle,D,Kademe şeması: semt = 5 mahalle + semt merkezi (≈35 bin kişi)
+sehir_semt,6.0,semt,D,Kademe şeması: şehir = 6 semt (≈210 bin kişi)
+bolge_sehir,6.0,şehir eşdeğeri,V,"Kademe şeması: bölge = 5 şehir + bölge merkezi (≈1,3 milyon); merkez bir şehir eşdeğeri sayıldı"
+semt_merkezi_el,150.0,kWh/kişi·yıl,V,"Lise, cuma camii, semt sağlık merkezi, kütüphane, spor, pazar (ısıtma-soğutma dahil, ısı pompalı)"
+semt_merkezi_isi,60.0,kWh/kişi·yıl,V,Semt merkezi binalarının ısıtma ve sıcak su ısısı
+semt_merkezi_cati,15000.0,m²,V,"Semt merkezindeki düz çatı tabanı (≈1,5 ha)"
+sehir_hizmet_el,1050.0,kWh/kişi·yıl,V,"Hastane, üniversite, büro, AVM, su ve atık su arıtma, raylı sistem, OSB'de hafif ve orta sanayi; semt merkezi ile toplam 1.200. Karşılaştırma 2024: ulusal ticaret-hizmet 977, sanayi 1.528 kWh/kişi [H: ETKB denge]"
+sehir_hizmet_isi,300.0,kWh/kişi·yıl,V,Şehir ölçeğindeki hizmet binalarının ısısı (proses ısısı hariç)
+bolge_ek_el,1000.0,kWh/kişi·yıl,V,"Ağır sanayi, liman, havalimanı, bölgesel tren; konut dışı toplamı ulusal 2024 düzeyine (≈2.680 kWh/kişi) yaklaştırır"

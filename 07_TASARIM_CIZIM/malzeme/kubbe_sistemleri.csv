@@ -1,0 +1,5 @@
+kod,ad,geometri,aciklik_m,kalinlik_m,malzeme_kod,donati_kg_m3,kalip_carpani,kaplama_kod,cekme_halkasi,hizmet_omru_yil,pratik_en_buyuk_aciklik,deprem_notu,etiket
+K1,İnce kabuk betonarme kubbe (10 cm),kubbe,12,0.10,BET_C25,100,4.0,,1,75,"30 m ve üstü (DY)","Hafif ve yekpare; donatıyla sünek. Çift eğrilikli kalıp pahalı",V
+K2,Kâgir tuğla kubbe (dolu tuğla + kireç harç; Mimar Sinan tekniği),kubbe,12,0.30,TUGLA_DOLU,0,1.5,KIREC_SIVA,1,300,"Süleymaniye ≈26,5 m (DY)","Ağır; yanal itki için çekme halkası ve payanda şart. 2023'te Habib-i Neccar Camii yıkıldı, Malatya Yeni Cami kısmen göçtü (İ)",V
+K3,Khalili superadobe kubbe (stabilizesiz toprak torba),kubbe,5,0.40,SUPERADOBE,0,0,KIREC_SIVA,0,50,"≈4–6 m (DY)","Çok ağır, donatısız sayılır; TBDY kapsamı dışında. 'M 7,2'ye dayandı' iddiası basın kaynaklı (İ, zayıf)",V
+K4,Nubian tonozu (kerpiç; kalıpsız örgü),tonoz,3.25,0.25,KERPIC,0,0,KIREC_SIVA,0,50,"≈3,25 m (AVN standart açıklığı; DY)","Donatısız toprak tonoz; Sahel'in düşük deprem tehlikeli bölgeleri için geliştirildi. Türkiye'nin yüksek tehlikeli bölgelerinde uygun değil",V

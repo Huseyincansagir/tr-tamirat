@@ -1,0 +1,12 @@
+gosterge,deger,birim,hesap,etiket
+Enkaz (UNDP çalışma değeri),200.0,Mt,girdi,İ
+Enkaz aralığı (UNDP ilk tahmin),116–210,Mt,girdi,İ
+Bir Hatay ölçekli tesisin yıllık kapasitesi,1.2,Mt/yıl,4.000 t/gün × 300 gün,H
+Tek tesisle bütün enkazın işlenme süresi,167,yıl,enkaz / kapasite,H
+5 yılda işlemek için gereken tesis sayısı,33,tesis,enkaz / (hedef yıl × kapasite),H
+Sınıflandırılmış agrega potansiyeli,112,Mt,enkaz × mineral payı × verim,H
+Yeniden yapımın beton hacmi,15.7,milyon m³,konut × m² × m³/m²,H
+Bu betonun agrega ihtiyacı,29.1,Mt,"beton × 1,85 t/m³",H
+Yapısal betonda kullanılabilecek geri dönüştürülmüş iri agrega,5.2,Mt,talep × iri agrega payı × ikame sınırı,H
+Yapısal betonun emebileceği enkaz payı,2.6,%,yapısal kullanım / enkaz,H
+"Agrega potansiyelinin yol, dolgu ve blok üretimine kalan kısmı",107,Mt,agrega potansiyeli − yapısal kullanım,H

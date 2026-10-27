@@ -195,8 +195,8 @@ Simülasyonlar **kehanet değil, düşünme aracıdır**. Her modelin varsayıml
 | **Faz 1 — Temel** | Çerçeve, literatür haritası, durum tespiti, veri kataloğu, mevzuat haritası | Bu plan, kavramsal çerçeve, 4 temel derleme, durum tespiti özeti |
 | **Faz 2 — Ölçüm** | İl paneli, Türkiye haritaları, pilot seçimi, pilot şehirlerin mekânsal analizi, FUE v1 | Veri paneli, harita seti, FUE haritaları, ilk istatistiksel analizler |
 | **Faz 3 — Model** | Geleneksel doku ölçümleri, tasarım parametreleri, tipolojiler, model mahalle, teknik çizimler | "Aynı yoğunluk, üç biçim", model mahalle planı, Fıtrat Kodu taslağı |
-| **Faz 4 — Simülasyon** | Persona ve yaşam döngüsü senaryoları, M1–M7 modelleri | Simülasyon raporları, senaryo karşılaştırmaları |
-| **Faz 5 — Politika ve pilot** | Mevzuat değişiklik paketi, finansman, pilot planları, izleme sistemi | Politika notları, pilot planları, nihai rapor, gösterge paneli |
+| **Faz 4 — Sistemler ve ölçek** | Kentsel stres, konut, malzeme, ulusal mekânsal çerçeve, enerji, israf, gelir-vergi-ticaret, kademe modeli, toplum hedefleri (27.10.2026'da kullanıcı talebiyle yeniden kapsamlandı) | Rapor 14–22, `toplum_hedefleri.md` |
+| **Faz 5 — Simülasyon, politika ve pilot** | Paydaş simülasyonu v2, politika paketi v2, deprem pilotları, finansman, izleme sistemi | Politika notları, pilot planları, nihai rapor, gösterge paneli |
 
 ---
 
@@ -286,5 +286,23 @@ Simülasyonlar **kehanet değil, düşünme aracıdır**. Her modelin varsayıml
 | Uydu çevre katmanları: WorldCover 10 m, ACAG PM2.5 0,01°, Landsat 8/9 yüzey sıcaklığı (pilot, 30 m), MODIS (ulusal, 1 km) | `03_VERI/kod/uydu_pilot.py`, `uydu_ulusal.py`, `03_VERI/ham/uydu_kaynaklar.md`, `03_VERI/islenmis/ilce_uydu.csv` | ✅ kullanıcı onayıyla (CAMS hesap gerektirdiği için ACAG) |
 | FUE v0.2: Ç eksenine 4 uydu göstergesi; ulusal sınama, aracılık testi, yükseklik bulgusunun üçüncü sınaması | `05_ANALIZ/kod/fue_mahalle.py`, `fue_ilce_gecerlilik.py`, `05_ANALIZ/sonuclar/fue_ilce_cevre_kontrol.csv` | ✅ Ç v0.2 ölümlülükte −0,41; yükseklik etkisi anlamsızlaştı |
 | Rapor: uydu verisiyle çevre-ölçek ekseni | `09_RAPORLAR/13_fue_uydu_cevre.md`, `04_HARITA/uydu_ciftler.png`, `05_ANALIZ/grafikler/fue_v02_*.png` | ✅ |
-| GitHub deposu (özel) | `github.com/Huseyincansagir/tr-tamirat` | ✅ |
+| GitHub deposu (herkese açık; kod MIT, içerik CC BY 4.0) | `github.com/Huseyincansagir/tr-tamirat` | ✅ |
+
+## 12. Faz 4 durum kaydı
+
+Kapsam 27.10.2026'da kullanıcının talebiyle belirlendi: stres, konut, malzeme, ulusal altyapı, enerji, israf, gelir ve vergi adaleti, ticaret, ölçeklenebilir şehir. Yedi paket ayrı ajanlarla (en fazla ikisi aynı anda) hazırlandı. Her paketin betikleri bağımsız olarak yeniden çalıştırıldı ve sonuç tablolarının md5 değerleri karşılaştırıldı.
+
+| Çıktı | Dosya | Durum |
+|---|---|---|
+| Toplum hedefleri: 29 gösterge, bugün, 2050 hedefi, mekânın payı | `01_KAVRAMSAL_CERCEVE/toplum_hedefleri.md` | ✅ |
+| Kentsel stres: literatür (76 kaynak doğrulandı), ilçe stres yükü endeksi, sınama | `09_RAPORLAR/14_kentsel_stres.md`, `02_LITERATUR/stres_literatur.md`, `05_ANALIZ/kod/stres_*.py` | ✅ 9/9 tablo birebir; endeks Ç v0.2 ile örtüşüyor (ρ −0,91) |
+| Fıtrata uygun konut: 17 ilke, 5 tip ve referans daire, A1 paftalar | `09_RAPORLAR/15_fitrata_uygun_konut.md`, `07_TASARIM_CIZIM/konut_rehberi/` | ✅ 4/4 tablo birebir |
+| Doğal ve geri dönüştürülmüş malzemeler: maliyet, karbon, sağlık, deprem; kamu yapıları | `09_RAPORLAR/16_dogal_ve_geri_donusturulmus_malzemeler.md`, `07_TASARIM_CIZIM/malzeme/` | ✅ 26/26 tablo birebir; taşıyıcı toprak için standart boşluğu |
+| Ulusal mekânsal çerçeve: ulaşım, enerji, sanayi, kısıtlar, 1 km ızgara, şema | `09_RAPORLAR/17_ulusal_mekansal_cerceve.md`, `05_ANALIZ/kod/ulusal_plan_*.py`, `04_HARITA/ulusal_plan/` | ✅ 21/21 tablo birebir |
+| Enerji: mahalle, şehir, bölge dengesi; 2050 senaryoları; SMR | `09_RAPORLAR/18_enerji.md`, `05_ANALIZ/kod/enerji_*.py` | ✅ 27/27 tablo birebir |
+| İsraf, fire, kaçak: gıda, su, enerji, malzeme, arazi | `09_RAPORLAR/19_israf_fire_kacak.md`, `05_ANALIZ/kod/israf_*.py` | ✅ 11/11 tablo birebir |
+| Gelir, vergi, ticaret: dağılım, etkin vergi oranları, ticaret engelleri, yeterlilik | `09_RAPORLAR/20_ekonomi_gelir_vergi_ticaret.md`, `05_ANALIZ/kod/ekonomi_*.py` | ✅ 39/39 tablo birebir; mikro veri yok, dilim hesapları vekil |
+| Ölçeklenebilir şehir: beş kademe, donatı merdiveni, altyapı ve ekonomi araçları | `09_RAPORLAR/21_olceklenebilir_sehir.md`, `07_TASARIM_CIZIM/olceklenebilir_sehir/` | ✅ |
+| **Faz 4 sentezi ve güncellenmiş çalışma tezi** | `09_RAPORLAR/22_faz4_sentez.md` | ✅ |
+| Toprak yapı standardı önerisi, pilot uygulama yeri, mikro veri başvuruları | — | ⏳ kullanıcı kararı |
 

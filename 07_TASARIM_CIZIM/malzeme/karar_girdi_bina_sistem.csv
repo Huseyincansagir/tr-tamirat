@@ -1,0 +1,73 @@
+bina,sistem,yargi_12,not_12,yargi_34,not_34
+EV,R1,onerilir,{M:EV120:R1} TL · {C:EV120:R1} CO2,onerilir,{M:EV120:R1} TL · {C:EV120:R1} CO2
+EV,H1,kosullu,{M:EV120:H1} TL · {C:EV120:H1} CO2\ndolgu ankrajı şart,onerilir,{M:EV120:H1} TL · {C:EV120:H1} CO2\niç yüzde toprak
+EV,T,onerilmez,deprem yükü {V:T1} R0\nkayma {TAU:T1:1.0} MPa,pilot,NZS 4297 + deney\n{M:EV120:T2} TL · {C:EV120:T2} CO2
+EV,Y,yasak,md. 11.2.4,yasak,md. 11.2.4
+EV,A,kosullu,{C:EV120:A1} CO2 · F2 ≤7 m\nnem ve yangın detayı,kosullu,{C:EV120:A1} CO2 · {M:EV120:A1} TL\nnem ve yangın detayı
+EV,CLT,pilot,kapsam dışı (12.1.2)\nithal ve pahalı,kosullu,md. 1.1.9 özel proje\nithal ve pahalı
+EV,KK1,yok,,yok,
+EV,KK2,yok,,yok,
+EV,KK3,onerilmez,tek katta bile deprem\nyükü {KE:KE1} betonarme,pilot,yalnız tek katlı\ndeneme ya da ek yapı
+SIRA,R1,onerilir,{M:EV120:R1} TL · {C:EV120:R1} CO2,onerilir,{M:EV120:R1} TL · {C:EV120:R1} CO2
+SIRA,H1,kosullu,kalkan duvarda ses ve\nısıl kütle · ankraj,onerilir,kalkan duvarda CEB:\nses ve ısıl kütle
+SIRA,T,onerilmez,"9,3 m > 6,5 m\n(NZS 4297 sınırı)",onerilmez,yalnız deneysel parsel\n(zemin toprak + üst ahşap)
+SIRA,Y,yasak,md. 11.2.4,yasak,md. 11.2.4
+SIRA,A,kosullu,"F1 levha kaplamalı\n≤10,5 m",kosullu,"F1 ya da F2\n≤10,5 m"
+SIRA,CLT,pilot,kapsam dışı (12.1.2),kosullu,md. 1.1.9 özel proje
+SIRA,KK1,yok,,yok,
+SIRA,KK2,yok,,yok,
+SIRA,KK3,yok,,yok,
+AVLU,R1,onerilir,CEM III + %30 GBA,onerilir,CEM III + %30 GBA
+AVLU,H1,kosullu,dolgu ve iç duvar\nankraj şart,onerilir,dolgu ve iç duvar
+AVLU,T,onerilmez,"12,4 m > 6,5 m",onerilmez,"12,4 m > 6,5 m"
+AVLU,Y,yasak,md. 11.2.4,yasak,md. 11.2.4
+AVLU,A,onerilmez,"F1 ≤10,5 m < 12,4 m",kosullu,"F1 ≤17,5 m"
+AVLU,CLT,pilot,kapsam dışı (12.1.2),kosullu,md. 1.1.9 özel proje
+AVLU,KK1,yok,,yok,
+AVLU,KK2,yok,,yok,
+AVLU,KK3,yok,,yok,
+CAMI,R1,onerilir,çerçeve-perde,onerilir,çerçeve-perde
+CAMI,H1,kosullu,iç kireç ve kil sıva\navlu duvarı,onerilir,iç kireç ve kil sıva\navlu duvarı
+CAMI,T,onerilmez,BKS 2 · kubbe yükü,onerilmez,BKS 2 · kubbe yükü
+CAMI,Y,yasak,md. 11.2.4,yasak,md. 11.2.4
+CAMI,A,kosullu,geleneksel ahşap cami\nyangın detayı,kosullu,geleneksel ahşap cami\nyangın detayı
+CAMI,CLT,pilot,glulam kaburgalı kubbe\nkapsam dışı,kosullu,glulam kaburgalı kubbe
+CAMI,KK1,onerilir,{KBT:K1} t/m² örtü\nkâgirin yarısı,onerilir,{KBT:K1} t/m² örtü\nkâgirin yarısı
+CAMI,KK2,onerilmez,{KBT:K2} t/m² · tescilli\nyapı onarımı hariç,kosullu,{KBT:K2} t/m²\nçekme halkası + hesap
+CAMI,KK3,onerilmez,{KBT:K3} t/m² · donatısız,onerilmez,{KBT:K3} t/m² · donatısız
+OKUL,R1,onerilir,{M:OKUL1000:R1} TL · {C:OKUL1000:R1} CO2,onerilir,{M:OKUL1000:R1} TL · {C:OKUL1000:R1} CO2
+OKUL,H1,kosullu,{M:OKUL1000:H1} TL · {C:OKUL1000:H1} CO2\nderslik iç duvarı,onerilir,{M:OKUL1000:H1} TL · {C:OKUL1000:H1} CO2\nderslik iç duvarı
+OKUL,T,onerilmez,BKS 1: deneysel\nsistem yok,onerilmez,BKS 1: deneysel\nsistem yok
+OKUL,Y,yasak,md. 11.2.4,yasak,md. 11.2.4
+OKUL,A,onerilmez,F2 yasak (4.3.4.1a)\nF1: yangın ve ölçek,onerilmez,F2 yasak (4.3.4.1a)\nF1: yangın ve ölçek
+OKUL,CLT,onerilmez,BKS 1 · kapsam dışı,pilot,{M:OKUL1000:A2} TL · {C:OKUL1000:A2} CO2\nmd. 1.1.9
+OKUL,KK1,yok,,yok,
+OKUL,KK2,yok,,yok,
+OKUL,KK3,onerilmez,BKS 1 · donatısız,onerilmez,BKS 1 · donatısız
+KUTUP,R1,onerilir,CEM III + %30 GBA,onerilir,CEM III + %30 GBA
+KUTUP,H1,kosullu,okuma salonunda\nnem tamponu,onerilir,okuma salonunda\nnem tamponu
+KUTUP,T,onerilmez,kamu binası (BKS 2),onerilmez,kamu binası (BKS 2)
+KUTUP,Y,yasak,md. 11.2.4,yasak,md. 11.2.4
+KUTUP,A,onerilmez,yangın yükü (kitap),onerilmez,yangın yükü (kitap)
+KUTUP,CLT,pilot,kapsam dışı (12.1.2),kosullu,md. 1.1.9 özel proje
+KUTUP,KK1,yok,,yok,
+KUTUP,KK2,yok,,yok,
+KUTUP,KK3,onerilmez,BKS 2 · donatısız,onerilmez,BKS 2 · donatısız
+BELED,R1,onerilir,CEM III + %30 GBA,onerilir,CEM III + %30 GBA
+BELED,H1,kosullu,meclis salonunda\ntoprak dolgu (ses),onerilir,meclis salonunda\ntoprak dolgu (ses)
+BELED,T,onerilmez,BKS 1,onerilmez,BKS 1
+BELED,Y,yasak,md. 11.2.4,yasak,md. 11.2.4
+BELED,A,onerilmez,"F1 ≤10,5 m < 12,4 m",onerilmez,BKS 1 · yangın
+BELED,CLT,onerilmez,BKS 1 · kapsam dışı,pilot,CLT hibrit · md. 1.1.9
+BELED,KK1,yok,,yok,
+BELED,KK2,yok,,yok,
+BELED,KK3,onerilmez,BKS 1 · donatısız,onerilmez,BKS 1 · donatısız
+HAST,R1,onerilir,+ sismik izolasyon,onerilir,+ sismik izolasyon
+HAST,H1,kosullu,yalnız klinik olmayan\nalanlar,kosullu,yalnız klinik olmayan\nalanlar
+HAST,T,onerilmez,BKS 1,onerilmez,BKS 1
+HAST,Y,yasak,md. 11.2.4,yasak,md. 11.2.4
+HAST,A,onerilmez,"F1 ≤10,5 m < 16 m",onerilmez,BKS 1 · hijyen ve yangın
+HAST,CLT,onerilmez,"hijyen, yangın\nkapsam dışı",onerilmez,"hijyen, yangın\nkapsam dışı"
+HAST,KK1,yok,,yok,
+HAST,KK2,yok,,yok,
+HAST,KK3,onerilmez,BKS 1 · donatısız,onerilmez,BKS 1 · donatısız

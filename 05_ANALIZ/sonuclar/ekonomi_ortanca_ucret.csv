@@ -1,0 +1,15 @@
+gosterge,deger,isaret,kaynak
+SES 2018 medyan aylık brüt kazanç (avro),502.0,D,Eurostat earn_ses_monthly
+SES 2018 ortalama aylık brüt kazanç (avro),692.0,D,Eurostat earn_ses_monthly
+Avro/TL ortalama kur 2018,5.708,D,Eurostat ert_bil_eur_a
+SES 2018 medyan brüt kazanç (TL),2865.265,H,
+2018 medyan / brüt asgari ücret,1.412,H,"brüt asgari ücret 2.029,50 TL [D]"
+2018 medyan / ortalama,0.725,H,
+OECD D5/D1 2018 (medyanın en alt ondalık sınırına oranı),1.423,D,OECD DEC_I
+"OECD D5/D1 2018, OECD ortalaması",1.634,D,OECD DEC_I
+OECD D9/D5 2018,2.364,D,OECD DEC_I
+KYA 2022 ortalama aylık brüt ücret (TL),11143.0,İ,"TÜİK Kazanç Yapısı Araştırması 2022, basın aktarımı"
+2022 medyan aylık brüt ücret tahmini (TL),8083.506,H/V,2018 medyan/ortalama oranı varsayımı
+2022 brüt asgari ücret ortalaması (TL),7488.9,D,GİB
+2022 medyan / brüt asgari ücret,1.079,H/V,
+2026 ortanca net ücret tahmini (TL/ay),29950.369,H/V,2022 oranı 2026'ya taşındı

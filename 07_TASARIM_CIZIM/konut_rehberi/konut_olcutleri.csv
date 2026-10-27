@@ -1,0 +1,103 @@
+tip,ilke,olcut,deger,durum
+a,Büyüklük,net ≥ 22 m²/kişi (hedef 25),"25,9 m²/kişi",✓
+a,Oda,"5 kişiye ≥ 4 oda (TÜİK tanımı), ≥ 3 yatak",6 oda · 3 yatak,✓
+a,Gün ışığı,"cam/taban ≥ 1/8 (hedef 1/6), en düşük oda","0,13 (Ebeveyn odası)",✓
+a,Havalandırma,iki yöne bakan konut (karşıt cephe tercih),yönler DGK · karşıt,✓
+a,Güneş,"ana yaşam odası 21 Şubat ≥ 1,5 sa (TS EN 17037 asgari)","5,2 sa · 21 Ara 4,2 sa",✓
+a,Tavan,"net iç yükseklik ≥ 2,70 m (PAİY ≥ 2,60)","3,15 m",✓
+a,Toprakla temas,dış mekân ≥ 10 m²/kişi (özel + ortak + teras),"28,0 m²/kişi",✓
+a,Mahremiyet,giriş eşiği + aileden ayrı misafir bölümü,eşik var · misafir var,✓
+a,Sükûnet,"namaz ve okuma için sessiz oda ya da niş, kıble planda",oda,✓
+a,Depolama,"kiler ≥ 2 m², kiler + depo + gömme dolap ≥ %8 net","kiler 15,0 m² · %16,0",✓
+a,Çok kuşak,zeminde eşiksiz yatak odası + banyo,hepsi zeminde,✓
+a,Esneklik,ruhsatla büyüme ya da bölünme payı,kanat eklemek avluyu daraltır,≈
+a,Erişim,eşiksiz giriş; yatak ve banyo zeminde,"tek kat, avlu kotunda [V]",✓
+a,Su,çatı 100 m² başına ≥ 2 m³ depo,"sarnıç 12 m³ · 5,9 m³/100 m²",✓
+a,Deprem,"tek kat, düzenli duvar ızgarası, ağır dam hafifletilir","tek kat · dam 0,45 m [V]",≈
+a,Sessizlik,yatak odası sokağa bakmaz; gece iç ≤ 30 dB (DSÖ 1999),yataklar avluya · sokakta yüksek pencere,✓
+a,Isıl konfor,"kış güneşi kışlık odaya, yaz güneşi gölgede","Ara öğle 28,7° içeri · Haz gölgelik",✓
+b,Büyüklük,net ≥ 22 m²/kişi (hedef 25),"33,1 m²/kişi",✓
+b,Oda,"5 kişiye ≥ 4 oda (TÜİK tanımı), ≥ 3 yatak",7 oda · 4 yatak,✓
+b,Gün ışığı,"cam/taban ≥ 1/8 (hedef 1/6), en düşük oda","0,12 (Misafir odası (s)",≈
+b,Havalandırma,iki yöne bakan konut (karşıt cephe tercih),yönler DGK · karşıt,✓
+b,Güneş,"ana yaşam odası 21 Şubat ≥ 1,5 sa (TS EN 17037 asgari)","7,6 sa · 21 Ara 5,2 sa",✓
+b,Tavan,"net iç yükseklik ≥ 2,70 m (PAİY ≥ 2,60)","2,80 m",✓
+b,Toprakla temas,dış mekân ≥ 10 m²/kişi (özel + ortak + teras),"47,7 m²/kişi",✓
+b,Mahremiyet,giriş eşiği + aileden ayrı misafir bölümü,eşik var · misafir var,✓
+b,Sükûnet,"namaz ve okuma için sessiz oda ya da niş, kıble planda",niş,≈
+b,Depolama,"kiler ≥ 2 m², kiler + depo + gömme dolap ≥ %8 net","kiler 3,3 m² · %4,4",≈
+b,Çok kuşak,zeminde eşiksiz yatak odası + engelsiz duş,büyükler odası + duş,✓
+b,Esneklik,ruhsatla büyüme ya da bölünme payı,çatı arası; zemin ayrı daireye dönebilir,≈
+b,Erişim,eşiksiz giriş; zeminde yatak + duş,üst kat merdivenle; platform yeri yok,≈
+b,Su,çatı 100 m² başına ≥ 2 m³ depo,"bahçede 2,9 m³ depo",✓
+b,Deprem,"Z+1, düzenli aks, çıkma ≤ 0,9 m, hafif çatı","Z+1 · çıkma 0,9 m",✓
+b,Sessizlik,yatak odası sokağa bakmaz; gece iç ≤ 30 dB (DSÖ 1999),"yataklar sokağa (3 m ön bahçe, S2) [V]",≈
+b,Isıl konfor,"kışın camlı sofa güneş toplar, yazın saçak gölgeler","Haz öğle 0 sa · Ara 5,2 sa",✓
+c,Büyüklük,net ≥ 22 m²/kişi (hedef 25),"32,4 m²/kişi",✓
+c,Oda,"5 kişiye ≥ 4 oda (TÜİK tanımı), ≥ 3 yatak",6 oda · 5 yatak,✓
+c,Gün ışığı,"cam/taban ≥ 1/8 (hedef 1/6), en düşük oda","0,14 (Oturma ve yemek)",✓
+c,Havalandırma,iki yöne bakan konut (karşıt cephe tercih),yönler BGK · karşıt,✓
+c,Güneş,"ana yaşam odası 21 Şubat ≥ 1,5 sa (TS EN 17037 asgari)","3,5 sa · 21 Ara 3,5 sa",✓
+c,Tavan,"net iç yükseklik ≥ 2,70 m (PAİY ≥ 2,60)","2,80 m",✓
+c,Toprakla temas,dış mekân ≥ 10 m²/kişi (özel + ortak + teras),"26,9 m²/kişi",✓
+c,Mahremiyet,giriş eşiği + aileden ayrı misafir bölümü,eşik var · misafir yok,≈
+c,Sükûnet,"namaz ve okuma için sessiz oda ya da niş, kıble planda",oda,✓
+c,Depolama,"kiler ≥ 2 m², kiler + depo + gömme dolap ≥ %8 net","kiler 2,3 m² · %6,4",≈
+c,Çok kuşak,zeminde eşiksiz yatak odası + engelsiz duş,büyükler odası (aşama 2),✓
+c,Esneklik,statik sistem son duruma göre; +%60 kat alanı,115 → 192 m² brüt,✓
+c,Erişim,zeminde eşiksiz oda + duş; platform yeri,aşama 2'den itibaren,✓
+c,Su,çatı 100 m² başına ≥ 2 m³ depo,"bahçede 1,5 m³ depo",✓
+c,Deprem,"Z+2, perde parti duvarları, yumuşak kat yok",Z+2 · düzenli,✓
+c,Sessizlik,yatak odası sokağa bakmaz; gece iç ≤ 30 dB (DSÖ 1999),çocuk 1 ve 3 S2'ye (yavaş sokak) [V],≈
+c,Isıl konfor,"kış güneşi yaşam odasına, yaz güneşi gölgede","Ara 3,5 sa · saçak yok, ağaç gölgesi [V]",≈
+d,Büyüklük,net ≥ 22 m²/kişi (hedef 25),"37,4 m²/kişi",✓
+d,Oda,"5 kişiye ≥ 4 oda (TÜİK tanımı), ≥ 3 yatak",6 oda · 3 yatak,✓
+d,Gün ışığı,"cam/taban ≥ 1/8 (hedef 1/6), en düşük oda","0,22 (Oturma ve yemek)",✓
+d,Havalandırma,iki yöne bakan konut (karşıt cephe tercih),yönler GK · karşıt,✓
+d,Güneş,"ana yaşam odası 21 Şubat ≥ 1,5 sa (TS EN 17037 asgari)","9,8 sa · 21 Ara 8,2 sa",✓
+d,Tavan,"net iç yükseklik ≥ 2,70 m (PAİY ≥ 2,60)","2,80 m",✓
+d,Toprakla temas,dış mekân ≥ 10 m²/kişi (özel + ortak + teras),"19,6 m²/kişi",✓
+d,Mahremiyet,giriş eşiği + aileden ayrı misafir bölümü,eşik var · misafir var,✓
+d,Sükûnet,"namaz ve okuma için sessiz oda ya da niş, kıble planda",oda,✓
+d,Depolama,"kiler ≥ 2 m², kiler + depo + gömme dolap ≥ %8 net","kiler 3,4 m² · %11,7",✓
+d,Çok kuşak,"büyükler ayrı BB, eşiksiz, aynı avlu ve taşlık",zemin 2+1 · ortak avlu,✓
+d,Esneklik,ruhsatla büyüme ya da bölünme payı,2 BB el değiştirir; misafir → 4. yatak,✓
+d,Erişim,"asansör yeri 1,4 × 1,6 m (PAİY 34/1); zemin eşiksiz",kuyu her katta depo · platform [V],✓
+d,Su,çatı 100 m² başına ≥ 2 m³ depo,"depo 3 m³ · 2,5 m³/100 m²",✓
+d,Deprem,"Z+2, düzenli aks, perde parti duvarı, balkon dikmeli",konsol yok · Z+2,✓
+d,Sessizlik,yatak odaları avluya ya da S2'ye; BB arası 35 cm,çift yönlü; ölçülmedi [V],≈
+d,Isıl konfor,"kuzeyde servis tamponu, güneyde cam; yazın gölge","Ara öğle 26,6° içeri · Haz kırıcıda",✓
+e,Büyüklük,net ≥ 22 m²/kişi (hedef 25),"26,4 m²/kişi",✓
+e,Oda,"5 kişiye ≥ 4 oda (TÜİK tanımı), ≥ 3 yatak",6 oda · 3 yatak,✓
+e,Gün ışığı,"cam/taban ≥ 1/8 (hedef 1/6), en düşük oda","0,16 (Mutfak)",✓
+e,Havalandırma,iki yöne bakan konut (karşıt cephe tercih),yönler GK · karşıt,✓
+e,Güneş,"ana yaşam odası 21 Şubat ≥ 1,5 sa (TS EN 17037 asgari)","7,8 sa · 21 Ara 8,0 sa",✓
+e,Tavan,"net iç yükseklik ≥ 2,70 m (PAİY ≥ 2,60)","2,80 m",✓
+e,Toprakla temas,dış mekân ≥ 10 m²/kişi (özel + ortak + teras),"16,0 m²/kişi",✓
+e,Mahremiyet,giriş eşiği + aileden ayrı misafir bölümü,eşik var · misafir var,✓
+e,Sükûnet,"namaz ve okuma için sessiz oda ya da niş, kıble planda",oda,✓
+e,Depolama,"kiler ≥ 2 m², kiler + depo + gömme dolap ≥ %8 net","kiler 2,2 m² · %3,6",≈
+e,Çok kuşak,büyükler için aynı blokta eşiksiz oda,alt dubleks zemini (misafir + duş),≈
+e,Esneklik,ruhsatla büyüme ya da bölünme payı,misafir → büyükler odası; büyüme yok,≈
+e,Erişim,asansör galeriye; zeminde ≥ %15 eşiksiz BB,galeri + asansör · iç merdiven,≈
+e,Su,çatı 100 m² başına ≥ 2 m³ depo,"3 m³ / modül · 3,6 m³/100 m²",✓
+e,Deprem,"Z+3, düzenli aks, perde parti duvarı, yumuşak kat yok","7,2 m aks · galeri ayrı kolonlu [V]",✓
+e,Sessizlik,yatak odası önünden geçiş yok; gece iç ≤ 30 dB,galeri önünde yatak yok · sokak S2 [V],≈
+e,Isıl konfor,"kış güneşi yaşam odasına, yaz güneşi gölgede","saçak 1,0 m + çardak · galeri gölgeliği",✓
+R,Büyüklük,net ≥ 22 m²/kişi (hedef 25),"21,4 m²/kişi",✗
+R,Oda,"5 kişiye ≥ 4 oda (TÜİK tanımı), ≥ 3 yatak",4 oda · 3 yatak,✓
+R,Gün ışığı,"cam/taban ≥ 1/8 (hedef 1/6), en düşük oda","0,17 (Salon)",✓
+R,Havalandırma,iki yöne bakan konut (karşıt cephe tercih),yönler DG,≈
+R,Güneş,"ana yaşam odası 21 Şubat ≥ 1,5 sa (TS EN 17037 asgari)","2,2 sa · 21 Ara 0,2 sa",≈
+R,Tavan,"net iç yükseklik ≥ 2,70 m (PAİY ≥ 2,60)","2,60 m",✗
+R,Toprakla temas,dış mekân ≥ 10 m²/kişi (özel + ortak + teras),"5,8 m²/kişi",≈
+R,Mahremiyet,giriş eşiği + aileden ayrı misafir bölümü,eşik var · misafir yok,≈
+R,Sükûnet,"namaz ve okuma için sessiz oda ya da niş, kıble planda",yok,✗
+R,Depolama,"kiler ≥ 2 m², kiler + depo + gömme dolap ≥ %8 net","kiler 0,0 m² · %6,0",≈
+R,Çok kuşak,zeminde eşiksiz yatak odası + banyo,5 kişiye oda kalmıyor,✗
+R,Esneklik,ruhsatla büyüme ya da bölünme payı,yok (kat mülkiyeti),✗
+R,Erişim,asansör ya da zeminde eşiksiz daire,2 asansör,✓
+R,Su,çatı 100 m² başına ≥ 2 m³ depo,yağmur deposu yok [V],✗
+R,Deprem,düzenli aks; TBDY 2018'e uygun proje ve denetim,Z+7 · varsayılan [V],≈
+R,Sessizlik,yatak odası sokağa bakmaz; gece iç ≤ 30 dB (DSÖ 1999),yatak 2 yola bakar [V],≈
+R,Isıl konfor,"kış güneşi yaşam odasına, yaz güneşi gölgede","2. kat 21 Ara 0,2 sa · zemin 0,1 sa",✗

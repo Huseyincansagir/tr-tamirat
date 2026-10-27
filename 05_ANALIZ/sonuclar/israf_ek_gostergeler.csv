@@ -1,0 +1,20 @@
+gosterge,deger,birim,kaynak,isaret
+Belediye atığı üretilen (2024),34.37091516934811,milyon ton,TÜİK SDMX,D
+Belediye atığı toplanan (2024),32.279224172448004,milyon ton,TÜİK SDMX,D
+Toplanan atığın atık işleme tesislerine giden payı (2024),88.86585949759078,%,TÜİK SDMX,D
+Toplanan atığın belediye çöplüklerine giden payı (2024),10.884099881801951,%,TÜİK SDMX,D
+Kişi başı belediye atığı (2024),1.09,kg/kişi/gün,TÜİK SDMX,D
+"Düzenli depolama tesislerine giden toplam atık, tüm türler (2024)",138.1456370742,milyon ton,TÜİK SDMX,D
+Kompost tesislerinde işlenen atık (2024),124.31135,bin ton,TÜİK SDMX,D
+Kompost tesisi sayısı (2024),9.0,adet,TÜİK SDMX,D
+İmalat sanayi atığı üretilen (2024),24.350093953,milyon ton,TÜİK SDMX,D
+İmalat sanayi atığının düzenli depolamaya giden kısmı (2024),2.6234733070000003,milyon ton,TÜİK SDMX,D
+Düzenli depolamadan metan (5.A) (2024),9.472224887,milyon ton CO2e,TÜİK sera gazı envanteri,D
+Petrol ve doğal gaz kaçak emisyonları (1.B.2) (2024),4.360910441,milyon ton CO2e,TÜİK sera gazı envanteri,D
+"İsraf edilen ekmek, ağırlık (2013 ölçümü × 250 g)",447.125,bin ton/yıl,TMO 2013 (İ); ağırlık V,İ/V
+Çekilen şebeke suyu (2024),7.467879733,milyar m³,TÜİK SDMX,D
+Dağıtılan şebeke suyu (2024),5.033015357,milyar m³,TÜİK SDMX,D
+Çekilen ile dağıtılan arasındaki fark (2020 / 2022 / 2024),,%33.6 / %31.6 / %32.6,TÜİK SDMX,H
+"Elektrik dağıtım kaybı, brüt (2025)",20612.12212503658,GWh,EPDK,H
+"Elektrik dağıtım kaybı, brüt değer (2025, PTF)",1.3833733191027788,milyar USD,EPDK,H
+Dicle + Vangölü + Aras'ın brüt kayıptaki payı (2025),39.477451195844765,%,EPDK,H

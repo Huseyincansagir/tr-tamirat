@@ -1,0 +1,20 @@
+senaryo,anahtar,ifade,aciklama,etiket
+EV120,A_TABAN,60,"Taban alanı (m²); 7,75 × 7,75 m",V
+EV120,A_BRUT,120,Brüt kat alanı (m²); iki kat (Z+1),V
+EV120,KAT,2,Kat sayısı,V
+EV120,KAT_H,3.1,"Kat yüksekliği (m); model mahalle v2.1 ile aynı",D
+EV120,KENAR,7.75,Kare planın kenarı (m),V
+EV120,CEVRE,4*KENAR,Dış çevre (m),H
+EV120,PENCERE,0.18,Dış duvarda pencere ve kapı payı,V
+EV120,DIS_DUVAR,CEVRE*KAT_H*KAT*(1-PENCERE),Opak dış duvar alanı (m²),H
+EV120,IC_DUVAR,KENAR*KAT_H*KAT*0.85,"Ortadaki iç duvar (m²); toprak sistemde taşıyıcı (TBDY: desteksiz duvar boyu < 5,5 m)",H
+EV120,HATIL_BOY,(CEVRE+KENAR)*KAT,Betonarme hatıl boyu (m); her kat seviyesinde,H
+EV120,BM,bm_IIIB,"Tebliğ sınıfı III.B: müstakil konut <200 m²",D
+OKUL1000,A_TABAN,500,"Taban alanı (m²); 20 × 25 m",V
+OKUL1000,A_BRUT,1000,Brüt kat alanı (m²); iki kat,V
+OKUL1000,KAT,2,Kat sayısı,V
+OKUL1000,KAT_H,3.6,Kat yüksekliği (m),V
+OKUL1000,CEVRE,90,Dış çevre (m),H
+OKUL1000,PENCERE,0.30,Dış duvarda pencere payı (derslik aydınlatması),V
+OKUL1000,DIS_DUVAR,CEVRE*KAT_H*KAT*(1-PENCERE),Opak dış duvar alanı (m²),H
+OKUL1000,BM,bm_IIIB,"Tebliğ sınıfı III.B: ilkokul ve ortaokul",D

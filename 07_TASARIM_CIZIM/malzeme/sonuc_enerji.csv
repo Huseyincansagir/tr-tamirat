@@ -1,0 +1,23 @@
+senaryo,sistem,kisa_ad,bolge,U_dis_duvar,duvar_isi_kaybi_kWh_yil,duvar_kWh_m2_bina_yil,yakit_TL_yil,isletme_CO2_t_50yil,gomulu_degisen_t,isletme_fark_t_50yil_R0,gomulu_fark_t_R0
+EV120,R0,R0 Betonarme + tuğla + EPS,3,0.374,2829,23.6,3075,31.1,21.05,0.0,0.0
+EV120,R0,R0 Betonarme + tuğla + EPS,4,0.374,4102,34.2,4459,45.0,21.05,0.0,0.0
+EV120,R1,R1 Düşük karbonlu betonarme + bims,3,0.397,3003,25.0,3264,33.0,14.6,1.9,-6.5
+EV120,R1,R1 Düşük karbonlu betonarme + bims,4,0.397,4355,36.3,4733,47.8,14.6,2.8,-6.5
+EV120,H1,H1 Betonarme + toprak blok dolgu,3,0.389,2943,24.5,3199,32.3,17.06,1.2,-4.0
+EV120,H1,H1 Betonarme + toprak blok dolgu,4,0.389,4267,35.6,4638,46.8,17.06,1.8,-4.0
+EV120,T1,T1 Toprak 50 stab. taşıyıcı,3,0.394,2981,24.8,3240,32.7,28.08,1.6,7.0
+EV120,T1,T1 Toprak 50 stab. taşıyıcı,4,0.394,4322,36.0,4698,47.4,28.08,2.4,7.0
+EV120,T2,T2 Toprak 50 stabilizesiz taşıyıcı,3,0.388,2935,24.5,3190,32.2,18.3,1.1,-2.8
+EV120,T2,T2 Toprak 50 stabilizesiz taşıyıcı,4,0.388,4256,35.5,4626,46.7,18.3,1.7,-2.8
+EV120,T0,T0 Toprak 50 stab. yalıtımsız,3,1.607,12157,101.3,13214,133.5,26.49,102.4,5.4
+EV120,T0,T0 Toprak 50 stab. yalıtımsız,4,1.607,17627,146.9,19160,193.5,26.49,148.5,5.4
+EV120,A1,A1 Ahşap karkas + saman balya,3,0.127,961,8.0,1044,10.5,7.73,-20.6,-13.3
+EV120,A1,A1 Ahşap karkas + saman balya,4,0.127,1393,11.6,1514,15.3,7.73,-29.7,-13.3
+OKUL1000,R0,R0 Betonarme + tuğla + EPS,3,0.374,8143,8.1,8851,89.4,182.05,0.0,0.0
+OKUL1000,R0,R0 Betonarme + tuğla + EPS,4,0.374,11807,11.8,12834,129.6,182.05,0.0,0.0
+OKUL1000,R1,R1 Düşük karbonlu betonarme + bims,3,0.397,8644,8.6,9395,94.9,130.28,5.5,-51.8
+OKUL1000,R1,R1 Düşük karbonlu betonarme + bims,4,0.397,12534,12.5,13623,137.6,130.28,8.0,-51.8
+OKUL1000,H1,H1 Betonarme + toprak blok dolgu,3,0.389,8470,8.5,9206,93.0,135.95,3.6,-46.1
+OKUL1000,H1,H1 Betonarme + toprak blok dolgu,4,0.389,12281,12.3,13349,134.8,135.95,5.2,-46.1
+OKUL1000,A2,A2 CLT + glulam,3,0.373,8121,8.1,8827,89.2,112.23,-0.2,-69.8
+OKUL1000,A2,A2 CLT + glulam,4,0.373,11776,11.8,12800,129.3,112.23,-0.3,-69.8

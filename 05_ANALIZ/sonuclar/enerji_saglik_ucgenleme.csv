@@ -1,0 +1,15 @@
+gosterge,deger,birim,isaret
+"Nüfus ağırlıklı PM2.5, 2022–2024 (ACAG V6.GL.03, 973 ilçe)",22.88127099962023,µg/m³,H
+Kömür santrallerine bağlı erken ölüm (2019),4818.0,kişi/yıl,D
+Toplam ölüm (2025),491684.0,kişi,İ
+Kömür santrali ölümlerinin toplam ölüme oranı,0.9798976578452828,%,H
+"PM2.5'e bağlı erken ölüm (Kara Rapor 2025, 2024 yılı)",62644.0,kişi/yıl,D
+Kömür santrallerinin PM2.5 ölümlerindeki payı (4.818 / 62.644),7.691079752250814,%,H
+"Bu ölümleri doğuracak nüfus ağırlıklı PM2.5 katkısı — Rapor 13 ilçe katsayısı (+%4,2 / 10 µg/m³)",2.370154922999,µg/m³,H
+"Bu ölümleri doğuracak nüfus ağırlıklı PM2.5 katkısı — Literatür RR 1,08 / 10 µg/m³ (Chen ve Hoek 2020)",1.2670408051737578,µg/m³,DY
+Evsel katı yakıt katkısı 1 µg/m³ kalkarsa önlenen ölüm — Rapor 13,2018.7279594040829,kişi/yıl,V
+"Evsel katı yakıt katkısı 1 µg/m³ kalkarsa önlenen ölüm — RR 1,08",3769.527311925711,kişi/yıl,V
+Evsel katı yakıt katkısı 2 µg/m³ kalkarsa önlenen ölüm — Rapor 13,4029.1675413664993,kişi/yıl,V
+"Evsel katı yakıt katkısı 2 µg/m³ kalkarsa önlenen ölüm — RR 1,08",7510.15529795248,kişi/yıl,V
+Evsel katı yakıt katkısı 4 µg/m³ kalkarsa önlenen ölüm — Rapor 13,8025.317553026125,kişi/yıl,V
+"Evsel katı yakıt katkısı 4 µg/m³ kalkarsa önlenen ölüm — RR 1,08",14905.597827949547,kişi/yıl,V

@@ -1,0 +1,60 @@
+varsayim,deger,isaret,not
+KDV oranı CP011,0.01,D,"I sayılı liste A) gıda maddeleri (5189 s. CBK, 14.02.2022)"
+KDV oranı CP012,0.05,V,su ve meyve suyu %1; ÖTV'li kolalı ve gazlı içecek %10 → ağırlıklı ≈ %5
+KDV oranı CP021,0.2,D,genel oran; ayrıca ÖTV (III-a)
+KDV oranı CP022,0.2,D,genel oran; ayrıca ÖTV (III-b)
+KDV oranı CP023,0.0,V,-
+KDV oranı CP031,0.1,D,II sayılı liste 5: giyim eşyası
+KDV oranı CP032,0.1,D,II sayılı liste 7: ayakkabı
+KDV oranı CP041,0.0,V,gerçek kişiler arasındaki konut kirası KDV kapsamı dışında kabul edildi
+KDV oranı CP042,0.0,D,yükletilmiş kira; işlem yok
+KDV oranı CP043,0.2,V,bakım-onarım malzeme ve hizmeti genel oran
+KDV oranı CP044,0.1,V,atık su %10 (II-27); su ve çöp hizmetleri karışık → %10
+KDV oranı CP045,0.15,V,"mesken elektriği %10 (II-34), doğal gaz ve kömür %20 → ≈ %15"
+KDV oranı CP051,0.2,D,genel oran
+KDV oranı CP052,0.1,D,II-5 ev tekstili
+KDV oranı CP053,0.2,D,genel oran; ayrıca ÖTV (IV)
+KDV oranı CP054,0.2,D,genel oran
+KDV oranı CP055,0.2,D,genel oran
+KDV oranı CP056,0.2,V,temizlik malzemesi ve hizmetleri genel oran
+KDV oranı CP061,0.1,D,"II-18 beşeri tıbbi ürünler, II-22 tıbbi cihaz"
+KDV oranı CP062,0.1,D,II-21 sağlık hizmetleri
+KDV oranı CP063,0.1,D,II-21 hastane hizmetleri
+KDV oranı CP071,0.2,V,sıfır araç %20 (+ÖTV II); ikinci el özel matrah ihmal edildi
+KDV oranı CP072,0.2,D,akaryakıt ve bakım genel oran (+ÖTV I)
+KDV oranı CP073,0.2,V,yolcu taşımacılığı genel oran
+KDV oranı CP081,0.2,D,genel oran
+KDV oranı CP082,0.2,D,genel oran (+ÖTV IV)
+KDV oranı CP083,0.2,D,genel oran (+ÖİV)
+KDV oranı CP091,0.2,D,genel oran
+KDV oranı CP092,0.2,D,genel oran
+KDV oranı CP093,0.2,D,genel oran
+KDV oranı CP094,0.15,V,"sinema-tiyatro-müze %10 (II-16), diğer hizmetler %20"
+KDV oranı CP095,0.08,V,"kitap ve kırtasiye %10 (II-14), gazete-dergi %1 (I-B8)"
+KDV oranı CP096,0.2,D,genel oran
+KDV oranı CP101,0.1,D,II-15 özel eğitim
+KDV oranı CP102,0.1,D,II-15
+KDV oranı CP103,0.1,D,II-15
+KDV oranı CP104,0.1,D,II-15 üniversite
+KDV oranı CP105,0.1,D,II-15
+KDV oranı CP111,0.1,D,"II-24 lokanta, kafe"
+KDV oranı CP112,0.1,D,II-25 konaklama
+KDV oranı CP121,0.2,V,kişisel bakım ürün ve hizmetleri genel oran
+KDV oranı CP122,0.2,V,-
+KDV oranı CP123,0.2,D,genel oran
+KDV oranı CP124,0.1,D,II-26 bakım ve huzurevi
+KDV oranı CP125,0.0,D,sigorta KDV'den istisna (BSMV/gider vergisi ayrı)
+KDV oranı CP126,0.0,D,finansal hizmetler KDV'den istisna (BSMV)
+KDV oranı CP127,0.2,V,diğer hizmetler genel oran
+Hanehalkı nihai tüketiminin KDV tahsilatındaki payı,0.75,V,uyum katsayısı kalibrasyonu
+Uyum ve kapsam katsayısı k,0.79,H,"tahsil edilen / yasal KDV, hanehalkı"
+P3/B6G 2025,0.878,D,TÜİK kurumsal sektör hesapları S1M
+AVD hasılatı (GSYH oranı),0.005,V,"bugünkü emlak vergisi ≈ %0,09; OECD taşınmaz vergisi ort. ≈ %0,95"
+İşletme ve kiralık arsa payı (varyant B),0.4,V,
+İşletme arsası dilim payları,4/6/10/20/60,V,
+ÖTV tütün hanehalkı payı,1.0,V,2025 tahsilatı 428.7 mlr TL [D]
+ÖTV alkol hanehalkı payı,1.0,V,2025 tahsilatı 145.35 mlr TL [D]
+ÖTV kolalı hanehalkı payı,1.0,V,2025 tahsilatı 17.68 mlr TL [D]
+ÖTV akaryakıt hanehalkı payı,0.6,V,2025 tahsilatı 522.2 mlr TL [D]
+ÖTV motorlu taşıt hanehalkı payı,0.7,V,2025 tahsilatı 787.87 mlr TL [D]
+ÖTV dayanıklı mal hanehalkı payı,0.8,V,2025 tahsilatı 122.51 mlr TL [D]

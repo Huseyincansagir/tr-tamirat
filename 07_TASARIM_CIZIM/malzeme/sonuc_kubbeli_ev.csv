@@ -1,0 +1,17 @@
+kod,ad,ortu_kN_m2,duvar_kN,W_kN,W_kN_m2,ortu_payi,R,D,T_s,Ra,S_DS,V_kN,V_kN_m2,ort_kayma_gerilmesi_MPa,not,V_oran_KE4
+KE1,Toprak duvar 50 cm + superadobe kubbeler (5 m),14.9,776,2624,21.9,0.68,2.5,1.5,0.16,1.82,0.3,433,3.61,0.039,donatısız toprak kubbe: E22 donatısız yığma katsayıları ödünç,10.3
+KE1,Toprak duvar 50 cm + superadobe kubbeler (5 m),14.9,776,2624,21.9,0.68,2.5,1.5,0.16,1.82,0.5,721,6.01,0.065,donatısız toprak kubbe: E22 donatısız yığma katsayıları ödünç,10.2
+KE1,Toprak duvar 50 cm + superadobe kubbeler (5 m),14.9,776,2624,21.9,0.68,2.5,1.5,0.16,1.82,0.75,1082,9.02,0.097,donatısız toprak kubbe: E22 donatısız yığma katsayıları ödünç,10.2
+KE1,Toprak duvar 50 cm + superadobe kubbeler (5 m),14.9,776,2624,21.9,0.68,2.5,1.5,0.16,1.82,1.0,1443,12.02,0.13,donatısız toprak kubbe: E22 donatısız yığma katsayıları ödünç,10.2
+KE2,"Toprak duvar 50 cm + Nubian tonozları (kerpiç, 3,25 m)",6.8,776,1652,13.8,0.49,2.5,1.5,0.16,1.82,0.3,273,2.27,0.025,donatısız kerpiç tonoz: E22 katsayıları ödünç,6.5
+KE2,"Toprak duvar 50 cm + Nubian tonozları (kerpiç, 3,25 m)",6.8,776,1652,13.8,0.49,2.5,1.5,0.16,1.82,0.5,454,3.78,0.041,donatısız kerpiç tonoz: E22 katsayıları ödünç,6.4
+KE2,"Toprak duvar 50 cm + Nubian tonozları (kerpiç, 3,25 m)",6.8,776,1652,13.8,0.49,2.5,1.5,0.16,1.82,0.75,681,5.68,0.061,donatısız kerpiç tonoz: E22 katsayıları ödünç,6.4
+KE2,"Toprak duvar 50 cm + Nubian tonozları (kerpiç, 3,25 m)",6.8,776,1652,13.8,0.49,2.5,1.5,0.16,1.82,1.0,908,7.57,0.082,donatısız kerpiç tonoz: E22 katsayıları ödünç,6.4
+KE3,Donatılı toprak duvar 50 cm + hafif ahşap çatı,1.0,776,956,8.0,0.13,4.0,2.0,0.16,2.64,0.3,109,0.91,0.01,donatılı toprak duvar: E11 donatılı yığma katsayıları ödünç,2.6
+KE3,Donatılı toprak duvar 50 cm + hafif ahşap çatı,1.0,776,956,8.0,0.13,4.0,2.0,0.16,2.64,0.5,181,1.51,0.016,donatılı toprak duvar: E11 donatılı yığma katsayıları ödünç,2.5
+KE3,Donatılı toprak duvar 50 cm + hafif ahşap çatı,1.0,776,956,8.0,0.13,4.0,2.0,0.16,2.64,0.75,272,2.27,0.024,donatılı toprak duvar: E11 donatılı yığma katsayıları ödünç,2.6
+KE3,Donatılı toprak duvar 50 cm + hafif ahşap çatı,1.0,776,956,8.0,0.13,4.0,2.0,0.16,2.64,1.0,363,3.02,0.033,donatılı toprak duvar: E11 donatılı yığma katsayıları ödünç,2.6
+KE4,Betonarme tek katlı + tuğla + EPS + betonarme çatı (referans),4.6,133,745,6.2,0.74,8.0,3.0,0.228,5.28,0.3,42,0.35,,"TBDY A11 (R 8, D 3)",1.0
+KE4,Betonarme tek katlı + tuğla + EPS + betonarme çatı (referans),4.6,133,745,6.2,0.74,8.0,3.0,0.228,5.28,0.5,71,0.59,,"TBDY A11 (R 8, D 3)",1.0
+KE4,Betonarme tek katlı + tuğla + EPS + betonarme çatı (referans),4.6,133,745,6.2,0.74,8.0,3.0,0.228,5.28,0.75,106,0.88,,"TBDY A11 (R 8, D 3)",1.0
+KE4,Betonarme tek katlı + tuğla + EPS + betonarme çatı (referans),4.6,133,745,6.2,0.74,8.0,3.0,0.228,5.28,1.0,141,1.18,,"TBDY A11 (R 8, D 3)",1.0

@@ -1,0 +1,71 @@
+anahtar,deger,birim,kaynak,etiket
+fiyat_tabani,2026-02,ay,"Bütün fiyatlar Şubat 2026 düzeyinde, KDV hariç. Yapı yaklaşık birim maliyetleri tebliği (RG 03.02.2026) ile aynı ay",V
+genel_gider_kar,0.25,oran,"Tebliğ BM'si ve ÇŞİDB poz analizi: %15 genel gider + %10 yüklenici kârı (RG 03.02.2026/33157; 08_MEVZUAT_POLITIKA/finansman_modeli ile aynı)",D
+usta_TL_sa,310,TL/saat,"ÇŞİDB 2026 Şubat rayiçleri: duvarcı, betoncu, demirci, kalıpçı ustası (arama motoru özetinden; PDF açılamadı)",İ
+duz_isci_TL_sa,205,TL/saat,"ÇŞİDB 2026 Şubat rayiçleri: düz işçi, poz 10.100.1062 (arama motoru özetinden)",İ
+eylul_subat_carpani,1.15,oran,"Eylül 2026 poz fiyatlarını Şubat'a indirmek için: nervürlü çelik pozu 44.681 → 52.158 TL/t (+%16,7), hazır beton 3.524 → 3.986 TL/m³ (Temmuz, +%13,1)",H
+cimento_TL_t,3600,TL/t,"Torba/dökme çimento, Şubat 2026. DSİ birim fiyatı Ocak 2025: 3.121,88 TL/t (İ) + 2025 malzeme artışı",V
+cimento_kgCO2e_kg,0.85,kgCO2e/kg,"Türkiye CEM I/CEM II karışımı. ICE CEM I ≈0,91 (İ); Türkçimento beyanı gri klinker ≈0,88 tCO2/t (Nisan 2026, İ)",V
+toprak_kgCO2e_kg,0.024,kgCO2e/kg,"Stabilizesiz sıkıştırılmış toprak 47,5 kgCO2e/m³ (Fernandes vd. 2019, Portekiz); ICE v2 'rammed soil' ≈0,023 (DY)",İ
+bm_IIIA,19800,TL/m²,"2026 Yapı Yaklaşık Birim Maliyetleri Tebliği (RG 03.02.2026/33157): III.A (apartman ≤3 kat, kreş, muhtarlık)",D
+bm_IIIB,21050,TL/m²,"Aynı tebliğ: III.B (müstakil konut <200 m², ilkokul/ortaokul, <500 kişilik ibadethane, <1.000 m² kütüphane, ASM)",D
+bm_IIIC,23400,TL/m²,"Aynı tebliğ: III.C (lise, müstakil konut 200–500 m²)",D
+bm_IVA,26450,TL/m²,"Aynı tebliğ: IV.A (ilçe tipi kamu binası)",D
+bm_IVB,33900,TL/m²,"Aynı tebliğ: IV.B (500–1.500 kişilik ibadethane)",D
+bm_IVC,40500,TL/m²,"Aynı tebliğ: IV.C (≥1.000 m² kütüphane, il tipi kamu binası, büyükşehir belediye hizmet binası, <200 yataklı hastane)",D
+bm_VB,43850,TL/m²,"Aynı tebliğ: V.B (200–400 yataklı hastane, ≥1.500 kişilik ibadethane)",D
+Rsi,0.13,m²K/W,"İç yüzey ısıl direnci, yatay ısı akışı (TS EN ISO 6946)",İ
+Rse,0.04,m²K/W,"Dış yüzey ısıl direnci (TS EN ISO 6946)",İ
+U_bolge1,0.45,W/m²K,"TS 825:2024 dış duvar U sınırı, 1. bölge. 01.04.2025'ten zorunlu (İZODER yazarları, Yapı İnşaat Dergisi 27.03.2025; kaynak tablo kısmen bozuk)",İ
+U_bolge2,0.40,W/m²K,"TS 825:2024, 2. bölge (aynı kaynak)",İ
+U_bolge3,0.40,W/m²K,"TS 825:2024, 3. bölge (aynı kaynak). İstanbul 3. bölge",İ
+U_bolge4,0.35,W/m²K,"TS 825:2024, 4. bölge (aynı kaynak). Ankara ve Kayseri merkez 4. bölge",İ
+U_bolge5,0.25,W/m²K,"TS 825:2024, 5. bölge (aynı kaynak)",İ
+U_bolge6,0.25,W/m²K,"TS 825:2024, 6. bölge (aynı kaynak). Erzurum 6. bölge",İ
+tasarim_bolgesi,3,bölge,"Senaryoların taban iklimi. Yalıtım kalınlığı U ≤ 0,40 sağlanacak biçimde seçilir",V
+HDD_bolge1,1100,K·gün/yıl,"Temsilî ısıtma derece-gün. TS 825:2024 bölge eşiklerini yayımlamıyor (Gül 2026, DÜMF Dergisi; İ)",V
+HDD_bolge2,1600,K·gün/yıl,Temsilî ısıtma derece-gün,V
+HDD_bolge3,2000,K·gün/yıl,Temsilî ısıtma derece-gün (İstanbul tipi),V
+HDD_bolge4,2900,K·gün/yıl,Temsilî ısıtma derece-gün (Ankara ve Kayseri tipi),V
+HDD_bolge5,3600,K·gün/yıl,Temsilî ısıtma derece-gün,V
+HDD_bolge6,4400,K·gün/yıl,Temsilî ısıtma derece-gün (Erzurum tipi),V
+dogalgaz_kgCO2_kWh,0.202,kgCO2/kWh,"IPCC 2006 varsayılan doğalgaz emisyon faktörü 56,1 tCO2/TJ",İ
+kazan_verimi,0.92,oran,Yoğuşmalı kombi mevsimlik verimi,V
+enerji_TL_kWh,1.0,TL/kWh,"Konut doğalgazı ≈10 TL/m³ ve 10,64 kWh/m³ varsayımıyla, 2026",V
+omur_yil,50,yıl,Karşılaştırma süresi (gömülü ve işletme karbonu),V
+calisma_sa_yil,1800,saat/yıl,Bir tam zamanlı inşaat işçisinin yıllık çalışma saati,V
+ortak_karbon_kgCO2e_m2,150,kgCO2e/m²,"Bütün sistemlerde aynı kabul edilen kalemler: çatı, doğrama, tesisat, iç bitişler, hafif bölmeler (A1–A3). Avrupa konut ölçütleri 300–600 kgCO2e/m² (A1–A5) içinde (DY)",V
+ortak_olu_yuk_kN_m2,1.2,kN/m²,"Deprem kütlesine eklenen ortak ölü yük: çatı, kaplama, tesisat (kat alanı başına)",V
+hareketli_yuk_kN_m2,2.0,kN/m²,Konut hareketli yükü (TS 498),İ
+hareketli_katilim,0.3,oran,"Hareketli yük katılım katsayısı, konut (TBDY 2018 Tablo 4.3)",İ
+T_B_s,0.5,s,"Tasarım spektrumu köşe periyodu; zemine ve parsele göre AFAD TDTH'den okunur",V
+Ct_betonarme,0.1,katsayı,"Ampirik periyot katsayısı, betonarme çerçeve (TBDY 2018 §4.7.3.4: T = Ct·H^0,75; madde numarası doğrulanmadı)",İ
+Ct_diger,0.07,katsayı,"Ampirik periyot katsayısı, diğer sistemler (TBDY 2018)",İ
+duvar_plan_alani_EV120_m2,5.81,m²,"Zemin katta en zayıf doğrultudaki toprak duvar kesit alanı: 2 × 7,75 m × 0,50 m × (1 − 0,25 boşluk)",H
+enkaz_alt_Mt,116,Mt,"6 Şubat 2023 enkazı, UNDP ilk tahmini alt sınır (25.02.2023; medyascope aktarımı)",İ
+enkaz_ust_Mt,210,Mt,"Aynı tahmin, üst sınır",İ
+enkaz_calisma_Mt,200,Mt,"UNDP çalışma değeri ≈200 Mt ≈100 milyon m³, 86 geçici depolama alanı (Hürriyet Daily News 16.08.2024)",İ
+hatay_tesis_t_gun,4000,t/gün,"Hatay Altınözü/Enek enkaz işleme tesisi, açılış 04.02.2025 (TRT Haber)",İ
+tesis_gun_yil,300,gün/yıl,Tesisin yıllık çalışma günü,V
+mineral_pay,0.80,oran,"Enkazda beton, tuğla ve taş payı (metal, ahşap, karışık atık hariç)",V
+agrega_verim,0.70,oran,Mineral enkazdan sınıflandırılmış agrega verimi,V
+yeniden_yapim_konut,450000,konut,"Deprem bölgesi yeniden yapım programının büyüklük sırası (resmî açıklamalar 2025–2026; künye doğrulanmadı)",DY
+konut_m2,100,m²/konut,Ortalama brüt alan,V
+beton_m3_m2,0.35,m³/m²,Betonarme konutta kat alanı başına beton,V
+agrega_t_m3,1.85,t/m³ beton,Betonda agrega miktarı,V
+iri_agrega_pay,0.60,oran,Agreganın iri (≥4 mm) payı,V
+gba_ikame,0.30,oran,"Yapısal betonda iri agreganın geri dönüştürülmüş agregayla ikame sınırı; TS EN 206 Ek E (bilgilendirici) XC/XD1 ortamı için ≈%30, X0 için ≈%50",DY
+hedef_yil,5,yıl,Enkazın işlenmesi için hedef süre,V
+fiyat_ekim2026_carpani,1.15,oran,"Şubat 2026 fiyatlarını Ekim 2026'ya taşımak için kaba çarpan: Eylül 2026 pozlarının Şubat'a oranı (eylul_subat_carpani) ile aynı kabul edildi. Oransal karşılaştırmaları değiştirmez",V
+kev_A,120,m²,"Tek katlı kubbeli ya da tonozlu ev: kat alanı (10 × 12 m)",V
+kev_dis_cevre,44,m,Dış duvar boyu (10 × 12 m plan),H
+kev_ic_duvar_boy,22,m,"Kubbe ve tonozları taşıyan iç duvarlar: açıklık ≤5 m olacak biçimde iki doğrultuda birer duvar (10 + 12 m)",V
+kev_duvar_h,3.0,m,Duvar yüksekliği (kubbe başlangıcına kadar),V
+kev_bosluk_dis,0.18,oran,Dış duvarda pencere ve kapı payı,V
+kev_bosluk_ic,0.10,oran,İç duvarda kapı payı,V
+kev_dis_kalinlik,0.50,m,Dış toprak duvar kalınlığı,V
+kev_ic_kalinlik,0.40,m,İç toprak duvar kalınlığı,V
+kev_ortak_kN_m2,0.5,kN/m²,"Tek katlı evde deprem kütlesine eklenen ortak yük: döşeme kaplaması, tesisat",V
+kev_duvar_plan_alani_m2,11.1,m²,"Zayıf doğrultuda duvar kesit alanı: 2 × 10 m × 0,50 m × 0,75 + 10 m × 0,40 m × 0,90",H
+hafif_cati_kN_m2,1.0,kN/m²,"Ahşap makaslı kiremit çatı + yalıtım, plan alanı başına",V
+betonarme_cati_kN_m2,4.6,kN/m²,"Betonarme tek katlı evin çatısı: 14 cm döşeme + kirişler (eşdeğer 19 cm × 24 kN/m³)",V

@@ -1,0 +1,14 @@
+duvar_kod,kisa_ad,aile,U_yalin,yalitim_malzemesi,b1_yalitim_cm,b1_yalin_karsilar,b2_yalitim_cm,b2_yalin_karsilar,b3_yalitim_cm,b3_yalin_karsilar,b4_yalitim_cm,b4_yalin_karsilar,b5_yalitim_cm,b5_yalin_karsilar,b6_yalitim_cm,b6_yalin_karsilar
+W01,Tuğla 19 + EPS,betonarme,1.489,EPS,6.0,0,7.0,0,7.0,0,8.0,0,12.0,0,12.0,0
+W02,Bims 19 + taş yünü,betonarme,1.173,TASYUNU,5.0,0,6.0,0,6.0,0,8.0,0,12.0,0,12.0,0
+W03,CEB 14 + taş yünü,toprak,2.847,TASYUNU,7.0,0,8.0,0,8.0,0,10.0,0,14.0,0,14.0,0
+W04,Toprak 50 stab. + taş yünü,toprak,1.676,TASYUNU,6.0,0,7.0,0,7.0,0,9.0,0,13.0,0,13.0,0
+W05,Toprak 50 stab. yalın,toprak,1.607,—,,0,,0,,0,,0,,0,,0
+W06,Toprak 50 stabilizesiz + taş yünü,toprak,1.576,TASYUNU,6.0,0,7.0,0,7.0,0,9.0,0,13.0,0,13.0,0
+W07,Kerpiç 40 yalın,toprak,1.237,—,,0,,0,,0,,0,,0,,0
+W08,Hafif toprak-saman 45,biyojenik,0.365,—,,1,,1,,1,,0,,0,,0
+W09,Saman balya 46,biyojenik,0.127,—,,1,,1,,1,,1,,1,,1
+W10,CLT 10 + taş yünü,biyojenik,0.987,TASYUNU,5.0,0,6.0,0,6.0,0,7.0,0,11.0,0,11.0,0
+W11,Taş 50 yalın,tas,1.777,—,,0,,0,,0,,0,,0,,0
+W12,Taş 50 + iç ahşap lifi,tas,1.791,AHSAP_LIF,7.0,0,8.0,0,8.0,0,10.0,0,14.0,0,14.0,0
+W13,Kerpiç 40 + taş yünü,toprak,1.278,TASYUNU,6.0,0,7.0,0,7.0,0,8.0,0,12.0,0,12.0,0

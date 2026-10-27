@@ -1,0 +1,9 @@
+olcu,grup,yakin,uzak,yakin_nufus,uzak_nufus,il_ici_fark,il_sayisi
+sanayi alanı (OSM landuse=industrial) ≤ 3 km,kır (< 300/km²),20.64,19.98,841694.2,1.9811888e+06,1.64,79
+sanayi alanı (OSM landuse=industrial) ≤ 3 km,kentsel küme (300–1.500),21.21,20.61,3.761229e+06,5.6958005e+06,1.92,81
+sanayi alanı (OSM landuse=industrial) ≤ 3 km,kent merkezi (≥ 1.500),23.04,24.0,5.916703e+07,1.4645226e+07,2.47,81
+sanayi alanı (OSM landuse=industrial) ≤ 3 km,Türkiye,22.9,22.78,6.376995e+07,2.2322214e+07,2.43,81
+OSB ≤ 3 km,kır (< 300/km²),21.21,20.13,120617.74,2.702265e+06,1.81,43
+OSB ≤ 3 km,kentsel küme (300–1.500),21.48,20.8,599960.44,8.85707e+06,1.68,64
+OSB ≤ 3 km,kent merkezi (≥ 1.500),22.38,23.32,6.9390415e+06,6.6873216e+07,0.15,66
+OSB ≤ 3 km,Türkiye,22.29,22.92,7.659619e+06,7.843254e+07,0.29,67

@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1302.016969pt" height="760.721016pt" viewBox="0 0 1302.016969 760.721016" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-27T19:15:47.065387</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 760.721016 
+L 1302.016969 760.721016 
+L 1302.016969 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 419.964781 665.607337 
+L 895.164781 665.607337 
+L 895.164781 106.772137 
+L 419.964781 106.772137 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 419.964781 665.607337 
+L 419.964781 106.772137 
+" clip-path="url(#pae85d0cb41)" style="fill: none; stroke: #ecebe7; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m00160f409c" d="M 0 0 
+L 0 3.5 
+" style="stroke: #52514e; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m00160f409c" x="419.964781" y="665.607337" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="419.964781" y="679.445228" transform="rotate(-0 419.964781 679.445228)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 504.821924 665.607337 
+L 504.821924 106.772137 
+" clip-path="url(#pae85d0cb41)" style="fill: none; stroke: #ecebe7; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m00160f409c" x="504.821924" y="665.607337" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="504.821924" y="679.445228" transform="rotate(-0 504.821924 679.445228)">50</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 589.679067 665.607337 
+L 589.679067 106.772137 
+" clip-path="url(#pae85d0cb41)" style="fill: none; stroke: #ecebe7; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m00160f409c" x="589.679067" y="665.607337" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="589.679067" y="679.445228" transform="rotate(-0 589.679067 679.445228)">100</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 674.53621 665.607337 
+L 674.53621 106.772137 
+" clip-path="url(#pae85d0cb41)" style="fill: none; stroke: #ecebe7; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m00160f409c" x="674.53621" y="665.607337" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="674.53621" y="679.445228" transform="rotate(-0 674.53621 679.445228)">150</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 759.393353 665.607337 
+L 759.393353 106.772137 
+" clip-path="url(#pae85d0cb41)" style="fill: none; stroke: #ecebe7; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m00160f409c" x="759.393353" y="665.607337" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="759.393353" y="679.445228" transform="rotate(-0 759.393353 679.445228)">200</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 844.250496 665.607337 
+L 844.250496 106.772137 
+" clip-path="url(#pae85d0cb41)" style="fill: none; stroke: #ecebe7; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m00160f409c" x="844.250496" y="665.607337" style="fill: #52514e; stroke: #52514e; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="844.250496" y="679.445228" transform="rotate(-0 844.250496 679.445228)">250</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="657.564781" y="692.445931" transform="rotate(-0 657.564781 692.445931)">$/MWh (nominal; Lazard ve IRENA kendi yıllarının doları)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_3">
+    <path d="M 470.879067 665.607337 
+L 496.33621 665.607337 
+L 496.33621 106.772137 
+L 470.879067 106.772137 
+z
+" clip-path="url(#pae85d0cb41)" style="fill: #eda100; opacity: 0.08"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 419.964781 665.607337 
+L 895.164781 665.607337 
+" style="fill: none; stroke: #b9b8b3; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="415.212781" y="129.548857" transform="rotate(-0 415.212781 129.548857)">Türkiye: sözleşme ve piyasa fiyatı</text>
+   </g>
+   <g id="line2d_13">
+    <defs>
+     <path id="m4a188124ab" d="M 0 3.25 
+C 0.86191 3.25 1.688635 2.907559 2.298097 2.298097 
+C 2.907559 1.688635 3.25 0.86191 3.25 0 
+C 3.25 -0.86191 2.907559 -1.688635 2.298097 -2.298097 
+C 1.688635 -2.907559 0.86191 -3.25 0 -3.25 
+C -0.86191 -3.25 -1.688635 -2.907559 -2.298097 -2.298097 
+C -2.907559 -1.688635 -3.25 -0.86191 -3.25 0 
+C -3.25 0.86191 -2.907559 1.688635 -2.298097 2.298097 
+C -1.688635 2.907559 -0.86191 3.25 0 3.25 
+z
+" style="stroke: #fcfcfb; stroke-width: 1.2"/>
+    </defs>
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m4a188124ab" x="475.121924" y="142.066992" style="fill: #eda100; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="481.910496" y="143.963281" transform="rotate(-0 481.910496 143.963281)">32</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="144.041508" transform="rotate(-0 415.212781 144.041508)">YEKA GES-2024 (20 yıl, önce 5 yıl piyasa)</text>
+   </g>
+   <g id="line2d_14">
+    <defs>
+     <path id="m27fcb29a6a" d="M 0 3.25 
+C 0.86191 3.25 1.688635 2.907559 2.298097 2.298097 
+C 2.907559 1.688635 3.25 0.86191 3.25 0 
+C 3.25 -0.86191 2.907559 -1.688635 2.298097 -2.298097 
+C 1.688635 -2.907559 0.86191 -3.25 0 -3.25 
+C -0.86191 -3.25 -1.688635 -2.907559 -2.298097 -2.298097 
+C -2.907559 -1.688635 -3.25 -0.86191 -3.25 0 
+C -3.25 0.86191 -2.907559 1.688635 -2.298097 2.298097 
+C -1.688635 2.907559 -0.86191 3.25 0 3.25 
+z
+" style="stroke: #fcfcfb; stroke-width: 1.2"/>
+    </defs>
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m27fcb29a6a" x="479.364781" y="156.773182" style="fill: #1baf7a; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="486.153353" y="158.669471" transform="rotate(-0 486.153353 158.669471)">35</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="158.747697" transform="rotate(-0 415.212781 158.747697)">YEKA RES-2024 (20 yıl, önce 6 yıl piyasa)</text>
+   </g>
+   <g id="line2d_15">
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m4a188124ab" x="482.249924" y="171.479371" style="fill: #eda100; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="489.038496" y="173.37566" transform="rotate(-0 489.038496 173.37566)">37</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="173.453887" transform="rotate(-0 415.212781 173.453887)">YEKA GES-2025 (taban 3,25 €¢/kWh + katkı payı)</text>
+   </g>
+   <g id="line2d_16">
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m27fcb29a6a" x="487.171638" y="186.185561" style="fill: #1baf7a; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="493.96021" y="188.08185" transform="rotate(-0 493.96021 188.08185)">40</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="188.160076" transform="rotate(-0 415.212781 188.160076)">YEKA RES-2025 (3,50 €¢/kWh + 212–312 bin €/MW katkı payı)</text>
+   </g>
+   <g id="line2d_17">
+    <defs>
+     <path id="m7695180c6e" d="M 0 3.25 
+C 0.86191 3.25 1.688635 2.907559 2.298097 2.298097 
+C 2.907559 1.688635 3.25 0.86191 3.25 0 
+C 3.25 -0.86191 2.907559 -1.688635 2.298097 -2.298097 
+C 1.688635 -2.907559 0.86191 -3.25 0 -3.25 
+C -0.86191 -3.25 -1.688635 -2.907559 -2.298097 -2.298097 
+C -2.907559 -1.688635 -3.25 -0.86191 -3.25 0 
+C -3.25 0.86191 -2.907559 1.688635 -2.298097 2.298097 
+C -1.688635 2.907559 -0.86191 3.25 0 3.25 
+z
+" style="stroke: #fcfcfb; stroke-width: 1.2"/>
+    </defs>
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m7695180c6e" x="629.561924" y="200.89175" style="fill: #eb6834; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="636.350496" y="202.788039" transform="rotate(-0 636.350496 202.788039)">124</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="202.866266" transform="rotate(-0 415.212781 202.866266)">Akkuyu alım garantisi (12,35 ¢/kWh, 15 yıl)</text>
+   </g>
+   <g id="line2d_18">
+    <defs>
+     <path id="m89f770d685" d="M 0 3.25 
+C 0.86191 3.25 1.688635 2.907559 2.298097 2.298097 
+C 2.907559 1.688635 3.25 0.86191 3.25 0 
+C 3.25 -0.86191 2.907559 -1.688635 2.298097 -2.298097 
+C 1.688635 -2.907559 0.86191 -3.25 0 -3.25 
+C -0.86191 -3.25 -1.688635 -2.907559 -2.298097 -2.298097 
+C -2.907559 -1.688635 -3.25 -0.86191 -3.25 0 
+C -3.25 0.86191 -2.907559 1.688635 -2.298097 2.298097 
+C -1.688635 2.907559 -0.86191 3.25 0 3.25 
+z
+" style="stroke: #fcfcfb; stroke-width: 1.2"/>
+    </defs>
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m89f770d685" x="534.012781" y="215.59794" style="fill: #52514e; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="540.801353" y="217.494229" transform="rotate(-0 540.801353 217.494229)">67</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="217.572455" transform="rotate(-0 415.212781 217.572455)">PTF ortalaması 2025 (piyasa)</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="415.212781" y="232.492184" transform="rotate(-0 415.212781 232.492184)">IRENA: Türkiye'de gerçekleşen LCOE</text>
+   </g>
+   <g id="line2d_19">
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m4a188124ab" x="565.919067" y="245.010319" style="fill: #eda100; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="572.707638" y="246.906608" transform="rotate(-0 572.707638 246.906608)">86</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="246.984834" transform="rotate(-0 415.212781 246.984834)">Güneş (kamu ölçekli, 2025)</text>
+   </g>
+   <g id="line2d_20">
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m27fcb29a6a" x="523.490496" y="259.716508" style="fill: #1baf7a; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="530.279067" y="261.612797" transform="rotate(-0 530.279067 261.612797)">61</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="261.843024" transform="rotate(-0 415.212781 261.843024)">Kara rüzgârı (2025)</text>
+   </g>
+   <g id="line2d_21">
+    <defs>
+     <path id="m3d56e0d8cb" d="M 0 3.25 
+C 0.86191 3.25 1.688635 2.907559 2.298097 2.298097 
+C 2.907559 1.688635 3.25 0.86191 3.25 0 
+C 3.25 -0.86191 2.907559 -1.688635 2.298097 -2.298097 
+C 1.688635 -2.907559 0.86191 -3.25 0 -3.25 
+C -0.86191 -3.25 -1.688635 -2.907559 -2.298097 -2.298097 
+C -2.907559 -1.688635 -3.25 -0.86191 -3.25 0 
+C -3.25 0.86191 -2.907559 1.688635 -2.298097 2.298097 
+C -1.688635 2.907559 -0.86191 3.25 0 3.25 
+z
+" style="stroke: #fcfcfb; stroke-width: 1.2"/>
+    </defs>
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m3d56e0d8cb" x="475.970496" y="274.422697" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="482.759067" y="276.318987" transform="rotate(-0 482.759067 276.318987)">33</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="276.397213" transform="rotate(-0 415.212781 276.397213)">Jeotermal (2024)</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="415.212781" y="291.359223" transform="rotate(-0 415.212781 291.359223)">IRENA 2025: küresel ağırlıklı ortalama</text>
+   </g>
+   <g id="line2d_22">
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m4a188124ab" x="494.639067" y="303.835076" style="fill: #eda100; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="501.427638" y="305.731366" transform="rotate(-0 501.427638 305.731366)">44</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="305.809295" transform="rotate(-0 415.212781 305.809295)">Güneş</text>
+   </g>
+   <g id="line2d_23">
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m27fcb29a6a" x="475.970496" y="318.541266" style="fill: #1baf7a; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="482.759067" y="320.437555" transform="rotate(-0 482.759067 320.437555)">33</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="320.667782" transform="rotate(-0 415.212781 320.667782)">Kara rüzgârı</text>
+   </g>
+   <g id="line2d_24">
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m27fcb29a6a" x="552.341924" y="333.247455" style="fill: #1baf7a; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="559.130496" y="335.143744" transform="rotate(-0 559.130496 335.143744)">78</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="335.373971" transform="rotate(-0 415.212781 335.373971)">Deniz üstü rüzgâr</text>
+   </g>
+   <g id="line2d_25">
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m3d56e0d8cb" x="525.187638" y="347.953645" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="531.97621" y="349.849934" transform="rotate(-0 531.97621 349.849934)">62</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="349.92816" transform="rotate(-0 415.212781 349.92816)">Hidro</text>
+   </g>
+   <g id="line2d_26">
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m3d56e0d8cb" x="571.010496" y="362.659834" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="577.799067" y="364.556123" transform="rotate(-0 577.799067 364.556123)">89</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="364.63435" transform="rotate(-0 415.212781 364.63435)">Jeotermal</text>
+   </g>
+   <g id="line2d_27">
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m3d56e0d8cb" x="565.919067" y="377.366024" style="fill: #2a78d6; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="572.707638" y="379.262313" transform="rotate(-0 572.707638 379.262313)">86</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="379.340539" transform="rotate(-0 415.212781 379.340539)">Biyokütle</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="415.212781" y="394.260268" transform="rotate(-0 415.212781 394.260268)">Lazard 2026: ABD, sübvansiyonsuz aralık</text>
+   </g>
+   <g id="line2d_28">
+    <path d="M 487.850496 406.778403 
+L 586.284781 406.778403 
+" clip-path="url(#pae85d0cb41)" style="fill: none; stroke: #eda100; stroke-width: 5.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="593.073353" y="408.674692" transform="rotate(-0 593.073353 408.674692)">40–98</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="408.752918" transform="rotate(-0 415.212781 408.752918)">Kamu ölçekli güneş</text>
+   </g>
+   <g id="line2d_29">
+    <path d="M 523.490496 421.484592 
+L 684.719067 421.484592 
+" clip-path="url(#pae85d0cb41)" style="fill: none; stroke: #eda100; stroke-width: 5.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="691.507638" y="423.380881" transform="rotate(-0 691.507638 423.380881)">61–156</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="423.459108" transform="rotate(-0 415.212781 423.459108)">Güneş + depolama</text>
+   </g>
+   <g id="line2d_30">
+    <path d="M 482.759067 436.190782 
+L 587.981924 436.190782 
+" clip-path="url(#pae85d0cb41)" style="fill: none; stroke: #1baf7a; stroke-width: 5.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="594.770496" y="438.087071" transform="rotate(-0 594.770496 438.087071)">37–99</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="438.317297" transform="rotate(-0 415.212781 438.317297)">Kara rüzgârı</text>
+   </g>
+   <g id="line2d_31">
+    <path d="M 503.124781 450.896971 
+L 657.564781 450.896971 
+" clip-path="url(#pae85d0cb41)" style="fill: none; stroke: #1baf7a; stroke-width: 5.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="664.353353" y="452.79326" transform="rotate(-0 664.353353 452.79326)">49–140</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="453.023487" transform="rotate(-0 415.212781 453.023487)">Rüzgâr + depolama</text>
+   </g>
+   <g id="line2d_32">
+    <path d="M 598.164781 465.603161 
+L 703.387638 465.603161 
+" clip-path="url(#pae85d0cb41)" style="fill: none; stroke: #1baf7a; stroke-width: 5.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="710.17621" y="467.49945" transform="rotate(-0 710.17621 467.49945)">105–167</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="467.729676" transform="rotate(-0 415.212781 467.729676)">Deniz üstü rüzgâr</text>
+   </g>
+   <g id="line2d_33">
+    <path d="M 569.313353 480.30935 
+L 754.301924 480.30935 
+" clip-path="url(#pae85d0cb41)" style="fill: none; stroke: #eda100; stroke-width: 5.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="761.090496" y="482.205639" transform="rotate(-0 761.090496 482.205639)">88–197</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="482.283866" transform="rotate(-0 415.212781 482.283866)">Çatı GES (ticari, topluluk)</text>
+   </g>
+   <g id="line2d_34">
+    <path d="M 533.673353 495.01554 
+L 608.347638 495.01554 
+" clip-path="url(#pae85d0cb41)" style="fill: none; stroke: #2a78d6; stroke-width: 5.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="615.13621" y="496.911829" transform="rotate(-0 615.13621 496.911829)">67–111</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="496.990055" transform="rotate(-0 415.212781 496.990055)">Jeotermal</text>
+   </g>
+   <g id="line2d_35">
+    <path d="M 506.519067 509.721729 
+L 638.89621 509.721729 
+" clip-path="url(#pae85d0cb41)" style="fill: none; stroke: #52514e; stroke-width: 5.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="645.684781" y="511.618018" transform="rotate(-0 645.684781 511.618018)">51–129</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="511.792432" transform="rotate(-0 415.212781 511.792432)">Doğal gaz kombine çevrim</text>
+   </g>
+   <g id="line2d_36">
+    <path d="M 542.159067 524.427919 
+L 720.359067 524.427919 
+" clip-path="url(#pae85d0cb41)" style="fill: none; stroke: #52514e; stroke-width: 5.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="727.147638" y="526.324208" transform="rotate(-0 727.147638 526.324208)">72–177</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="526.402137" transform="rotate(-0 415.212781 526.402137)">Kömür</text>
+   </g>
+   <g id="line2d_37">
+    <path d="M 716.964781 539.134108 
+L 852.73621 539.134108 
+" clip-path="url(#pae85d0cb41)" style="fill: none; stroke: #eb6834; stroke-width: 5.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="859.524781" y="541.030397" transform="rotate(-0 859.524781 541.030397)">175–255</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="541.108624" transform="rotate(-0 415.212781 541.108624)">Yeni nükleer (Vogtle verisi)</text>
+   </g>
+   <g id="text_62">
+    <text style="font-weight: 700; font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #0b0b0b" x="415.212781" y="556.028352" transform="rotate(-0 415.212781 556.028352)">SMR: beyan edilen hedef ↔ gözlenen maliyet (aynı varsayımla LCOE: %7, 60 yıl, KF %90)</text>
+   </g>
+   <g id="line2d_38">
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m7695180c6e" x="524.425003" y="568.546487" style="fill: #eb6834; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="531.213574" y="570.442776" transform="rotate(-0 531.213574 570.442776)">62</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="570.521003" transform="rotate(-0 415.212781 570.521003)">DOE Liftoff NOAK (10–20 üniteden sonra)</text>
+   </g>
+   <g id="line2d_39">
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m7695180c6e" x="564.291067" y="583.252676" style="fill: #eb6834; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="571.079638" y="585.148966" transform="rotate(-0 571.079638 585.148966)">85</text>
+   </g>
+   <g id="text_66">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="585.227192" transform="rotate(-0 415.212781 585.227192)">DOE Liftoff, iyi yürütülmüş ilk örnek</text>
+   </g>
+   <g id="line2d_40">
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m7695180c6e" x="663.956226" y="597.958866" style="fill: #eb6834; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_67">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="670.744797" y="599.855155" transform="rotate(-0 670.744797 599.855155)">144</text>
+   </g>
+   <g id="text_68">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="599.933382" transform="rotate(-0 415.212781 599.933382)">Darlington 4 ünite ortalaması</text>
+   </g>
+   <g id="line2d_41">
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m7695180c6e" x="757.488144" y="612.665055" style="fill: #eb6834; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_69">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="764.276715" y="614.561344" transform="rotate(-0 764.276715 614.561344)">199</text>
+   </g>
+   <g id="text_70">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="614.639571" transform="rotate(-0 415.212781 614.639571)">Darlington ilk ünite (ortak altyapı dahil)</text>
+   </g>
+   <g id="line2d_42">
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m7695180c6e" x="783.153353" y="627.371245" style="fill: #eb6834; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_71">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="789.941924" y="629.267534" transform="rotate(-0 789.941924 629.267534)">214</text>
+   </g>
+   <g id="text_72">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="629.441948" transform="rotate(-0 415.212781 629.441948)">Lazard LCOE+ 2026, SMR örneği</text>
+   </g>
+   <g id="line2d_43">
+    <path d="M 521.793353 642.077434 
+L 555.73621 642.077434 
+" clip-path="url(#pae85d0cb41)" style="fill: none; stroke: #eb6834; stroke-width: 5.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_73">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="562.524781" y="643.973723" transform="rotate(-0 562.524781 643.973723)">60–80</text>
+   </g>
+   <g id="text_74">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="644.05195" transform="rotate(-0 415.212781 644.05195)">IEA 2025: 2040'a kadar inmesi gereken düzey</text>
+   </g>
+   <g id="line2d_44">
+    <g clip-path="url(#pae85d0cb41)">
+     <use xlink:href="#m7695180c6e" x="571.010496" y="656.783624" style="fill: #eb6834; stroke: #fcfcfb; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_75">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="577.799067" y="658.679913" transform="rotate(-0 577.799067 658.679913)">89</text>
+   </g>
+   <g id="text_76">
+    <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="415.212781" y="658.758139" transform="rotate(-0 415.212781 658.758139)">NuScale UAMPS (sübvansiyon sonrası, iptal)</text>
+   </g>
+   <g id="text_77">
+    <text style="font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="483.607638" y="114.125232" transform="rotate(-0 483.607638 114.125232)">YEKA bandı</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_5">
+     <path d="M 767.731578 119.220966 
+L 782.731578 119.220966 
+L 782.731578 113.970966 
+L 767.731578 113.970966 
+z
+" style="fill: #eda100; stroke: #eda100; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_78">
+     <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="788.731578" y="119.220966" transform="rotate(-0 788.731578 119.220966)">Güneş</text>
+    </g>
+    <g id="patch_6">
+     <path d="M 767.731578 130.771552 
+L 782.731578 130.771552 
+L 782.731578 125.521552 
+L 767.731578 125.521552 
+z
+" style="fill: #1baf7a; stroke: #1baf7a; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_79">
+     <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="788.731578" y="130.771552" transform="rotate(-0 788.731578 130.771552)">Rüzgâr</text>
+    </g>
+    <g id="patch_7">
+     <path d="M 767.731578 142.022137 
+L 782.731578 142.022137 
+L 782.731578 136.772137 
+L 767.731578 136.772137 
+z
+" style="fill: #2a78d6; stroke: #2a78d6; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_80">
+     <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="788.731578" y="142.022137" transform="rotate(-0 788.731578 142.022137)">Hidro, jeotermal, biyokütle</text>
+    </g>
+    <g id="patch_8">
+     <path d="M 767.731578 153.272723 
+L 782.731578 153.272723 
+L 782.731578 148.022723 
+L 767.731578 148.022723 
+z
+" style="fill: #eb6834; stroke: #eb6834; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_81">
+     <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="788.731578" y="153.272723" transform="rotate(-0 788.731578 153.272723)">Nükleer ve SMR</text>
+    </g>
+    <g id="patch_9">
+     <path d="M 767.731578 164.523309 
+L 782.731578 164.523309 
+L 782.731578 159.273309 
+L 767.731578 159.273309 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_82">
+     <text style="font-size: 7.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="788.731578" y="164.523309" transform="rotate(-0 788.731578 164.523309)">Fosil ve piyasa fiyatı</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_83">
+   <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="134.844781" y="16.798125" transform="rotate(-0 134.844781 16.798125)">Elektrik maliyeti: Türkiye'de güneş ve rüzgâr 32–40 $/MWh; SMR'de gözlenen maliyet 145–215 $/MWh</text>
+  </g>
+  <g id="text_84">
+   <text style="font-size: 8.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="134.844781" y="37.510945" transform="rotate(-0 134.844781 37.510945)">Nokta: tek değer; çubuk: aralık. SMR satırlarında DOE n'inci örnek ve IEA 2040 hedefi beyan ya da hedeftir, gözlenmiş değildir.</text>
+  </g>
+  <g id="text_85">
+   <text style="font-size: 7px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="134.844781" y="751.839375" transform="rotate(-0 134.844781 751.839375)">Kaynak: Lazard LCOE+ v19 (13.07.2026) [D]; IRENA Renewable Power Generation Costs 2025 [D/İ]; YEKA 2025 sonuçları (basın) [İ]; EPDK PTF 2025 [D]; OPG Darlington 20,9 milyar CAD / 4 × 300 MWe [İ] → LCOE [H]; NuScale–UAMPS 89 $/MWh (2023, iptal) [İ]; IEA 2025 [İ]. Ayrıntı: enerji_lcoe_karsilastirma.csv, enerji_smr_lcoe.csv.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pae85d0cb41">
+   <rect x="419.964781" y="106.772137" width="475.2" height="558.8352"/>
+  </clipPath>
+ </defs>
+</svg>

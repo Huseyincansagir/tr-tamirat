@@ -1,0 +1,19 @@
+parametre,birim,mahalle,semt,sehir,bolge,ulke,kisi_basi,isaret,kaynak,fiyat_yili
+nufus,kişi,6925.0,34624.0,207744.0,1246464.0,86092168.0,1.0,D/V,kademe şeması; ülke = ADNKS 2025,
+hane_sayisi,hane,2170.014,10849.758,65098.547,390591.282,26977795.0,0.313,D,ADNKS 2025,
+hanehalki_brut_kullanilabilir_gelir_mn_tl,milyon TL/yıl,3171.57,15857.392,95144.354,570866.121,39429219.0,0.458,D/H,TÜİK sektör hesapları S1M 2025,2025.0
+sosyal_yardimlar_D62_mn_tl,milyon TL/yıl,417.472,2087.298,12523.788,75142.73,5190042.0,0.06,D/H,TÜİK sektör hesapları S1M 2025 (çoğu emekli aylığı),2025.0
+kdv_otv_hanehalki_yuku_mn_tl,milyon TL/yıl,322.928,1614.595,9687.571,58125.428,4014672.0,0.047,H/V,"ekonomi_dagilim.py, 2025",2025.0
+emlak_vergisi_mevcut_mn_tl,milyon TL/yıl,4.541,22.707,136.24,817.442,56460.0,0.001,D/H,Muhasebat mahalli idareler 2025,2025.0
+arsa_vergisi_mevcut_mn_tl,milyon TL/yıl,1.027,5.137,30.819,184.916,12772.0,0.0,D/H,Muhasebat mahalli idareler 2025,2025.0
+arsa_deger_vergisi_gsyh05_mn_tl,milyon TL/yıl,25.346,126.727,760.36,4562.162,315104.53,0.004,V/H,"GSYH'nin %0,5'i (OECD taşınmaz vergisi ort. %0,95)",2025.0
+harcamalara_katilma_payi_mevcut_mn_tl,milyon TL/yıl,1.319,6.593,39.559,237.356,16394.0,0.0,D/H,Muhasebat mahalli idareler 2025,2025.0
+issiz_kisi,kişi,238.918,1194.556,7167.337,43004.024,2970250.0,0.035,D/H,TÜİK SDMX işgücü 2025 ortalaması,
+atil_isgucu_kisi_yaklasik,kişi,849.689,4248.321,25489.926,152939.554,10563400.0,0.123,H/V,atıl işgücü oranı × işgücü (alt sınır),
+kayitli_esnaf,işletme,183.572,917.836,5507.015,33042.09,2282188.0,0.027,D/H,TESK sicil 30.09.2026,
+esnaf_acilis_yillik,işletme/yıl,26.02,130.095,780.571,4683.425,323480.0,0.004,D/H,TESK 2025,
+esnaf_kapanis_yillik,işletme/yıl,9.686,48.431,290.586,1743.514,120423.0,0.001,D/H,TESK 2025,
+htm_geleneksel_magaza,mağaza,15.449,77.243,463.46,2780.763,192064.826,0.002,D/H,"Rekabet Kurumu HTM raporu, 2021",
+htm_zincir_magaza,mağaza,3.201,16.006,96.038,576.23,39799.708,0.0,D/H,"Rekabet Kurumu HTM raporu, 2021",
+avm_kiralanabilir_alan_m2,m²,1118.075,5590.214,33541.281,201247.686,13900000.0,0.161,İ/H,"AYD ve değerleme raporları, 2025 sonu",
+temel_gelir_yarim_aclik_mn_tl,milyon TL/yıl,271.972,1359.823,8158.938,48953.63,3381184.0,0.039,H/V,"kişi başı açlık sınırının yarısı, 2025",2025.0

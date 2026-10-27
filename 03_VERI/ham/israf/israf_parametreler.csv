@@ -1,0 +1,95 @@
+kod,kalem,aciklama,deger,birim,yil,kaynak,url,isaret
+usd_2024,genel,"Yıllık ortalama USD/TL (alış 32,7921 ile satış 32,8512 ortalaması)",32.8217,TL/USD,2024,"TCMB EVDS, TP.DK.USD.A/S.YTL",https://evds3.tcmb.gov.tr,D
+usd_2025,genel,"Yıllık ortalama USD/TL (alış 39,4761 ile satış 39,5472 ortalaması)",39.5117,TL/USD,2025,"TCMB EVDS, TP.DK.USD.A/S.YTL",https://evds3.tcmb.gov.tr,D
+gsyh_2025_tl,genel,"GSYH, cari fiyatlarla (TÜİK ulusal hesaplarından Dünya Bankası WDI aktarımı)",63020905823900,TL,2025,"World Bank WDI NY.GDP.MKTP.CN (güncelleme 08.10.2026)",https://api.worldbank.org/v2/country/TUR/indicator/NY.GDP.MKTP.CN?format=json,İ
+ptf_2024,elektrik,Ağırlıklı ortalama piyasa takas fiyatı (PTF),2273.73,TL/MWh,2024,"EPDK, 2025 Yılı Elektrik Piyasası Gelişim Raporu, özet tablo",https://www.epdk.gov.tr/Detay/DownloadDocument?id=aetLyVmDSsI=,D
+ptf_2025,elektrik,Ağırlıklı ortalama piyasa takas fiyatı (PTF),2651.81,TL/MWh,2025,"EPDK, 2025 Yılı Elektrik Piyasası Gelişim Raporu, s. 48",https://www.epdk.gov.tr/Detay/DownloadDocument?id=aetLyVmDSsI=,D
+el_esik_alt,elektrik,"Alt tahmin: kayıp oranının bu eşiğin üstündeki kısmı önlenebilir sayılır (Türkiye'deki bölgelerin çoğunun 2025 düzeyi)",6.0,%,2025,Varsayım,,V
+el_esik_ust,elektrik,"Üst tahmin: en iyi bölgenin (AYEDAŞ, 2025) oranı teknik taban sayılır",3.68,%,2025,"EPDK 2025 Gelişim Raporu, Tablo 5.2",https://www.epdk.gov.tr/Detay/DownloadDocument?id=aetLyVmDSsI=,D
+el_iletim_kayip_2025,elektrik,İletim sistemi kayıp oranı (toplama katılmadı: uluslararası düzeyde),1.96,%,2025,"EPDK 2025 Gelişim Raporu, 4.5",https://www.epdk.gov.tr/Detay/DownloadDocument?id=aetLyVmDSsI=,D
+gaz_tuketim_2025,gaz,Ulusal doğal gaz tüketimi,59073,milyon Sm3,2025,"EPDK, 2025 Yılı Doğal Gaz Piyasası Gelişim Raporu, Tablo 8.1",https://www.epdk.gov.tr/Detay/DownloadDocument?id=fSTHy8vYN/Q=,D
+gaz_tuketim_2024,gaz,Ulusal doğal gaz tüketimi,53226,milyon Sm3,2024,"EPDK, 2025 Yılı Doğal Gaz Piyasası Gelişim Raporu, Tablo 8.1",https://www.epdk.gov.tr/Detay/DownloadDocument?id=fSTHy8vYN/Q=,D
+gaz_konut_2025,gaz,Konut doğal gaz tüketimi,20857.02,milyon Sm3,2025,"EPDK, 2025 Doğal Gaz Gelişim Raporu, Tablo 8.2",https://www.epdk.gov.tr/Detay/DownloadDocument?id=fSTHy8vYN/Q=,D
+gaz_kayip_epdk_2025,gaz,"Tüketim tablosunda ""7.1 Kayıplar"" satırı",3.99,milyon Sm3,2025,"EPDK, 2025 Doğal Gaz Gelişim Raporu, Tablo 8.2",https://www.epdk.gov.tr/Detay/DownloadDocument?id=fSTHy8vYN/Q=,D
+gaz_sistem_kullanim_2025,gaz,"Boru hattı taşımacılığında kullanılan gaz (kompresör yakıtı; israf sayılmadı)",316.90,milyon Sm3,2025,"EPDK, 2025 Doğal Gaz Gelişim Raporu, Tablo 8.2",https://www.epdk.gov.tr/Detay/DownloadDocument?id=fSTHy8vYN/Q=,D
+gaz_fiyat_konut_2025,gaz,"Konut gaz bedeli, iki yarıyıl ortalaması (5,631 ve 7,772; vergisiz, sistem kullanım bedeli hariç)",6.7015,TL/Sm3,2025,"EPDK, 2025 Doğal Gaz Gelişim Raporu, Tablo 9.1",https://www.epdk.gov.tr/Detay/DownloadDocument?id=fSTHy8vYN/Q=,D
+gaz_fiyat_sanayi_2025,gaz,"Sanayi gaz bedeli, iki yarıyıl ortalaması (12,609 ve 15,000; maliyete yakın fiyat olarak kullanıldı)",13.8047,TL/Sm3,2025,"EPDK, 2025 Doğal Gaz Gelişim Raporu, Tablo 9.1",https://www.epdk.gov.tr/Detay/DownloadDocument?id=fSTHy8vYN/Q=,D
+ch4_yogunluk,gaz,"Metan yoğunluğu (15 °C, 1 atm)",0.678,kg/m3,,Fiziksel sabit,,V
+ch4_pay_gaz,gaz,Doğal gazda metan hacim payı,0.93,oran,,Varsayım (boru gazı tipik bileşimi),,V
+su_hedef,su,"Su kaybı üst sınırı: büyükşehir ve il belediyelerinde 9 yılda %25 (ilk 5 yılda %30)",25,%,2014,"İçme Suyu Temin ve Dağıtım Sistemlerindeki Su Kayıplarının Kontrolü Yönetmeliği, md. 9 (RG 08.05.2014, sayı 28994)",https://www.resmigazete.gov.tr/eskiler/2014/05/20140508-1.htm,D
+su_enerji,su,Bir metreküp içme suyunu çekip arıtıp şebekeye basmanın elektrik ihtiyacı (alt değer için),0.6,kWh/m3,,Varsayım (literatür aralığı 0.4–1.0),,V
+su_deger_ust,su,"Üst değer: kaybolan suyun tam arz maliyeti (büyükşehir konut tarifelerinin altında kalacak biçimde ihtiyatlı)",0.50,USD/m3,,Varsayım (tarife kaynağı doğrulanmadı),,V
+fwi_hane_2022,gida,Hanehalkı gıda israfı (UNEP tahmini; Türkiye ölçümü yok),8694318,ton,2022,"UNEP Food Waste Index Report 2024; UN SDG 12.3.1(b) veri tabanı",https://unstats.un.org/sdgapi/v1/sdg/Indicator/Data?indicator=12.3.1&areaCode=792,D
+fwi_hizmet_2022,gida,Gıda hizmeti (lokanta vb.) israfı,2509158,ton,2022,"UNEP FWI 2024; UN SDG veri tabanı",https://unstats.un.org/sdgapi/v1/sdg/Indicator/Data?indicator=12.3.1&areaCode=792,D
+fwi_perakende_2022,gida,"Perakende israfı (toplama katılmadı: TZOB'un ""son tüketiciye ulaşmadan"" kayıplarıyla örtüşebilir)",2685105,ton,2022,"UNEP FWI 2024; UN SDG veri tabanı",https://unstats.un.org/sdgapi/v1/sdg/Indicator/Data?indicator=12.3.1&areaCode=792,D
+fwi_hane_kb_2022,gida,"Hanehalkı gıda israfı, kişi başı (güven düzeyi: düşük)",101.88,kg/kişi/yıl,2022,"UNEP FWI 2024, Ek tablo s. 171",https://digitallibrary.un.org/record/4042857,D
+fwi_hane_kb_2019,gida,"Hanehalkı gıda israfı, kişi başı (FWI 2021)",92.99,kg/kişi/yıl,2019,"UNEP FWI 2021; UN SDG veri tabanı",https://unstats.un.org/sdgapi/v1/sdg/Indicator/Data?indicator=12.3.1&areaCode=792,D
+yenilebilir_alt,gida,"İsraf edilen gıdanın yenilebilir payı, alt (FWI kemik, kabuk gibi yenmeyen kısımları da içerir)",0.5,oran,,Varsayım,,V
+yenilebilir_ust,gida,"İsraf edilen gıdanın yenilebilir payı, üst",0.7,oran,,Varsayım,,V
+perakende_carpan_ust,gida,Tüketici fiyatının üretici fiyatına oranı (üst değer için),2.5,kat,,Varsayım,,V
+tzob_tahil,gida,"Son tüketiciye ulaşmadan tahıl kaybı (2020/21 sezonu)",2.8,milyon ton,2021,"TZOB (2022) basın açıklaması; TÜBA (2024) Gıda, Su Kaybı ve İsrafı, böl. 1 aktarımı",https://tuba.gov.tr/files/yayinlar/raporlar/TUBA-978-625-6110-08-3_ch01.pdf,İ
+tzob_sebze,gida,Son tüketiciye ulaşmadan sebze kaybı,3.9,milyon ton,2021,"TZOB (2022); TÜBA (2024) aktarımı",https://tuba.gov.tr/files/yayinlar/raporlar/TUBA-978-625-6110-08-3_ch01.pdf,İ
+tzob_meyve,gida,Son tüketiciye ulaşmadan meyve kaybı,1.8,milyon ton,2021,"TZOB (2022); TÜBA (2024) aktarımı",https://tuba.gov.tr/files/yayinlar/raporlar/TUBA-978-625-6110-08-3_ch01.pdf,İ
+uretim_onlenebilir_alt,gida,Üretim ve dağıtım kayıplarının önlenebilir payı (alt),0.5,oran,,Varsayım,,V
+ekmek_gunluk_2013,gida,Günlük israf edilen ekmek (TMO ölçümü; toplama ayrıca katılmadı: hane ve hizmet israfının içinde),4.9,milyon adet/gün,2013,"Gıda, Tarım ve Hayvancılık Bakanlığı soru önergesi yanıtı (AA, 20.04.2014)",https://www.memurlar.net/haber/464907/ekmek-israfi-azaldi.html,İ
+ekmek_gunluk_2012,gida,Günlük israf edilen ekmek (TMO 2012 araştırması),6.0,milyon adet/gün,2012,"AA, 20.04.2014; TÜBA (2024) aktarımı",https://www.memurlar.net/haber/464907/ekmek-israfi-azaldi.html,İ
+ekmek_gram,gida,Bir ekmeğin ağırlığı,0.25,kg,,Varsayım (standart somun 200–250 g),,V
+tomtom_saat_istanbul,trafik,Yoğun saatte trafik yüzünden kaybedilen zaman (10 km gidiş-dönüş yapan sürücü),112,saat/yıl,2025,TomTom Traffic Index 2025,https://www.tomtom.com/traffic-index/istanbul-traffic/,D
+tomtom_saat_ankara,trafik,Yoğun saatte kaybedilen zaman,112,saat/yıl,2025,TomTom Traffic Index 2025,https://www.tomtom.com/traffic-index/ankara-traffic/,D
+tomtom_saat_izmir,trafik,Yoğun saatte kaybedilen zaman,112,saat/yıl,2025,TomTom Traffic Index 2025,https://www.tomtom.com/traffic-index/izmir-traffic/,D
+tomtom_saat_antalya,trafik,Yoğun saatte kaybedilen zaman,108,saat/yıl,2025,TomTom Traffic Index 2025,https://www.tomtom.com/traffic-index/antalya-traffic/,D
+tomtom_saat_bursa,trafik,Yoğun saatte kaybedilen zaman,81,saat/yıl,2025,TomTom Traffic Index 2025,https://www.tomtom.com/traffic-index/bursa-traffic/,D
+tomtom_saat_adana,trafik,Yoğun saatte kaybedilen zaman,76,saat/yıl,2025,TomTom Traffic Index 2025,https://www.tomtom.com/traffic-index/adana-traffic/,D
+yolcu_pay_alt,trafik,Kayıtlı otomobillerin yoğun saatte işe gidip gelen payı (alt),0.25,oran,,Varsayım,,V
+yolcu_pay_ust,trafik,Kayıtlı otomobillerin yoğun saatte işe gidip gelen payı (üst),0.40,oran,,Varsayım,,V
+doluluk_ust,trafik,Araç başına kişi (üst; alt değer 1),1.3,kişi/araç,,Varsayım,,V
+asgari_net_2025,trafik,Net asgari ücret,22104.67,TL/ay,2025,"Asgari Ücret Tespit Komisyonu kararı (RG 24.12.2024); bu çalışmada yeniden açılmadı",,İ
+ayda_saat,trafik,Aylık çalışma saati,225,saat/ay,,Varsayım (45 saat × 5 hafta),,V
+zaman_degeri_alt,trafik,Yolda kaybedilen saatin değeri: saatlik net asgari ücretin payı (alt),0.5,oran,,Varsayım (işe gidiş-geliş zamanı için yaygın uygulama),,V
+zaman_degeri_ust,trafik,Yolda kaybedilen saatin değeri: saatlik net asgari ücretin payı (üst),1.0,oran,,Varsayım,,V
+ek_yakit_alt,trafik,Sıkışıklıkta kaybedilen saat başına ek yakıt (alt),0.6,L/saat,,Varsayım (rölanti düzeyi),,V
+ek_yakit_ust,trafik,Sıkışıklıkta kaybedilen saat başına ek yakıt (üst),1.2,L/saat,,Varsayım (dur-kalk),,V
+yakit_fiyat_alt,trafik,Akaryakıt pompa fiyatı (alt),45,TL/L,2025,Varsayım (2025 benzin ve motorin pompa fiyatları aralığı; resmî ortalama doğrulanmadı),,V
+yakit_fiyat_ust,trafik,"Akaryakıt pompa fiyatı (üst; TÜİK TÜFE ortalama fiyatı Ağustos 2026'da benzin 71,43, motorin 81,08 TL/L — 2025'e TÜFE ile geri çekince ≈54)",55,TL/L,2025,"Varsayım; çapa: TÜİK DF_TUFE_SDMX_TT07 (2026-08/09)",https://databrowser2.tuik.gov.tr,V
+trafik_onlenebilir_alt,trafik,Yoğun saat gecikmesinin önlenebilir payı (alt; serbest akış hiçbir kentte gerçekçi değil),0.5,oran,,Varsayım,,V
+su_esik_ust,su,"Üst tahmin için iyi işletilen şebekelerin kayıp düzeyi",10,%,,Varsayım (iyi uygulama örnekleri),,V
+co2_yakit,trafik,Litre yakıt başına CO2,2.4,kg/L,,"IPCC varsayılan emisyon faktörlerinden yuvarlanmış (benzin ≈2,3; motorin ≈2,7)",,V
+bina_hizmet_mtep_2022,bina,"Bina ve hizmetler nihai enerji tüketimi (toplamın %32,6'sı)",39.2,MTEP,2022,"ETKB, 2. Ulusal Enerji Verimliliği Eylem Planı 2024–2030",https://enerji.gov.tr/bilgi-merkezi-enerji-verimliligi-ulusal-enerji-verimliligi-eylem-plani,D
+isinma_pay_alt,bina,Konut gazının ısınmaya giden payı (alt; geri kalanı sıcak su ve pişirme),0.70,oran,,Varsayım,,V
+isinma_pay_ust,bina,Konut gazının ısınmaya giden payı (üst),0.85,oran,,Varsayım,,V
+yalitimsiz_alt,bina,Yalıtımsız ya da yetersiz yalıtımlı konut payı (alt),0.50,oran,,"Varsayım; TÜİK GYKA 2024'e göre nüfusun %30,2'si yalıtım yokluğundan ısınma sorunu yaşıyor (İZODER aktarımı)",https://www.izoder.org.tr/dosyalar/basinBultenleri/kis-gelmeden-yalitim.pdf,V
+yalitimsiz_ust,bina,Yalıtımsız bina payı (üst),0.75,oran,2024,"İZODER basın bülteni (30.10.2024): binaların %75'i yalıtımsız",https://www.izoder.org.tr/dosyalar/basinBultenleri/dunya-tasarruf-gunu-bulteni-r2.pdf,İ
+yalitim_tasarruf_alt,bina,Yalıtımla ısınma enerjisinde tasarruf (alt),0.30,oran,,Varsayım,,V
+yalitim_tasarruf_ust,bina,Yalıtımla ısınma enerjisinde tasarruf (üst),0.50,oran,,Varsayım,,V
+izoder_iddia_ust,bina,Yalıtımla mümkün yıllık tasarruf (sektör kuruluşu iddiası; karşılaştırma için),15,milyar USD,2024,"İZODER basın bülteni (30.10.2024): 12–15 milyar USD",https://www.izoder.org.tr/dosyalar/basinBultenleri/dunya-tasarruf-gunu-bulteni-r2.pdf,İ
+belediye_geri_donusum_2021,atik,"Belediye atığından malzeme geri dönüşümü (OECD/Eurostat tanımı; %12,83)",4.32,milyon ton,2021,UN SDG 12.5.1 veri tabanı (OECD/Eurostat),https://unstats.un.org/sdgapi/v1/sdg/Indicator/Data?indicator=12.5.1&areaCode=792,D
+sifir_atik_geri_kazanim_2024,atik,"Bakanlık geri kazanım oranı (Sıfır Atık; tanım daha geniş)",36.08,%,2024,"ÇŞİDB açıklaması (Milliyet, 30.03.2026)",https://www.milliyet.com.tr/7562916,İ
+kuru_geri_donusur_alt,atik,"Belediye atığında kuru geri dönüştürülebilir pay (kâğıt-karton, plastik, cam, metal), alt",0.20,oran,,Varsayım (atık karakterizasyon kaynağı doğrulanmadı),,V
+kuru_geri_donusur_ust,atik,Belediye atığında kuru geri dönüştürülebilir pay (üst),0.30,oran,,Varsayım,,V
+ikincil_deger_alt,atik,Karışık ikincil hammadde değeri (alt),60,USD/ton,,Varsayım (hurda fiyat kaynağı doğrulanmadı),,V
+ikincil_deger_ust,atik,Karışık ikincil hammadde değeri (üst),150,USD/ton,,Varsayım,,V
+eatik_uretim_2022,atik,"E-atık üretimi (kişi başı 12,7 kg)",1077,bin ton,2022,"Global E-waste Monitor 2024, Ek 2",https://ewastemonitor.info/wp-content/uploads/2024/03/GEM_2024_18-03_web_page_per_page_web.pdf,D
+eatik_toplama_2022,atik,Belgelenmiş e-atık toplama ve geri dönüşüm,186.9,bin ton,2022,"Global E-waste Monitor 2024, Ek 2 (Exitcom verisi)",https://ewastemonitor.info/wp-content/uploads/2024/03/GEM_2024_18-03_web_page_per_page_web.pdf,D
+eatik_dunya_deger,atik,"Dünyada 2022'de üretilen e-atıktaki malzemenin değeri (62 milyon ton için)",91,milyar USD,2022,Global E-waste Monitor 2024,https://ewastemonitor.info/wp-content/uploads/2024/03/GEM_2024_18-03_web_page_per_page_web.pdf,D
+eatik_dunya_miktar,atik,Dünyada 2022'de üretilen e-atık,62,milyon ton,2022,Global E-waste Monitor 2024,https://ewastemonitor.info/wp-content/uploads/2024/03/GEM_2024_18-03_web_page_per_page_web.pdf,D
+eatik_kayit_disi_pay,atik,"Toplanmayan e-atıktaki değerin gerçekten kaybolan payı (alt; kayıt dışı sektör metallerin bir kısmını zaten geri kazanıyor)",0.25,oran,,Varsayım,,V
+atik_isi_ktep,sanayi,"Sanayide atık ısı potansiyeli (yatırım ihtiyacı ≈1,37 milyar USD)",1600,kTEP/yıl,2023,"ETKB, 2. UEVEP 2024–2030 (Dünya Bankası destekli Türkiye Atık Isı Potansiyeli Değerlendirme Projesi)",https://enerji.gov.tr/bilgi-merkezi-enerji-verimliligi-ulusal-enerji-verimliligi-eylem-plani,D
+atik_isi_kojen_tasarruf,sanayi,"Atık ısı + 2.515 MWe kojenerasyon yatırımlarıyla yıllık tasarruf",1.6,milyar USD/yıl,2023,"ETKB, 2. UEVEP 2024–2030",https://enerji.gov.tr/bilgi-merkezi-enerji-verimliligi-ulusal-enerji-verimliligi-eylem-plani,D
+gaz_kalori,sanayi,Doğal gazın alt ısıl değeri,8250,kcal/Sm3,,Varsayım (BOTAŞ tipik değeri),,V
+atik_isi_gerceklesebilir_alt,sanayi,Atık ısı potansiyelinin ekonomik olarak değerlendirilebilir payı (alt),0.5,oran,,Varsayım,,V
+konut_stoku,konut,"Konut sayısı (""36 milyonu bağımsız birim ... 31 milyon civarında"" konut; Bakan aktarımı)",31.0,milyon,2025,"N. Bakır, Dünya gazetesi köşe yazısı (29.07.2025)",https://www.dunya.com/kose-yazisi/ulkede-85-milyon-konut-bos-tutuluyor/787130,İ
+hane_2025,konut,Hanehalkı sayısı,26.977795,milyon,2025,"TÜİK, İstatistiklerle Aile 2025 (bülten 58137)",https://veriportali.tuik.gov.tr/tr/press/58137,D
+surtunme_bos_alt,konut,Sağlıklı piyasa için gereken boşluk payı (alt),0.03,oran,,Varsayım,,V
+surtunme_bos_ust,konut,Sağlıklı piyasa için gereken boşluk payı (üst),0.05,oran,,Varsayım,,V
+birim_kira_2024,konut,Değerlemesi yapılan konutların birim kirası (Türkiye ortalaması),144.088,TL/m2/ay,2024,"TCMB EVDS, bie_bk",https://evds3.tcmb.gov.tr,D
+konut_m2,konut,Ortalama konut büyüklüğü,100,m2,,Varsayım,,V
+bos_konut_deger_alt,konut,Boş konutların ortalama kira değerinin Türkiye ortalamasına oranı (alt; boş konutlar kırsal ve eski stokta yoğun),0.3,oran,,Varsayım,,V
+bos_konut_deger_ust,konut,Boş konutların ortalama kira değerinin Türkiye ortalamasına oranı (üst),0.6,oran,,Varsayım,,V
+enkaz_m3_alt,deprem,"6 Şubat 2023 depremleri inşaat ve yıkıntı atığı (alt)",100,milyon m3,2023,"SBB, 2023 Kahramanmaraş ve Hatay Depremleri Raporu, s. 65–66",https://www.sbb.gov.tr/wp-content/uploads/2023/03/2023-Kahramanmaras-ve-Hatay-Depremleri-Raporu.pdf,D
+enkaz_m3_ust,deprem,İnşaat ve yıkıntı atığı (üst),120,milyon m3,2023,SBB (2023),https://www.sbb.gov.tr/wp-content/uploads/2023/03/2023-Kahramanmaras-ve-Hatay-Depremleri-Raporu.pdf,D
+enkaz_yogunluk,deprem,1 m3 inşaat atığı (SBB'nin İSTAÇ'tan aldığı varsayım),2.5,ton/m3,2023,SBB (2023),https://www.sbb.gov.tr/wp-content/uploads/2023/03/2023-Kahramanmaras-ve-Hatay-Depremleri-Raporu.pdf,D
+enkaz_bertaraf_tl,deprem,Enkazın taşınması ve bertarafı (yer bedeli hariç),41.85,milyar TL,2023,SBB (2023),https://www.sbb.gov.tr/wp-content/uploads/2023/03/2023-Kahramanmaras-ve-Hatay-Depremleri-Raporu.pdf,D
+enkaz_bertaraf_usd,deprem,Enkazın taşınması ve bertarafı,2.22,milyar USD,2023,SBB (2023),https://www.sbb.gov.tr/wp-content/uploads/2023/03/2023-Kahramanmaras-ve-Hatay-Depremleri-Raporu.pdf,D
+enkaz_agrega_pay,deprem,Enkazın geri kazanılmış agregaya dönüşebilir payı,0.8,oran,,Varsayım,,V
+agrega_deger_alt,deprem,Geri kazanılmış agreganın değeri (alt),3,USD/ton,,Varsayım,,V
+agrega_deger_ust,deprem,Geri kazanılmış agreganın değeri (üst),8,USD/ton,,Varsayım,,V

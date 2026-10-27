@@ -1,0 +1,20 @@
+duvar_kod,kisa_ad,duvar_ad,aile,ic_duvar,yalitim_cm,kalinlik_cm,U_W_m2K,U_yalin_W_m2K,U_hedef,hedefi_karsilar,kutle_kg_m2,karbon_kgCO2e_m2,biyojenik_kgCO2_m2,maliyet_TL_m2,iscilik_sa_m2,iscilik_payi,kappa_kJ_m2K,Rw_dB_kutle_kurali,tasarim_bolgesi
+W01,Tuğla 19 + EPS,Referans: betonarme çerçeve içinde yatay delikli tuğla 19 cm + EPS mantolama,betonarme,0,7.0,28.8,0.374,1.489,0.4,1.0,182.8,41.8,0.0,2487,3.2,0.424,78.0,43.3,3.0
+W02,Bims 19 + taş yünü,Bims blok 19 cm + taş yünü mantolama,betonarme,0,6.0,27.8,0.397,1.173,0.4,1.0,198.2,27.6,0.0,2729,3.0,0.362,88.0,44.3,3.0
+W03,CEB 14 + taş yünü,Sıkıştırılmış toprak blok (CEB) 14 cm dolgu + iç kil sıva + taş yünü,toprak,0,8.0,25.3,0.389,2.847,0.4,1.0,333.1,40.1,0.0,3164,4.82,0.477,185.0,50.6,3.0
+W04,Toprak 50 stab. + taş yünü,Sıkıştırılmış toprak 50 cm (%6 çimento) + taş yünü + mineral sıva,toprak,0,7.0,57.8,0.394,1.676,0.4,1.0,1048.4,91.5,0.0,3916,6.2,0.48,205.0,64.6,3.0
+W05,Toprak 50 stab. yalın,Sıkıştırılmış toprak 50 cm (%6 çimento) yalıtımsız + dış kireç sıva,toprak,0,0.0,52.5,1.607,1.607,0.4,0.0,1065.0,81.4,0.0,2765,6.0,0.656,205.0,64.8,3.0
+W06,Toprak 50 stabilizesiz + taş yünü,Sıkıştırılmış toprak 50 cm stabilizesiz + taş yünü + mineral sıva,toprak,0,7.0,57.8,0.388,1.576,0.4,1.0,1023.4,40.1,0.0,3639,6.2,0.517,200.0,64.3,3.0
+W07,Kerpiç 40 yalın,Kerpiç 40 cm yalıtımsız + iç kil + dış kireç sıva,toprak,0,0.0,45.0,1.237,1.237,0.4,0.0,722.5,13.2,-19.2,2121,5.6,0.811,162.5,60.0,3.0
+W08,Hafif toprak-saman 45,Ahşap karkas + hafif toprak-saman 45 cm + kil ve kireç sıva,biyojenik,0,0.0,50.0,0.365,0.365,0.4,1.0,366.9,16.4,-77.0,3758,8.15,0.667,92.0,51.8,3.0
+W09,Saman balya 46,Ahşap çaprazlı karkas + saman balya 46 cm + kil ve kireç sıva,biyojenik,0,0.0,51.0,0.127,0.127,0.4,1.0,147.7,13.8,-92.8,3225,4.38,0.434,42.5,,3.0
+W10,CLT 10 + taş yünü,CLT 10 cm + taş yünü mantolama,biyojenik,0,6.0,16.8,0.373,0.987,0.4,1.0,70.2,35.6,-76.8,6229,1.7,0.092,64.5,,3.0
+W11,Taş 50 yalın,Yerel taş 50 cm yalıtımsız + iç kireç sıva,tas,0,0.0,52.5,1.777,1.777,0.4,0.0,1140.0,72.0,0.0,3763,8.0,0.688,205.0,65.6,3.0
+W12,Taş 50 + iç ahşap lifi,Yerel taş 50 cm + içten ahşap lifi + kil sıva (onarım tipi),tas,0,8.0,60.5,0.391,1.791,0.4,1.0,1153.7,73.6,-16.8,5050,8.0,0.51,42.5,65.7,3.0
+I01,Tuğla 10 bölme,İç bölme: tuğla 10 cm + iki yüz alçı sıva,betonarme,1,0.0,14.0,2.055,2.055,,,123.0,21.2,0.0,1281,2.3,0.59,57.8,,
+I02,Bims 10 bölme,İç bölme: bims 10 cm + iki yüz alçı sıva,betonarme,1,0.0,14.0,1.719,1.719,,,128.0,11.4,0.0,1211,2.2,0.598,64.0,,
+I03,CEB 14 iç duvar,İç duvar: CEB 14 cm + iki yüz kil sıva,toprak,1,0.0,19.0,2.685,2.685,,,351.0,23.5,0.0,1794,4.62,0.796,175.5,51.3,
+I04,Toprak 40 stab. iç,İç taşıyıcı duvar: sıkıştırılmış toprak 40 cm (%6 çimento),toprak,1,0.0,40.0,1.987,1.987,,,820.0,60.3,0.0,1804,4.0,0.656,205.0,61.6,
+I05,Toprak 40 iç,İç taşıyıcı duvar: sıkıştırılmış toprak 40 cm stabilizesiz,toprak,1,0.0,40.0,1.874,1.874,,,800.0,19.2,0.0,1582,4.0,0.747,200.0,61.3,
+I06,Ahşap + hafif toprak bölme,İç bölme: ahşap dikme + hafif toprak-saman 10 cm + iki yüz kil sıva,biyojenik,1,0.0,15.0,1.269,1.269,,,152.2,5.0,-23.5,1705,3.58,0.659,75.5,,
+W13,Kerpiç 40 + taş yünü,Kerpiç 40 cm + iç kil sıva + taş yünü mantolama,toprak,0,7.0,50.3,0.367,1.278,0.4,1.0,705.9,23.3,-19.2,3272,5.8,0.547,162.5,59.8,3.0

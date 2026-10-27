@@ -1,0 +1,48 @@
+baslik,gosterge,deger,birim,yil,kaynak,isaret
+Elektrik,Brüt üretim,366.92,TWh,2025,TEİAŞ Tablo 63 (geçici),D
+Elektrik,Brüt üretim,354.57,TWh,2024,TEİAŞ Tablo 63,D
+Elektrik,Brüt talep,364.83,TWh,2025,TEİAŞ Tablo 48,D
+Elektrik,Net tüketim,319.71,TWh,2025,TEİAŞ Tablo 60,D
+Elektrik,Kurulu güç (yıl sonu),123.303,GW,2025,TEİAŞ Tablo 9,D
+Elektrik,Kurulu güç (31.08.2026),126.944,GW,2026,ETKB Ağustos 2026 aylık özet,D
+Elektrik,"Güneş kurulu gücü (lisanssız 23,4 GW dahil)",25.927,GW,2025,"TEİAŞ Tablo 9, 14",D
+Elektrik,Rüzgâr kurulu gücü,14.792,GW,2025,TEİAŞ Tablo 9,D
+Elektrik,Eklenen güneş / rüzgâr,"5,7 / 1,9",GW,2025,TEİAŞ Tablo 9 farkı,H
+Elektrik,Anlık puant,60.406,GW,2025,"TEİAŞ Tablo 26 (28.07.2025, 15:00)",D
+Elektrik,Kişi başı brüt talep,4241,kWh/kişi,2025,TEİAŞ Tablo 58,D
+Elektrik,Kişi başı net tüketim,3717,kWh/kişi,2025,TEİAŞ Tablo 58,D
+Elektrik,Mesken tüketimi,78.197,TWh,2025,"EPDK Elektrik Piyasası Gelişim Raporu 2025, Tablo 1.13",D
+Elektrik,Hane başı mesken tüketimi,2899,kWh/hane,2025,78.197 GWh / 26.977.795 hane (TÜİK),H
+Elektrik,Dağıtım kaybı,6.33,%,2025,TEİAŞ Tablo 60,D
+Elektrik,"Dağıtım kaybı, Dicle / Vangölü","35,5 / 23,5",%,2025,EPDK 2025 Tablo 5.2,D
+Elektrik,İletim kaybı,1.68,%,2025,"TEİAŞ Tablo 60 (EPDK: %1,96)",D
+Elektrik,PTF ağırlıklı ortalaması,2651.81,TL/MWh,2025,"EPDK 2025 (≈ 67 $/MWh, TCMB yıllık kur 39,48)",D
+Elektrik,Şebeke emisyon faktörü,0.43,tCO2/MWh,2023,ETKB-EVÇED (yayım 26.12.2025),D
+Elektrik,Elektrik sektörü CO2,168.3,Mt,2025,Ember yıllık verisi,İ
+Birincil enerji,Birincil enerji arzı,165.21,Mtep,2024,ETKB Ulusal Enerji Denge Tablosu 2024,D
+Birincil enerji,Pay: petrol / gaz / kömür / yenilenebilir ve diğer,"29,2 / 26,6 / 25,6 / 18,6",%,2024,ETKB denge tablosu,D
+Birincil enerji,Dışa bağımlılık (net ithalat / arz),66.9,%,2024,ETKB denge tablosu (SBB: %67),H
+Birincil enerji,Enerji ithalat faturası (fasıl 27),,milyar $,2025,TÜİK erişilemedi,DY
+Nihai enerji,Sanayi / ulaştırma / konut / ticaret-hizmet / tarım,"31,8 / 28,5 / 24,1 / 10,7 / 4,8",% (enerji dışı hariç),2024,ETKB denge tablosu,H
+Isınma,Doğal gaz tüketimi,59.07,milyar Sm³,2025,EPDK Doğal Gaz Piyasası Gelişim Raporu 2025,D
+Isınma,Doğal gazda konut payı,35.3,%,2025,"EPDK 2025 (20,86 milyar Sm³)",H
+Isınma,Doğal gaz ithalatı / yerli üretim,"58,34 / 3,11",milyar Sm³,2025,EPDK 2025,D
+Isınma,Gaz verilen yerleşim,"81 il, 840 ilçe, 142 belde",—,2025,EPDK 2025,D
+Isınma,Konut nihai enerjisinde gaz / elektrik / kömür / odun,"53,6 / 22,0 / 9,9 / 4,5",%,2024,ETKB denge tablosu,H
+Isınma,Konut doğal gaz fiyatı (vergiler dahil),13.19,TL/Sm³,2025,"EPDK 2025 Tablo 9.1, II. yarıyıl (sanayi 19,29)",D
+Ulaşım,Motorin / benzin / otogaz satışı,"27,08 / 5,70 / 3,28",milyon ton,2025,EPDK Petrol ve LPG Piyasası Gelişim Raporları 2025,D
+Ulaşım,Elektrikli otomobilin yeni kayıt payı,18.6,%,2026,"TÜİK Motorlu Kara Taşıtları, Ocak–Eylül 2026",D
+Ulaşım,Şarj noktası,45871,adet,2026,SBB 2027 Yıllık Programı (Temmuz 2026),D
+Hedef,Ulusal Enerji Planı 2035: kurulu güç / güneş / rüzgâr / nükleer,"189,7 / 52,9 / 29,6 / 7,2",GW,2035,ETKB TUEP (2022),D
+Hedef,Ulusal Enerji Planı 2035: elektrik tüketimi,510.5,TWh,2035,ETKB TUEP,D
+Hedef,Ulusal Enerji Planı 2035: batarya,7.5,GW,2035,ETKB TUEP,D
+Hedef,2050'ler nükleer hedefi (12 büyük reaktör + 5 GW SMR),20,GW,2050,"Bakan açıklaması Kasım 2025; WNA World Nuclear Outlook, Türkiye",İ
+Nükleer,Akkuyu: 4 × VVER-1200; 1. ünitede ilk elektrik hedefi,2026 sonu,—,2026,ETKB Bakanı açıklamaları (Haziran 2026); 2024 ve 2025 hedefleri kaçtı,İ
+Nükleer,Akkuyu 1. ünitede gerçek yakıt yüklemesi (27.10.2026 itibarıyla),doğrulanamadı,—,2026,basın taraması; yalnız temsili yakıt yüklemesi bildirildi,DY
+Nükleer,İlk SMR'nin devreye alınma hedefi,2030'ların ilk yarısı,—,2025,ETKB Bakanı; Daily Sabah,İ
+Nükleer,Nükleer Düzenleme Kanunu,7381,sayı,2022,"RG 08.03.2022, 31772 (mevzuat derleyicileri)",İ
+Nüfus,2050 nüfus projeksiyonu (ana senaryo),93.77,milyon,2050,TÜİK Nüfus Projeksiyonları 2023–2100,İ
+Hedef,Net sıfır,2053,yıl,2021,SBB; TUEP,D
+Sağlık,PM2.5'e bağlı erken ölüm,62644,kişi,2024,"Temiz Hava Hakkı Platformu, Kara Rapor 2025",D
+Sağlık,Kömür santrallerine bağlı erken ölüm,4818,kişi,2019,"HEAL/CREA, Chronic Coal Pollution – Türkiye (2021)",D
+Sağlık,Birincil PM2.5'te konut yanmasının payı,54.0,%,2022,"ÇŞİDB IIR 2024 (1A4bi); kamu elektrik ve ısı üretimi %6,2",D

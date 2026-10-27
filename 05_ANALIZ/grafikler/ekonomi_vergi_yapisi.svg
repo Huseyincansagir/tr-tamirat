@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="777.6pt" height="331.2pt" viewBox="0 0 777.6 331.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-27T19:13:58.338621</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 331.2 
+L 777.6 331.2 
+L 777.6 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 46.656 284.832 
+L 303.264 284.832 
+L 303.264 79.488 
+L 46.656 79.488 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="73.667368" y="295.169891" transform="rotate(-0 73.667368 295.169891)">2008</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="127.690105" y="295.169891" transform="rotate(-0 127.690105 295.169891)">2012</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="181.712842" y="295.169891" transform="rotate(-0 181.712842 295.169891)">2016</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="235.735579" y="295.169891" transform="rotate(-0 235.735579 295.169891)">2020</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="289.758316" y="295.169891" transform="rotate(-0 289.758316 295.169891)">2024</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <path d="M 46.656 284.832 
+L 303.264 284.832 
+" clip-path="url(#p4ad1e24ece)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_7"/>
+     <g id="text_6">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="43.156" y="288.250945" transform="rotate(-0 43.156 288.250945)">%0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <path d="M 46.656 257.4528 
+L 303.264 257.4528 
+" clip-path="url(#p4ad1e24ece)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_9"/>
+     <g id="text_7">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="43.156" y="260.871745" transform="rotate(-0 43.156 260.871745)">%10</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_10">
+      <path d="M 46.656 230.0736 
+L 303.264 230.0736 
+" clip-path="url(#p4ad1e24ece)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_11"/>
+     <g id="text_8">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="43.156" y="233.492545" transform="rotate(-0 43.156 233.492545)">%20</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_12">
+      <path d="M 46.656 202.6944 
+L 303.264 202.6944 
+" clip-path="url(#p4ad1e24ece)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_13"/>
+     <g id="text_9">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="43.156" y="206.113345" transform="rotate(-0 43.156 206.113345)">%30</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_14">
+      <path d="M 46.656 175.3152 
+L 303.264 175.3152 
+" clip-path="url(#p4ad1e24ece)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_15"/>
+     <g id="text_10">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="43.156" y="178.734145" transform="rotate(-0 43.156 178.734145)">%40</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_16">
+      <path d="M 46.656 147.936 
+L 303.264 147.936 
+" clip-path="url(#p4ad1e24ece)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_17"/>
+     <g id="text_11">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="43.156" y="151.354945" transform="rotate(-0 43.156 151.354945)">%50</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_18">
+      <path d="M 46.656 120.5568 
+L 303.264 120.5568 
+" clip-path="url(#p4ad1e24ece)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_19"/>
+     <g id="text_12">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="43.156" y="123.975745" transform="rotate(-0 43.156 123.975745)">%60</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_20">
+      <path d="M 46.656 93.1776 
+L 303.264 93.1776 
+" clip-path="url(#p4ad1e24ece)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_21"/>
+     <g id="text_13">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="43.156" y="96.596545" transform="rotate(-0 43.156 96.596545)">%70</text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_22">
+    <path d="M 46.656 97.476134 
+L 60.161684 103.995122 
+L 73.667368 107.250509 
+L 87.173053 109.049322 
+L 100.678737 98.396076 
+L 114.184421 99.677422 
+L 127.690105 101.982751 
+L 141.195789 95.554115 
+L 154.701474 99.910145 
+L 168.207158 97.331025 
+L 181.712842 100.622004 
+L 195.218526 101.273629 
+L 208.724211 113.074065 
+L 222.229895 115.519027 
+L 235.735579 103.43111 
+L 249.241263 109.711899 
+L 262.746947 115.513551 
+L 276.252632 106.240216 
+L 289.758316 104.652223 
+L 303.264 113.97484 
+" clip-path="url(#p4ad1e24ece)" style="fill: none; stroke: #eb6834; stroke-width: 2.1; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 46.656 128.970428 
+L 60.161684 137.225257 
+L 73.667368 140.518975 
+L 87.173053 140.970732 
+L 100.678737 129.030662 
+L 114.184421 130.755552 
+L 127.690105 134.29842 
+L 141.195789 128.546051 
+L 154.701474 134.44353 
+L 168.207158 132.439373 
+L 181.712842 134.977425 
+L 195.218526 134.818625 
+L 208.724211 147.163907 
+L 222.229895 151.62124 
+L 235.735579 140.896808 
+L 249.241263 146.000291 
+L 262.746947 148.26455 
+L 276.252632 139.86735 
+L 289.758316 143.243205 
+L 303.264 153.39815 
+" clip-path="url(#p4ad1e24ece)" style="fill: none; stroke: #eda100; stroke-width: 2.1; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 46.656 227.111171 
+L 60.161684 223.122021 
+L 73.667368 222.894774 
+L 87.173053 223.790074 
+L 100.678737 232.310481 
+L 114.184421 232.181798 
+L 127.690105 229.350789 
+L 141.195789 231.31114 
+L 154.701474 227.434245 
+L 168.207158 227.259018 
+L 181.712842 227.206998 
+L 195.218526 227.483528 
+L 208.724211 223.603895 
+L 222.229895 218.724922 
+L 235.735579 232.639031 
+L 249.241263 233.208518 
+L 262.746947 243.360726 
+L 276.252632 242.616012 
+L 289.758316 227.576617 
+L 303.264 215.124557 
+" clip-path="url(#p4ad1e24ece)" style="fill: none; stroke: #2a78d6; stroke-width: 2.1; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 46.656 262.611041 
+L 60.161684 260.198934 
+L 73.667368 257.299476 
+L 87.173053 256.21526 
+L 100.678737 257.622551 
+L 114.184421 255.714221 
+L 127.690105 256.332991 
+L 141.195789 260.500105 
+L 154.701474 259.741701 
+L 168.207158 262.416649 
+L 181.712842 259.199593 
+L 195.218526 257.838847 
+L 208.724211 250.175409 
+L 222.229895 252.803812 
+L 235.735579 250.312305 
+L 249.241263 243.004796 
+L 262.746947 225.796969 
+L 276.252632 237.003276 
+L 289.758316 251.467707 
+L 303.264 254.506798 
+" clip-path="url(#p4ad1e24ece)" style="fill: none; stroke: #1baf7a; stroke-width: 2.1; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 46.656 278.625135 
+L 60.161684 278.302061 
+L 73.667368 278.173379 
+L 87.173053 277.425926 
+L 100.678737 278.006365 
+L 114.184421 278.083027 
+L 127.690105 277.948869 
+L 141.195789 278.373247 
+L 154.701474 278.452646 
+L 168.207158 278.532046 
+L 181.712842 278.504667 
+L 195.218526 278.942734 
+L 208.724211 278.767507 
+L 222.229895 278.490977 
+L 235.735579 279.153554 
+L 249.241263 279.870889 
+L 262.746947 281.743626 
+L 276.252632 280.295267 
+L 289.758316 281.869571 
+L 303.264 281.927067 
+" clip-path="url(#p4ad1e24ece)" style="fill: none; stroke: #8a8984; stroke-width: 2.1; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 46.656 284.832 
+L 46.656 79.488 
+" style="fill: none; stroke: #e8e7e3; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 46.656 284.832 
+L 303.264 284.832 
+" style="fill: none; stroke: #8a8984; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #eb6834" x="308.666274" y="115.871415" transform="rotate(-0 308.666274 115.871415)">Dolaylı vergiler (geniş) %62</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #eda100" x="308.666274" y="155.854201" transform="rotate(-0 308.666274 155.854201)">KDV + ÖTV %48</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2a78d6" x="308.666274" y="212.640459" transform="rotate(-0 308.666274 212.640459)">Gelir vergisi %25</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #1baf7a" x="308.666274" y="260.784044" transform="rotate(-0 308.666274 260.784044)">Kurumlar vergisi %11</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.3px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #8a8984" x="308.666274" y="283.823641" transform="rotate(-0 308.666274 283.823641)">Mülkiyet vergileri (MTV, veraset) %1</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="46.656" y="73.488" transform="rotate(-0 46.656 73.488)">Merkezi bütçe vergi gelirleri içindeki pay</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 513.216 284.832 
+L 762.048 284.832 
+L 762.048 79.488 
+L 513.216 79.488 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 513.216 98.294947 
+L 721.890343 98.294947 
+L 721.890343 88.821818 
+L 513.216 88.821818 
+z
+" clip-path="url(#p012d0cff3e)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 513.216 126.157091 
+L 620.280753 126.157091 
+L 620.280753 116.683962 
+L 513.216 116.683962 
+z
+" clip-path="url(#p012d0cff3e)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 513.216 154.019235 
+L 579.998681 154.019235 
+L 579.998681 144.546106 
+L 513.216 144.546106 
+z
+" clip-path="url(#p012d0cff3e)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 513.216 181.881379 
+L 652.490142 181.881379 
+L 652.490142 172.40825 
+L 513.216 172.40825 
+z
+" clip-path="url(#p012d0cff3e)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 513.216 209.743522 
+L 583.51104 209.743522 
+L 583.51104 200.270393 
+L 513.216 200.270393 
+z
+" clip-path="url(#p012d0cff3e)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 513.216 237.605666 
+L 554.182361 237.605666 
+L 554.182361 228.132537 
+L 513.216 228.132537 
+z
+" clip-path="url(#p012d0cff3e)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 513.216 265.46781 
+L 527.179303 265.46781 
+L 527.179303 255.994681 
+L 513.216 255.994681 
+z
+" clip-path="url(#p012d0cff3e)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 513.216 108.325319 
+L 662.701824 108.325319 
+L 662.701824 98.85219 
+L 513.216 98.85219 
+z
+" clip-path="url(#p012d0cff3e)" style="fill: #b9b8b3"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 513.216 136.187463 
+L 611.1936 136.187463 
+L 611.1936 126.714334 
+L 513.216 126.714334 
+z
+" clip-path="url(#p012d0cff3e)" style="fill: #b9b8b3"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 513.216 164.049607 
+L 541.00862 164.049607 
+L 541.00862 154.576478 
+L 513.216 154.576478 
+z
+" clip-path="url(#p012d0cff3e)" style="fill: #b9b8b3"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 513.216 191.91175 
+L 635.062331 191.91175 
+L 635.062331 182.438621 
+L 513.216 182.438621 
+z
+" clip-path="url(#p012d0cff3e)" style="fill: #b9b8b3"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 513.216 219.773894 
+L 626.798238 219.773894 
+L 626.798238 210.300765 
+L 513.216 210.300765 
+z
+" clip-path="url(#p012d0cff3e)" style="fill: #b9b8b3"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 513.216 247.636038 
+L 569.973622 247.636038 
+L 569.973622 238.162909 
+L 513.216 238.162909 
+z
+" clip-path="url(#p012d0cff3e)" style="fill: #b9b8b3"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 513.216 275.498182 
+L 537.611106 275.498182 
+L 537.611106 266.025053 
+L 513.216 266.025053 
+z
+" clip-path="url(#p012d0cff3e)" style="fill: #b9b8b3"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_6">
+     <g id="line2d_27">
+      <path d="M 513.216 284.832 
+L 513.216 79.488 
+" clip-path="url(#p012d0cff3e)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_28"/>
+     <g id="text_20">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="513.216" y="295.169891" transform="rotate(-0 513.216 295.169891)">%0</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_29">
+      <path d="M 561.068308 284.832 
+L 561.068308 79.488 
+" clip-path="url(#p012d0cff3e)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_30"/>
+     <g id="text_21">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="561.068308" y="295.169891" transform="rotate(-0 561.068308 295.169891)">%10</text>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_31">
+      <path d="M 608.920615 284.832 
+L 608.920615 79.488 
+" clip-path="url(#p012d0cff3e)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_32"/>
+     <g id="text_22">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="608.920615" y="295.169891" transform="rotate(-0 608.920615 295.169891)">%20</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_33">
+      <path d="M 656.772923 284.832 
+L 656.772923 79.488 
+" clip-path="url(#p012d0cff3e)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_34"/>
+     <g id="text_23">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="656.772923" y="295.169891" transform="rotate(-0 656.772923 295.169891)">%30</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_35">
+      <path d="M 704.625231 284.832 
+L 704.625231 79.488 
+" clip-path="url(#p012d0cff3e)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_36"/>
+     <g id="text_24">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="704.625231" y="295.169891" transform="rotate(-0 704.625231 295.169891)">%40</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_37">
+      <path d="M 752.477538 284.832 
+L 752.477538 79.488 
+" clip-path="url(#p012d0cff3e)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_38"/>
+     <g id="text_25">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="752.477538" y="295.169891" transform="rotate(-0 752.477538 295.169891)">%50</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_9">
+     <g id="line2d_39"/>
+     <g id="text_26">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="509.716" y="101.612944" transform="rotate(-0 509.716 101.612944)">Mal ve hizmet vergileri</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_40"/>
+     <g id="text_27">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="509.716" y="129.474775" transform="rotate(-0 509.716 129.474775)">  KDV</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_41"/>
+     <g id="text_28">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="509.716" y="157.950356" transform="rotate(-0 509.716 157.950356)">  Özel tüketim vergileri</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_42"/>
+     <g id="text_29">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="509.716" y="185.199375" transform="rotate(-0 509.716 185.199375)">Sosyal güvenlik primleri</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_43"/>
+     <g id="text_30">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="509.716" y="213.061519" transform="rotate(-0 509.716 213.061519)">Kişisel gelir vergisi</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_44"/>
+     <g id="text_31">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="509.716" y="240.923663" transform="rotate(-0 509.716 240.923663)">Kurumlar vergisi</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_45"/>
+     <g id="text_32">
+      <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="509.716" y="268.785806" transform="rotate(-0 509.716 268.785806)">Mülk vergileri</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_20">
+    <path d="M 513.216 284.832 
+L 513.216 79.488 
+" style="fill: none; stroke: #e8e7e3; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 513.216 284.832 
+L 762.048 284.832 
+" style="fill: none; stroke: #8a8984; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2a78d6" x="724.761482" y="95.428695" transform="rotate(-0 724.761482 95.428695)">43,6</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #8a8984" x="665.572962" y="105.459067" transform="rotate(-0 665.572962 105.459067)">31,2</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2a78d6" x="623.151892" y="123.290839" transform="rotate(-0 623.151892 123.290839)">22,4</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #8a8984" x="614.064738" y="133.321211" transform="rotate(-0 614.064738 133.321211)">20,5</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2a78d6" x="582.869819" y="151.152983" transform="rotate(-0 582.869819 151.152983)">14,0</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #8a8984" x="543.879759" y="161.183355" transform="rotate(-0 543.879759 161.183355)">5,8</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2a78d6" x="655.36128" y="179.015127" transform="rotate(-0 655.36128 179.015127)">29,1</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #8a8984" x="637.93347" y="189.045498" transform="rotate(-0 637.93347 189.045498)">25,5</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2a78d6" x="586.382178" y="206.87727" transform="rotate(-0 586.382178 206.87727)">14,7</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #8a8984" x="629.669376" y="216.907642" transform="rotate(-0 629.669376 216.907642)">23,7</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2a78d6" x="557.053499" y="234.739414" transform="rotate(-0 557.053499 234.739414)">8,6</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #8a8984" x="572.844761" y="244.769786" transform="rotate(-0 572.844761 244.769786)">11,9</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #2a78d6" x="530.050442" y="262.601558" transform="rotate(-0 530.050442 262.601558)">2,9</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #8a8984" x="540.482245" y="272.63193" transform="rotate(-0 540.482245 272.63193)">5,1</text>
+   </g>
+   <g id="text_47">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start" x="513.216" y="73.488" transform="rotate(-0 513.216 73.488)">Toplam vergi ve prim gelirindeki pay</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_22">
+     <path d="M 647.500563 264.765625 
+L 662.700563 264.765625 
+L 662.700563 259.445625 
+L 647.500563 259.445625 
+z
+" style="fill: #2a78d6"/>
+    </g>
+    <g id="text_48">
+     <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: start" x="668.780562" y="264.765625" transform="rotate(-0 668.780562 264.765625)">Türkiye 2024</text>
+    </g>
+    <g id="patch_23">
+     <path d="M 647.500563 276.166219 
+L 662.700563 276.166219 
+L 662.700563 270.846219 
+L 647.500563 270.846219 
+z
+" style="fill: #b9b8b3"/>
+    </g>
+    <g id="text_49">
+     <text style="font-size: 7.6px; font-family: 'DejaVu Sans'; text-anchor: start" x="668.780562" y="276.166219" transform="rotate(-0 668.780562 276.166219)">OECD ortalaması 2023</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_50">
+   <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="9.3312" y="17.002734" transform="rotate(-0 9.3312 17.002734)">Vergi yükünün ağırlığı tüketimde; gelir ve mülk vergisi OECD'nin çok altında</text>
+  </g>
+  <g id="text_51">
+   <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="9.3312" y="34.78825" transform="rotate(-0 9.3312 34.78825)">Dolaylı vergilerin bütçe vergi gelirindeki payı 2006'da %68, 2025'te %62. Taşınmaz vergileri GSYH'nin %0,10'u (OECD %0,95).</text>
+  </g>
+  <g id="text_52">
+   <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #8a8984" x="9.3312" y="324.432225" transform="rotate(-0 9.3312 324.432225)">Kaynak: Muhasebat 2006–2025 merkezi yönetim bütçe gelirleri; OECD Revenue Statistics (DF_RSOECD). Geniş tanım: dahilde mal ve hizmet vergileri + dış ticaret vergileri + damga + harç.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p4ad1e24ece">
+   <rect x="46.656" y="79.488" width="256.608" height="205.344"/>
+  </clipPath>
+  <clipPath id="p012d0cff3e">
+   <rect x="513.216" y="79.488" width="248.832" height="205.344"/>
+  </clipPath>
+ </defs>
+</svg>

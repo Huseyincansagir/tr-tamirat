@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="691.2pt" height="331.2pt" viewBox="0 0 691.2 331.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-27T19:14:01.859590</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 331.2 
+L 691.2 331.2 
+L 691.2 0 
+L 0 0 
+z
+" style="fill: #fcfcfb"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 297.216 275.472 
+L 642.816 275.472 
+L 642.816 79.488 
+L 297.216 79.488 
+z
+" style="fill: #fcfcfb"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 297.216 105.082725 
+L 529.72416 105.082725 
+L 529.72416 88.396364 
+L 297.216 88.396364 
+z
+" clip-path="url(#p9a90415411)" style="fill: #eb6834"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 297.216 131.99621 
+L 597.79584 131.99621 
+L 597.79584 115.309849 
+L 297.216 115.309849 
+z
+" clip-path="url(#p9a90415411)" style="fill: #1baf7a"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 297.216 158.909695 
+L 493.03584 158.909695 
+L 493.03584 142.223334 
+L 297.216 142.223334 
+z
+" clip-path="url(#p9a90415411)" style="fill: #b9b8b3"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 297.216 185.82318 
+L 315.46512 185.82318 
+L 315.46512 169.13682 
+L 297.216 169.13682 
+z
+" clip-path="url(#p9a90415411)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 297.216 212.736666 
+L 300.48552 212.736666 
+L 300.48552 196.050305 
+L 297.216 196.050305 
+z
+" clip-path="url(#p9a90415411)" style="fill: #eda100"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 297.216 239.650151 
+L 298.16568 239.650151 
+L 298.16568 222.96379 
+L 297.216 222.96379 
+z
+" clip-path="url(#p9a90415411)" style="fill: #eda100"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 297.216 266.563636 
+L 297.95544 266.563636 
+L 297.95544 249.877275 
+L 297.216 249.877275 
+z
+" clip-path="url(#p9a90415411)" style="fill: #eda100"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 297.216 275.472 
+L 297.216 79.488 
+" clip-path="url(#p9a90415411)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="297.216" y="285.809891" transform="rotate(-0 297.216 285.809891)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 369.216 275.472 
+L 369.216 79.488 
+" clip-path="url(#p9a90415411)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="369.216" y="285.809891" transform="rotate(-0 369.216 285.809891)">100</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 441.216 275.472 
+L 441.216 79.488 
+" clip-path="url(#p9a90415411)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="441.216" y="285.809891" transform="rotate(-0 441.216 285.809891)">200</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 513.216 275.472 
+L 513.216 79.488 
+" clip-path="url(#p9a90415411)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="513.216" y="285.809891" transform="rotate(-0 513.216 285.809891)">300</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 585.216 275.472 
+L 585.216 79.488 
+" clip-path="url(#p9a90415411)" style="fill: none; stroke: #e8e7e3; stroke-width: 0.7; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="585.216" y="285.809891" transform="rotate(-0 585.216 285.809891)">400</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #52514e" x="470.016" y="298.810594" transform="rotate(-0 470.016 298.810594)">milyon TL / yıl (2025 fiyatları)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_11"/>
+     <g id="text_7">
+      <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="293.716" y="100.483357" transform="rotate(-0 293.716 100.483357)">Hanehalkının ödediği KDV + ÖTV (tahmin)</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_12"/>
+     <g id="text_8">
+      <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="293.716" y="126.87217" transform="rotate(-0 293.716 126.87217)">Hanehalkına giden sosyal yardımlar (çoğu emekli aylığı)</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_13"/>
+     <g id="text_9">
+      <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="293.716" y="153.681874" transform="rotate(-0 293.716 153.681874)">Temel gelir: kişi başı açlık sınırının yarısı (seçenek)</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_14"/>
+     <g id="text_10">
+      <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="293.716" y="180.699141" transform="rotate(-0 293.716 180.699141)">Arsa değer vergisi, GSYH'nin %0,5'i (seçenek)</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_15"/>
+     <g id="text_11">
+      <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="293.716" y="207.508845" transform="rotate(-0 293.716 207.508845)">Bugünkü emlak vergisi (bina + arsa + arazi)</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_16"/>
+     <g id="text_12">
+      <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="293.716" y="234.42233" transform="rotate(-0 293.716 234.42233)">Bugünkü harcamalara katılma payları</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_17"/>
+     <g id="text_13">
+      <text style="font-size: 8.2px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #52514e" x="293.716" y="261.335815" transform="rotate(-0 293.716 261.335815)">Bugünkü arsa vergisi</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_10">
+    <path d="M 297.216 275.472 
+L 297.216 79.488 
+" style="fill: none; stroke: #e8e7e3; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 297.216 275.472 
+L 642.816 275.472 
+" style="fill: none; stroke: #8a8984; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="533.32416" y="98.817669" transform="rotate(-0 533.32416 98.817669)">322,9 mn TL</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="601.39584" y="125.731154" transform="rotate(-0 601.39584 125.731154)">417,5 mn TL</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="496.63584" y="152.64464" transform="rotate(-0 496.63584 152.64464)">272,0 mn TL</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="319.06512" y="179.558125" transform="rotate(-0 319.06512 179.558125)">25,3 mn TL</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="304.08552" y="206.47161" transform="rotate(-0 304.08552 206.47161)">4,5 mn TL</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="301.76568" y="233.385096" transform="rotate(-0 301.76568 233.385096)">1,3 mn TL</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="301.55544" y="260.298581" transform="rotate(-0 301.55544 260.298581)">1,0 mn TL</text>
+   </g>
+  </g>
+  <g id="text_21">
+   <text style="font-weight: 700; font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #0b0b0b" x="8.2944" y="16.873828" transform="rotate(-0 8.2944 16.873828)">Bir mahalle (≈7 bin kişi) yılda emlak vergisinin 71 katı tüketim vergisi ödüyor</text>
+  </g>
+  <g id="text_22">
+   <text style="font-size: 8.8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #52514e" x="8.2944" y="34.899625" transform="rotate(-0 8.2944 34.899625)">Ulusal toplamların kişi başı değeri × model mahalle nüfusu (6.925). Arsa değer vergisi eklenirse oran ≈11 kata iner; bu gelir belediyede kalır.</text>
+  </g>
+  <g id="text_23">
+   <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #8a8984" transform="translate(8.2944 315.627412)">Kaynak: 05_ANALIZ/sonuclar/ekonomi_kademe_parametre.csv — TÜİK sektör hesapları 2025, Muhasebat mahalli idareler 2025, ekonomi_dagilim.py, Dünya Bankası GSYH 2025,</text>
+   <text style="font-size: 7.2px; font-family: 'DejaVu Sans'; fill: #8a8984" transform="translate(8.2944 325.166288)">ADNKS 2025.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9a90415411">
+   <rect x="297.216" y="79.488" width="345.6" height="195.984"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,16 @@
+gelir_turu,ornek,yillik_brut_tl,vergi_tl,etkin_vergi_pct,vergi_ve_isci_primi_pct,isaret
+ücret,asgari ücretin 1 katı,396360.0,0.0,0.0,15.0,H
+ücret,"asgari ücretin 1,5 katı",594540.0,42569.92,7.16,22.16,H
+ücret,asgari ücretin 2 katı,792720.0,89556.41,11.3,26.3,H
+ücret,asgari ücretin 3 katı,1189080.0,183529.4,15.43,30.43,H
+ücret,asgari ücretin 5 katı,1981800.0,386237.79,19.49,34.49,H
+ücret,asgari ücretin 10 katı,3963600.0,990865.15,25.0,40.0,H
+konut kirası (beyan),yıllık 150.000 TL,150000.0,11730.0,7.82,7.82,H
+konut kirası (beyan),yıllık 300.000 TL,300000.0,31640.0,10.55,10.55,H
+konut kirası (beyan),yıllık 600.000 TL,600000.0,86889.0,14.48,14.48,H
+konut kirası (beyan),yıllık 1.200.000 TL,1200000.0,224589.0,18.72,18.72,H
+mevduat faizi (stopaj),"TL mevduat, uzun vade",,,10.0,10.0,D
+mevduat faizi (stopaj),"TL mevduat, kısa vade",,,17.5,17.5,D
+temettü (stopaj),"gerçek kişi, nihai",,,15.0,15.0,D
+BIST hisse satış kazancı,1 yıldan kısa,,,0.0,0.0,D
+enflasyona endeksli mevduat,1 yıldan uzun,,,0.0,0.0,D

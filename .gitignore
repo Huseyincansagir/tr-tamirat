@@ -8,6 +8,13 @@
 03_VERI/islenmis/uydu/*.tif
 03_VERI/islenmis/pilot_osm/
 03_VERI/islenmis/osm_kavsaklar.parquet
+03_VERI/islenmis/ulusal_altyapi/*.tif
+03_VERI/islenmis/ulusal_altyapi/yollar.gpkg
+
+# Üçüncü taraf belgeleri (telif kurumlarında) — kaynaklar.md'de adıyla listeli, kurum sitesinden indirilir
+03_VERI/ham/ekonomi/**/*.pdf
+03_VERI/ham/enerji/**/*.pdf
+03_VERI/ham/stres/literatur/
 
 # Python
 __pycache__/
