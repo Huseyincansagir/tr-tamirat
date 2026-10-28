@@ -43,3 +43,16 @@ MEDAS bir ZK arayüzü. Seçimler, tarayıcıda ZK istemci API'si (`zk.Widget.$(
 ## Sınırlar
 
 geoBoundaries gbOpen TUR ADM2 (OSM, 2021; 973 birim), ADM1 (81 il).
+
+## İlçe nüfusu 2014–2025 (MEDAS, 28 Ekim 2026)
+
+- **Ölçüm:** ADNKS → "İBBS-Düzey1, İBBS-Düzey2, İl ve İlçe Nüfusları", ölçüm düzeyindeki toplam gösterge (kırılımsız). Zaman: yıllık 2014–2025. Düzey: İlçe Düzeyi, HEPSİ (976 öğe).
+- **Okuma:** Yerleşik tarayıcıda; pivot raporun 389 sayfası (30 satır) ZK `onPaging` ile gezildi. Satır başlığındaki ilçe etiketi TÜİK ilçe kodunu taşıyor ("Adana(Aladağ)-1757").
+- **Dosyalar:**
+  - Ham uzun biçim: `03_VERI/ham/tuik/medas_ilce_nufus_2014_2025.csv` (11.666 satır).
+  - Geniş biçim: `03_VERI/islenmis/ilce_nufus_2014_2025.csv`.
+- **Doğrulama:**
+  - Yıllık Türkiye toplamları ADNKS bültenleriyle aynı (2014: 77.695.904 … 2025: 86.092.168).
+  - 2024 ve 2025 değerleri SDMX (DF_ADNKS_T22) ile 973 ilçenin tamamında birebir aynı.
+  - 2105, 2106, 2107 kodlu üç ilçe 2017'de kuruldu; 2014–2016 değerleri yok.
+- **Not:** SDMX'teki ilçe akışları (T22, T38) yalnız 2024–2025'i içeriyor.

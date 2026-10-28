@@ -1,0 +1,187 @@
+degisken,kaynak,aciklama,dolu_ilce
+gid,ilce_paneli_genis.csv,,973
+ilce_kod,ilce_paneli_genis.csv,,973
+ilce_ad_tuik,ilce_paneli_genis.csv,,973
+ibbs3_kod,ilce_paneli_genis.csv,,973
+il,ilce_paneli_genis.csv,,973
+dogum_2014,ilce_paneli_genis.csv,,970
+dogum_2015,ilce_paneli_genis.csv,,970
+dogum_2016,ilce_paneli_genis.csv,,970
+dogum_2017,ilce_paneli_genis.csv,,972
+dogum_2018,ilce_paneli_genis.csv,,973
+dogum_2019,ilce_paneli_genis.csv,,973
+dogum_2020,ilce_paneli_genis.csv,,973
+dogum_2021,ilce_paneli_genis.csv,,973
+dogum_2022,ilce_paneli_genis.csv,,973
+dogum_2023,ilce_paneli_genis.csv,,973
+dogum_2024,ilce_paneli_genis.csv,,973
+dogum_2025,ilce_paneli_genis.csv,,973
+nufus_2024,ilce_paneli_genis.csv,,973
+nufus_2025,ilce_paneli_genis.csv,,973
+merkez_nufus_2024,ilce_paneli_genis.csv,,973
+merkez_nufus_2025,ilce_paneli_genis.csv,,973
+shapeName,ilce_paneli_genis.csv,,973
+shapeID,ilce_paneli_genis.csv,,973
+il_gb,ilce_paneli_genis.csv,,973
+alan_km2,ilce_paneli_genis.csv,,973
+ghs_nufus,ilce_paneli_genis.csv,,973
+yapili_ha,ilce_paneli_genis.csv,,973
+yuk_ort_yapili,ilce_paneli_genis.csv,,973
+yuk_nufus_agirlikli,ilce_paneli_genis.csv,,973
+pay_h15p,ilce_paneli_genis.csv,,973
+pay_h9p,ilce_paneli_genis.csv,,973
+pay_h6alt,ilce_paneli_genis.csv,,973
+yasanan_yogunluk,ilce_paneli_genis.csv,,973
+medas_nufus,ilce_paneli_genis.csv,,973
+kadin_toplam,ilce_paneli_genis.csv,,973
+kadin_15_49,ilce_paneli_genis.csv,,973
+cocuk_0_4,ilce_paneli_genis.csv,,973
+beklenen_dogum_2025,ilce_paneli_genis.csv,,973
+nufus_65p,ilce_paneli_genis.csv,,973
+kadin15p_bilinen,ilce_paneli_genis.csv,,973
+kadin15p_bilinmeyen,ilce_paneli_genis.csv,,973
+kadin15p_yuksek,ilce_paneli_genis.csv,,973
+kadin15p_liseust,ilce_paneli_genis.csv,,973
+kadin15p_oyb,ilce_paneli_genis.csv,,973
+kadin15p_egitim_yil,ilce_paneli_genis.csv,,973
+cwr,ilce_paneli_genis.csv,,973
+tdh_ilce,ilce_paneli_genis.csv,"Toplam doğurganlık hızı, ilçe (Rapor 03)",973
+tdh_ilce_2y,ilce_paneli_genis.csv,,973
+gdh,ilce_paneli_genis.csv,,973
+yukseklik,ilce_paneli_genis.csv,"Nüfus ağırlıklı bina yüksekliği (GHSL, m)",973
+ln_yogunluk,ilce_paneli_genis.csv,ln yaşanan yoğunluk,973
+merkez_pay,ilce_paneli_genis.csv,İl merkezi ilçe payı,973
+egitim,ilce_paneli_genis.csv,Kadın 15+ ortalama eğitim yılı,973
+yuksek_pay,ilce_paneli_genis.csv,,973
+artis,ilce_paneli_genis.csv,Nüfus artışı (göç vekili),973
+yasli_pay,ilce_paneli_genis.csv,65+ payı,973
+dogu,ilce_paneli_genis.csv,,973
+buyuksehir,ilce_paneli_genis.csv,,973
+agirlik,ilce_paneli_genis.csv,,973
+yuk_sinif,ilce_paneli_genis.csv,,973
+nufus_medas_2024,ilce_paneli_genis.csv,,973
+olum_2024,ilce_paneli_genis.csv,,973
+olum_2025,ilce_paneli_genis.csv,"Gözlenen ölüm, 2025",973
+beklenen_olum_2024,ilce_paneli_genis.csv,,973
+beklenen_olum_2025,ilce_paneli_genis.csv,"Ülke yaş-cinsiyet oranlarıyla beklenen ölüm, 2025",973
+nufus_20_34,ilce_paneli_genis.csv,,973
+nufus_25_64,ilce_paneli_genis.csv,,973
+nufus_0_14,ilce_paneli_genis.csv,,973
+nufus_75p,ilce_paneli_genis.csv,,973
+evlenme_2014,ilce_paneli_genis.csv,,969
+evlenme_2015,ilce_paneli_genis.csv,,969
+evlenme_2016,ilce_paneli_genis.csv,,970
+evlenme_2017,ilce_paneli_genis.csv,,970
+evlenme_2018,ilce_paneli_genis.csv,,972
+evlenme_2019,ilce_paneli_genis.csv,,973
+evlenme_2020,ilce_paneli_genis.csv,,973
+evlenme_2021,ilce_paneli_genis.csv,,973
+evlenme_2022,ilce_paneli_genis.csv,,973
+evlenme_2023,ilce_paneli_genis.csv,,972
+evlenme_2024,ilce_paneli_genis.csv,,973
+evlenme_2025,ilce_paneli_genis.csv,,972
+bosanma_2014,ilce_paneli_genis.csv,,965
+bosanma_2015,ilce_paneli_genis.csv,,967
+bosanma_2016,ilce_paneli_genis.csv,,969
+bosanma_2017,ilce_paneli_genis.csv,,968
+bosanma_2018,ilce_paneli_genis.csv,,971
+bosanma_2019,ilce_paneli_genis.csv,,970
+bosanma_2020,ilce_paneli_genis.csv,,969
+bosanma_2021,ilce_paneli_genis.csv,,973
+bosanma_2022,ilce_paneli_genis.csv,,973
+bosanma_2023,ilce_paneli_genis.csv,,973
+bosanma_2024,ilce_paneli_genis.csv,,973
+bosanma_2025,ilce_paneli_genis.csv,,971
+pop,ilce_paneli_genis.csv,,973
+pop_yesil300,ilce_paneli_genis.csv,,973
+yapili,ilce_paneli_genis.csv,,973
+yesil_hucre,ilce_paneli_genis.csv,,973
+kavsak,ilce_paneli_genis.csv,,973
+ibadethane,ilce_paneli_genis.csv,,973
+okul,ilce_paneli_genis.csv,,973
+yesil300_pay,ilce_paneli_genis.csv,,973
+kavsak_km2_yapili,ilce_paneli_genis.csv,,973
+yesil_m2_kisi,ilce_paneli_genis.csv,,973
+hane_toplam,ilce_paneli_genis.csv,,973
+hane_tek_kisi,ilce_paneli_genis.csv,,973
+hane_tek_cekirdek,ilce_paneli_genis.csv,,973
+hane_genis,ilce_paneli_genis.csv,,973
+hane_cekirdeksiz,ilce_paneli_genis.csv,,973
+hane_esler_cocuk,ilce_paneli_genis.csv,,973
+hane_sadece_esler,ilce_paneli_genis.csv,,973
+hane_tek_ebeveyn,ilce_paneli_genis.csv,,973
+k2534_bekar,ilce_paneli_genis.csv,,973
+k2534_evli,ilce_paneli_genis.csv,,973
+k2534_bosanmis,ilce_paneli_genis.csv,,973
+k3544_bekar,ilce_paneli_genis.csv,,973
+k3544_evli,ilce_paneli_genis.csv,,973
+k3544_bosanmis,ilce_paneli_genis.csv,,973
+smr,ilce_paneli_genis.csv,"Yaşa standartlaştırılmış ölüm oranı, gözlenen / beklenen ölüm, 2024–2025 (Rapor 07)",973
+evlenme_hiz,ilce_paneli_genis.csv,,972
+bosanma_hiz,ilce_paneli_genis.csv,,971
+yesil300,ilce_paneli_genis.csv,,973
+ln_kavsak,ilce_paneli_genis.csv,,973
+yasli75_pay,ilce_paneli_genis.csv,,973
+tek_kisi_pay,ilce_paneli_genis.csv,,973
+genis_aile_pay,ilce_paneli_genis.csv,,973
+ort_hane,ilce_paneli_genis.csv,,973
+k2534_bekar_pay,ilce_paneli_genis.csv,,973
+k3544_bosanmis_pay,ilce_paneli_genis.csv,,973
+kavsak_yog,ilce_fue_lite.csv,,973
+temel15,ilce_fue_lite.csv,,973
+yukseklik_m,ilce_fue_lite.csv,,973
+yuksek_pay15,ilce_fue_lite.csv,,973
+anayol100,ilce_fue_lite.csv,,973
+zemin_pay,ilce_fue_lite.csv,,973
+oyun320,ilce_fue_lite.csv,,973
+okul400,ilce_fue_lite.csv,,973
+esnaf1000,ilce_fue_lite.csv,,973
+karma150,ilce_fue_lite.csv,,973
+cami400,ilce_fue_lite.csv,,973
+bulusma320,ilce_fue_lite.csv,,973
+ulasim,ilce_fue_lite.csv,,973
+yayilma,ilce_fue_lite.csv,,973
+rayli640,ilce_fue_lite.csv,,973
+pm25,ilce_fue_lite.csv,"PM2.5, nüfus ağırlıklı, 2022–2024 (µg/m³, ACAG)",973
+agac300,ilce_fue_lite.csv,300 m içinde ağaç örtüsü (%),973
+lst,ilce_fue_lite.csv,"Yaz yüzey sıcaklığı, nüfus ağırlıklı (°C, MODIS)",973
+lst_fark,ilce_fue_lite.csv,,973
+yapili300,ilce_fue_lite.csv,300 m içinde yapılı alan (%),973
+B1,ilce_fue_lite.csv,,973
+B2,ilce_fue_lite.csv,,973
+B3,ilce_fue_lite.csv,,973
+B4,ilce_fue_lite.csv,,973
+B5,ilce_fue_lite.csv,,973
+B6,ilce_fue_lite.csv,,973
+FUE_lite,ilce_fue_lite.csv,,973
+FUE_lite_yuksekliksiz,ilce_fue_lite.csv,,973
+E_lite,ilce_fue_lite.csv,FUE erişim ekseni (0–100),973
+C_lite,ilce_fue_lite.csv,FUE çevre-ölçek ekseni v0.1 (0–100),973
+C_lite_v2,ilce_fue_lite.csv,"FUE çevre-ölçek ekseni v0.2, uydu göstergeleriyle (0–100; Rapor 13)",973
+FUE_lite_v2,ilce_fue_lite.csv,FUE v0.2 bileşik endeks,973
+yesil300w,ilce_uydu.csv,,973
+lst_alan,ilce_uydu.csv,,973
+s_pm25,stres_ilce_endeks.csv,,973
+s_isi,stres_ilce_endeks.csv,,973
+s_anayol,stres_ilce_endeks.csv,,973
+s_yapili,stres_ilce_endeks.csv,,973
+s_yesilsiz,stres_ilce_endeks.csv,,973
+s_yukseklik,stres_ilce_endeks.csv,,973
+s_yogunluk,stres_ilce_endeks.csv,,973
+KSY,stres_ilce_endeks.csv,Kentsel stres yükü endeksi (Rapor 14),973
+KSY_nufus,stres_ilce_endeks.csv,,973
+KSY_z,stres_ilce_endeks.csv,,973
+KSY_cevre,stres_ilce_endeks.csv,,973
+KSY_bicim,stres_ilce_endeks.csv,,973
+KSY_pca,stres_ilce_endeks.csv,,973
+KSY_dilim,stres_ilce_endeks.csv,,973
+egim_ort,ulusal_altyapi/izgara_*.tif (bu betik),Nüfus ağırlıklı eğim (%),973
+fay1km_pay,ulusal_altyapi/izgara_*.tif (bu betik),Diri faya ≤ 1 km nüfus payı (%),973
+fay5km_pay,ulusal_altyapi/izgara_*.tif (bu betik),Diri faya ≤ 5 km nüfus payı (%),973
+taskin_pay,ulusal_altyapi/izgara_*.tif (bu betik),100 yıllık taşkın alanında nüfus payı (%),973
+istasyon_km,ulusal_altyapi/izgara_*.tif (bu betik),"En yakın demiryolu istasyonu, nüfus ağırlıklı (km)",973
+hizli_tren_km,ulusal_altyapi/izgara_*.tif (bu betik),En yakın hızlı tren istasyonu (km),973
+havalimani_dk,ulusal_altyapi/izgara_*.tif (bu betik),En yakın havalimanına süre (dk),972
+yuk_limani_km,ulusal_altyapi/izgara_*.tif (bu betik),En yakın yük limanı (km),973
+sanayi_km,ulusal_altyapi/izgara_*.tif (bu betik),En yakın sanayi alanı (km),973
+izgara_nufus,ulusal_altyapi/izgara_*.tif (bu betik),Izgaradaki nüfus (TÜİK 2025'e ölçekli GHSL),973

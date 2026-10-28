@@ -27,8 +27,8 @@ Payların anlamı: **Güçlü** (bu projede sağlam ilişki bulundu) · **Orta**
 | Vizyon | Gösterge | Türkiye bugün | 2050 hedefi [V] | Mekânın payı | İlgili rapor |
 |---|---|---|---|---|---|
 | **İnsanlar sağlıklıdır** | Sağlıklı yaşam süresi (faaliyet kısıtlılığı olmadan) | 58,0 yıl (2023–2025) | ≥ 65 yıl | Orta | 13, 14 |
-|  | Yaşa standardize ölüm oranı, ilçeler arası fark | il içinde PM2.5 1 SS → SMR +0,23 SS | Ç ekseninde en kötü çeyrekteki ilçe nüfusunu yarıya indirmek | **Güçlü** | 13 |
-|  | Yıllık PM2.5 maruziyeti | 20,6 µg/m³ (2023; DSÖ kılavuzu 5) | ≤ 10 µg/m³ (DSÖ ara hedef 4) | **Güçlü** | 13, 17, 18 |
+|  | Yaşa standardize ölüm oranı, ilçeler arası fark | il içinde PM2.5 1 SS → SMR +0,23 SS | Ç ekseninde en kötü çeyrekteki ilçe nüfusunu yarıya indirmek (≈ 5.100–8.600 önlenen ölüm/yıl [H]) | **Güçlü** | 13, 25 |
+|  | Yıllık PM2.5 maruziyeti | 20,6 µg/m³ (2023; DSÖ kılavuzu 5) | ≤ 10 µg/m³ (DSÖ ara hedef 4; ≈ 43 bin önlenen ölüm/yıl [H]) | **Güçlü** | 13, 17, 18, 25 |
 |  | İş dışında aerobik aktivite yapmayanlar (15+) | %86,6 (2025) | ≤ %50 | Orta (yürünebilirlik, yeşil) | 10, 15 |
 | **Kronik hastalıklar azdır** | Obezite (15+) | %21,8 (2025) | ≤ %15 | Orta | 10, 13 |
 |  | Diyabet, 30+ yaşa standardize | %22,2 (2022, DSÖ) | artışı durdurmak, ≤ %18 | Orta | 10 |

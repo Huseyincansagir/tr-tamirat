@@ -1,0 +1,18 @@
+yaklasim,model,senaryo,senaryo_ad,b_puan_basi,b_sh,beta_z,p,onlenen_olum,alt_95,ust_95,toplam_olum_pay_pct,etkilenen_ilce,etkilenen_nufus,ort_deltaC_etkilenen
+Ç v0.2 (ekolojik),M1 il SE + eğitim + göç,S1,Ç'de en kötü çeyrek → ulusal medyan,-0.0039,0.0004,-0.4093,0.0,17165.7032,13447.5312,20883.8751,3.4912,243,58393274.0,14.6883
+Ç v0.2 (ekolojik),M1 il SE + eğitim + göç,S2,Her ilçe → ilinin 75. yüzdeliği (il içi),-0.0039,0.0004,-0.4093,0.0,23911.1554,18731.8868,29090.424,4.8631,700,78789661.0,10.963
+Ç v0.2 (ekolojik),M1 il SE + eğitim + göç,S3,Medyanın altı → medyan,-0.0039,0.0004,-0.4093,0.0,19086.4474,14952.2332,23220.6616,3.8819,486,75880264.0,9.3034
+Ç v0.2 (ekolojik),M2 + ln yoğunluk,S1,Ç'de en kötü çeyrek → ulusal medyan,-0.0035,0.0006,-0.3626,0.0,15209.8763,10095.6772,20324.0755,3.0934,243,58393274.0,14.6883
+Ç v0.2 (ekolojik),M2 + ln yoğunluk,S2,Her ilçe → ilinin 75. yüzdeliği (il içi),-0.0035,0.0006,-0.3626,0.0,21186.7649,14062.8848,28310.645,4.309,700,78789661.0,10.963
+Ç v0.2 (ekolojik),M2 + ln yoğunluk,S3,Medyanın altı → medyan,-0.0035,0.0006,-0.3626,0.0,16911.7747,11225.3258,22598.2236,3.4396,486,75880264.0,9.3034
+Ç v0.2 (ekolojik),M3 + kentsellik ve yaş yapısı,S1,Ç'de en kötü çeyrek → ulusal medyan,-0.0023,0.0006,-0.2428,0.0001,10184.1153,4988.2639,15379.9666,2.0713,243,58393274.0,14.6883
+Ç v0.2 (ekolojik),M3 + kentsellik ve yaş yapısı,S2,Her ilçe → ilinin 75. yüzdeliği (il içi),-0.0023,0.0006,-0.2428,0.0001,14186.0756,6948.4572,21423.694,2.8852,700,78789661.0,10.963
+Ç v0.2 (ekolojik),M3 + kentsellik ve yaş yapısı,S3,Medyanın altı → medyan,-0.0023,0.0006,-0.2428,0.0001,11323.6596,5546.4221,17100.8971,2.303,486,75880264.0,9.3034
+PM2.5 literatür (Chen ve Hoek 2020),"RR 1,08/10 µg; hedef 10 µg/m³",PM10,PM2.5 her ilçede ≤ 10 µg/m³,,,,,43202.9509,33134.67,48071.6782,8.7867,973,86092168.0,
+PM2.5 ekolojik (bu proje),M1 il SE + eğitim + göç,PM10,PM2.5 her ilçede ≤ 10 µg/m³,0.0089,0.0013,0.3671,0.0,52625.4367,38148.0796,67102.7937,10.7031,973,86092168.0,
+PM2.5 ekolojik (bu proje),M2 + ln yoğunluk,PM10,PM2.5 her ilçede ≤ 10 µg/m³,0.0075,0.0015,0.3078,0.0,44130.3273,26357.4633,61903.1912,8.9753,973,86092168.0,
+PM2.5 ekolojik (bu proje),M3 + kentsellik ve yaş yapısı,PM10,PM2.5 her ilçede ≤ 10 µg/m³,0.0055,0.0015,0.2269,0.0001,32522.2935,15745.9444,49298.6425,6.6145,973,86092168.0,
+PM2.5 literatür (Chen ve Hoek 2020),"RR 1,08/10 µg; hedef 5 µg/m³",PM5,PM2.5 her ilçede ≤ 5 µg/m³,,,,,60132.9092,46301.5186,66780.4577,12.23,973,86092168.0,
+PM2.5 ekolojik (bu proje),M1 il SE + eğitim + göç,PM5,PM2.5 her ilçede ≤ 5 µg/m³,0.0089,0.0013,0.3671,0.0,74552.9765,54043.3118,95062.6411,15.1628,973,86092168.0,
+PM2.5 ekolojik (bu proje),M2 + ln yoğunluk,PM5,PM2.5 her ilçede ≤ 5 µg/m³,0.0075,0.0015,0.3078,0.0,62518.1938,37339.8772,87696.5105,12.7151,973,86092168.0,
+PM2.5 ekolojik (bu proje),M3 + kentsellik ve yaş yapısı,PM5,PM2.5 her ilçede ≤ 5 µg/m³,0.0055,0.0015,0.2269,0.0001,46073.4187,22306.8367,69840.0007,9.3705,973,86092168.0,

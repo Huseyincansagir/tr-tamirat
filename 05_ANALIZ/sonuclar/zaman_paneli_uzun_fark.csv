@@ -1,0 +1,41 @@
+sonuc,sonuc_ad,bicim,bicim_ad,ornek,kontrol,b_1ss,sh,p,n,yildiz,ort_bas,ort_degisim
+kdh,Kaba doğum hızı (‰),yukseklik,"Bina yüksekliği (GHSL 2018, m)",tümü,başlangıç kontrollü,0.0343,0.0985,0.7279,970,,17.0638,-6.1668
+kdh,Kaba doğum hızı (‰),yukseklik,"Bina yüksekliği (GHSL 2018, m)",tümü,başlangıç kontrolsüz,-0.314,0.1984,0.1135,970,,17.0638,-6.1668
+kdh,Kaba doğum hızı (‰),yukseklik,"Bina yüksekliği (GHSL 2018, m)",tümü,başlangıç + yaş yapısı,0.0043,0.0875,0.9609,970,,17.0638,-6.1668
+kdh,Kaba doğum hızı (‰),yukseklik,"Bina yüksekliği (GHSL 2018, m)",deprem bölgesi hariç,başlangıç kontrollü,0.0307,0.0915,0.7373,846,,15.8747,-5.847
+kdh,Kaba doğum hızı (‰),yukseklik,"Bina yüksekliği (GHSL 2018, m)",en hızlı büyüyen %10 hariç,başlangıç kontrollü,0.1569,0.0809,0.0524,873,†,16.5819,-5.9908
+kdh,Kaba doğum hızı (‰),C_lite_v2,Çevre-ölçek ekseni Ç v0.2,tümü,başlangıç kontrollü,-0.242,0.1245,0.0519,970,†,17.0638,-6.1668
+kdh,Kaba doğum hızı (‰),C_lite_v2,Çevre-ölçek ekseni Ç v0.2,tümü,başlangıç kontrolsüz,0.4852,0.2304,0.0352,970,*,17.0638,-6.1668
+kdh,Kaba doğum hızı (‰),C_lite_v2,Çevre-ölçek ekseni Ç v0.2,tümü,başlangıç + yaş yapısı,-0.2118,0.1048,0.0433,970,*,17.0638,-6.1668
+kdh,Kaba doğum hızı (‰),C_lite_v2,Çevre-ölçek ekseni Ç v0.2,deprem bölgesi hariç,başlangıç kontrollü,-0.2382,0.0991,0.0163,846,*,15.8747,-5.847
+kdh,Kaba doğum hızı (‰),C_lite_v2,Çevre-ölçek ekseni Ç v0.2,en hızlı büyüyen %10 hariç,başlangıç kontrollü,-0.2741,0.0658,0.0,873,***,16.5819,-5.9908
+kdh,Kaba doğum hızı (‰),E_lite,Erişim ekseni E,tümü,başlangıç kontrollü,0.092,0.081,0.2565,970,,17.0638,-6.1668
+kdh,Kaba doğum hızı (‰),E_lite,Erişim ekseni E,tümü,başlangıç kontrolsüz,-0.4682,0.228,0.04,970,*,17.0638,-6.1668
+kdh,Kaba doğum hızı (‰),E_lite,Erişim ekseni E,tümü,başlangıç + yaş yapısı,0.0379,0.0813,0.6411,970,,17.0638,-6.1668
+kdh,Kaba doğum hızı (‰),E_lite,Erişim ekseni E,deprem bölgesi hariç,başlangıç kontrollü,0.0852,0.0784,0.2771,846,,15.8747,-5.847
+kdh,Kaba doğum hızı (‰),E_lite,Erişim ekseni E,en hızlı büyüyen %10 hariç,başlangıç kontrollü,0.1473,0.0733,0.0444,873,*,16.5819,-5.9908
+kdh,Kaba doğum hızı (‰),d_ln_yogunluk,Yoğunluk değişimi 2000→2020 (GHSL),tümü,başlangıç kontrollü,-0.062,0.0886,0.4839,970,,17.0638,-6.1668
+kdh,Kaba doğum hızı (‰),d_ln_yogunluk,Yoğunluk değişimi 2000→2020 (GHSL),tümü,başlangıç kontrolsüz,-0.6888,0.1073,0.0,970,***,17.0638,-6.1668
+kdh,Kaba doğum hızı (‰),d_ln_yogunluk,Yoğunluk değişimi 2000→2020 (GHSL),tümü,başlangıç + yaş yapısı,-0.1301,0.0744,0.0803,970,†,17.0638,-6.1668
+kdh,Kaba doğum hızı (‰),d_ln_yogunluk,Yoğunluk değişimi 2000→2020 (GHSL),deprem bölgesi hariç,başlangıç kontrollü,0.0385,0.0655,0.5572,846,,15.8747,-5.847
+kdh,Kaba doğum hızı (‰),d_ln_yogunluk,Yoğunluk değişimi 2000→2020 (GHSL),en hızlı büyüyen %10 hariç,başlangıç kontrollü,0.0226,0.0697,0.7458,873,,16.5819,-5.9908
+keh,Kaba evlenme hızı (‰),yukseklik,"Bina yüksekliği (GHSL 2018, m)",tümü,başlangıç kontrollü,-0.1741,0.1191,0.1438,970,,7.5909,-1.0144
+keh,Kaba evlenme hızı (‰),yukseklik,"Bina yüksekliği (GHSL 2018, m)",tümü,başlangıç kontrolsüz,-0.2496,0.1225,0.0416,970,*,7.5909,-1.0144
+keh,Kaba evlenme hızı (‰),yukseklik,"Bina yüksekliği (GHSL 2018, m)",tümü,başlangıç + yaş yapısı,-0.235,0.1276,0.0655,970,†,7.5909,-1.0144
+keh,Kaba evlenme hızı (‰),yukseklik,"Bina yüksekliği (GHSL 2018, m)",deprem bölgesi hariç,başlangıç kontrollü,-0.2182,0.1261,0.0836,846,†,7.4746,-0.9693
+keh,Kaba evlenme hızı (‰),yukseklik,"Bina yüksekliği (GHSL 2018, m)",en hızlı büyüyen %10 hariç,başlangıç kontrollü,-0.2874,0.1278,0.0245,873,*,7.6166,-1.0592
+keh,Kaba evlenme hızı (‰),C_lite_v2,Çevre-ölçek ekseni Ç v0.2,tümü,başlangıç kontrollü,0.1427,0.1229,0.2455,970,,7.5909,-1.0144
+keh,Kaba evlenme hızı (‰),C_lite_v2,Çevre-ölçek ekseni Ç v0.2,tümü,başlangıç kontrolsüz,0.2943,0.1068,0.0059,970,**,7.5909,-1.0144
+keh,Kaba evlenme hızı (‰),C_lite_v2,Çevre-ölçek ekseni Ç v0.2,tümü,başlangıç + yaş yapısı,0.2631,0.1171,0.0247,970,*,7.5909,-1.0144
+keh,Kaba evlenme hızı (‰),C_lite_v2,Çevre-ölçek ekseni Ç v0.2,deprem bölgesi hariç,başlangıç kontrollü,0.1925,0.1135,0.0899,846,†,7.4746,-0.9693
+keh,Kaba evlenme hızı (‰),C_lite_v2,Çevre-ölçek ekseni Ç v0.2,en hızlı büyüyen %10 hariç,başlangıç kontrollü,0.2185,0.1314,0.0963,873,†,7.6166,-1.0592
+keh,Kaba evlenme hızı (‰),E_lite,Erişim ekseni E,tümü,başlangıç kontrollü,-0.1247,0.0881,0.157,970,,7.5909,-1.0144
+keh,Kaba evlenme hızı (‰),E_lite,Erişim ekseni E,tümü,başlangıç kontrolsüz,-0.2143,0.1196,0.0731,970,†,7.5909,-1.0144
+keh,Kaba evlenme hızı (‰),E_lite,Erişim ekseni E,tümü,başlangıç + yaş yapısı,-0.2084,0.0974,0.0324,970,*,7.5909,-1.0144
+keh,Kaba evlenme hızı (‰),E_lite,Erişim ekseni E,deprem bölgesi hariç,başlangıç kontrollü,-0.1624,0.0858,0.0584,846,†,7.4746,-0.9693
+keh,Kaba evlenme hızı (‰),E_lite,Erişim ekseni E,en hızlı büyüyen %10 hariç,başlangıç kontrollü,-0.2154,0.1121,0.0548,873,†,7.6166,-1.0592
+keh,Kaba evlenme hızı (‰),d_ln_yogunluk,Yoğunluk değişimi 2000→2020 (GHSL),tümü,başlangıç kontrollü,-0.0547,0.0844,0.5168,970,,7.5909,-1.0144
+keh,Kaba evlenme hızı (‰),d_ln_yogunluk,Yoğunluk değişimi 2000→2020 (GHSL),tümü,başlangıç kontrolsüz,-0.0551,0.1151,0.6317,970,,7.5909,-1.0144
+keh,Kaba evlenme hızı (‰),d_ln_yogunluk,Yoğunluk değişimi 2000→2020 (GHSL),tümü,başlangıç + yaş yapısı,-0.108,0.1283,0.3998,970,,7.5909,-1.0144
+keh,Kaba evlenme hızı (‰),d_ln_yogunluk,Yoğunluk değişimi 2000→2020 (GHSL),deprem bölgesi hariç,başlangıç kontrollü,-0.0125,0.0868,0.8859,846,,7.4746,-0.9693
+keh,Kaba evlenme hızı (‰),d_ln_yogunluk,Yoğunluk değişimi 2000→2020 (GHSL),en hızlı büyüyen %10 hariç,başlangıç kontrollü,-0.044,0.1221,0.7185,873,,7.6166,-1.0592
