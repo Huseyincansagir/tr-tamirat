@@ -1,0 +1,97 @@
+paydas,grup,tutum,gerekce
+KIR,G1a,0,Arsa vergisi kiraya yansımazsa doğrudan etkisi yok; kazanç da yok
+KIR,G1,2,"KDV indirimi var, arsa vergisi yok: net kazanç [H]"
+KIR,G2,1,Yürüme mesafesinde dükkân ve hizmet
+KIR,G3,1,Semt hizmetlerinde söz hakkı
+KIR,G4,0,Sermaye geliri yok
+KIR,G5,1,Gelir testli destekten alt dilimde yararlanabilir (A1)
+KIR,G6,1,Kotaların gözden geçirilmesi fiyatı düşürebilir
+KIR,G7,1,Gıda harcama payı yüksek; kısa zincir fiyatı
+GENC,G1a,1,"Arsa fiyatı düşer, ilk ev ucuzlar (vergi fiyata yansır) [İ]"
+GENC,G1,2,KDV indirimi + ucuzlayan arsa; aile kredisi ve kooperatifle birlikte erişim [H]
+GENC,G2,1,"Canlı sokak, yakın hizmet"
+GENC,G3,1,Kreş ve okul önceliklerinde söz
+GENC,G4,0,"Küçük tasarruf; S3 hafif lehte, S1–S2 nötr"
+GENC,G5,0,Doğrudan etkisi az
+GENC,G6,1,Rekabet ve fiyat
+GENC,G7,1,Gıda fiyatı
+EMK,G1a,-2,Yeni ve görünür vergi; nakit sıkışıklığı
+EMK,G1,1,"Tek konut muaf, KDV indirimi kazanç [H]; ama değerleme ve 'yeni vergi' kaygısı"
+EMK,G2,1,İhtiyaçlar yürüme mesafesinde; gürültü kaygısı
+EMK,G3,1,Mahallede söz hakkı; vakit var
+EMK,G4,1,Mevduattaki reel faizin vergilenmesi lehte (S3)
+EMK,G5,2,Taban aylığın endekslenmesi (A2)
+EMK,G6,0,Az etkili
+EMK,G7,1,Gıda fiyatı
+EVS,G1a,-2,"Yeni vergi, karşılığı yok"
+EVS,G1,-1,Arsa vergisi KDV indiriminden fazla: net küçük yük [H]
+EVS,G2,0,Gürültü kaygısı ile zemin kat değer artışı dengede
+EVS,G3,1,Mahalle bütçesinde söz
+EVS,G4,0,Az etkili
+EVS,G5,0,Az etkili
+EVS,G6,0,Az etkili
+EVS,G7,0,Az etkili
+VAR,G1a,-2,Arsa ve kiralık mülk üzerinde yıllık vergi; mülk değeri düşer
+VAR,G1,-2,Net yük en yüksek dilimde [H]; arsa değerinde bir kerelik kayıp
+VAR,G2,1,Zemin katın ticari değeri artar
+VAR,G3,0,Az etkili
+VAR,G4,-2,"Hisse kazancı ve temettüde vergi artışı (S1, S2) [H]"
+VAR,G5,0,Az etkili
+VAR,G6,0,Az etkili
+VAR,G7,0,Az etkili
+ESN,G1a,-1,"Konutu için öder, karşılığı yok"
+ESN,G1,0,Konutta net küçük yük; KDV indirimi talebi artırır
+ESN,G2,2,Otopark yükü kalkar (70 m²'de 638 bin TL) [H]; mahallede dükkân açmak serbest
+ESN,G3,1,Semt pazarı ve ortak depoda söz
+ESN,G4,0,Az etkili
+ESN,G5,0,A3 yalnız şeffaflık; asgari ücret baskısı yok
+ESN,G6,1,"Basit usulden çıkış rampası ve ortak alım (C1, C3); kota sahibi esnaf (eczane, taksi) ise karşı"
+ESN,G7,1,Manavın üreticiden doğrudan alımı ucuzlar
+MUT,G1a,0,"Yapı vergisi sıfırlanır, arsa ucuzlar; arsa stoku tutanın maliyeti artar"
+MUT,G1,1,"Yeni yapı vergisizleşir, KDV düşer, talep artar"
+MUT,G2,1,Karma projelerde otopark ve süre maliyeti düşer
+MUT,G3,0,Az etkili; planlamada yeni bir söz sahibi
+MUT,G4,0,Az etkili
+MUT,G5,0,Az etkili
+MUT,G6,0,Az etkili
+MUT,G7,0,Az etkili
+BEL,G1a,2,"Kendi geliri 5,6 katına çıkar, mahsup yok [H]"
+BEL,G1,-1,"Görünür vergiyi belediye toplar, merkezi pay aynı tutarda azalır: siyasi maliyet belediyede, net gelir aynı [H]"
+BEL,G2,-1,Otopark bedeli ve değer artış payı geliri azalır; meclisin izin yetkisi daralır
+BEL,G3,-1,Arsa vergisinin %40'ı semt ve mahalle önceliğine bağlanır; takdir yetkisi azalır
+BEL,G4,0,Etkisi yok
+BEL,G5,0,Etkisi yok
+BEL,G6,0,Taksi kotası gözden geçirmesi UKOME yetkisine dokunur; pazar izlemesi lehte
+BEL,G7,-1,Toptancı halini işleten belediyenin hal dışı rüsum geliri azalır
+HAZ,G1a,0,Merkezi bütçeye etkisi yok
+HAZ,G1,0,Kural B ile bütçe-nötr; ama güvenilir KDV tabanından vazgeçme ve geçiş riski
+HAZ,G2,0,Etkisi yok
+HAZ,G3,0,Etkisi yok
+HAZ,G4,1,S2 ≈ 29 milyar TL ek hasılat [H]; S3 hasılat kaybı
+HAZ,G5,-1,Taban aylığın endekslenmesi otomatik maliyet (A2)
+HAZ,G6,1,Kayıt dışılığın azalması (C1)
+HAZ,G7,0,Etkisi yok
+BNK,G1a,-1,Teminattaki arsa değeri düşer
+BNK,G1,-1,Teminat değeri düşer; konut talebi artar
+BNK,G2,0,Küçük işletme kredisi talebi artabilir
+BNK,G3,0,Etkisi yok
+BNK,G4,0,"TL mevduat cazipleşir (S3), aracı kurum hacmi düşebilir (S1)"
+BNK,G5,0,Etkisi yok
+BNK,G6,0,Etkisi yok
+BNK,G7,0,Etkisi yok
+MUH,G1a,-1,Değerleme itirazları muhtarlıkta; mahallenin tepkisi
+MUH,G1,0,İtiraz yükü var ama mahalleli çoğunlukla kazançlı
+MUH,G2,1,Mahalle canlanır; şikâyet yönetimi yükü
+MUH,G3,2,Mahalle ve semt meclisinde rol; mahalle bütçesinde öncelik
+MUH,G4,0,Etkisi yok
+MUH,G5,1,Gelir testli desteğe başvuru yardımı muhtarlıkta
+MUH,G6,0,Az etkili
+MUH,G7,0,Az etkili
+URE,G1a,0,Tarım arazisi kapsam dışı
+URE,G1,0,Tarım arazisi kapsam dışı; KDV indirimi talebi artırır
+URE,G2,1,Mahallede doğrudan satış noktası
+URE,G3,1,Semt pazarında tezgâh
+URE,G4,0,Etkisi yok
+URE,G5,0,Etkisi yok
+URE,G6,1,Semt pazarında üretici payının izlenmesi (C4)
+URE,G7,2,"Doğrudan satışta rüsum %2 → %0,2 (Y1); izin yerine destek (Y2)"

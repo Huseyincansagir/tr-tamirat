@@ -4,7 +4,7 @@
 
 Ana belge: [00_YONETIM/ana_arastirma_plani.md](00_YONETIM/ana_arastirma_plani.md)
 
-Güncel durum (27.10.2026): [Faz 2 sentezi](09_RAPORLAR/09_faz2_sentez.md) · [Faz 3 sentezi](09_RAPORLAR/12_faz3_sentez.md) · [Faz 4 sentezi](09_RAPORLAR/22_faz4_sentez.md) · [Toplum hedefleri](01_KAVRAMSAL_CERCEVE/toplum_hedefleri.md) · [Politika paketi v2](09_RAPORLAR/23_politika_paketi_v2.md)
+Güncel durum (27.10.2026): [Faz 2 sentezi](09_RAPORLAR/09_faz2_sentez.md) · [Faz 3 sentezi](09_RAPORLAR/12_faz3_sentez.md) · [Faz 4 sentezi](09_RAPORLAR/22_faz4_sentez.md) · [Toplum hedefleri](01_KAVRAMSAL_CERCEVE/toplum_hedefleri.md) · [Politika paketi v2](09_RAPORLAR/23_politika_paketi_v2.md) · [Paydaş oyunu](09_RAPORLAR/24_paydas_oyunu.md)
 
 ## Klasör yapısı
 
@@ -62,6 +62,7 @@ Depo boyutunu makul tutmak için aşağıdaki büyük dosyalar yüklenmedi (`.gi
 | Ekonomi (Rapor 20) | `ekonomi_veri.py` → `ekonomi_dagilim.py` → `ekonomi_ticaret_yeterlilik.py` → `ekonomi_kademe.py` → `ekonomi_grafikler.py` |
 | Ölçeklenebilir şehir (Rapor 21) | Enerji, israf ve ekonomi paketlerinden sonra `07_TASARIM_CIZIM/olceklenebilir_sehir/kod/kademe_modeli.py`, `kademe_semasi.py` |
 | Politika paketi v2 (Rapor 23) | `ekonomi_veri.py` sonrası `08_MEVZUAT_POLITIKA/politika_v2/politika_v2_mali.py` (Rapor 20'nin dağılım modelini içinden çalıştırır) |
+| Paydaş oyunu (Rapor 24) | `politika_v2_mali.py` sonrası `06_SIMULASYON/kod/paydas_oyunu.py` |
 
 ## Veri kaynakları ve atıf
 

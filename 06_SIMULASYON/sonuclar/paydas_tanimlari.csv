@@ -1,0 +1,13 @@
+kod,paydas,guc,guc_gerekce
+KIR,Kiracı çocuklu aile,1,"Dağınık, örgütsüz; kiracılar hanelerin ≈ %43'ü ama ortak temsilcisi yok"
+GENC,Genç çift (ilk ev),1,Örgütsüz; seçmen olarak dağınık
+EMK,Emekli ev sahibi,2,Geniş ve sandığa giden seçmen bloğu; emekli dernekleri
+EVS,Orta gelirli ev sahibi,2,Ev sahipleri hanelerin %57'si; mülk vergisine duyarlı geniş kitle
+VAR,Varlıklı malik ve yatırımcı,3,"Sermaye, medya ve karar alıcıya erişim"
+ESN,Esnaf,2,TESK ve odalar aracılığıyla örgütlü
+MUT,Müteahhit ve yapı sektörü,3,"Kamu ihaleleri, istihdam, yerel siyasete erişim"
+BEL,Belediye,3,"Uygulayıcı: plan, ruhsat, tahsil; yerel veto"
+HAZ,Hazine ve Maliye,3,Bütçe ve vergi kanunlarında fiilî veto
+BNK,Banka,2,Kredi ve teminat; düzenleyiciye erişim
+MUH,Muhtar,1,Yerel güven ve bilgi; resmî yetkisi dar
+URE,Küçük üretici,1,Ziraat odaları ve kooperatifler; dağınık

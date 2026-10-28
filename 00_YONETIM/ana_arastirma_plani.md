@@ -314,5 +314,6 @@ Kapsam 27.10.2026'da kullanıcının talebiyle belirlendi: stres, konut, malzeme
 | Mali etki: arsa değer vergisi geçişi 2029–2033, KDV %20 → %16,8 (bütçe-nötr), yerel kaynak, otopark yükü | `08_MEVZUAT_POLITIKA/politika_v2/politika_v2_mali.py`, 5 CSV, 1 grafik | ✅ Rapor 20 çıktıları birebir korunuyor |
 | Rapor: politika paketi v2 | `09_RAPORLAR/23_politika_paketi_v2.md` | ✅ |
 | Araştırma notu: Rapor 20'nin pakete girmeyen seçenekleri (vergi istisnaları, taban gelirler, sade rejim, giriş kotaları, pazar ve hal, tarımsal planlama); 12 aday öneri | `08_MEVZUAT_POLITIKA/arastirma_diger_secenekler.md` | ✅ 15 kanunda madde doğrulandı; 12 aday kullanıcı kararıyla pakete alındı (S, A, C, Y) |
-| Paydaş simülasyonu v2, deprem pilotları, gece ısısı ve gürültü, izleme paneli | — | ⏳ Faz 5 gündemi (Rapor 22 §3) |
+| Paydaş oyunu (§4.1-d, ilk sürüm): 12 paydaş × 8 öneri grubu, hane ve kurum etkileri, destek endeksi, paketleme ve telafi senaryoları | `06_SIMULASYON/kod/paydas_oyunu.py`, `06_SIMULASYON/sonuclar/paydas_*.csv`, `09_RAPORLAR/24_paydas_oyunu.md` | ✅ tutumlar varsayım; görüşmelerle sınanmalı. Bulgu: belediyeye %10 telafi (mahsup %90) direnci kaldırıyor; paket v2'ye işlendi (E4–E5, KDV 2033'te %17,1, merkez nötr) |
+| Deprem pilotları, gece ısısı ve gürültü, izleme paneli | — | ⏳ Faz 5 gündemi (Rapor 22 §3) |
 

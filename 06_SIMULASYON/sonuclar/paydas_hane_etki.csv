@@ -1,0 +1,7 @@
+kod,paydas,dilim,hane_geliri_tl,kdv_indirimi_tl,avd_konut_tl,avd_isletme_tl,temettu_s2_tl,net_kazanc_tl,net_kazanc_gelire_pct
+KIR,Kiracı çocuklu aile (2. %20),QU2,701540.8,5621.1,0.0,0.0,0.0,5621.1,0.8
+EMK,"Emekli ev sahibi, tek konut (2. %20)",QU2,701540.8,5621.1,0.0,0.0,0.0,5621.1,0.8
+EVS,Orta gelirli ev sahibi (3. %20),QU3,1030388.1,7670.0,15176.1,0.0,0.0,-7506.1,-0.7
+ESN,"Esnaf: ev sahibi, dükkânı kirada (3. %20)",QU3,1030388.1,7670.0,15176.1,0.0,0.0,-7506.1,-0.7
+GENC,"Genç çift, kirada, ilk evi arıyor (4. %20)",QU4,1498082.0,10116.3,0.0,0.0,0.0,10116.3,0.7
+VAR,Varlıklı malik ve yatırımcı (üst %20),QU5,3668474.0,16916.4,27995.7,14016.2,5365.5,-30460.9,-0.8

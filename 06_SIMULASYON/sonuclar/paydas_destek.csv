@@ -1,0 +1,15 @@
+kod,ad,icerik,senaryo,destek_endeksi,lehte_paydas,aleyhte_paydas,engel_riski,direnc
+G1a,Arsa vergisi tek başına,G1a,temel,-0.5,2,6,VAR,—
+G1,Arsa vergisi paketi,G1,temel,-0.167,4,4,VAR,BEL
+G2,Karma kullanım,G2,temel,0.542,8,1,—,BEL
+G3,Semt yönetişimi,G3,temel,0.333,7,1,—,BEL
+G4,Sermaye geliri,G4,temel,-0.042,2,1,VAR,—
+G5,Asgari ve taban gelir,G5,temel,0.125,3,1,—,HAZ
+G6,Esnaf ve rekabet,G6,temel,0.333,5,0,—,—
+G7,Gıda zinciri,G7,temel,0.208,5,1,—,BEL
+P1,Çekirdek paket: arsa vergisi + karma kullanım + semt,G1+G2+G3,temel,0.236,7,3,—,BEL
+P2,Çekirdek + gıda zinciri + esnaf,G1+G2+G3+G6+G7,temel,0.25,8,3,—,BEL
+P3,Bütün paket v2,G1+G2+G3+G4+G5+G6+G7,temel,0.19,8,3,—,BEL
+P4,Çekirdek + belediyeye telafi (mahsup %90),G1+G2+G3,telafi,0.278,7,4,—,—
+P5,"Çekirdek + telafi, finansmanı temettü istisnasından (S2)",G1+G2+G3+G4,telafi,0.198,7,3,—,VAR
+P6,"Çekirdek + telafi, KDV indirimi mahsupla sınırlı (merkez nötr; pakete işlenen)",G1+G2+G3,telafi_kdv,0.319,7,3,—,—

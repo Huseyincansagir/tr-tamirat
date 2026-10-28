@@ -7,6 +7,8 @@ Faz 5 · Rapor 2 — Politika paketi v2: mali etki hesapları
    KDV indirimi. İki denge tanımı:
      A · hanehalkı-nötr: hanehalkının KDV kaybı = AVD (Rapor 20'nin S3 hesabı; hanehalkı dışı KDV ihmal)
      B · toplam-nötr: toplam KDV kaybı = AVD; hanehalkı dışı KDV (%25 [V]) aynı oranda düşer
+     C · pakete işlenen kural: AVD'nin %90'ı merkezi paydan mahsup edilir, %10'u belediyede kalır (Rapor 24);
+         toplam KDV kaybı mahsup edilen tutara eşit → merkez nötr
    Dilimlere net etki Rapor 20'nin S3C tasarımıyla: konut + işletme arsası, alt iki dilimde tek konut muaf.
 2. Yerel kaynak (B3, B4, E5): AVD'nin şehir genel bütçesi / semt bütçesi / mahalle bütçesi arasında bölünmesi
    (%60 / %25 / %15 [V, öneri]) ve merkezi vergi paylarıyla denkleştirme.
@@ -69,12 +71,13 @@ def genel_oran(hedef, kapsam):
 
 
 GECIS = [(2028, 0.0), (2029, 0.001), (2030, 0.002), (2031, 0.003), (2032, 0.004), (2033, 0.005)]  # [V, öneri]
+MAHSUP = 0.90                                       # E5: merkezi paydan mahsup oranı (Rapor 24 telafisi) [V, öneri]
 satir = []
 for yil, pay in GECIS:
     avd = pay * GSYH
     r = {"yil": yil, "avd_gsyh_pct": 100 * pay, "avd_mlr_tl_2025": avd}
-    for ad, kapsam in (("A", 1.0), ("B", 1 / HANE_PAYI)):
-        g = genel_oran(avd, kapsam) if pay > 0 else 0.20
+    for ad, kapsam, mahsup in (("A", 1.0, 1.0), ("B", 1 / HANE_PAYI, 1.0), ("C", 1 / HANE_PAYI, MAHSUP)):
+        g = genel_oran(mahsup * avd, kapsam) if pay > 0 else 0.20
         net = kdv_senaryo("x", oran.where(oran != 0.20, g)) + avd * yuk_C
         r[f"kdv_genel_{ad}_pct"] = 100 * g
         r[f"hanehalki_net_{ad}_mlr"] = net.sum()
@@ -86,9 +89,10 @@ son = gecis.iloc[-1]
 assert abs(son.kdv_genel_A_pct - 100 * D["genel_yeni"]) < 0.01, "Rapor 20 S3 oranıyla tutarsız"
 assert abs(son.net_A_dilim1_gelire_pct - (-0.9044)) < 0.01, "Rapor 20 S3C en yoksul dilim değeriyle tutarsız"
 gecis.round(4).to_csv(CIK / "avd_gecis.csv", index=False, encoding="utf-8")
-print("AVD geçişi (genel KDV oranı, A hanehalkı-nötr / B toplam-nötr):")
-print(gecis[["yil", "avd_gsyh_pct", "avd_mlr_tl_2025", "kdv_genel_A_pct", "kdv_genel_B_pct",
-             "net_A_dilim1_gelire_pct", "net_B_dilim1_gelire_pct", "net_B_dilim5_gelire_pct"]].round(2).to_string())
+print("AVD geçişi (genel KDV oranı, A hanehalkı-nötr / B toplam-nötr / C mahsup %90):")
+print(gecis[["yil", "avd_gsyh_pct", "avd_mlr_tl_2025", "kdv_genel_A_pct", "kdv_genel_B_pct", "kdv_genel_C_pct",
+             "net_B_dilim1_gelire_pct", "net_C_dilim1_gelire_pct", "net_C_dilim3_gelire_pct",
+             "net_C_dilim5_gelire_pct", "hanehalki_net_C_mlr"]].round(2).to_string())
 
 # ---------------------------------------------------------------- 2. yerel kaynak
 kp = pd.read_csv(SON / "ekonomi_kademe_parametre.csv").set_index("parametre")
@@ -105,6 +109,8 @@ yk = [("Bugün: emlak vergisi (bina + arsa + arazi)", emlak_kisi, "D/H"),
       ("  şehir belediyesi genel bütçesi (%60)", PAY["sehir_genel"] * avd_kisi, "V"),
       ("  semt bütçesi (%25; semt meclisinin önceliğiyle)", PAY["semt"] * avd_kisi, "V"),
       ("  mahalle bütçesi (%15; mahalle meclisinin önceliğiyle)", PAY["mahalle"] * avd_kisi, "V"),
+      ("v2: merkezi paydan mahsup (AVD × %90, E5)", MAHSUP * avd_kisi, "V/H"),
+      ("v2: mahsup dışı, belediyede kalan (AVD × %10)", (1 - MAHSUP) * avd_kisi, "V/H"),
       ("Bugün: merkezi vergi payları (5779 s. Kanun)", merkezi_kisi, "D/H"),
       ("Bugün: mahalli idare toplam bütçe geliri", butce_kisi, "D/H"),
       ("Bugün: hanehalkının ödediği KDV + ÖTV", tuketim_kisi, "H")]
@@ -112,7 +118,8 @@ yerel = pd.DataFrame(yk, columns=["kalem", "tl_kisi_yil", "isaret"])
 for kad in ("mahalle", "semt", "sehir"):
     yerel[f"{kad}_mn_tl"] = yerel.tl_kisi_yil * kp.loc["nufus", kad] / 1e6
 oranlar = pd.DataFrame([
-    ("AVD / merkezi vergi payları (denkleştirme için payların azalması)", avd_kisi / merkezi_kisi),
+    ("AVD / merkezi vergi payları", avd_kisi / merkezi_kisi),
+    ("Mahsup (AVD × %90) / merkezi vergi payları (payların azalması, E5)", MAHSUP * avd_kisi / merkezi_kisi),
     ("Semt + mahalle bütçesi / mahalli idare toplam bütçe geliri", (PAY["semt"] + PAY["mahalle"]) * avd_kisi / butce_kisi),
     ("Tüketim vergisi / yerel mülk vergisi, bugün (kat)", tuketim_kisi / emlak_kisi),
     ("Tüketim vergisi / yerel mülk vergisi, v2 A (kat)", (tuketim_kisi - avd_kisi) / (emlak_kisi + avd_kisi))],
@@ -153,11 +160,12 @@ fig = plt.figure(figsize=(10.4, 4.6))
 ax1 = fig.add_axes([0.06, 0.16, 0.38, 0.58])
 ax2 = fig.add_axes([0.56, 0.16, 0.41, 0.58])
 
-for ad, renk, etiket in (("A", MAVI, "A · hanehalkı-nötr"), ("B", TURUNCU, "B · toplam-nötr")):
+for ad, renk, etiket, dy in (("A", MAVI, "A · hanehalkı-nötr", 0), ("B", TURUNCU, "B · toplam-nötr", -5),
+                             ("C", AQUA, "C · mahsup %90 (pakete işlenen)", 5)):
     ax1.plot(gecis.yil, gecis[f"kdv_genel_{ad}_pct"], color=renk, lw=2, marker="o", ms=5, label=etiket,
              markeredgecolor=ZEMIN, markeredgewidth=1.5)
     ax1.annotate(f"%{tr(gecis[f'kdv_genel_{ad}_pct'].iloc[-1])}", (gecis.yil.iloc[-1], gecis[f"kdv_genel_{ad}_pct"].iloc[-1]),
-                 xytext=(7, 0), textcoords="offset points", va="center", fontsize=8.5, color=YAZI)
+                 xytext=(7, dy), textcoords="offset points", va="center", fontsize=8.5, color=YAZI)
 for _, r in gecis.iloc[1:].iterrows():
     ax1.annotate(f"AVD %{tr(r.avd_gsyh_pct)}", (r.yil, 14.6), ha="center", fontsize=7.2, color=YAZI_3)
 ax1.set_ylim(14.3, 20.6)
@@ -199,8 +207,8 @@ ax2.tick_params(length=0)
 fig.text(0.012, 0.965, "Arsa değer vergisi: KDV'den arsaya kademeli kayış ve yerelde kalan kaynak", fontsize=12.5,
          fontweight="bold", color=YAZI, va="top")
 fig.text(0.012, 0.895,
-         "Soldaki iki çizgi iki denge tanımı: A'da hanehalkının KDV kaybı AVD'ye eşit (Rapor 20), B'de toplam KDV kaybı. "
-         "Sağda AVD'nin önerilen bölünmesi: %60 şehir, %25 semt, %15 mahalle.",
+         "Solda üç denge tanımı: A'da hanehalkının KDV kaybı AVD'ye eşit (Rapor 20), B'de toplam KDV kaybı, C'de mahsup edilen "
+         "%90'a eşit (pakete işlenen). Sağda AVD'nin bölünmesi: %60 şehir, %25 semt, %15 mahalle.",
          fontsize=8.6, color=YAZI_2, va="top", wrap=True)
 fig.text(0.012, 0.02, "Kaynak: Rapor 20 dağılım modeli (ekonomi_dagilim.py), Muhasebat mahalli idareler 2025, "
          "politika_v2_mali.py. Statik hesap, davranış tepkisi yok.", fontsize=7.2, color=YAZI_3)

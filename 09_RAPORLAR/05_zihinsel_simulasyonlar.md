@@ -419,7 +419,7 @@ A'ya göre fark, medyan [%90 aralık]. Gözlemsel katsayılara nedensel pay uygu
   - Mirasa, ikinci ele ve taşınmaya yer verilmedi.
   - Kooperatif fiyat oranı ve 6306 dönüşüm olasılığı ölçülmüş değil.
 - **Doğurganlık.** Ekolojik ilçe katsayısı bireysel bir yaşam döngüsüne uygulandı. Bu yalnızca bir **sınır** hesabı.
-- **Paydaş oyunu yok.** Planın 4.1(d) bölümündeki paydaş oyunu bu sürümde yok.
+- **Paydaş oyunu yok.** Planın 4.1(d) bölümündeki paydaş oyunu bu sürümde yok. → İlk sürümü [Rapor 24](24_paydas_oyunu.md)'te (28.10.2026).
 
 ---
 

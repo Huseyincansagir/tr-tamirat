@@ -1,0 +1,11 @@
+kod,kalem,deger_1,deger_2,birim,kaynak
+MUT,"Arsa kalıntı değeri, İstanbul fiyatı: 12 katlı blok / Z+2 avlulu (mevcut kurallar)",128.9,298.1,milyon TL/ha,M6 [H]
+MUT,Telafi köprüsü: otopark reformu + harç indirimi + hızlı onay (az katlı lehine),34.6,,milyon TL/ha,M6 [H]
+ESN,"70 m² zemin kat dükkânının otopark yükü (bedel), O4 ile sıfır",638400.0,17.17,TL ve birim değerinin %'si,politika_v2 [H]
+BEL,Şehir (≈ 210 bin): arsa değer vergisi / bugünkü emlak vergisi,760.4,136.2,milyon TL/yıl,politika_v2 [H]
+BEL,Şehir: merkezi pay mahsubu (E5) / semt + mahalle bütçesine ayrılan (B4),-760.4,304.2,milyon TL/yıl,politika_v2 [H]
+HAZ,KDV kaybı (kural B) / merkezi pay mahsubu,-315.1,315.1,milyar TL/yıl,politika_v2 [H]
+HAZ,"Temettü istisnası %50 → %25 (S2), statik",28.95,,milyar TL/yıl,GİB 2025 [D] → [H]
+MUH,Mahalle bütçesi / semt bütçesi (öncelik önerisi),3.8,31.68,milyon TL/yıl,politika_v2 [H]
+URE,"Hal rüsumu: 1 milyon TL doğrudan satışta (Y1: %2 → %0,2)",20000.0,2000.0,TL/yıl,5957 md. 8 [D] → [H]
+GENC,"124 m² aile konutu, taksit / medyan aile geliri: piyasa kredisi / aile kredisi + kooperatif ve kamu arsası",181.7,26.1,%,M6 [H]

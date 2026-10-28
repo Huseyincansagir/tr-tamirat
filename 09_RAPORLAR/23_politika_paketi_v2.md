@@ -40,12 +40,12 @@ Karma kullanım ve semt meclisi pilotu mevcut yetkiyle 2027'de başlayabilir. Ar
    - **5393 sayılı Belediye Kanunu:** "Semt" kelimesi hiç geçmiyor. Ama Kent Konseyi Yönetmeliği (md. 12) konseyin "meclis ve çalışma grupları" kurmasına izin veriyor. Semt meclisi pilotu buna ve belediye meclisi kararına dayanabilir.
 2. **Arsa değer vergisi:**
    - **Geçiş:** GSYH'nin %0,1'inden başlayıp 2033'te %0,5'e çıkar. 2025 fiyatlarıyla 315 milyar TL; bugünkü emlak vergisinin 5,6 katı.
-   - **KDV:** Genel oran %20'den %16,8'e iner (bütçe-nötr kural). Yalnız hanehalkı için nötr tanımla %15,7'ye iner.
-   - **Dağılım:** Konut ve işletme arsası birlikte vergilenir, alt iki gelir diliminde tek konut muaf olur. Bu tasarımda en yoksul %20 gelirinin %0,6–0,9'u kadar kazanır, en zengin %20 %0,2–0,4'ü kadar öder [H].
+   - **KDV:** Genel oran %20'den %17,1'e iner. Bu, pakete işlenen kural: KDV indirimi, merkezi paydan mahsup edilen tutara (arsa vergisinin %90'ı) eşit. Tam mahsupla %16,8'e, yalnız hanehalkı için nötr tanımla %15,7'ye inerdi.
+   - **Dağılım:** Konut ve işletme arsası birlikte vergilenir, alt iki gelir diliminde tek konut muaf olur. Bu tasarımda en yoksul %20 gelirinin %0,54'ü kadar kazanır, üst üç dilim %0,39–0,40'ı kadar öder [H]. Diğer kurallarla aralık %0,5–0,9 kazanç, %0,2–0,4 yük.
 3. **Yerel kaynak:**
    - **Bölüşüm:** Arsa değer vergisi kişi başı 3.660 TL/yıl. %25'i semt, %15'i mahalle bütçesine ayrılırsa 35 bin kişilik bir semtin bütçesi ≈ 32 milyon TL, bir mahalleninki ≈ 3,8 milyon TL olur. İkisi birlikte mahalli idare gelirinin %5,8'i.
    - **Vergi dengesi:** Bir mahallenin ödediği tüketim vergisi bugün yerel mülk vergisinin 71 katı; geçişten sonra 10 katı [H].
-   - **Merkezi denge:** Belediyeye kalan tutar, merkezi vergi paylarının %25'i kadar. Bütçe-nötrlük için paylar bu kadar azaltılmalı.
+   - **Merkezi denge:** Arsa vergisinin %90'ı merkezi paydan mahsup edilir; bu, bugünkü payların %22,9'u. %10'u (kişi başı 366 TL; ≈ 210 bin kişilik şehirde ≈ 76 milyon TL) vergiyi toplayan belediyede kalır. Paydaş oyunu (Rapor 24) bu pay olmadan belediyenin dirence geçtiğini gösterdi; bu payla çekirdek paketin desteği +0,32'ye çıkıyor.
 4. **Karma kullanım:**
    - **Bugünkü yük:** Otopark Yönetmeliği Ek-1'e göre 70 m²'lik zemin kat dükkânı 1,4 otopark yeri ister. Bedel yoluyla 638 bin TL; dükkân değerinin %11–17'si (bodrumda %15–23).
    - **Model mahalle:** 213 zemin kat birimi için 298 yer, 136–179 milyon TL.
@@ -76,8 +76,8 @@ Hiçbiri zorlayıcı değil, hiçbiri mülkiyet hakkını kısmıyor. Vergi yük
 | E1 | Bölünmüş oran: arsa ve arsa payı vergilenir, yapı üzerindeki vergi beş yılda sıfıra iner; oran bandı kanunda, oran Cumhurbaşkanınca | 1319 md. 8, 18, 29 | Kanun | 3 |
 | E2 | Değerleme: parsel bazında açık değer haritası, yıllık güncelleme, mahallede itiraz; 2027–2028'de üç ilçede pilot | 1319 md. 29, 31 | Yönetmelik + kanun | 2 / 3 |
 | E3 | Korumalar: alt iki dilimde tek konut muaf; 65 yaş üstüne tapuya şerhle erteleme (md. 30 örneği) | 1319 md. 8/2, 30 | Kanun | 3 |
-| E4 | KDV genel oranı her yıl önceki yılın arsa değer vergisi tahsilatı kadar iner | 3065 md. 28 | Cumhurbaşkanı kararı | 2 |
-| E5 | Mali denkleştirme: merkezi pay arsa değer vergisi kadar azalır; kişi başı pay grup ortalamasının %80'inin altına inmez | 5779 md. 2 | Kanun | 3 |
+| E4 | KDV genel oranı her yıl önceki yılın mahsup edilen arsa vergisi tutarı kadar iner (2033'te %17,1) | 3065 md. 28 | Cumhurbaşkanı kararı | 2 |
+| E5 | Mali denkleştirme: arsa vergisinin %90'ı merkezi paydan mahsup edilir, %10'u belediyede kalır; kişi başı pay grup ortalamasının %80'inin altına inmez | 5779 md. 2 | Kanun | 3 |
 | **Karma kullanım** | | | | |
 | P6 | Meydan, yaya yolu ve "mahalle ticaret cephesi"nde ≤ 150 m² işyeri ve atölye meclis kararı aranmadan serbest | PAİY md. 19/1-f | Yönetmelik | 1 |
 | O4 | ≤ 100 m² zemin kat mahalle işyerine otopark ihtiyacı aranmaz | Otopark Yön. Ek-1 | Yönetmelik | 1 |
@@ -133,31 +133,32 @@ Hesap Rapor 20'nin dağılım modeliyle yapıldı; model değiştirilmeden çal�
 - Arsa değer vergisi arsa sahibinde kalır.
 - KDV indirimi fiyata tam yansır [V].
 
-| Yıl | AVD (GSYH %) | AVD (milyar TL, 2025) | Genel KDV, A · hanehalkı-nötr | Genel KDV, B · toplam-nötr |
-|---|---|---|---|---|
-| 2028 | 0 | 0 | %20 | %20 |
-| 2029 | 0,1 | 63 | %19,1 | %19,3 |
-| 2030 | 0,2 | 126 | %18,3 | %18,7 |
-| 2031 | 0,3 | 189 | %17,4 | %18,1 |
-| 2032 | 0,4 | 252 | %16,6 | %17,4 |
-| 2033 | 0,5 | 315 | %15,7 | %16,8 |
+| Yıl | AVD (GSYH %) | AVD (milyar TL, 2025) | Genel KDV, A · hanehalkı-nötr | B · toplam-nötr | **C · mahsup %90 (pakete işlenen)** |
+|---|---|---|---|---|---|
+| 2028 | 0 | 0 | %20 | %20 | %20 |
+| 2029 | 0,1 | 63 | %19,1 | %19,3 | **%19,4** |
+| 2030 | 0,2 | 126 | %18,3 | %18,7 | **%18,8** |
+| 2031 | 0,3 | 189 | %17,4 | %18,1 | **%18,2** |
+| 2032 | 0,4 | 252 | %16,6 | %17,4 | **%17,7** |
+| 2033 | 0,5 | 315 | %15,7 | %16,8 | **%17,1** |
 
 **Tam geçişte dilimlere net etki** (gelirin %'si; eksi = yük azalır; S3C tasarımı):
 
-| Gelir dilimi | A · hanehalkı-nötr | B · toplam-nötr |
-|---|---|---|
-| En yoksul %20 | −0,90 | −0,62 |
-| 2. %20 | −0,87 | −0,60 |
-| 3. %20 | +0,07 | +0,32 |
-| 4. %20 | +0,11 | +0,34 |
-| En zengin %20 | +0,20 | +0,36 |
+| Gelir dilimi | A · hanehalkı-nötr | B · toplam-nötr | **C · mahsup %90** |
+|---|---|---|---|
+| En yoksul %20 | −0,90 | −0,62 | **−0,54** |
+| 2. %20 | −0,87 | −0,60 | **−0,52** |
+| 3. %20 | +0,07 | +0,32 | **+0,39** |
+| 4. %20 | +0,11 | +0,34 | **+0,40** |
+| En zengin %20 | +0,20 | +0,36 | **+0,40** |
 
 **Okuma:**
 
 - **Fark nereden geliyor?** İki tanımın farkı hanehalkı dışındaki KDV. Rapor 20'deki hesap (A), yalnız hanehalkının ödediği KDV'yi arsa vergisine eşitliyordu. Oysa genel oran indirilince hanehalkı dışında ödenen KDV de düşer: kamu alımları ve indirim hakkı olmayan işletmeler. Bu kısım KDV'nin %25'i varsayıldı [V].
   - **A'nın bedeli:** Merkezi bütçe tam geçişte yaklaşık 105 milyar TL kaybeder.
   - **B'nin bedeli:** Hanehalkı net 79 milyar TL daha fazla öder; bu tutar hanehalkı dışına giden KDV indirimidir.
-- **Öneri:** Kural B ile kurulur (bütçe-nötr). Bu durumda da kazanan alt iki dilim, ödeyen üst üç dilim.
+  - **C'nin bedeli:** Arsa vergisinin %10'u (≈ 31,5 milyar TL) belediyede kaldığı için KDV indirimi o kadar küçük. Hanehalkı net 102 milyar TL fazla öder. Merkez nötr kalır.
+- **Öneri: kural C** (paket v2, E4–E5). Merkez için mali disiplini korur; vergiyi toplayan belediyeyi uygulamaya bağlar (Rapor 24). Bu durumda da kazanan alt iki dilim, ödeyen üst üç dilim.
 - **Tasarımın önemi:** Rapor 20'nin uyarısı geçerli. Vergi yalnız konut arsasına konsa en yoksul %20 gelirinin %0,46'sı kadar fazla öder (S3A). Bu yüzden işletme arsasını kapsamak ve küçük konutu muaf tutmak (E3) paketin vazgeçilmez parçası.
 
 ### 2.2 Yerel kaynak ve denkleştirme
@@ -169,6 +170,8 @@ Hesap Rapor 20'nin dağılım modeliyle yapıldı; model değiştirilmeden çal�
 | · şehir genel bütçesi (%60) | 2.196 | | | 456 mn TL |
 | · semt bütçesi (%25) | 915 | | 31,7 mn TL | |
 | · mahalle bütçesi (%15) | 549 | 3,8 mn TL | | |
+| v2: merkezi paydan mahsup (%90, E5) | 3.294 | 22,8 mn TL | 114 mn TL | 684 mn TL |
+| v2: mahsup dışı, belediyede kalan (%10) | 366 | 2,5 mn TL | 12,7 mn TL | 76 mn TL |
 | Bugün: merkezi vergi payları | 14.394 | 100 mn TL | 498 mn TL | 2.990 mn TL |
 | Bugün: mahalli idare toplam geliri | 25.151 | 174 mn TL | 871 mn TL | 5.225 mn TL |
 
@@ -177,8 +180,9 @@ Hesap Rapor 20'nin dağılım modeliyle yapıldı; model değiştirilmeden çal�
 **Okuma:**
 
 - **Semt bütçesinin ölçeği:** Semt bütçesi kişi başı yılda 915 TL. Bir lise binasını değil, semt kütüphanesinin işletmesini, pazar yerinin bakımını, okul yolu güvenliğini ve küçük donatıyı karşılayacak büyüklükte. Büyük yatırım belediye programında kalır.
-- **Denkleştirme:** Arsa değer vergisi merkezi payların %25,4'ü kadar. Payları bu oranda azaltmak (E5) merkezi bütçeyi korur.
-  - **Sonuç:** Belediyenin toplam geliri artmaz; gelirin kaynağı ve harcama kararının yeri değişir.
+- **Denkleştirme:** Arsa değer vergisi merkezi payların %25,4'ü kadar. Bunun %90'ı mahsup edilir; paylar %22,9 azalır (E5). KDV indirimi de mahsup edilen tutarla sınırlı olduğu için merkezi bütçe nötr kalır.
+  - **Sonuç:** Belediyenin toplam geliri arsa vergisinin %10'u kadar artar (kişi başı 366 TL). Asıl değişen gelirin kaynağı ve harcama kararının yeri.
+  - **Neden %10?** Paydaş oyunu (Rapor 24), tam mahsupta belediyenin "vergiyi toplayan ama parayı tutamayan" taraf olarak dirence geçtiğini gösterdi. %10'luk pay bu direnci kaldırıyor.
   - **Koruma:** Arsa değeri düşük kentler eşitleme tabanıyla korunur (kişi başı pay grup ortalamasının %80'inin altına inmez [V]).
 
 ### 2.3 Karma kullanımın önündeki otopark yükü
@@ -207,7 +211,7 @@ Hesap Rapor 20'nin dağılım modeliyle yapıldı; model değiştirilmeden çal�
 | **Ev sahibi emeklinin nakit sıkıntısı** | E1 | E3: tek konut muafiyeti, tapuya şerhle erteleme |
 | **Arsa fiyatında bir kerelik düşüş, malik direnci** | E1 | Beş yıllık geçiş; yapı vergisinin aynı anda sıfırlanması; KDV indiriminin görünür kılınması |
 | **KDV indiriminin fiyata yansımaması** | E4 | Rekabet Kurumu fiyat izlemesi (hızlı tüketimde ilk dört zincirin payı %59) |
-| **Merkez–yerel çatışması** | E5 | Kanunda otomatik mahsup kuralı; eşitleme tabanı |
+| **Merkez–yerel çatışması; belediyenin vergi toplama isteksizliği** | E4, E5 | Kanunda otomatik mahsup kuralı; arsa vergisinin %10'u belediyede (Rapor 24); eşitleme tabanı |
 | **Gürültü, gece kullanımı, teslimat trafiği** | P6, O4 | Gürültü ve koku kısıtı; meclisin sokak ve saat istisnası; yükleme cebi; sürüm 1'deki O2 ve trafik sakinleştirme |
 | **Zincir marketin mahalleye yayılması** | P6 | Bağımsız bölüm başına 150 m² sınırı |
 | **Arzın talebi aşması** | P6, M5 | Rapor 12 dersi: birimleri "esnek zemin kat" olarak tasarlamak; konuta dönüşebilmeli |
@@ -262,4 +266,4 @@ PYTHONIOENCODING=utf-8 python 05_ANALIZ/kod/ekonomi_veri.py                    #
 PYTHONIOENCODING=utf-8 python 08_MEVZUAT_POLITIKA/politika_v2/politika_v2_mali.py  # geçiş, yerel kaynak, otopark; grafik
 ```
 
-Betik Rapor 20'nin `ekonomi_dagilim.py` modelini içinden çalıştırır. Modelin çıktıları birebir aynı kalır; bu bu çalışmada md5 ile doğrulandı. Betik iki tutarlılık denetimi içerir: tam geçişte A oranı Rapor 20'nin %15,7'si, en yoksul dilimin net etkisi Rapor 20'nin −%0,90'ı.
+Betik Rapor 20'nin `ekonomi_dagilim.py` modelini içinden çalıştırır. Modelin çıktıları birebir aynı kalır; bu bu çalışmada md5 ile doğrulandı. Betik iki tutarlılık denetimi içerir: tam geçişte A oranı Rapor 20'nin %15,7'si, en yoksul dilimin net etkisi Rapor 20'nin −%0,90'ı. Mahsup oranı betikte `MAHSUP = 0.90` olarak tanımlı (kural C).
