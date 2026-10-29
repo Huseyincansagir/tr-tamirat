@@ -55,6 +55,7 @@ def tr(x, nd=2):
 
 # ---------------------------------------------------------------- 1. veri
 ana = pd.read_csv(IS / "ilce_ana_tablo.csv", dtype={"ilce_kod": str})
+ana = ana.drop(columns=[c for c in ana.columns if c.startswith("nufus_medas_")])   # yıllık seri aşağıdaki dosyadan
 nuf = pd.read_csv(IS / "ilce_nufus_2014_2025.csv", dtype={"ilce_kod": str})
 gh = pd.read_csv(IS / "ilce_ghsl_degisim.csv", dtype={"ilce_kod": str})[["ilce_kod", "d_ln_yogunluk", "d_ln_yapili"]]
 d = ana.merge(nuf, on="ilce_kod", how="left", suffixes=("", "_medas")).merge(gh, on="ilce_kod", how="left")
