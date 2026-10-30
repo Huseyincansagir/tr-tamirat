@@ -1,0 +1,25 @@
+sonuc,sonuc_ad,grup,iyi_yon,model,beta,sh,p,n,fiziki_birim
+smr,Standart ölüm oranı (2024–25),Sağlık,-1,il SE,-0.0905,0.0424,0.0327,973,-0.0034
+smr,Standart ölüm oranı (2024–25),Sağlık,-1,"il SE + eğitim, göç",0.2831,0.0515,0.0,973,0.0105
+smr,Standart ölüm oranı (2024–25),Sağlık,-1,"il SE + kentsellik, yaş",0.186,0.0534,0.0005,973,0.0069
+tdh_ilce,Toplam doğurganlık hızı,Aile,1,il SE,-0.321,0.0421,0.0,973,-0.0453
+tdh_ilce,Toplam doğurganlık hızı,Aile,1,"il SE + eğitim, göç",-0.0505,0.0248,0.0418,973,-0.0071
+tdh_ilce,Toplam doğurganlık hızı,Aile,1,"il SE + kentsellik, yaş",-0.0994,0.0189,0.0,973,-0.014
+evlenme_hiz,Kaba evlenme hızı (‰),Aile,1,il SE,-0.0376,0.0438,0.391,972,-0.1103
+evlenme_hiz,Kaba evlenme hızı (‰),Aile,1,"il SE + eğitim, göç",-0.1103,0.0788,0.1612,972,-0.3236
+evlenme_hiz,Kaba evlenme hızı (‰),Aile,1,"il SE + kentsellik, yaş",-0.0163,0.0715,0.8194,972,-0.0479
+bosanma_hiz,Kaba boşanma hızı (‰),Aile,-1,il SE,0.2329,0.0544,0.0,971,0.0958
+bosanma_hiz,Kaba boşanma hızı (‰),Aile,-1,"il SE + eğitim, göç",0.0632,0.0471,0.1801,971,0.026
+bosanma_hiz,Kaba boşanma hızı (‰),Aile,-1,"il SE + kentsellik, yaş",0.0568,0.0426,0.1817,971,0.0234
+k3544_bosanmis_pay,35–44 yaş boşanmış kadın (%),Aile,-1,il SE,0.4358,0.0457,0.0,973,0.4782
+k3544_bosanmis_pay,35–44 yaş boşanmış kadın (%),Aile,-1,"il SE + eğitim, göç",0.1771,0.0558,0.0015,973,0.1943
+k3544_bosanmis_pay,35–44 yaş boşanmış kadın (%),Aile,-1,"il SE + kentsellik, yaş",0.2352,0.047,0.0,973,0.2582
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,il SE,-0.094,0.0942,0.3185,973,-0.218
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,"il SE + eğitim, göç",-0.1805,0.0421,0.0,973,-0.4187
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,"il SE + kentsellik, yaş",0.0366,0.0683,0.5922,973,0.0848
+genis_pay,Geniş aile hanesi (%),Aile,1,il SE,-0.169,0.0411,0.0,973,-0.1991
+genis_pay,Geniş aile hanesi (%),Aile,1,"il SE + eğitim, göç",-0.0005,0.0374,0.9892,973,-0.0006
+genis_pay,Geniş aile hanesi (%),Aile,1,"il SE + kentsellik, yaş",-0.0256,0.0416,0.5383,973,-0.0301
+ort_hane,Ortalama hane büyüklüğü,Aile,1,il SE,-0.0289,0.0495,0.5589,973,-0.006
+ort_hane,Ortalama hane büyüklüğü,Aile,1,"il SE + eğitim, göç",0.0716,0.027,0.008,973,0.0148
+ort_hane,Ortalama hane büyüklüğü,Aile,1,"il SE + kentsellik, yaş",-0.0548,0.0207,0.0081,973,-0.0114

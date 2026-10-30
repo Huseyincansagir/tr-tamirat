@@ -4,7 +4,7 @@
 
 Ana belge: [00_YONETIM/ana_arastirma_plani.md](00_YONETIM/ana_arastirma_plani.md)
 
-Güncel durum (27.10.2026): [Faz 2 sentezi](09_RAPORLAR/09_faz2_sentez.md) · [Faz 3 sentezi](09_RAPORLAR/12_faz3_sentez.md) · [Faz 4 sentezi](09_RAPORLAR/22_faz4_sentez.md) · [Toplum hedefleri](01_KAVRAMSAL_CERCEVE/toplum_hedefleri.md) · [Politika paketi v2](09_RAPORLAR/23_politika_paketi_v2.md) · [Paydaş oyunu](09_RAPORLAR/24_paydas_oyunu.md) · [Önlenebilir ölüm](09_RAPORLAR/25_ilce_ana_tablo_onlenebilir_olum.md) · [İlçe zaman paneli](09_RAPORLAR/26_ilce_zaman_paneli.md) · [Deprem olay çalışması](09_RAPORLAR/27_deprem_olay_calismasi.md)
+Güncel durum (27.10.2026): [Faz 2 sentezi](09_RAPORLAR/09_faz2_sentez.md) · [Faz 3 sentezi](09_RAPORLAR/12_faz3_sentez.md) · [Faz 4 sentezi](09_RAPORLAR/22_faz4_sentez.md) · [Toplum hedefleri](01_KAVRAMSAL_CERCEVE/toplum_hedefleri.md) · [Politika paketi v2](09_RAPORLAR/23_politika_paketi_v2.md) · [Paydaş oyunu](09_RAPORLAR/24_paydas_oyunu.md) · [Önlenebilir ölüm](09_RAPORLAR/25_ilce_ana_tablo_onlenebilir_olum.md) · [İlçe zaman paneli](09_RAPORLAR/26_ilce_zaman_paneli.md) · [Deprem olay çalışması](09_RAPORLAR/27_deprem_olay_calismasi.md) · [Evin biçimi ve toplum](09_RAPORLAR/28_konut_bicimi_iliskiler.md)
 
 ## Klasör yapısı
 
@@ -46,6 +46,7 @@ Depo boyutunu makul tutmak için aşağıdaki büyük dosyalar yüklenmedi (`.gi
 | `03_VERI/islenmis/uydu/*.tif` (pilot ilçe uydu katmanları, 30 m) | `03_VERI/kod/uydu_pilot.py` (WorldCover, Landsat ve PM2.5'i uzaktan okur) |
 | `03_VERI/ham/ekonomi/**/*.pdf`, `03_VERI/ham/enerji/**/*.pdf` (resmî raporlar, mevzuat metinleri, bültenler; telif kurumlarında) | Her klasörün `kaynaklar.md` dosyasında adıyla ve kurumuyla listeli; kurumun sitesinden indirilip aynı ada konur. `ekonomi_veri.py` TÜRK-İŞ Eylül 2026 bültenini (`turkis/turkis_aclik_yoksulluk_2026.09.pdf`) okur |
 | `03_VERI/ham/stres/literatur/` (makale künye ve özet önbelleği) | `05_ANALIZ/kod/stres_literatur_dogrula.py` (Crossref, PubMed, Europe PMC'den yeniden çeker) |
+| `03_VERI/ham/konut_bicimi_literatur/` (makale künye ve özet önbelleği) | `05_ANALIZ/kod/konut_bicimi_literatur_dogrula.py` (Crossref, PubMed, Europe PMC, Semantic Scholar, OpenAlex'ten yeniden çeker) |
 
 **Faz 3 mahalle ve uydu zinciri:** `osm_pilot_mahalle.py` → `tkgm_mahalle.py` → `uydu_pilot.py` → `05_ANALIZ/kod/fue_mahalle.py` → `uydu_ulusal.py` → `fue_ilce_gecerlilik.py` → `fue_grafikler.py`, `04_HARITA/kod/fue_haritalari.py`, `uydu_haritalari.py`.
 
@@ -66,6 +67,7 @@ Depo boyutunu makul tutmak için aşağıdaki büyük dosyalar yüklenmedi (`.gi
 | İlçe ana tablosu ve önlenebilir ölüm (Rapor 25) | `fue_ilce_gecerlilik.py`, `stres_endeks.py` ve ulusal ızgara zinciri sonrası `05_ANALIZ/kod/ilce_ana_tablo.py` |
 | Deprem olay çalışması (Rapor 27) | `ilce_ana_tablo.py` sonrası `05_ANALIZ/kod/deprem_olay.py`; USGS ShakeMap MMI dosyaları depoda (`03_VERI/ham/deprem/`) |
 | İlçe zaman paneli (Rapor 26) | `05_ANALIZ/kod/ilce_ghsl_degisim.py` → `ilce_ana_tablo.py` → `ilce_zaman_paneli.py`; ilçe nüfusu 2014–2025 MEDAS'tan tarayıcıyla alındı ve depoda (`03_VERI/islenmis/ilce_nufus_2014_2025.csv`) |
+| Evin biçimi ve toplum (Rapor 28) | `ilce_ana_tablo.py` sonrası `05_ANALIZ/kod/konut_bicimi_iliskiler.py`; literatür `konut_bicimi_literatur_dogrula.py`; TÜRKPATENT il tabloları depoda (`03_VERI/ham/inovasyon/`) |
 
 ## Veri kaynakları ve atıf
 
@@ -82,6 +84,7 @@ Depodaki işlenmiş veriler aşağıdaki kaynaklardan türetildi. Yeniden kullan
 | ESA WorldCover 2021 | CC BY 4.0 |
 | ACAG V6.GL.03 PM2.5 (Washington Üniversitesi, satpm.org) | CC BY 4.0 |
 | Landsat 8/9 (USGS), MODIS (NASA), USGS ShakeMap (2023 Kahramanmaraş depremleri) | Kamu malı |
+| TÜRKPATENT (patent ve faydalı model başvurularının illere göre dağılımı) | Kurum, kaynak gösterilerek |
 | Microsoft Global ML Building Footprints | ODbL 1.0 (depoya konmadı) |
 | GEM Global Active Faults | CC BY-SA 4.0 |
 | Copernicus DEM GLO-90 | Copernicus DEM lisansı, kaynak gösterilerek |

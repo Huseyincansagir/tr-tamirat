@@ -1,0 +1,442 @@
+sonuc,sonuc_ad,grup,iyi_yon,bicim,bicim_ad,model,beta,sh,p,n,r2,beta_iyi,q_bh
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M0,0.3566,0.1344,0.008,81,0.1272,0.3566,0.0225
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M1,0.0076,0.0788,0.9235,81,0.7265,0.0076,0.9428
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M2,-0.0021,0.0766,0.9779,81,0.7295,-0.0021,0.9846
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M0,0.3123,0.1365,0.0221,81,0.0975,0.3123,0.0525
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M1,-0.081,0.0712,0.2551,81,0.7307,-0.081,0.4653
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M2,-0.1079,0.0672,0.1086,81,0.7365,-0.1079,0.2913
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M0,-0.6267,0.1084,0.0,81,0.3928,-0.6267,0.0
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M1,-0.086,0.1135,0.4488,81,0.7293,-0.086,0.6219
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M2,-0.0828,0.1099,0.4511,81,0.7322,-0.0828,0.6377
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M0,0.4317,0.1018,0.0,81,0.1864,0.4317,0.0001
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M1,0.0604,0.0866,0.4855,81,0.7289,0.0604,0.6373
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M2,0.0727,0.0877,0.4075,81,0.733,0.0727,0.605
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M0,0.021,0.1199,0.8612,81,0.0004,0.021,0.8978
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M1,-0.1314,0.0679,0.0529,81,0.743,-0.1314,0.1807
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M2,-0.1342,0.0658,0.0415,81,0.7467,-0.1342,0.1525
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M0,0.5905,0.08,0.0,81,0.3487,0.5905,0.0
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M1,0.2891,0.0984,0.0033,81,0.748,0.2891,0.0269
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M2,0.3133,0.1019,0.0021,81,0.7542,0.3133,0.0222
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M0,-0.1036,0.1342,0.44,81,0.0107,-0.1036,0.5724
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M1,0.0431,0.0863,0.6173,81,0.7276,0.0431,0.7318
+ln_gsyh,Kişi başı GSYH (ln),Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M2,0.0428,0.085,0.6147,81,0.7306,0.0428,0.7313
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M0,0.2749,0.0997,0.0058,81,0.0756,0.2749,0.0185
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M1,0.0849,0.1178,0.4714,81,0.2418,0.0849,0.6336
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M2,0.0749,0.0954,0.4325,81,0.338,0.0749,0.6268
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M0,0.2209,0.1036,0.0329,81,0.0488,0.2209,0.0713
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M1,-0.0158,0.1076,0.8835,81,0.2371,-0.0158,0.9146
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M2,0.0196,0.0882,0.8245,81,0.3345,0.0196,0.9045
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M0,-0.461,0.1031,0.0,81,0.2126,-0.461,0.0
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M1,-0.284,0.1589,0.0739,81,0.2681,-0.284,0.2252
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M2,-0.234,0.1499,0.1186,81,0.3552,-0.234,0.3085
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M0,0.3001,0.1407,0.033,81,0.0901,0.3001,0.0713
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M1,0.122,0.15,0.4163,81,0.247,0.122,0.6059
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M2,0.0981,0.1256,0.4349,81,0.3405,0.0981,0.6268
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M0,0.1107,0.1029,0.2819,81,0.0123,0.1107,0.3873
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M1,0.037,0.0872,0.6713,81,0.2383,0.037,0.7708
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M2,0.1196,0.0887,0.1773,81,0.3471,0.1196,0.3891
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M0,0.2408,0.0947,0.011,81,0.058,0.2408,0.0289
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M1,0.1028,0.227,0.6506,81,0.2397,0.1028,0.7651
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M2,-0.0602,0.2391,0.8011,81,0.3351,-0.0602,0.891
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M0,-0.1737,0.1045,0.0964,81,0.0302,-0.1737,0.1708
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M1,-0.0512,0.1228,0.6764,81,0.2385,-0.0512,0.7708
+ln_kazanc,"Günlük kazanç (ln, 2015)",Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M2,-0.0769,0.1196,0.5199,81,0.3378,-0.0769,0.6707
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M0,-0.1427,0.0947,0.1318,81,0.0204,-0.1427,0.2157
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M1,-0.1869,0.0976,0.0555,81,0.2286,-0.1869,0.1854
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M2,-0.1769,0.0858,0.0393,81,0.3476,-0.1769,0.148
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M0,-0.2327,0.1088,0.0325,81,0.0541,-0.2327,0.0713
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M1,-0.3231,0.1229,0.0086,81,0.2729,-0.3231,0.0468
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M2,-0.2593,0.1282,0.043,81,0.3664,-0.2593,0.1542
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M0,-0.0384,0.1209,0.7509,81,0.0015,-0.0384,0.8449
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M1,0.1007,0.1884,0.593,81,0.2091,0.1007,0.7145
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M2,0.1525,0.1572,0.3317,81,0.336,0.1525,0.53
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M0,0.2528,0.1084,0.0197,81,0.0639,0.2528,0.0482
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M1,0.1709,0.1001,0.0879,81,0.2249,0.1709,0.2473
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M2,0.1152,0.0874,0.1872,81,0.3357,0.1152,0.3987
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M0,-0.1987,0.0958,0.0381,81,0.0395,-0.1987,0.0811
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M1,-0.2558,0.1076,0.0175,81,0.2678,-0.2558,0.0848
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M2,-0.176,0.0936,0.06,81,0.3548,-0.176,0.1837
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M0,0.529,0.1347,0.0001,81,0.2799,0.529,0.0004
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M1,0.6254,0.1503,0.0,81,0.3061,0.6254,0.0009
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M2,0.4544,0.1654,0.006,81,0.3743,0.4544,0.0421
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M0,0.3274,0.1277,0.0104,81,0.1072,0.3274,0.028
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M1,0.2443,0.1437,0.0892,81,0.2411,0.2443,0.2473
+istihdam_orani_pct,İstihdam oranı (2015),Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M2,0.2174,0.1341,0.105,81,0.3554,0.2174,0.2911
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M0,0.433,0.1245,0.0005,81,0.1875,0.433,0.0021
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M1,0.1695,0.1183,0.1519,81,0.4542,0.1695,0.3461
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M2,0.1312,0.107,0.2201,81,0.5669,0.1312,0.434
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M0,0.4965,0.0995,0.0,81,0.2465,0.4965,0.0
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M1,0.2471,0.0994,0.0129,81,0.4745,0.2471,0.0677
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M2,0.2371,0.0964,0.0139,81,0.5884,0.2371,0.0756
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M0,-0.6597,0.0827,0.0,81,0.4352,-0.6597,0.0
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M1,-0.4159,0.1295,0.0013,81,0.5017,-0.4159,0.0153
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M2,-0.3656,0.1153,0.0015,81,0.6066,-0.3656,0.0201
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M0,0.3749,0.1128,0.0009,81,0.1405,0.3749,0.0035
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M1,0.1164,0.1102,0.2908,81,0.4441,0.1164,0.5088
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M2,0.1328,0.0865,0.125,81,0.567,0.1328,0.3085
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M0,0.1919,0.118,0.1038,81,0.0368,0.1919,0.1817
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M1,0.0781,0.0882,0.3758,81,0.4408,0.0781,0.568
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M2,0.141,0.0732,0.0541,81,0.5734,0.141,0.1759
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M0,0.4691,0.0821,0.0,81,0.22,0.4691,0.0
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M1,0.5596,0.1508,0.0002,81,0.5157,0.5596,0.0044
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M2,0.5466,0.1428,0.0001,81,0.6239,0.5466,0.0032
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M0,-0.0199,0.1268,0.8753,81,0.0004,-0.0199,0.9026
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M1,0.2504,0.1238,0.0431,81,0.4726,0.2504,0.1667
+ln_patent,Patent başvurusu / 100 bin (ln),Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M2,0.2293,0.1088,0.0351,81,0.5871,0.2293,0.1393
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M0,0.3103,0.1048,0.0031,81,0.0963,0.3103,0.0113
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M1,0.0571,0.1041,0.583,81,0.2718,0.0571,0.7083
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M2,0.0138,0.0931,0.8819,81,0.3855,0.0138,0.9326
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M0,0.3566,0.0987,0.0003,81,0.1272,0.3566,0.0013
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M1,0.1249,0.1116,0.2632,81,0.2797,0.1249,0.4718
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M2,0.0906,0.1151,0.4311,81,0.3901,0.0906,0.6268
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M0,-0.4829,0.1,0.0,81,0.2332,-0.4829,0.0
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M1,-0.2464,0.1525,0.1061,81,0.293,-0.2464,0.2746
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M2,-0.1973,0.1404,0.1599,81,0.4002,-0.1973,0.356
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M0,0.2835,0.1108,0.0105,81,0.0804,0.2835,0.028
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M1,0.1279,0.1062,0.2286,81,0.2806,0.1279,0.44
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M2,0.151,0.1034,0.1444,81,0.4001,0.151,0.3316
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M0,0.0699,0.1291,0.5882,81,0.0049,0.0699,0.7146
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M1,-0.0321,0.0945,0.7344,81,0.2706,-0.0321,0.8117
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M2,0.0155,0.0802,0.8463,81,0.3855,0.0155,0.9127
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M0,0.4004,0.0851,0.0,81,0.1603,0.4004,0.0
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M1,0.5312,0.1456,0.0003,81,0.3424,0.5312,0.0047
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M2,0.5361,0.1217,0.0,81,0.4511,0.5361,0.0004
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M0,-0.0521,0.1172,0.6569,81,0.0027,-0.0521,0.7756
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M1,0.097,0.1224,0.4281,81,0.2753,0.097,0.6127
+ln_fmodel,Faydalı model / 100 bin (ln),Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M2,0.0773,0.1088,0.4777,81,0.3889,0.0773,0.6502
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M0,0.4584,0.1646,0.0054,81,0.2101,0.4584,0.0177
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M1,0.0877,0.0954,0.3578,81,0.687,0.0877,0.5575
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,kat5p_pct,5+ katlı binada oturan hane (%),M2,0.0542,0.0805,0.501,81,0.7261,0.0542,0.6635
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M0,0.5335,0.1558,0.0006,81,0.2846,0.5335,0.0025
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M1,0.1282,0.0833,0.1237,81,0.6925,0.1282,0.3025
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,ort_kat,Ortalama kat,M2,0.078,0.0735,0.2889,81,0.7278,0.078,0.4994
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M0,-0.5362,0.1359,0.0001,81,0.2875,-0.5362,0.0004
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M1,0.1105,0.1408,0.4328,81,0.6865,0.1105,0.6127
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,kat12_pct,1–2 katlı binada oturan hane (%),M2,0.1322,0.1141,0.2468,81,0.7309,0.1322,0.4424
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M0,0.1593,0.104,0.1256,81,0.0254,0.1593,0.2108
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M1,-0.2141,0.0771,0.0055,81,0.7127,-0.2141,0.0327
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,kat34_pct,3–4 katlı binada oturan hane (%),M2,-0.1902,0.0651,0.0035,81,0.7477,-0.1902,0.0285
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M0,0.0213,0.1542,0.8903,81,0.0005,0.0213,0.9026
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M1,-0.0783,0.0771,0.3099,81,0.6877,-0.0783,0.5252
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,ort_oda,Konut başına oda,M2,-0.0793,0.0882,0.3687,81,0.7298,-0.0793,0.5604
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M0,-0.0127,0.089,0.887,81,0.0002,-0.0127,0.9026
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M1,-0.1426,0.1453,0.3266,81,0.687,-0.1426,0.5394
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,kisi_oda,Kişi başı oda,M2,-0.1267,0.1297,0.3288,81,0.7279,-0.1267,0.53
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M0,-0.5072,0.1339,0.0002,81,0.2572,-0.5072,0.0007
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M1,-0.1212,0.0853,0.1554,81,0.6906,-0.1212,0.3461
+sirket_1000,Kurulan şirket / 1.000,Üretkenlik ve inovasyon,1,ev_sahibi,Ev sahibi hane (%),M2,-0.1271,0.0818,0.1202,81,0.7339,-0.1271,0.3085
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,kat5p_pct,5+ katlı binada oturan hane (%),M0,0.1692,0.1161,0.1451,81,0.0286,0.1692,0.2318
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,kat5p_pct,5+ katlı binada oturan hane (%),M1,0.2307,0.1393,0.0976,81,0.1903,0.2307,0.2656
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,kat5p_pct,5+ katlı binada oturan hane (%),M2,0.2124,0.1383,0.1247,81,0.2027,0.2124,0.3085
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,ort_kat,Ortalama kat,M0,0.2183,0.1142,0.056,81,0.0476,0.2183,0.1127
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,ort_kat,Ortalama kat,M1,0.3079,0.1356,0.0232,81,0.2161,0.3079,0.1003
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,ort_kat,Ortalama kat,M2,0.2838,0.1478,0.0548,81,0.2201,0.2838,0.1759
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,kat12_pct,1–2 katlı binada oturan hane (%),M0,-0.2366,0.1171,0.0433,81,0.056,-0.2366,0.0897
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,kat12_pct,1–2 katlı binada oturan hane (%),M1,-0.3088,0.2006,0.1238,81,0.1914,-0.3088,0.3025
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,kat12_pct,1–2 katlı binada oturan hane (%),M2,-0.3115,0.1902,0.1014,81,0.2101,-0.3115,0.2868
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,kat34_pct,3–4 katlı binada oturan hane (%),M0,0.115,0.1043,0.2705,81,0.0132,0.115,0.3751
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,kat34_pct,3–4 katlı binada oturan hane (%),M1,-0.0568,0.1024,0.579,81,0.1568,-0.0568,0.7083
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,kat34_pct,3–4 katlı binada oturan hane (%),M2,-0.0274,0.1115,0.8061,81,0.1736,-0.0274,0.891
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,ort_oda,Konut başına oda,M0,0.2488,0.1101,0.0239,81,0.0619,0.2488,0.0557
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,ort_oda,Konut başına oda,M1,0.2288,0.1049,0.0291,81,0.2047,0.2288,0.1224
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,ort_oda,Konut başına oda,M2,0.2265,0.1064,0.0333,81,0.219,0.2265,0.136
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,kisi_oda,Kişi başı oda,M0,0.3389,0.1255,0.007,81,0.1148,0.3389,0.02
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,kisi_oda,Kişi başı oda,M1,0.3648,0.1884,0.0528,81,0.1889,0.3648,0.1807
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,kisi_oda,Kişi başı oda,M2,0.4844,0.2035,0.0173,81,0.2268,0.4844,0.0907
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,ev_sahibi,Ev sahibi hane (%),M0,-0.0359,0.0969,0.7108,81,0.0013,-0.0359,0.8163
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,ev_sahibi,Ev sahibi hane (%),M1,-0.1306,0.1348,0.3325,81,0.1649,-0.1306,0.5431
+dogusta_yasam_suresi_yil,Doğuşta yaşam süresi (2015),Sağlık,1,ev_sahibi,Ev sahibi hane (%),M2,-0.1283,0.1354,0.3435,81,0.1829,-0.1283,0.5379
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,kat5p_pct,5+ katlı binada oturan hane (%),M0,-0.1637,0.0913,0.0731,81,0.0268,0.1637,0.1377
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,kat5p_pct,5+ katlı binada oturan hane (%),M1,-0.0698,0.1036,0.5004,81,0.5177,0.0698,0.6465
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,kat5p_pct,5+ katlı binada oturan hane (%),M2,-0.0508,0.0831,0.5408,81,0.6247,0.0508,0.6707
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,ort_kat,Ortalama kat,M0,-0.109,0.0835,0.1915,81,0.0119,0.109,0.2994
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,ort_kat,Ortalama kat,M1,0.0247,0.0868,0.7756,81,0.5149,-0.0247,0.8262
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,ort_kat,Ortalama kat,M2,0.0081,0.0633,0.898,81,0.6231,-0.0081,0.9362
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,kat12_pct,1–2 katlı binada oturan hane (%),M0,0.4116,0.0815,0.0,81,0.1694,-0.4116,0.0
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,kat12_pct,1–2 katlı binada oturan hane (%),M1,0.2496,0.1344,0.0633,81,0.5385,-0.2496,0.2069
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,kat12_pct,1–2 katlı binada oturan hane (%),M2,0.1957,0.1125,0.0818,81,0.6376,-0.1957,0.2405
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,kat34_pct,3–4 katlı binada oturan hane (%),M0,-0.3803,0.0739,0.0,81,0.1446,0.3803,0.0
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,kat34_pct,3–4 katlı binada oturan hane (%),M1,-0.1134,0.0915,0.2153,81,0.5231,0.1134,0.4392
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,kat34_pct,3–4 katlı binada oturan hane (%),M2,-0.0984,0.0826,0.2338,81,0.6293,0.0984,0.4357
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,ort_oda,Konut başına oda,M0,-0.1837,0.1201,0.1262,81,0.0337,0.1837,0.2108
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,ort_oda,Konut başına oda,M1,-0.0695,0.0926,0.4527,81,0.5191,0.0695,0.6219
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,ort_oda,Konut başına oda,M2,-0.1529,0.08,0.0561,81,0.6439,0.1529,0.1759
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,kisi_oda,Kişi başı oda,M0,-0.722,0.078,0.0,81,0.5213,0.722,0.0
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,kisi_oda,Kişi başı oda,M1,-0.4474,0.0954,0.0,81,0.5661,0.4474,0.0001
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,kisi_oda,Kişi başı oda,M2,-0.343,0.1073,0.0014,81,0.6499,0.343,0.0201
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,ev_sahibi,Ev sahibi hane (%),M0,-0.1851,0.1054,0.0789,81,0.0343,0.1851,0.1469
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,ev_sahibi,Ev sahibi hane (%),M1,-0.0123,0.1111,0.9117,81,0.5146,0.0123,0.9372
+bebek_olum_hizi_binde,"Bebek ölüm hızı (‰, 2015)",Sağlık,-1,ev_sahibi,Ev sahibi hane (%),M2,0.0136,0.1016,0.8934,81,0.6231,-0.0136,0.9362
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,kat5p_pct,5+ katlı binada oturan hane (%),M0,-0.0059,0.105,0.9553,81,0.0,0.0059,0.9618
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,kat5p_pct,5+ katlı binada oturan hane (%),M1,-0.214,0.1024,0.0365,81,0.3263,0.214,0.1451
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,kat5p_pct,5+ katlı binada oturan hane (%),M2,-0.1924,0.1008,0.0563,81,0.3457,0.1924,0.1759
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,ort_kat,Ortalama kat,M0,-0.0018,0.0963,0.9852,81,0.0,0.0018,0.9852
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,ort_kat,Ortalama kat,M1,-0.2613,0.0983,0.0079,81,0.3399,0.2613,0.0446
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,ort_kat,Ortalama kat,M2,-0.2205,0.102,0.0305,81,0.3498,0.2205,0.1338
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,kat12_pct,1–2 katlı binada oturan hane (%),M0,-0.1281,0.1046,0.2207,81,0.0164,0.1281,0.3278
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,kat12_pct,1–2 katlı binada oturan hane (%),M1,0.1594,0.1404,0.2564,81,0.3054,-0.1594,0.4653
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,kat12_pct,1–2 katlı binada oturan hane (%),M2,0.1635,0.1328,0.2183,81,0.3316,-0.1635,0.434
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,kat34_pct,3–4 katlı binada oturan hane (%),M0,0.1974,0.0845,0.0195,81,0.039,-0.1974,0.0482
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,kat34_pct,3–4 katlı binada oturan hane (%),M1,0.1593,0.0899,0.0766,81,0.3127,-0.1593,0.2252
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,kat34_pct,3–4 katlı binada oturan hane (%),M2,0.127,0.096,0.186,81,0.3318,-0.127,0.3987
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,ort_oda,Konut başına oda,M0,-0.2208,0.1077,0.0403,81,0.0488,0.2208,0.0847
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,ort_oda,Konut başına oda,M1,-0.2999,0.0919,0.0011,81,0.3817,0.2999,0.0147
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,ort_oda,Konut başına oda,M2,-0.2947,0.0909,0.0012,81,0.399,0.2947,0.0193
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,kisi_oda,Kişi başı oda,M0,0.0942,0.1235,0.4458,81,0.0089,-0.0942,0.5748
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,kisi_oda,Kişi başı oda,M1,0.0816,0.1855,0.6601,81,0.2973,-0.0816,0.7701
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,kisi_oda,Kişi başı oda,M2,-0.0036,0.1938,0.9852,81,0.3214,0.0036,0.9852
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,ev_sahibi,Ev sahibi hane (%),M0,0.0848,0.0948,0.3709,81,0.0072,-0.0848,0.4912
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,ev_sahibi,Ev sahibi hane (%),M1,0.1765,0.1165,0.1296,81,0.3143,-0.1765,0.3074
+smr_il,Standart ölüm oranı (2024–25),Sağlık,-1,ev_sahibi,Ev sahibi hane (%),M2,0.1723,0.1176,0.1427,81,0.3391,-0.1723,0.3316
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,kat5p_pct,5+ katlı binada oturan hane (%),M0,-0.1187,0.1013,0.2413,81,0.0141,0.1187,0.3478
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,kat5p_pct,5+ katlı binada oturan hane (%),M1,-0.1272,0.1389,0.3595,81,0.1352,0.1272,0.5575
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,kat5p_pct,5+ katlı binada oturan hane (%),M2,-0.1472,0.1454,0.3115,81,0.1758,0.1472,0.5204
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,ort_kat,Ortalama kat,M0,-0.181,0.1176,0.1237,81,0.0328,0.181,0.2108
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,ort_kat,Ortalama kat,M1,-0.1574,0.1329,0.2364,81,0.1404,0.1574,0.44
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,ort_kat,Ortalama kat,M2,-0.1775,0.1451,0.2214,81,0.1799,0.1775,0.434
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,kat12_pct,1–2 katlı binada oturan hane (%),M0,0.2113,0.109,0.0526,81,0.0446,-0.2113,0.1074
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,kat12_pct,1–2 katlı binada oturan hane (%),M1,0.2964,0.164,0.0707,81,0.1582,-0.2964,0.2248
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,kat12_pct,1–2 katlı binada oturan hane (%),M2,0.3324,0.1556,0.0327,81,0.2037,-0.3324,0.136
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,kat34_pct,3–4 katlı binada oturan hane (%),M0,-0.1457,0.1137,0.1999,81,0.0212,0.1457,0.3046
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,kat34_pct,3–4 katlı binada oturan hane (%),M1,-0.0722,0.1121,0.5196,81,0.1278,0.0722,0.6547
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,kat34_pct,3–4 katlı binada oturan hane (%),M2,-0.0785,0.1288,0.5425,81,0.1655,0.0785,0.6707
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,ort_oda,Konut başına oda,M0,-0.4315,0.1072,0.0001,81,0.1862,0.4315,0.0003
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,ort_oda,Konut başına oda,M1,-0.4467,0.0837,0.0,81,0.3152,0.4467,0.0
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,ort_oda,Konut başına oda,M2,-0.4375,0.0793,0.0,81,0.3327,0.4375,0.0
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,kisi_oda,Kişi başı oda,M0,0.1102,0.0968,0.2547,81,0.0121,-0.1102,0.3566
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,kisi_oda,Kişi başı oda,M1,0.0468,0.2085,0.8224,81,0.1249,-0.0468,0.8635
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,kisi_oda,Kişi başı oda,M2,-0.0221,0.2032,0.9132,81,0.1617,0.0221,0.9441
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,ev_sahibi,Ev sahibi hane (%),M0,0.0976,0.0985,0.3215,81,0.0095,-0.0976,0.4336
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,ev_sahibi,Ev sahibi hane (%),M1,-0.0461,0.1199,0.7008,81,0.1256,0.0461,0.7864
+intihar_hiz,İntihar hızı (2014–18),Sağlık,-1,ev_sahibi,Ev sahibi hane (%),M2,-0.0605,0.1243,0.6268,81,0.1637,0.0605,0.7313
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M0,-0.3033,0.112,0.0068,81,0.092,-0.3033,0.0199
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M1,-0.0349,0.1183,0.7681,81,0.329,-0.0349,0.8242
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M2,0.0111,0.1087,0.9184,81,0.3974,0.0111,0.9441
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M0,-0.459,0.082,0.0,81,0.2107,-0.459,0.0
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M1,-0.2275,0.1264,0.0719,81,0.3618,-0.2275,0.2248
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M2,-0.1581,0.1346,0.2401,81,0.4119,-0.1581,0.4357
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M0,0.3398,0.1046,0.0012,81,0.1154,0.3398,0.0045
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M1,-0.1303,0.1425,0.3603,81,0.3348,-0.1303,0.5575
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M2,-0.1512,0.126,0.2302,81,0.4061,-0.1512,0.4357
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M0,-0.0833,0.1142,0.4655,81,0.0069,-0.0833,0.5849
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M1,0.1581,0.1032,0.1255,81,0.3451,0.1581,0.3025
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M2,0.1154,0.103,0.2625,81,0.406,0.1154,0.4594
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M0,-0.0484,0.1129,0.6679,81,0.0023,-0.0484,0.7793
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M1,0.0144,0.0953,0.88,81,0.3284,0.0144,0.9146
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M2,0.0223,0.0863,0.7958,81,0.3978,0.0223,0.891
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M0,0.027,0.1028,0.7926,81,0.0007,0.027,0.8507
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M1,0.0592,0.181,0.7438,81,0.3291,0.0592,0.8154
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M2,-0.009,0.1812,0.9605,81,0.3974,-0.009,0.9737
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M0,0.3717,0.1153,0.0013,81,0.1382,0.3717,0.0048
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M1,0.0971,0.124,0.4335,81,0.3339,0.0971,0.6127
+sosyal_iliski_memnuniyeti_pct,Sosyal ilişki memnuniyeti,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M2,0.1008,0.1123,0.3698,81,0.4034,0.1008,0.5604
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M0,-0.0237,0.0901,0.7928,81,0.0006,-0.0237,0.8507
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M1,-0.1435,0.1209,0.2353,81,0.3218,-0.1435,0.44
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M2,-0.1473,0.1253,0.2399,81,0.3227,-0.1473,0.4357
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M0,-0.0423,0.0923,0.6464,81,0.0018,-0.0423,0.7756
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M1,-0.1726,0.1069,0.1065,81,0.3273,-0.1726,0.2746
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M2,-0.1889,0.1235,0.1259,81,0.3293,-0.1889,0.3085
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M0,-0.2574,0.0883,0.0035,81,0.0663,-0.2574,0.0124
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M1,-0.1381,0.15,0.3572,81,0.3153,-0.1381,0.5575
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M2,-0.1361,0.1493,0.362,81,0.3155,-0.1361,0.5601
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M0,0.4121,0.1077,0.0001,81,0.1698,0.4121,0.0006
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M1,0.3135,0.1063,0.0032,81,0.3741,0.3135,0.0269
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M2,0.3235,0.1092,0.003,81,0.3763,0.3235,0.0264
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M0,-0.0144,0.0952,0.8795,81,0.0002,-0.0144,0.9026
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M1,-0.1062,0.0967,0.2719,81,0.3188,-0.1062,0.4815
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M2,-0.1081,0.1027,0.2921,81,0.3189,-0.1081,0.4994
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M0,0.514,0.1073,0.0,81,0.2642,0.514,0.0
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M1,0.1426,0.2012,0.4784,81,0.3132,0.1426,0.6336
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M2,0.1487,0.2078,0.4744,81,0.3135,0.1487,0.6502
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M0,0.2607,0.1005,0.0095,81,0.0679,0.2607,0.0262
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M1,0.1412,0.1169,0.227,81,0.32,0.1412,0.44
+sosyal_hayat_memnuniyeti_pct,Sosyal hayat memnuniyeti,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M2,0.1401,0.1186,0.2376,81,0.3202,0.1401,0.4357
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M0,-0.3025,0.1108,0.0064,81,0.0915,-0.3025,0.0194
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M1,-0.0876,0.0986,0.3745,81,0.5092,-0.0876,0.568
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M2,-0.0622,0.0984,0.5276,81,0.5302,-0.0622,0.6707
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M0,-0.3288,0.12,0.0061,81,0.1081,-0.3288,0.0192
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M1,-0.0668,0.1041,0.5211,81,0.507,-0.0668,0.6547
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M2,-0.0202,0.1072,0.8506,81,0.5279,-0.0202,0.9127
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M0,0.2207,0.131,0.0921,81,0.0487,0.2207,0.1651
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M1,-0.1324,0.1344,0.3244,81,0.5108,-0.1324,0.5394
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M2,-0.146,0.1289,0.2572,81,0.5358,-0.146,0.4555
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M0,0.0907,0.1293,0.4831,81,0.0082,0.0907,0.6018
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M1,0.2314,0.0835,0.0056,81,0.5401,0.2314,0.0327
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M2,0.2126,0.0837,0.0111,81,0.557,0.2126,0.0626
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M0,0.035,0.1197,0.7699,81,0.0012,0.035,0.8449
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M1,0.0476,0.0906,0.5998,81,0.5062,0.0476,0.7168
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M2,0.0535,0.0897,0.551,81,0.5303,0.0535,0.6707
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M0,0.4528,0.0828,0.0,81,0.205,0.4528,0.0
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M1,0.4333,0.1352,0.0013,81,0.5525,0.4333,0.0153
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M2,0.4479,0.1423,0.0016,81,0.5736,0.4479,0.0201
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M0,0.6174,0.0834,0.0,81,0.3811,0.6174,0.0
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M1,0.3,0.0971,0.002,81,0.5582,0.3,0.0211
+gece_yalniz_yururken_guvende_pct,Gece yalnız yürürken güvende,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M2,0.3035,0.0974,0.0018,81,0.5829,0.3035,0.0207
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M0,-0.058,0.1503,0.6996,81,0.0034,-0.058,0.8098
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M1,0.0891,0.1247,0.4748,81,0.4321,0.0891,0.6336
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M2,0.1206,0.1218,0.3219,81,0.4639,0.1206,0.53
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M0,-0.1225,0.1277,0.3372,81,0.015,-0.1225,0.4506
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M1,0.0388,0.1051,0.7117,81,0.4278,0.0388,0.7926
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M2,0.1068,0.1046,0.3072,81,0.461,0.1068,0.5191
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M0,0.0372,0.1318,0.778,81,0.0014,0.0372,0.8472
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M1,-0.2445,0.1404,0.0815,81,0.4499,-0.2445,0.235
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M2,-0.2566,0.1328,0.0533,81,0.4795,-0.2566,0.1759
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M0,0.0246,0.1093,0.8219,81,0.0006,0.0246,0.8755
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M1,0.0839,0.088,0.3401,81,0.4316,0.0839,0.5494
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M2,0.0537,0.0866,0.535,81,0.4562,0.0537,0.6707
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M0,-0.0209,0.1054,0.8429,81,0.0004,-0.0209,0.8914
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M1,-0.0572,0.0977,0.558,81,0.4299,-0.0572,0.6893
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M2,-0.0518,0.1026,0.6138,81,0.4568,-0.0518,0.7313
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M0,0.5083,0.1206,0.0,81,0.2584,0.5083,0.0001
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M1,0.5985,0.2014,0.003,81,0.5192,0.5985,0.0269
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M2,0.6147,0.2214,0.0055,81,0.5408,0.6147,0.0404
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M0,0.5624,0.1082,0.0,81,0.3162,0.5624,0.0
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M1,0.2952,0.1297,0.0229,81,0.4792,0.2952,0.1003
+kamu_asayis_memnuniyeti_pct,Asayiş hizmetinden memnuniyet,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M2,0.2969,0.1312,0.0236,81,0.5071,0.2969,0.1198
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,kat5p_pct,5+ katlı binada oturan hane (%),M0,-0.1094,0.0943,0.2461,81,0.012,0.1094,0.3512
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,kat5p_pct,5+ katlı binada oturan hane (%),M1,-0.101,0.1615,0.5319,81,0.0414,0.101,0.6626
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,kat5p_pct,5+ katlı binada oturan hane (%),M2,-0.1247,0.1675,0.4564,81,0.0641,0.1247,0.639
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,ort_kat,Ortalama kat,M0,-0.0665,0.0963,0.4898,81,0.0044,0.0665,0.605
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,ort_kat,Ortalama kat,M1,-0.0393,0.1322,0.7663,81,0.0355,0.0393,0.8242
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,ort_kat,Ortalama kat,M2,-0.0759,0.1518,0.617,81,0.0573,0.0759,0.7313
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,kat12_pct,1–2 katlı binada oturan hane (%),M0,0.2284,0.091,0.0121,81,0.0522,-0.2284,0.0313
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,kat12_pct,1–2 katlı binada oturan hane (%),M1,0.3795,0.1904,0.0463,81,0.0901,-0.3795,0.1703
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,kat12_pct,1–2 katlı binada oturan hane (%),M2,0.4018,0.1844,0.0293,81,0.1155,-0.4018,0.1338
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,kat34_pct,3–4 katlı binada oturan hane (%),M0,-0.185,0.1016,0.0688,81,0.0342,0.185,0.1313
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,kat34_pct,3–4 katlı binada oturan hane (%),M1,-0.1806,0.1259,0.1513,81,0.0565,0.1806,0.3461
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,kat34_pct,3–4 katlı binada oturan hane (%),M2,-0.1726,0.1407,0.22,81,0.0732,0.1726,0.434
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,ort_oda,Konut başına oda,M0,-0.3086,0.1054,0.0034,81,0.0952,0.3086,0.0123
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,ort_oda,Konut başına oda,M1,-0.2872,0.101,0.0045,81,0.1135,0.2872,0.0315
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,ort_oda,Konut başına oda,M2,-0.2952,0.1105,0.0075,81,0.1318,0.2952,0.0488
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,kisi_oda,Kişi başı oda,M0,-0.178,0.1053,0.0909,81,0.0317,0.178,0.165
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,kisi_oda,Kişi başı oda,M1,-0.1017,0.2563,0.6916,81,0.0372,0.1017,0.7821
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,kisi_oda,Kişi başı oda,M2,-0.1162,0.2382,0.6256,81,0.057,0.1162,0.7313
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,ev_sahibi,Ev sahibi hane (%),M0,-0.0287,0.0954,0.7636,81,0.0008,0.0287,0.8449
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,ev_sahibi,Ev sahibi hane (%),M1,0.035,0.1375,0.799,81,0.0353,-0.035,0.845
+cinayet_milyonda,Cinayet / milyon,Güven ve sosyal bağ,-1,ev_sahibi,Ev sahibi hane (%),M2,0.029,0.1371,0.8324,81,0.0544,-0.029,0.9064
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M0,0.1449,0.1129,0.1991,81,0.021,0.1449,0.3046
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M1,-0.2356,0.065,0.0003,81,0.6334,-0.2356,0.0047
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M2,-0.2381,0.0619,0.0001,81,0.6726,-0.2381,0.0032
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M0,0.1751,0.1176,0.1366,81,0.0307,0.1751,0.2207
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M1,-0.2126,0.0881,0.0158,81,0.6255,-0.2126,0.08
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M2,-0.1903,0.0916,0.0377,81,0.6565,-0.1903,0.1458
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M0,-0.4335,0.1151,0.0002,81,0.1879,-0.4335,0.0007
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M1,0.1558,0.113,0.1682,81,0.6056,0.1558,0.3635
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M2,0.1887,0.1014,0.0627,81,0.649,0.1887,0.1881
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M0,0.4391,0.1055,0.0,81,0.1928,0.4391,0.0002
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M1,0.1907,0.0658,0.0038,81,0.6207,0.1907,0.0292
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M2,0.1682,0.0661,0.0109,81,0.6537,0.1682,0.0626
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M0,0.0489,0.1083,0.6518,81,0.0024,0.0489,0.7756
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M1,-0.1149,0.0704,0.1025,81,0.6089,-0.1149,0.2739
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M2,-0.0681,0.0719,0.344,81,0.6395,-0.0681,0.5379
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M0,0.5933,0.1053,0.0,81,0.352,0.5933,0.0
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M1,0.1745,0.135,0.1961,81,0.6041,0.1745,0.4061
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M2,0.0625,0.1379,0.6503,81,0.6363,0.0625,0.7527
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M0,0.1819,0.0959,0.0577,81,0.0331,0.1819,0.1147
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M1,0.2457,0.0876,0.005,81,0.6325,0.2457,0.0322
+yerel_secim_katilim_pct,Yerel seçime katılım,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M2,0.2304,0.0863,0.0076,81,0.6671,0.2304,0.0488
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M0,-0.05,0.1594,0.7539,81,0.0025,-0.05,0.8449
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M1,0.004,0.2154,0.9853,81,0.1974,0.004,0.987
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M2,0.0128,0.2191,0.9536,81,0.2295,0.0128,0.9735
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M0,-0.0323,0.1107,0.7702,81,0.001,-0.0323,0.8449
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M1,0.0037,0.1739,0.9831,81,0.1974,0.0037,0.987
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M2,0.0578,0.1833,0.7525,81,0.2313,0.0578,0.8575
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M0,-0.1091,0.0855,0.2023,81,0.0119,-0.1091,0.3046
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M1,-0.151,0.203,0.4571,81,0.2062,-0.151,0.6222
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M2,-0.1276,0.2068,0.5373,81,0.2356,-0.1276,0.6707
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M0,0.2298,0.1806,0.2031,81,0.0528,0.2298,0.3046
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M1,0.1224,0.1594,0.4424,81,0.2075,0.1224,0.6194
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M2,0.0938,0.1547,0.5443,81,0.235,0.0938,0.6707
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M0,0.132,0.1271,0.2988,81,0.0174,0.132,0.4067
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M1,0.1404,0.1186,0.2365,81,0.2163,0.1404,0.44
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M2,0.2001,0.1332,0.133,81,0.2651,0.2001,0.3205
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M0,0.2068,0.0743,0.0054,81,0.0428,0.2068,0.0177
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M1,0.2615,0.1834,0.1538,81,0.2151,0.2615,0.3461
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M2,0.1648,0.2134,0.44,81,0.2356,0.1648,0.628
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M0,0.091,0.0774,0.2401,81,0.0083,0.091,0.3478
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M1,0.1391,0.1061,0.1898,81,0.2091,0.1391,0.3987
+sendika_dernek_ilgi_pct,Sendika ve dernek ilgisi,Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M2,0.1257,0.1015,0.2159,81,0.2388,0.1257,0.434
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M0,-0.1733,0.093,0.0623,81,0.03,-0.1733,0.1206
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M1,-0.1235,0.1463,0.3987,81,0.1125,-0.1235,0.5921
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,kat5p_pct,5+ katlı binada oturan hane (%),M2,-0.0997,0.1449,0.4917,81,0.1389,-0.0997,0.6571
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M0,-0.2006,0.084,0.0169,81,0.0402,-0.2006,0.0429
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M1,-0.1446,0.1212,0.2329,81,0.1159,-0.1446,0.44
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,ort_kat,Ortalama kat,M2,-0.0854,0.1373,0.5339,81,0.1367,-0.0854,0.6707
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M0,0.0572,0.0868,0.5098,81,0.0033,0.0572,0.6245
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M1,-0.089,0.2084,0.6692,81,0.1054,-0.089,0.7708
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,kat12_pct,1–2 katlı binada oturan hane (%),M2,-0.0838,0.2006,0.6762,81,0.1351,-0.0838,0.7765
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M0,0.1536,0.1063,0.1484,81,0.0236,0.1536,0.2345
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M1,0.2437,0.123,0.0475,81,0.1423,0.2437,0.1703
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,kat34_pct,3–4 katlı binada oturan hane (%),M2,0.2109,0.1316,0.109,81,0.1613,0.2109,0.2913
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M0,0.1196,0.1016,0.2393,81,0.0143,0.1196,0.3478
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M1,0.1191,0.0967,0.2181,81,0.1159,0.1191,0.4392
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,ort_oda,Konut başına oda,M2,0.1605,0.0979,0.1011,81,0.1554,0.1605,0.2868
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M0,0.1311,0.1145,0.2521,81,0.0172,0.1311,0.3564
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M1,-0.1945,0.239,0.4157,81,0.1121,-0.1945,0.6059
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,kisi_oda,Kişi başı oda,M2,-0.3316,0.2285,0.1468,81,0.1576,-0.3316,0.3319
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M0,0.2252,0.1019,0.0271,81,0.0507,0.2252,0.0616
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M1,0.0452,0.1413,0.7488,81,0.1035,0.0452,0.8154
+mutluluk_duzeyi_pct,Mutluluk (2015),Güven ve sosyal bağ,1,ev_sahibi,Ev sahibi hane (%),M2,0.0385,0.1386,0.7813,81,0.1333,0.0385,0.8835
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,kat5p_pct,5+ katlı binada oturan hane (%),M0,-0.1586,0.1053,0.132,81,0.0251,-0.1586,0.2157
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,kat5p_pct,5+ katlı binada oturan hane (%),M1,-0.1679,0.0944,0.0754,81,0.6662,-0.1679,0.2252
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,kat5p_pct,5+ katlı binada oturan hane (%),M2,-0.1951,0.0904,0.0309,81,0.7007,-0.1951,0.1338
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,ort_kat,Ortalama kat,M0,-0.0723,0.0982,0.4615,81,0.0052,-0.0723,0.5849
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,ort_kat,Ortalama kat,M1,-0.0858,0.0838,0.3059,81,0.6521,-0.0858,0.5252
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,ort_kat,Ortalama kat,M2,-0.1672,0.0854,0.0503,81,0.692,-0.1672,0.1759
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,kat12_pct,1–2 katlı binada oturan hane (%),M0,0.3036,0.1091,0.0054,81,0.0922,0.3036,0.0177
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,kat12_pct,1–2 katlı binada oturan hane (%),M1,0.3355,0.1019,0.001,81,0.6907,0.3355,0.0146
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,kat12_pct,1–2 katlı binada oturan hane (%),M2,0.33,0.0967,0.0006,81,0.7173,0.33,0.0118
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,kat34_pct,3–4 katlı binada oturan hane (%),M0,-0.2286,0.0997,0.0218,81,0.0523,-0.2286,0.0525
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,kat34_pct,3–4 katlı binada oturan hane (%),M1,-0.0526,0.0818,0.5197,81,0.6492,-0.0526,0.6547
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,kat34_pct,3–4 katlı binada oturan hane (%),M2,-0.0138,0.0824,0.8671,81,0.6758,-0.0138,0.9236
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,ort_oda,Konut başına oda,M0,-0.0339,0.0769,0.6595,81,0.0011,-0.0339,0.7756
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,ort_oda,Konut başına oda,M1,0.0756,0.0746,0.3108,81,0.6528,0.0756,0.5252
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,ort_oda,Konut başına oda,M2,0.045,0.0757,0.5521,81,0.6775,0.045,0.6707
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,kisi_oda,Kişi başı oda,M0,-0.9259,0.0393,0.0,81,0.8572,-0.9259,0.0
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,kisi_oda,Kişi başı oda,M1,-0.9658,0.0787,0.0,81,0.8878,-0.9658,0.0
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,kisi_oda,Kişi başı oda,M2,-0.9732,0.086,0.0,81,0.8923,-0.9732,0.0
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,ev_sahibi,Ev sahibi hane (%),M0,-0.4545,0.0942,0.0,81,0.2066,-0.4545,0.0
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,ev_sahibi,Ev sahibi hane (%),M1,-0.2023,0.0887,0.0225,81,0.6719,-0.2023,0.1003
+yasli_yakin,Yaşlı çocuğuyla aynı mahallede ya da daha yakın,Aile,1,ev_sahibi,Ev sahibi hane (%),M2,-0.1951,0.0868,0.0246,81,0.6985,-0.1951,0.1205
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,kat5p_pct,5+ katlı binada oturan hane (%),M0,-0.0168,0.0906,0.8531,81,0.0003,0.0168,0.8958
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,kat5p_pct,5+ katlı binada oturan hane (%),M1,0.0664,0.0988,0.5013,81,0.6346,-0.0664,0.6465
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,kat5p_pct,5+ katlı binada oturan hane (%),M2,0.0927,0.0951,0.33,81,0.6669,-0.0927,0.53
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,ort_kat,Ortalama kat,M0,-0.0838,0.0948,0.377,81,0.007,0.0838,0.4948
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,ort_kat,Ortalama kat,M1,-0.0016,0.0992,0.987,81,0.6316,0.0016,0.987
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,ort_kat,Ortalama kat,M2,0.0721,0.1032,0.4847,81,0.6643,-0.0721,0.6536
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,kat12_pct,1–2 katlı binada oturan hane (%),M0,-0.1845,0.1088,0.0899,81,0.034,0.1845,0.165
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,kat12_pct,1–2 katlı binada oturan hane (%),M1,-0.2814,0.099,0.0045,81,0.6622,0.2814,0.0315
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,kat12_pct,1–2 katlı binada oturan hane (%),M2,-0.2761,0.0969,0.0044,81,0.6903,0.2761,0.0341
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,kat34_pct,3–4 katlı binada oturan hane (%),M0,0.2947,0.1087,0.0067,81,0.0869,-0.2947,0.0199
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,kat34_pct,3–4 katlı binada oturan hane (%),M1,0.1463,0.0914,0.1095,81,0.646,-0.1463,0.2776
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,kat34_pct,3–4 katlı binada oturan hane (%),M2,0.1101,0.0921,0.2317,81,0.6691,-0.1101,0.4357
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,ort_oda,Konut başına oda,M0,-0.1373,0.0892,0.1235,81,0.0189,0.1373,0.2108
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,ort_oda,Konut başına oda,M1,-0.2127,0.0717,0.003,81,0.6749,0.2127,0.0269
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,ort_oda,Konut başına oda,M2,-0.1922,0.0738,0.0092,81,0.6943,0.1922,0.0565
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,kisi_oda,Kişi başı oda,M0,0.8607,0.0495,0.0,81,0.7409,-0.8607,0.0
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,kisi_oda,Kişi başı oda,M1,0.9311,0.0773,0.0,81,0.8552,-0.9311,0.0
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,kisi_oda,Kişi başı oda,M2,0.9335,0.0854,0.0,81,0.8606,-0.9335,0.0
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,ev_sahibi,Ev sahibi hane (%),M0,0.4018,0.0879,0.0,81,0.1614,-0.4018,0.0
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,ev_sahibi,Ev sahibi hane (%),M1,0.1088,0.0824,0.1869,81,0.6387,-0.1088,0.3981
+tek_kisi_pay,Tek kişilik hane (%),Aile,-1,ev_sahibi,Ev sahibi hane (%),M2,0.1013,0.0803,0.2069,81,0.6674,-0.1013,0.434
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,kat5p_pct,5+ katlı binada oturan hane (%),M0,0.1947,0.1038,0.0606,81,0.0379,-0.1947,0.1188
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,kat5p_pct,5+ katlı binada oturan hane (%),M1,-0.2035,0.0723,0.0049,81,0.6969,0.2035,0.0322
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,kat5p_pct,5+ katlı binada oturan hane (%),M2,-0.2152,0.0726,0.003,81,0.7486,0.2152,0.0264
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,ort_kat,Ortalama kat,M0,0.2134,0.0967,0.0272,81,0.0456,-0.2134,0.0616
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,ort_kat,Ortalama kat,M1,-0.2106,0.0889,0.0179,81,0.6979,0.2106,0.0848
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,ort_kat,Ortalama kat,M2,-0.2054,0.0939,0.0287,81,0.7428,0.2054,0.1338
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,kat12_pct,1–2 katlı binada oturan hane (%),M0,-0.4643,0.0955,0.0,81,0.2156,0.4643,0.0
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,kat12_pct,1–2 katlı binada oturan hane (%),M1,0.2285,0.1148,0.0464,81,0.6893,-0.2285,0.1703
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,kat12_pct,1–2 katlı binada oturan hane (%),M2,0.2687,0.0881,0.0023,81,0.7457,-0.2687,0.0223
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,kat34_pct,3–4 katlı binada oturan hane (%),M0,0.4161,0.0866,0.0,81,0.1731,-0.4161,0.0
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,kat34_pct,3–4 katlı binada oturan hane (%),M1,0.0852,0.0608,0.161,81,0.6741,-0.0852,0.3533
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,kat34_pct,3–4 katlı binada oturan hane (%),M2,0.0671,0.0757,0.3748,81,0.7211,-0.0671,0.5623
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,ort_oda,Konut başına oda,M0,-0.0787,0.1075,0.4644,81,0.0062,0.0787,0.5849
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,ort_oda,Konut başına oda,M1,-0.2577,0.0647,0.0001,81,0.7327,0.2577,0.0017
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,ort_oda,Konut başına oda,M2,-0.2184,0.0623,0.0005,81,0.7609,0.2184,0.0095
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,kisi_oda,Kişi başı oda,M0,0.636,0.0741,0.0,81,0.4045,-0.636,0.0
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,kisi_oda,Kişi başı oda,M1,0.2688,0.1256,0.0323,81,0.6878,-0.2688,0.132
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,kisi_oda,Kişi başı oda,M2,0.1757,0.1203,0.1442,81,0.7253,-0.1757,0.3316
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,ev_sahibi,Ev sahibi hane (%),M0,0.0405,0.1193,0.7345,81,0.0016,-0.0405,0.8369
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,ev_sahibi,Ev sahibi hane (%),M1,0.0707,0.0803,0.3787,81,0.6722,-0.0707,0.568
+kaba_bosanma_2025,Kaba boşanma hızı (‰),Aile,-1,ev_sahibi,Ev sahibi hane (%),M2,0.0528,0.0739,0.4746,81,0.7199,-0.0528,0.6502

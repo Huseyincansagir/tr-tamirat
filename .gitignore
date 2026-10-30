@@ -15,6 +15,7 @@
 03_VERI/ham/ekonomi/**/*.pdf
 03_VERI/ham/enerji/**/*.pdf
 03_VERI/ham/stres/literatur/
+03_VERI/ham/konut_bicimi_literatur/
 
 # Python
 __pycache__/
